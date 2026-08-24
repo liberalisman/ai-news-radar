@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:02:20.414385Z",
+  "generated_at": "2026-08-24T21:05:13.894611Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_23b9168d3a9a",
+      "title": "在 Kiro 中通过 GPT‑5.6 为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "价格性能比提升是好事，但'开发者性价比'这种话术，先拿基准测试说话。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方博客宣称性能提升，无论文无代码无基准，价格性能比无从验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "GPT-5.6 进 Kiro，性价比提升，跑任务的今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_35aa593beb9e",
       "title": "Codex MCP server 命令弃用 / Codex MCP server command deprecated",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "Codex 命令弃用，脚本和 CI 里用到的得赶紧换新接口。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a31e711ee9db",
-      "title": "Codex CLI 发布 0.149.1 版本 / Codex CLI 0.149.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "版本号刷得勤，但 changelog 里没提具体改了什么，水分不小。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "CLI 小版本更新，看 changelog 再决定要不要升，影响不大。"
         }
       }
     }
