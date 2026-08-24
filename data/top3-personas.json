@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:30:15.249208Z",
+  "generated_at": "2026-08-24T15:18:28.788376Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_a31e711ee9db",
+      "title": "Codex CLI 发布 0.149.1 版本 / Codex CLI 0.149.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "版本号刷得勤，但 changelog 里没提具体改了什么，水分不小。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "CLI 小版本更新，看 changelog 再决定要不要升，影响不大。"
+        }
+      }
+    },
+    {
       "story_id": "story_013a5db6bd34",
       "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
       "url": "https://news.ycombinator.com/item?id=49415852",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 72,
           "review": "扫描件转文字直接喂 LLM，日常处理文档能省时间，可用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a31e711ee9db",
-      "title": "Codex CLI 0.149.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "版本号迭代而已，changelog里连个改动摘要都没有，让人怎么信？"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方changelog有版本号，但无论文无benchmark，等第三方跑分再定论。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "小版本迭代，有需要的看更新日志再升。"
         }
       }
     },
