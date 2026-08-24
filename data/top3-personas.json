@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:18:28.788376Z",
+  "generated_at": "2026-08-24T16:13:22.727132Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_85b41d51c03a",
+      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至11月21日） / OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://news.ycombinator.com/item?id=49421074",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "降价是好事，但'至少'两个字透着心虚，敢不敢给个准信？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有降价消息，无论文无代码无评测，价格变动不算技术证据。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "API降价直接省成本，批量任务今天就能切换，抓紧用。"
+        }
+      }
+    },
+    {
       "story_id": "story_a31e711ee9db",
       "title": "Codex CLI 发布 0.149.1 版本 / Codex CLI 0.149.1",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 72,
           "review": "CLI 小版本更新，看 changelog 再决定要不要升，影响不大。"
-        }
-      }
-    },
-    {
-      "story_id": "story_013a5db6bd34",
-      "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "OCR 又不是新东西，喂给 LLM 前先解决排版混乱再说。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有标题宣称有OCR功能，无论文代码或评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "扫描件转文字直接喂 LLM，日常处理文档能省时间，可用。"
         }
       }
     },
