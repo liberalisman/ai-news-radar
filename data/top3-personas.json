@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:13:22.727132Z",
+  "generated_at": "2026-08-24T17:10:42.784368Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_35aa593beb9e",
+      "title": "Codex MCP server 命令弃用 / Codex MCP server command deprecated",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "弃用命令是常态，但没给替代方案细节，先观望。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方更新日志提及弃用，但无技术细节或迁移指南，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Codex 命令弃用，脚本和 CI 里用到的得赶紧换新接口。"
+        }
+      }
+    },
+    {
       "story_id": "story_a31e711ee9db",
       "title": "Codex CLI 发布 0.149.1 版本 / Codex CLI 0.149.1",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "CLI 小版本更新，看 changelog 再决定要不要升，影响不大。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a0aa94a30a96",
-      "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-      "url": "https://news.ycombinator.com/item?id=49415907",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 50,
-          "review": "留个标题就完事，中断时长影响范围一概不知，报信还是打哑谜？"
-        },
-        "paper-police": {
-          "score": 22,
-          "review": "仅有中断报道，无根因分析或第三方数据，难以验证影响。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "正在跑 Claude API 的团队先降级，等恢复再切回来。"
         }
       }
     }
