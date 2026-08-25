@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:25:44.903175Z",
+  "generated_at": "2026-08-25T04:10:48.449779Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_cd094dea6d37",
-      "title": "千问APP支持阿里云 Token Plan接入",
-      "url": "https://www.aibase.com/news/30593",
+      "story_id": "story_bc5800b304fc",
+      "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "接入自家云服务算新闻？不如说说Token Plan比按量付费便宜多少。"
+          "score": 72,
+          "review": "教程倒是齐全，但'工作流'这词快被用烂了，先看看有没有真货。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅官方公告称支持接入，无技术细节或验证，证据薄弱。"
+          "score": 45,
+          "review": "官方博客有细节但无代码链接，等复现验证再定论。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "Token Plan接入意味着企业可统一计费，API调用和APP使用打通，适合已有阿里云账号的团队。"
+          "review": "Gradio 官方工作流指南，部署 AI 应用可直接抄，适合快速上线。"
         }
       }
     }
