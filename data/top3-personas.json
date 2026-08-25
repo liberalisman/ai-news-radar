@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:05:27.542105Z",
+  "generated_at": "2026-08-25T13:34:26.588413Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_23b9168d3a9a",
-      "title": "在 Kiro 中通过 GPT‑5.6 为开发者提升性价比 / Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "url": "https://openai.com/index/gpt-5-6-in-kiro",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "价格性能比提升是好事，但'开发者性价比'这种话术，先拿基准测试说话。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称性能提升，无论文无代码无基准，价格性能比无从验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GPT-5.6 进 Kiro，性价比提升，跑任务的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_6411634610d0",
       "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bc5800b304fc",
+      "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "教程倒是齐全，但'工作流'这词快被用烂了，先看看有没有真货。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节但无代码链接，等复现验证再定论。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Gradio 官方工作流指南，部署 AI 应用可直接抄，适合快速上线。"
         }
       }
     }
