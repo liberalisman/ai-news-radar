@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:28:41.515081Z",
+  "generated_at": "2026-08-25T15:32:37.868349Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_7ee612916ff0",
+      "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "CTC 提速是真，但'极速精准'的基准和场景限定，宣传稿里可没写全。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "博客给出模型细节和数字，但缺开源代码和独立评测，需补证据。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "470M 的 CTC 模型，转录快且准，语音任务今天就能换。"
+        }
+      }
+    },
+    {
       "story_id": "story_6411634610d0",
       "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_451d09e98bb5",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "M6 和 M5 Ultra 纸面参数亮眼，但 AI 算力提升的基准和功耗数据呢？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有官方新闻稿，无论文无代码无benchmark，性能跃升无从验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "新芯片算力强但买不到，等真机评测和价格再动手。"
         }
       }
     }
