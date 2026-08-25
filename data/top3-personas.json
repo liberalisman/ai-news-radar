@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:18:59.469662Z",
+  "generated_at": "2026-08-25T18:07:54.772949Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_b95e33dbd1e9",
+      "title": "Jalapeño 首批评测结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "自家测的行业领先，基准呢？等第三方跑完再吹不迟。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方博客宣称领先，无论文无代码无第三方评测，等复现再谈。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "推理速度领先但未开源，等API开放再评估迁移价值。"
+        }
+      }
+    },
+    {
       "story_id": "story_6411634610d0",
       "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_451d09e98bb5",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "M6 和 M5 Ultra 纸面参数亮眼，但 AI 算力提升的基准和功耗数据呢？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有官方新闻稿，无论文无代码无benchmark，性能跃升无从验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "新芯片算力强但买不到，等真机评测和价格再动手。"
         }
       }
     }
