@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:32:37.868349Z",
+  "generated_at": "2026-08-25T16:27:09.374596Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_85b41d51c03a",
-      "title": "OpenAI：GPT 5.6 Sol 降价（至少持续至 11 月 21 日）",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "降价是实在的，但'至少'二字透着精明，先别急着感恩。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方定价页降价，无评测无代码，仅商业调整，证据单薄。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "API 直接降价，跑批量任务今天就能换，省下的都是利润。"
-        }
-      }
-    },
-    {
       "story_id": "story_7ee612916ff0",
       "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_6411634610d0",
       "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
+        }
+      }
+    },
+    {
+      "story_id": "story_451d09e98bb5",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "M6 和 M5 Ultra 纸面参数亮眼，但 AI 算力提升的基准和功耗数据呢？"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有官方新闻稿，无论文无代码无benchmark，性能跃升无从验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "新芯片算力强但买不到，等真机评测和价格再动手。"
         }
       }
     }
