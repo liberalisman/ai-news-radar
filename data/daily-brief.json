@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-25T20:45:46.824531Z",
+  "generated_at": "2026-08-25T21:44:20.805748Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_4b7b151c884e",
+      "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
+      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "primary_url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
+          "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
+          "title_zh": "上线前如何评估 LLM",
+          "title_en": "How to evaluate LLMs before production",
+          "title_original": "How to evaluate LLMs before production",
+          "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nA language model can perform well on a clean benchmark and still struggle with the cases that matter in production.\nBenchmarks and curated datasets are useful when prototyping an LLM-based system. They help teams compare models, test an initial prompt, and ",
+          "recommend_reason_zh": "本文分享评估LLM用于GitHub secret scanning的真实经验，指出基准测试高分不等于生产可用，并以precision为主目标、recall为安全约束，在减少误报的同时守住安全底线。",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T21:35:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
+          "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
+          "title_zh": "上线前如何评估 LLM",
+          "title_en": "How to evaluate LLMs before production",
+          "title_original": "How to evaluate LLMs before production",
+          "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nA language model can perform well on a clean benchmark and still struggle with the cases that matter in production.\nBenchmarks and curated datasets are useful when prototyping an LLM-based system. They help teams compare models, test an initial prompt, and ",
+          "recommend_reason_zh": "本文分享评估LLM用于GitHub secret scanning的真实经验，指出基准测试高分不等于生产可用，并以precision为主目标、recall为安全约束，在减少误报的同时守住安全底线。",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T21:35:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9978,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T21:35:11Z",
+      "latest_at": "2026-08-25T21:35:11Z",
+      "primary_item": {
+        "id": "58d5f4b9ce327f354e841596ecbe42febb9706ac",
+        "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
+        "title_zh": "上线前如何评估 LLM",
+        "title_en": "How to evaluate LLMs before production",
+        "title_original": "How to evaluate LLMs before production",
+        "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nThese are the lessons we learned evaluating LLMs for real-world secret scanning.\nA language model can perform well on a clean benchmark and still struggle with the cases that matter in production.\nBenchmarks and curated datasets are useful when prototyping an LLM-based system. They help teams compare models, test an initial prompt, and ",
+        "recommend_reason_zh": "本文分享评估LLM用于GitHub secret scanning的真实经验，指出基准测试高分不等于生产可用，并以precision为主目标、recall为安全约束，在减少误报的同时守住安全底线。",
+        "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "GitHub官方评估指南，选型前可参考，但无新工具，动手价值中等。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-25T22:07:26.670867Z"
+      }
+    },
     {
       "story_id": "story_2e1e1831ce49",
       "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9233,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -102,7 +187,7 @@
           "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
           "title_en": "GitHub Copilot app Customize tab is generally available",
           "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
           "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
           "source": "GitHub Changelog",
@@ -122,7 +207,7 @@
           "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
           "title_en": "GitHub Copilot app Customize tab is generally available",
           "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
           "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
           "source": "GitHub Changelog",
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8503,
-      "importance": 0.8503,
-      "importance_score": 0.8503,
+      "score": 0.8478,
+      "importance": 0.8478,
+      "importance_score": 0.8478,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9903,
+        "recency": 0.9765,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +243,7 @@
         "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
         "title_en": "GitHub Copilot app Customize tab is generally available",
         "title_original": "GitHub Copilot app Customize tab is generally available",
-        "summary": "Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nCustomize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place.\nGitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on.\nThe new Customize tab in the GitHub Copilot app brings MCP servers, plugins, skills, and canvases together in one place. Explore featured customizations, browse",
+        "summary": null,
         "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
         "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
         "source": "GitHub Changelog",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -247,15 +332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8198,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "official",
@@ -285,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -333,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9335,
+        "recency": 0.9205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +455,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -418,15 +503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7409,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -455,7 +540,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -590,15 +675,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8904,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -627,7 +712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -675,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9204,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,7 +797,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -760,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9699,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -797,7 +882,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -845,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7409,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -882,7 +967,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -930,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7409,
+        "recency": 0.7306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -967,7 +1052,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1015,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8768,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1052,7 +1137,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1100,15 +1185,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9563,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1137,7 +1222,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1185,15 +1270,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8207,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1222,7 +1307,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1270,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.9154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1306,7 +1391,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1354,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9646,
+        "recency": 0.9511,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1389,7 +1474,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1437,15 +1522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9614,
+        "recency": 0.9479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1472,7 +1557,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1520,15 +1605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8437,
+        "recency": 0.8319,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1555,7 +1640,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
+      }
+    },
+    {
+      "story_id": "story_f92e65dfe441",
+      "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+      "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+      "primary_url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+      "source": "LangChain：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3482ceb1e522771993fee00f2bf7aeff1009b177",
+          "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "title_zh": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+          "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "title_original": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+          "recommend_reason_zh": "本文介绍LangChain与Airbyte的新集成，在Airbyte中新增LangChain destination，通过调度刷新、文本分割及50+ embeddings自动化数据摄取，助力检索应用从原型走向生产。",
+          "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T21:12:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LangChain：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "3482ceb1e522771993fee00f2bf7aeff1009b177",
+          "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "title_zh": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+          "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "title_original": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+          "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+          "recommend_reason_zh": "本文介绍LangChain与Airbyte的新集成，在Airbyte中新增LangChain destination，通过调度刷新、文本分割及50+ embeddings自动化数据摄取，助力检索应用从原型走向生产。",
+          "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+          "source": "LangChain：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T21:12:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T21:12:53Z",
+      "latest_at": "2026-08-25T21:12:53Z",
+      "primary_item": {
+        "id": "3482ceb1e522771993fee00f2bf7aeff1009b177",
+        "title": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪 / Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+        "title_zh": "LangChain 与 Airbyte 集成：让数据摄取达到生产级就绪",
+        "title_en": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+        "title_original": "Making Data Ingestion Production Ready： a LangChain-Powered Airbyte Destination",
+        "summary": "LangChain 与 Airbyte 的集成方案旨在将检索应用扩展至生产环境。该方案通过调度、文本拆分和 50 多种嵌入模型实现数据摄取自动化，帮助开发者构建可规模化的生产级数据管道。",
+        "recommend_reason_zh": "本文介绍LangChain与Airbyte的新集成，在Airbyte中新增LangChain destination，通过调度刷新、文本分割及50+ embeddings自动化数据摄取，助力检索应用从原型走向生产。",
+        "url": "https://www.langchain.com/blog/making-data-ingestion-production-ready-a-langchain-powered-airbyte-destination",
+        "source": "LangChain：Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "LangChain 官方集成 Airbyte，数据管道对接 LLM 更顺，做 RAG 的可以试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     },
     {
@@ -1603,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9275,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1638,175 +1806,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
-      }
-    },
-    {
-      "story_id": "story_e78ba6d6ecd7",
-      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "source": "Apple：Newsroom（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "900130058d1341061578b56b4d1701a3676a34d7",
-          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
-          "recommend_reason_zh": "Apple发布新款Mac Studio，搭载M5 Max与M5 Ultra，AI性能最高提升4.3倍，图形性能提升1.8倍，存储提速2倍，M5 Ultra可配512GB统一内存，Thunderbolt 5支持多机集群提速3倍。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:00:23.969000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Apple：Newsroom（RSS）"
-      ],
-      "items": [
-        {
-          "id": "900130058d1341061578b56b4d1701a3676a34d7",
-          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
-          "recommend_reason_zh": "Apple发布新款Mac Studio，搭载M5 Max与M5 Ultra，AI性能最高提升4.3倍，图形性能提升1.8倍，存储提速2倍，M5 Ultra可配512GB统一内存，Thunderbolt 5支持多机集群提速3倍。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:00:23.969000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T13:00:23.969000Z",
-      "latest_at": "2026-08-25T13:00:23.969000Z",
-      "primary_item": {
-        "id": "900130058d1341061578b56b4d1701a3676a34d7",
-        "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-        "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
-        "recommend_reason_zh": "Apple发布新款Mac Studio，搭载M5 Max与M5 Ultra，AI性能最高提升4.3倍，图形性能提升1.8倍，存储提速2倍，M5 Ultra可配512GB统一内存，Thunderbolt 5支持多机集群提速3倍。",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-        "source": "Apple：Newsroom（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "新硬件对本地跑模型有提升，但没具体价格和性能数据，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
-      }
-    },
-    {
-      "story_id": "story_bc5800b304fc",
-      "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": "连接、运行、部署：Gradio 中的 AI 工作流",
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "summary": null,
-          "recommend_reason_zh": "这篇介绍Gradio新推出的gr.Workflow，用拖拽画布将AI流水线变成可视化界面，每个节点可单独运行并查看中间结果，还能通过REST API调用，一键部署到Hugging Face Spaces，并有Qwen-Image-Edit等实例演示。",
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": "连接、运行、部署：Gradio 中的 AI 工作流",
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "summary": null,
-          "recommend_reason_zh": "这篇介绍Gradio新推出的gr.Workflow，用拖拽画布将AI流水线变成可视化界面，每个节点可单独运行并查看中间结果，还能通过REST API调用，一键部署到Hugging Face Spaces，并有Qwen-Image-Edit等实例演示。",
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7409,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-        "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "title_zh": "连接、运行、部署：Gradio 中的 AI 工作流",
-        "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "summary": null,
-        "recommend_reason_zh": "这篇介绍Gradio新推出的gr.Workflow，用拖拽画布将AI流水线变成可视化界面，每个节点可单独运行并查看中间结果，还能通过REST API调用，一键部署到Hugging Face Spaces，并有Qwen-Image-Edit等实例演示。",
-        "url": "https://huggingface.co/blog/gradio-workflow-guide",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Gradio 官方工作流指南，部署 AI 应用可直接抄，适合快速上线。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-25T21:09:17.949538Z"
+        "scored_at": "2026-08-25T22:07:26.670867Z"
       }
     }
   ]

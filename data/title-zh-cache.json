@@ -41995,5 +41995,14 @@
   "re1|03c89f6a6761226303bb8c9d7d51cc70e6f3b9aa": "",
   "re1|13cfa6eba9b0bbe2b703b1b6ea2b653999a15967": "Perplexity联手NVIDIA推出Portable Computer，在DGX Spark上本地运行Qwen 3.8 27B模型，私有数据不出设备，还能联动Gmail、Slack、GitHub处理任务，本地免积分，云端仅按需调用。",
   "re1|cc0d119e365073c35f9d9b4319236ae5cb810d54": "MulmoTerminal支持在浏览器终端网格中并行运行多个Claude Code和Codex会话，并醒目提示哪个代理需要你介入，本地运行、基于tmux、MIT许可。",
-  "re1|58cbc2f087154dafdf989e07a402b4a487a44bdc": "这篇文章介绍yeschef：一个让Claude Code通过Ollama在局域网内3台NUC上运行本地模型的开源工具，实测速度达627 tok/s，零API token，并由expediter subagent自动完成收尾，也兼容Codex。"
+  "re1|58cbc2f087154dafdf989e07a402b4a487a44bdc": "这篇文章介绍yeschef：一个让Claude Code通过Ollama在局域网内3台NUC上运行本地模型的开源工具，实测速度达627 tok/s，零API token，并由expediter subagent自动完成收尾，也兼容Codex。",
+  "ds1|How to evaluate LLMs before production": "上线前如何评估 LLM",
+  "ds1|Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo": "借助 NVIDIA Dynamo 的 Shadow Engine Recovery，数秒内恢复 LLM 推理能力。",
+  "ds1|vLLM-iOS: 88% Faster Multi-Agent Inference on iOS": "vLLM-iOS：iOS上多Agent推理提速88%",
+  "ds1|OpenAI's Head of Data Centers Has Left the Company": "OpenAI 数据中心负责人已离职",
+  "re1|e34758cf105bce9ed9cdc23fa06e3800f004aef8": "本文分享评估LLM用于GitHub secret scanning的真实经验，指出基准测试高分不等于生产可用，并以precision为主目标、recall为安全约束，在减少误报的同时守住安全底线。",
+  "re1|1033d89466718fa16a4fe49842e846a235a657be": "本文介绍LangChain与Airbyte的新集成，在Airbyte中新增LangChain destination，通过调度刷新、文本分割及50+ embeddings自动化数据摄取，助力检索应用从原型走向生产。",
+  "re1|b968fd068c73984a99628dc49fbb7bea67c066bc": "当LLM引擎进程崩溃时，NVIDIA Dynamo的shadow engine recovery预览特性借助GPU Memory Service共享权重，免去冷重启的权重加载，在GLM-5.2实测中让恢复时间从283秒缩短至7.3秒，快了39倍。",
+  "re1|c1641ac0d00bfe781a5265fc88a769cea6803b1e": "",
+  "re1|8f01edc39eda46f13c394ffd5b87885d51f72f4b": ""
 }

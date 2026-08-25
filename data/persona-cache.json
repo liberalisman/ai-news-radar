@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_0e23ce0343ea|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全评估报告，不影响日常开发，做合规的可以瞄一眼。",
-      "title_hash": "56926fdf",
-      "scored_at": "2026-08-04T21:52:09.203846Z"
-    },
     "story_48187a538519|pragmatic|0a5c5b24": {
       "score": 48,
       "review": "宣传大于落地，没给可试用的接口或仓库，等真上线再说。",
@@ -6510,6 +6504,30 @@
       "review": "官方博客宣称全面推出，但无技术细节、评测或代码，证据薄弱。",
       "title_hash": "3985ef74",
       "scored_at": "2026-08-25T21:09:23.681138Z"
+    },
+    "story_4b7b151c884e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "GitHub官方评估指南，选型前可参考，但无新工具，动手价值中等。",
+      "title_hash": "d13282d4",
+      "scored_at": "2026-08-25T22:07:27.641343Z"
+    },
+    "story_f92e65dfe441|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "LangChain 官方集成 Airbyte，数据管道对接 LLM 更顺，做 RAG 的可以试。",
+      "title_hash": "ce40e10b",
+      "scored_at": "2026-08-25T22:07:28.924746Z"
+    },
+    "story_4b7b151c884e|cynic|f4237a62": {
+      "score": 72,
+      "review": "评估指南写得实在，但没提具体案例，干货有限。",
+      "title_hash": "d13282d4",
+      "scored_at": "2026-08-25T22:07:29.990081Z"
+    },
+    "story_4b7b151c884e|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给评估方法但无代码无benchmark，等实操复现再定论。",
+      "title_hash": "d13282d4",
+      "scored_at": "2026-08-25T22:07:31.327248Z"
     }
   }
 }
