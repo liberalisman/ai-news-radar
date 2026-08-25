@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:24:15.599355Z",
+  "generated_at": "2026-08-25T20:13:00.788862Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_55a2613433ab",
+      "title": "通过 Gmail、Slack 和 GitHub 事件触发计划任务 / Trigger scheduled tasks from Gmail, Slack, and GitHub events",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "把事件接进计划任务，实用但不算颠覆，文档里藏着多少限制没说。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方更新但无论文代码，仅功能描述，缺benchmark验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Codex 能接事件触发任务，自动化工作流今天就能配，省去手动调度。"
+        }
+      }
+    },
+    {
       "story_id": "story_b95e33dbd1e9",
       "title": "Jalapeño 首批评测结果：AI 推理速度与效率行业领先 / Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
       "url": "https://openai.com/index/jalapeno-first-results",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "推理速度领先但未开源，等API开放再评估迁移价值。"
-        }
-      }
-    },
-    {
-      "story_id": "story_6411634610d0",
-      "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "4-bit 反超原版听着玄乎，但没给具体任务和基线，先扣水分。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "博客给了数字但无代码无第三方验证，等复现再信。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
         }
       }
     }
