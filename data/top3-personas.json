@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:09:32.042275Z",
+  "generated_at": "2026-08-25T12:05:27.542105Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_bc5800b304fc",
-      "title": "连接、运行、部署：Gradio 中的 AI 工作流 / Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "story_id": "story_6411634610d0",
+      "title": "量化感知修复：一种压缩的4-bit模型，性能超越其全精度原版 / Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "教程倒是齐全，但'工作流'这词快被用烂了，先看看有没有真货。"
+          "review": "4-bit 反超原版听着玄乎，但没给具体任务和基线，先扣水分。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码链接，等复现验证再定论。"
+          "score": 42,
+          "review": "博客给了数字但无代码无第三方验证，等复现再信。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "Gradio 官方工作流指南，部署 AI 应用可直接抄，适合快速上线。"
+          "review": "4-bit模型反超原版，压缩部署可试，但需验证通用性。"
         }
       }
     }
