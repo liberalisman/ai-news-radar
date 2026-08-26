@@ -1,8 +1,178 @@
 {
-  "generated_at": "2026-08-26T13:16:29.662648Z",
+  "generated_at": "2026-08-26T14:07:05.566011Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f59066749bc2",
+      "title": "GitHub Apps 现已支持访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+      "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "primary_url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps 现已支持访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现已支持访问企业计费数据",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose…\nEnterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose one of two levels: read or read and write.\nPreviously, the only way to read usage or manage budgets and cost centers through the API ",
+          "recommend_reason_zh": "GitHub Apps新增enterprise billing权限，支持read与read/write两级，用应用安装令牌调用REST API拉取用量、管理预算，不再依赖个人令牌，免除人员变动中断，还获更高速率限制。",
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+          "title": "GitHub Apps 现已支持访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+          "title_zh": "GitHub Apps 现已支持访问企业计费数据",
+          "title_en": "GitHub Apps can now access enterprise billing data",
+          "title_original": "GitHub Apps can now access enterprise billing data",
+          "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose…\nEnterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose one of two levels: read or read and write.\nPreviously, the only way to read usage or manage budgets and cost centers through the API ",
+          "recommend_reason_zh": "GitHub Apps新增enterprise billing权限，支持read与read/write两级，用应用安装令牌调用REST API拉取用量、管理预算，不再依赖个人令牌，免除人员变动中断，还获更高速率限制。",
+          "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T12:18:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:18:59Z",
+      "latest_at": "2026-08-26T12:18:59Z",
+      "primary_item": {
+        "id": "6ac74add2e2b88cf6811aaf7f5b39af7eec97b73",
+        "title": "GitHub Apps 现已支持访问企业计费数据 / GitHub Apps can now access enterprise billing data",
+        "title_zh": "GitHub Apps 现已支持访问企业计费数据",
+        "title_en": "GitHub Apps can now access enterprise billing data",
+        "title_original": "GitHub Apps can now access enterprise billing data",
+        "summary": "Enterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose…\nEnterprise owners can now grant a GitHub App access to enterprise billing data. When you create or configure a GitHub App, you can select the enterprise billing permission and choose one of two levels: read or read and write.\nPreviously, the only way to read usage or manage budgets and cost centers through the API ",
+        "recommend_reason_zh": "GitHub Apps新增enterprise billing权限，支持read与read/write两级，用应用安装令牌调用REST API拉取用量、管理预算，不再依赖个人令牌，免除人员变动中断，还获更高速率限制。",
+        "url": "https://github.blog/changelog/2026-08-26-github-apps-can-now-access-enterprise-billing-data",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "做企业级 GitHub App 的能直接拉账单数据，省了爬网页的活。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T14:34:50.649340Z"
+      }
+    },
+    {
+      "story_id": "story_4ff4202e3dc7",
+      "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "primary_url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c906b47277a348a417d05657118c6719c7825c2",
+          "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "title_zh": "使用 Sentence Transformers 训练和微调多向量嵌入模型",
+          "title_en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "title_original": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector models? Why Finetune? Training Components Model Finetuning an existing multi-vector model Building one from a base transformer Which starting point should you pick? Dataset Data on the Hugging Face Hub Local Data Dataset Format Loss Function Tr",
+          "recommend_reason_zh": "本文展示如何用Sentence Transformers v6.0的MultiVectorEncoder微调多向量模型：作者在单张RTX 3090上花14.5小时训练出multi-vector-encoder/mLateOn-medical，医学检索效果胜过所有通用模型。",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2c906b47277a348a417d05657118c6719c7825c2",
+          "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "title_zh": "使用 Sentence Transformers 训练和微调多向量嵌入模型",
+          "title_en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "title_original": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector models? Why Finetune? Training Components Model Finetuning an existing multi-vector model Building one from a base transformer Which starting point should you pick? Dataset Data on the Hugging Face Hub Local Data Dataset Format Loss Function Tr",
+          "recommend_reason_zh": "本文展示如何用Sentence Transformers v6.0的MultiVectorEncoder微调多向量模型：作者在单张RTX 3090上花14.5小时训练出multi-vector-encoder/mLateOn-medical，医学检索效果胜过所有通用模型。",
+          "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-26T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8156,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T00:00:00Z",
+      "latest_at": "2026-08-26T00:00:00Z",
+      "primary_item": {
+        "id": "2c906b47277a348a417d05657118c6719c7825c2",
+        "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+        "title_zh": "使用 Sentence Transformers 训练和微调多向量嵌入模型",
+        "title_en": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+        "title_original": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector models? Why Finetune? Training Components Model Finetuning an existing multi-vector model Building one from a base transformer Which starting point should you pick? Dataset Data on the Hugging Face Hub Local Data Dataset Format Loss Function Tr",
+        "recommend_reason_zh": "本文展示如何用Sentence Transformers v6.0的MultiVectorEncoder微调多向量模型：作者在单张RTX 3090上花14.5小时训练出multi-vector-encoder/mLateOn-medical，医学检索效果胜过所有通用模型。",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "多向量嵌入微调教程上线，做检索或RAG的今天就能照着跑。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T14:34:50.649340Z"
+      }
+    },
     {
       "story_id": "story_4346047ee8ea",
       "title": "loveholidays 如何借助 Codex 让每个人都成为构建者 / How loveholidays is making everyone a builder with Codex",
@@ -48,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8256,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -116,7 +286,7 @@
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
           "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "本文详解Qwen3.8-Flash-Next新架构如何实现极致成本效率，并介绍Qwen Studio的完整功能：聊天、图像视频理解、图像生成、文档处理、网页搜索集成、工具利用与工件生成。",
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
           "source": "Hacker News (黑客新闻)",
@@ -151,7 +321,7 @@
           "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
           "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
           "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "本文详解Qwen3.8-Flash-Next新架构如何实现极致成本效率，并介绍Qwen Studio的完整功能：聊天、图像视频理解、图像生成、文档处理、网页搜索集成、工具利用与工件生成。",
           "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
           "source": "Hacker News (黑客新闻)",
@@ -162,15 +332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9889,
+        "recency": 0.9769,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -199,7 +369,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -247,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7973,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -284,177 +454,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
-      }
-    },
-    {
-      "story_id": "story_2e1e1831ce49",
-      "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
-          "title_zh": "Granite 4.2 LLMs 是如何构建的",
-          "title_en": "Granite 4.2 LLMs: How They're Built",
-          "title_original": "Granite 4.2 LLMs: How They're Built",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-          "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
-          "title_zh": "Granite 4.2 LLMs 是如何构建的",
-          "title_en": "Granite 4.2 LLMs: How They're Built",
-          "title_original": "Granite 4.2 LLMs: How They're Built",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T15:14:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T15:14:14Z",
-      "latest_at": "2026-08-25T15:14:14Z",
-      "primary_item": {
-        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
-        "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
-        "title_zh": "Granite 4.2 LLMs 是如何构建的",
-        "title_en": "Granite 4.2 LLMs: How They're Built",
-        "title_original": "Granite 4.2 LLMs: How They're Built",
-        "summary": null,
-        "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "IBM开源模型技术细节公开，做企业级部署的可参考架构，但无直接可用代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
-      }
-    },
-    {
-      "story_id": "story_72c69d1ef3c2",
-      "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
-      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
-          "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-          "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
-          "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
-          "title_en": "GitHub Copilot app Customize tab is generally available",
-          "title_original": "GitHub Copilot app Customize tab is generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
-          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7802,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T20:05:26Z",
-      "latest_at": "2026-08-25T20:05:26Z",
-      "primary_item": {
-        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
-        "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
-        "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
-        "title_en": "GitHub Copilot app Customize tab is generally available",
-        "title_original": "GitHub Copilot app Customize tab is generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
-        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Copilot 自定义标签转正，调 prompt 和规则更方便，今天就能试试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -502,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7355,
+        "recency": 0.7266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -539,7 +539,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -587,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9898,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -623,30 +623,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
-      "story_id": "story_7ee612916ff0",
-      "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "story_id": "story_2e1e1831ce49",
+      "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-          "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
-          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
+          "title_zh": "Granite 4.2 LLMs 是如何构建的",
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
           "summary": null,
-          "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:01:00Z"
+          "published_at": "2026-08-25T15:14:14Z"
         }
       ],
       "source_count": 1,
@@ -655,31 +655,31 @@
       ],
       "items": [
         {
-          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-          "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
-          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+          "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
+          "title_zh": "Granite 4.2 LLMs 是如何构建的",
+          "title_en": "Granite 4.2 LLMs: How They're Built",
+          "title_original": "Granite 4.2 LLMs: How They're Built",
           "summary": null,
-          "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T15:01:00Z"
+          "published_at": "2026-08-25T15:14:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7251,
+        "ai_relevance": 0.99,
+        "recency": 0.7186,
         "story_heat": 0.0
       },
       "category": "official",
@@ -688,50 +688,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:01:00Z",
-      "latest_at": "2026-08-25T15:01:00Z",
+      "earliest_at": "2026-08-25T15:14:14Z",
+      "latest_at": "2026-08-25T15:14:14Z",
       "primary_item": {
-        "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
-        "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-        "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
-        "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-        "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "id": "b343f39bfe6c0fcb583e96ace127b7456d9cc623",
+        "title": "Granite 4.2 LLMs 是如何构建的 / Granite 4.2 LLMs: How They're Built",
+        "title_zh": "Granite 4.2 LLMs 是如何构建的",
+        "title_en": "Granite 4.2 LLMs: How They're Built",
+        "title_original": "Granite 4.2 LLMs: How They're Built",
         "summary": null,
-        "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+        "recommend_reason_zh": "这篇文章详解了IBM Granite 4.2推理模型的构建过程，涵盖从零预训练约15T tokens、五阶段将上下文扩展至512K，以及8B和30B模型在真实沙盒环境中进行agentic RL训练等关键细节。",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "470M 的 CTC 模型，转录快且准，语音任务今天就能换。",
+      "persona_score": 70,
+      "persona_review": "IBM开源模型技术细节公开，做企业级部署的可参考架构，但无直接可用代码。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
-      "story_id": "story_95764e895938",
-      "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
-      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "story_id": "story_72c69d1ef3c2",
+      "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
+      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-          "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
-          "title_zh": "规则洞察仪表盘正式可用",
-          "title_en": "Rule insights dashboard generally available",
-          "title_original": "Rule insights dashboard generally available",
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
+          "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
-          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:35Z"
+          "published_at": "2026-08-25T20:05:26Z"
         }
       ],
       "source_count": 1,
@@ -740,31 +740,31 @@
       ],
       "items": [
         {
-          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-          "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
-          "title_zh": "规则洞察仪表盘正式可用",
-          "title_en": "Rule insights dashboard generally available",
-          "title_original": "Rule insights dashboard generally available",
+          "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+          "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
+          "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
+          "title_en": "GitHub Copilot app Customize tab is generally available",
+          "title_original": "GitHub Copilot app Customize tab is generally available",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
-          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+          "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
+          "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T20:05:35Z"
+          "published_at": "2026-08-25T20:05:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7803,
+        "ai_relevance": 0.91,
+        "recency": 0.7708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -773,27 +773,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T20:05:35Z",
-      "latest_at": "2026-08-25T20:05:35Z",
+      "earliest_at": "2026-08-25T20:05:26Z",
+      "latest_at": "2026-08-25T20:05:26Z",
       "primary_item": {
-        "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
-        "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
-        "title_zh": "规则洞察仪表盘正式可用",
-        "title_en": "Rule insights dashboard generally available",
-        "title_original": "Rule insights dashboard generally available",
+        "id": "41c71e65ed28f30547f0ccf29c9cec56c4722a48",
+        "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
+        "title_zh": "GitHub Copilot 应用 Customize 标签页现已全面推出。",
+        "title_en": "GitHub Copilot app Customize tab is generally available",
+        "title_original": "GitHub Copilot app Customize tab is generally available",
         "summary": null,
-        "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
-        "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+        "recommend_reason_zh": "GitHub Copilot app新增Customize tab，将MCP servers、plugins、skills和canvases统一管理，支持按类型浏览与精选推荐，还能直接triage issues、分配任务，让定制Copilot协作流程更简单。",
+        "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "GitHub 规则洞察仪表盘上线，做安全治理的能直接看数据，今天就能用。",
+      "persona_score": 72,
+      "persona_review": "Copilot 自定义标签转正，调 prompt 和规则更方便，今天就能试试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -841,15 +841,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9657,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,63 +877,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
-      "story_id": "story_0536ff6c73c5",
-      "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "source": "GitHub Changelog",
+      "story_id": "story_7ee612916ff0",
+      "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "直接从安全公告中屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
           "summary": null,
-          "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
+          "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-25T15:01:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
-          "title_zh": "直接从安全公告中屏蔽用户",
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+          "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
+          "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+          "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
           "summary": null,
-          "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-          "source": "GitHub Changelog",
+          "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-25T15:01:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7642,
+        "ai_relevance": 0.95,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -942,140 +942,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
+      "earliest_at": "2026-08-25T15:01:00Z",
+      "latest_at": "2026-08-25T15:01:00Z",
       "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
-        "title_zh": "直接从安全公告中屏蔽用户",
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
+        "id": "0a76454f1d452daaa1c07b06c870f3d91a9eef77",
+        "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_zh": "Granite Speech 5.0 Turbo CTC 带来极速精准转录",
+        "title_en": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+        "title_original": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
         "summary": null,
-        "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+        "recommend_reason_zh": "IBM Granite发布两款470M参数语音识别模型，推理速度超12,600 RTFx，每秒可转写3.5小时语音；非商用版WER 4.85%，Apache 2.0版为5.00%，较前代提速20倍以上。",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "470M 的 CTC 模型，转录快且准，语音任务今天就能换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T14:34:50.649340Z"
+      }
+    },
+    {
+      "story_id": "story_95764e895938",
+      "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
+      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+          "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
+          "title_zh": "规则洞察仪表盘正式可用",
+          "title_en": "Rule insights dashboard generally available",
+          "title_original": "Rule insights dashboard generally available",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
+          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+          "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
+          "title_zh": "规则洞察仪表盘正式可用",
+          "title_en": "Rule insights dashboard generally available",
+          "title_original": "Rule insights dashboard generally available",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
+          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T20:05:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7708,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T20:05:35Z",
+      "latest_at": "2026-08-25T20:05:35Z",
+      "primary_item": {
+        "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+        "title": "规则洞察仪表盘正式可用 / Rule insights dashboard generally available",
+        "title_zh": "规则洞察仪表盘正式可用",
+        "title_en": "Rule insights dashboard generally available",
+        "title_original": "Rule insights dashboard generally available",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 的 rule insights dashboard 现已全面可用，支持仓库与组织两级视图，可查看规则执行成功、失败与绕过趋势，并导出 CSV 用于治理报告。",
+        "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "GitHub 小功能，省一步操作，但影响有限，顺手用即可。",
+      "persona_score": 70,
+      "persona_review": "GitHub 规则洞察仪表盘上线，做安全治理的能直接看数据，今天就能用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
-      }
-    },
-    {
-      "story_id": "story_6d44adafc2ce",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": null,
-          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.apple.com"
-      ],
-      "items": [
-        {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": null,
-          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7114,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T13:41:50.050000Z",
-      "latest_at": "2026-08-25T13:41:50.050000Z",
-      "primary_item": {
-        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_en": null,
-        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-        "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "新芯片参数没出，开发者等 SDK 和真机再动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1123,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1131,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1207,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7315,
+        "recency": 0.7226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,30 +1214,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "story_id": "story_0536ff6c73c5",
+      "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
+      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现在支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
+          "title_zh": "直接从安全公告中屏蔽用户",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
-          "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "source_count": 1,
@@ -1274,31 +1246,31 @@
       ],
       "items": [
         {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
-          "title_zh": "规则集中的推送规则现在支持路径例外",
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
+          "title_zh": "直接从安全公告中屏蔽用户",
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
           "summary": null,
-          "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
+          "published_at": "2026-08-25T18:38:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7534,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1307,27 +1279,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
+      "earliest_at": "2026-08-25T18:38:57Z",
+      "latest_at": "2026-08-25T18:38:57Z",
       "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
-        "title_zh": "规则集中的推送规则现在支持路径例外",
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
+        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+        "title": "直接从安全公告中屏蔽用户 / Block users directly from security advisories",
+        "title_zh": "直接从安全公告中屏蔽用户",
+        "title_en": "Block users directly from security advisories",
+        "title_original": "Block users directly from security advisories",
         "summary": null,
-        "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "recommend_reason_zh": "GitHub更新支持在安全公告页直接阻止用户，适用于组织或个人账户的公共仓库；组织仓库限版主/管理员操作，个人仓库限账户所有者操作，简化处理垃圾或滥用内容的流程。",
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "规则集加路径例外，CI/CD 管控更细，今天就能配。",
+      "persona_score": 60,
+      "persona_review": "GitHub 小功能，省一步操作，但影响有限，顺手用即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1375,15 +1347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,7 +1383,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
+      }
+    },
+    {
+      "story_id": "story_2ae3bbe5c601",
+      "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
+          "title_zh": "规则集中的推送规则现在支持路径例外",
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
+          "title_zh": "规则集中的推送规则现在支持路径例外",
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7443,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T17:40:15Z",
+      "latest_at": "2026-08-25T17:40:15Z",
+      "primary_item": {
+        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+        "title": "规则集中的推送规则现在支持路径例外 / Push rules in rulesets now support path exceptions",
+        "title_zh": "规则集中的推送规则现在支持路径例外",
+        "title_en": "Push rules in rulesets now support path exceptions",
+        "title_original": "Push rules in rulesets now support path exceptions",
+        "summary": null,
+        "recommend_reason_zh": "GitHub推送规则现支持路径例外，可为特定文件路径设置豁免，规则仍适用于其他范围。该功能处于公开预览阶段，目前两类规则支持此配置，保存时即验证格式。",
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "规则集加路径例外，CI/CD 管控更细，今天就能配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1459,15 +1516,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1495,7 +1552,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1543,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,7 +1636,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     },
     {
@@ -1627,15 +1684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9406,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1663,91 +1720,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
-      }
-    },
-    {
-      "story_id": "story_0be877002fab",
-      "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-      "url": "https://www.aibase.com/news/30638",
-      "primary_url": "https://www.aibase.com/news/30638",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa9973acbcbf885dbcdabeccdb1cdd39977bb2ca",
-          "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "title_zh": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "title_en": null,
-          "title_original": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30638",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:59:11.423826Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa9973acbcbf885dbcdabeccdb1cdd39977bb2ca",
-          "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "title_zh": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "title_en": null,
-          "title_original": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30638",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-26T07:59:11.423826Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9265,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-26T07:59:11.423826Z",
-      "latest_at": "2026-08-26T07:59:11.423826Z",
-      "primary_item": {
-        "id": "fa9973acbcbf885dbcdabeccdb1cdd39977bb2ca",
-        "title": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-        "title_zh": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-        "title_en": null,
-        "title_original": "DeepSeek 前 7 月营收 4.75 亿元激增 9 倍，5000 亿估值二轮融资在途",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30638",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "营收和估值是资本故事，不写代码，等模型开放再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T13:52:12.154566Z"
+        "scored_at": "2026-08-26T14:34:50.649340Z"
       }
     }
   ]

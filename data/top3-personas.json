@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:52:20.938245Z",
+  "generated_at": "2026-08-26T14:34:54.672817Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_7cf7f5b5f125",
-      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "story_id": "story_4ff4202e3dc7",
+      "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "架构预览敢开源，但'早期预览'四字说明水分还在，等跑分说话。"
+          "score": 82,
+          "review": "教程倒是把训练细节摆出来了，但多向量模型的实际收益还得看场景，别急着吹。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了架构细节和成本数字，但无论文无代码，等开源再验。"
+          "score": 72,
+          "review": "官方博客有教程细节，但无代码链接和独立评测，复现性待验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "新架构预览，能跑但别上生产，等正式版和文档。"
+          "score": 82,
+          "review": "多向量嵌入微调教程上线，做检索或RAG的今天就能照着跑。"
         }
       }
     }
