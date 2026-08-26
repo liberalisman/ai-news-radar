@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_880f77f03b61|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开放平台框架值得看，但没给接入细节前先别改架构。",
-      "title_hash": "447092cc",
-      "scored_at": "2026-08-05T14:56:06.956446Z"
-    },
-    "story_609acf8848f0|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "现状总结，不提供可上手方案，等有突破再说。",
-      "title_hash": "e1ca7136",
-      "scored_at": "2026-08-05T14:56:09.355080Z"
-    },
-    "story_f817e433f480|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "概念提案，没给可clone代码，等落地再看。",
-      "title_hash": "eff04b9a",
-      "scored_at": "2026-08-05T14:56:17.585133Z"
-    },
-    "story_3739c8d6bfe4|cynic|f4237a62": {
-      "score": 45,
-      "review": "“活人感”全凭自我感觉，敢不敢把前后对比稿贴出来？",
-      "title_hash": "1eba601e",
-      "scored_at": "2026-08-05T14:56:21.013967Z"
-    },
-    "story_3739c8d6bfe4|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅称开源但未见仓库地址和评测，无法验证，等代码和样本再议。",
-      "title_hash": "1eba601e",
-      "scored_at": "2026-08-05T14:56:24.700014Z"
-    },
     "story_533217fe758f|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "数学理论突破，暂无工具或代码可用，围观即可。",
@@ -6620,10 +6590,10 @@
       "scored_at": "2026-08-26T14:34:51.939744Z"
     },
     "story_4ff4202e3dc7|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "多向量嵌入微调教程上线，做检索或RAG的今天就能照着跑。",
-      "title_hash": "ac838aab",
-      "scored_at": "2026-08-26T14:34:52.919134Z"
+      "score": 72,
+      "review": "多向量嵌入微调教程落地，做检索或 RAG 的可以直接抄流程。",
+      "title_hash": "297dd09b",
+      "scored_at": "2026-08-26T16:23:47.383584Z"
     },
     "story_4ff4202e3dc7|cynic|f4237a62": {
       "score": 82,
@@ -6636,6 +6606,66 @@
       "review": "官方博客有教程细节，但无代码链接和独立评测，复现性待验证。",
       "title_hash": "ac838aab",
       "scored_at": "2026-08-26T14:34:54.672761Z"
+    },
+    "story_5b62f6af7f72|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "政治宣传丑闻，跟写代码无关，别浪费时间。",
+      "title_hash": "7b288d4d",
+      "scored_at": "2026-08-26T16:23:46.315602Z"
+    },
+    "story_ddd2368b2c0c|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "新模型API已上线，今天就能调，跑推理的可以直接换。",
+      "title_hash": "a6f7ccc7",
+      "scored_at": "2026-08-26T16:23:48.325581Z"
+    },
+    "story_741a74c53da2|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "开源可自部署，价格碾压闭源，跑推理的今天就能换。",
+      "title_hash": "41144bfd",
+      "scored_at": "2026-08-26T16:23:49.508656Z"
+    },
+    "story_0d7369bae4aa|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "内容真实性方案被绕过，做取证或内容审核的得留意，但短期不影响开发。",
+      "title_hash": "a848fde6",
+      "scored_at": "2026-08-26T16:23:50.623173Z"
+    },
+    "story_a9929a353f76|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "飞书豆包Agent实测技巧，可参考提效，但非刚需，按需取用。",
+      "title_hash": "4617fa34",
+      "scored_at": "2026-08-26T16:23:52.074256Z"
+    },
+    "story_8d6ab5e53d6a|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "端侧翻译模型压缩到440MB，做离线翻译的可以直接参考方案。",
+      "title_hash": "dcd51d41",
+      "scored_at": "2026-08-26T16:23:53.387401Z"
+    },
+    "story_741a74c53da2|cynic|f4237a62": {
+      "score": 72,
+      "review": "320B开源还打骨折价，参数是实打实的，但AA指数57分这榜谁排的？",
+      "title_hash": "41144bfd",
+      "scored_at": "2026-08-26T16:23:54.277226Z"
+    },
+    "story_741a74c53da2|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方公众号宣称性能与定价，无论文无代码无第三方评测，证据不足。",
+      "title_hash": "41144bfd",
+      "scored_at": "2026-08-26T16:23:55.431219Z"
+    },
+    "story_ddd2368b2c0c|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源加API上线算实诚，但架构预览画饼，等跑分再吹。",
+      "title_hash": "a6f7ccc7",
+      "scored_at": "2026-08-26T16:23:56.596579Z"
+    },
+    "story_ddd2368b2c0c|paper-police|966065bf": {
+      "score": 35,
+      "review": "只有官方推文和API链接，无论文无代码无评测，架构预览难证实力。",
+      "title_hash": "a6f7ccc7",
+      "scored_at": "2026-08-26T16:23:57.512915Z"
     }
   }
 }

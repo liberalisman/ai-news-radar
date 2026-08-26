@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T14:34:54.672817Z",
+  "generated_at": "2026-08-26T16:23:57.513005Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_7ee612916ff0",
-      "title": "Granite Speech 5.0 Turbo CTC 带来极速精准转录 / Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+      "story_id": "story_741a74c53da2",
+      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "CTC 提速是真，但'极速精准'的基准和场景限定，宣传稿里可没写全。"
+          "review": "320B开源还打骨折价，参数是实打实的，但AA指数57分这榜谁排的？"
         },
         "paper-police": {
+          "score": 35,
+          "review": "官方公众号宣称性能与定价，无论文无代码无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源可自部署，价格碾压闭源，跑推理的今天就能换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_ddd2368b2c0c",
+      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
+      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
           "score": 72,
-          "review": "博客给出模型细节和数字，但缺开源代码和独立评测，需补证据。"
+          "review": "开源加API上线算实诚，但架构预览画饼，等跑分再吹。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "只有官方推文和API链接，无论文无代码无评测，架构预览难证实力。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "470M 的 CTC 模型，转录快且准，语音任务今天就能换。"
+          "review": "新模型API已上线，今天就能调，跑推理的可以直接换。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_4996502bb406",
       "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
       "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "开源权重可下载，多模态 MoE 能直接跑，Qwen4 预览值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4ff4202e3dc7",
-      "title": "使用 Sentence Transformers 训练和微调多向量嵌入模型 / Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "教程倒是把训练细节摆出来了，但多向量模型的实际收益还得看场景，别急着吹。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方博客有教程细节，但无代码链接和独立评测，复现性待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "多向量嵌入微调教程上线，做检索或RAG的今天就能照着跑。"
         }
       }
     }
