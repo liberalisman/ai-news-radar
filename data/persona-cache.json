@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d7cf46c6af61|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "大神离职是行业信号，但新公司没产品，今天不用改代码。",
-      "title_hash": "a21f6dc3",
-      "scored_at": "2026-08-05T19:07:19.380277Z"
-    },
-    "story_2d7cb4009c8c|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "高层换人不改现有 API，短期无影响，长期看方向再动。",
-      "title_hash": "a593435a",
-      "scored_at": "2026-08-05T19:07:21.152607Z"
-    },
-    "story_d002c5a4cf70|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "CEO 换人短期内不影响 API，等战略调整再看。",
-      "title_hash": "8b576142",
-      "scored_at": "2026-08-05T19:07:22.853032Z"
-    },
-    "story_20b80d150b2a|cynic|f4237a62": {
-      "score": 82,
-      "review": "功能都真，但推理轨迹和工具调用早该有了，别当大新闻。",
-      "title_hash": "e0b82e84",
-      "scored_at": "2026-08-05T19:07:30.689600Z"
-    },
-    "story_20b80d150b2a|paper-police|966065bf": {
-      "score": 50,
-      "review": "博客列了功能明细，但无代码或评测证据，待独立验证。",
-      "title_hash": "e0b82e84",
-      "scored_at": "2026-08-05T19:07:50.501072Z"
-    },
     "story_be2586b7721a|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "演示模型生成游戏的能力，但未见开放接口或可复现代码，暂时不用行动。",
@@ -6630,6 +6600,48 @@
       "review": "只有官方推文和API链接，无论文无代码无评测，架构预览难证实力。",
       "title_hash": "a6f7ccc7",
       "scored_at": "2026-08-26T16:23:57.512915Z"
+    },
+    "story_93586c9b901c|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "新语音转文本模型已发布，做实时交互的今天就能接 API 试效果。",
+      "title_hash": "d74d210b",
+      "scored_at": "2026-08-26T19:50:54.359382Z"
+    },
+    "story_6b30649509f4|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "教育场景扩展，非开发者直接可用，等API或案例再动手。",
+      "title_hash": "d1181528",
+      "scored_at": "2026-08-26T19:50:55.439419Z"
+    },
+    "story_716a4067630f|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "OpenAI 官宣软文，无具体产品，等有 API 或工具再看。",
+      "title_hash": "0626ec50",
+      "scored_at": "2026-08-26T19:50:56.543844Z"
+    },
+    "story_a3eb56560645|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Chrome 里直接用 Claude，省去切窗口，日常查询和写代码能提速。",
+      "title_hash": "1ce83a4a",
+      "scored_at": "2026-08-26T19:50:57.955943Z"
+    },
+    "story_809ef9d986bc|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "数据开放对研究有用，但开发者今天拿不到可用的接口或工具。",
+      "title_hash": "b09f5fb3",
+      "scored_at": "2026-08-26T19:50:59.359612Z"
+    },
+    "story_93586c9b901c|cynic|f4237a62": {
+      "score": 72,
+      "review": "实时语音转写确实硬，但“高精度”对比基线没给，水分得自己挤。",
+      "title_hash": "d74d210b",
+      "scored_at": "2026-08-26T19:51:00.827055Z"
+    },
+    "story_93586c9b901c|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。",
+      "title_hash": "d74d210b",
+      "scored_at": "2026-08-26T19:51:02.162019Z"
     }
   }
 }

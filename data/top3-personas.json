@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T17:27:26.377387Z",
+  "generated_at": "2026-08-26T19:51:02.162109Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_93586c9b901c",
+      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "实时语音转写确实硬，但“高精度”对比基线没给，水分得自己挤。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "新语音转文本模型已发布，做实时交互的今天就能接 API 试效果。"
+        }
+      }
+    },
+    {
       "story_id": "story_ddd2368b2c0c",
       "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
       "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "新模型API已上线，今天就能调，跑推理的可以直接换。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4996502bb406",
-      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
-      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "架构预览就敢叫Flash，参数和实测数据呢？先跑分再吹。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方推文宣称，无论文无代码无评测，架构预览难核实。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源权重可下载，多模态 MoE 能直接跑，Qwen4 预览值得试。"
         }
       }
     }
