@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:58:07.104071Z",
+  "generated_at": "2026-08-26T02:23:42.650019Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_55a2613433ab",
-      "title": "通过 Gmail、Slack 和 GitHub 事件触发计划任务 / Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "把事件接进计划任务，实用但不算颠覆，文档里藏着多少限制没说。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方更新但无论文代码，仅功能描述，缺benchmark验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Codex 能接事件触发任务，自动化工作流今天就能配，省去手动调度。"
-        }
-      }
-    },
-    {
       "story_id": "story_4b7b151c884e",
       "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
       "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "GitHub官方评估指南，选型前可参考，但无新工具，动手价值中等。"
+        }
+      }
+    },
+    {
+      "story_id": "story_72c69d1ef3c2",
+      "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
+      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "标签页全面推出，但'全面'背后有多少是换皮？等看实际效果。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方博客宣称全面推出，但无技术细节、评测或代码，证据薄弱。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Copilot 自定义标签转正，调 prompt 和规则更方便，今天就能试试。"
         }
       }
     }
