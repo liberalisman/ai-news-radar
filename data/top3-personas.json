@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:10:23.716133Z",
+  "generated_at": "2026-08-26T13:52:20.938245Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_4b7b151c884e",
-      "title": "上线前如何评估 LLM / How to evaluate LLMs before production",
-      "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production",
+      "story_id": "story_4996502bb406",
+      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "评估指南写得实在，但没提具体案例，干货有限。"
+          "review": "架构预览就敢叫Flash，参数和实测数据呢？先跑分再吹。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给评估方法但无代码无benchmark，等实操复现再定论。"
+          "score": 20,
+          "review": "仅官方推文宣称，无论文无代码无评测，架构预览难核实。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "GitHub官方评估指南，选型前可参考，但无新工具，动手价值中等。"
+          "score": 85,
+          "review": "开源权重可下载，多模态 MoE 能直接跑，Qwen4 预览值得试。"
         }
       }
     },
     {
-      "story_id": "story_72c69d1ef3c2",
-      "title": "GitHub Copilot 应用 Customize 标签页现已全面推出。 / GitHub Copilot app Customize tab is generally available",
-      "url": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+      "story_id": "story_7cf7f5b5f125",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "标签页全面推出，但'全面'背后有多少是换皮？等看实际效果。"
+          "score": 72,
+          "review": "架构预览敢开源，但'早期预览'四字说明水分还在，等跑分说话。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称全面推出，但无技术细节、评测或代码，证据薄弱。"
+          "score": 45,
+          "review": "官方博客给了架构细节和成本数字，但无论文无代码，等开源再验。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "Copilot 自定义标签转正，调 prompt 和规则更方便，今天就能试试。"
+          "review": "新架构预览，能跑但别上生产，等正式版和文档。"
         }
       }
     }

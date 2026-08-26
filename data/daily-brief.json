@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:44:56.854752Z",
+  "generated_at": "2026-08-26T13:16:29.662648Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8439,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
+      }
+    },
+    {
+      "story_id": "story_7cf7f5b5f125",
+      "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "recommend_reason_zh": "本文介绍Qwen Studio的聊天、图像与视频理解、图像生成、文档处理等功能，并解析Qwen3.8-Flash-Next的新架构如何实现极致成本效率。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "本文详解Qwen3.8-Flash-Next新架构如何实现极致成本效率，并介绍Qwen Studio的完整功能：聊天、图像视频理解、图像生成、文档处理、网页搜索集成、工具利用与工件生成。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+          "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+          "recommend_reason_zh": "本文介绍Qwen Studio的聊天、图像与视频理解、图像生成、文档处理等功能，并解析Qwen3.8-Flash-Next的新架构如何实现极致成本效率。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-26T12:30:00Z"
+        },
+        {
+          "id": "301f85066e2adf5a8b29442ecc81fc25c6a8ef2c",
+          "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+          "title_en": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "title_original": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "本文详解Qwen3.8-Flash-Next新架构如何实现极致成本效率，并介绍Qwen Studio的完整功能：聊天、图像视频理解、图像生成、文档处理、网页搜索集成、工具利用与工件生成。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-26T12:52:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9889,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T12:30:00Z",
+      "latest_at": "2026-08-26T12:52:12Z",
+      "primary_item": {
+        "id": "e26a51bb54313b977caff74c043731ed56dc444a",
+        "title": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览 / Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_zh": "Qwen3.8-Flash-Next 开源：Qwen4 架构早期预览",
+        "title_en": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "title_original": "Qwen3.8-Flash-Next： A New Architecture， Towards Ultimate Cost-Efficiency",
+        "summary": "通义千问开源 Qwen3.8-Flash-Next，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览。该模型采用 GDN + QSA 混合注意力等四项升级，总参数 125B，每 token 激活 6B，训练成本约为 Qwen3.7-Plus 的 1/9，编码与办公任务能力更强。",
+        "recommend_reason_zh": "本文介绍Qwen Studio的聊天、图像与视频理解、图像生成、文档处理等功能，并解析Qwen3.8-Flash-Next的新架构如何实现极致成本效率。",
+        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "新架构预览，能跑但别上生产，等正式版和文档。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -133,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.815,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +284,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -218,15 +332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7436,
+        "recency": 0.7274,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +369,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -303,15 +417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7976,
+        "recency": 0.7802,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +454,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -388,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7519,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,179 +539,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
-      "story_id": "story_451d09e98bb5",
-      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_4996502bb406",
+      "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+      "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+          "recommend_reason_zh": "Qwen3.8-Flash 是开放权重的多模态 MoE 模型，也是 Qwen4 架构的早期预览，拥有 125B 参数加 51B N-gram，QwenCloud API 每百万输入 tokens 仅 0.16 美元、输出 0.47 美元，值得一读。",
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple推出M6和M5 Ultra，性能和AI算力大幅跃升。 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "Apple推出M6和M5 Ultra，性能和AI算力大幅跃升。",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": null,
-          "recommend_reason_zh": "Apple推出M6与M5 Ultra，评论认为M6将夺回性能王冠，并回顾M1自2020年发布后Intel今年才追上，还提到Qwen3.8展示同参数下智能提升。",
-          "url": "https://news.ycombinator.com/item?id=49433292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T14:04:03.711000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": null,
-          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "1687009435840307a88af69c47597de7fdce46aa",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T13:01:22Z"
+          "published_at": "2026-08-26T12:34:01Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.apple.com"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+          "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+          "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+          "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+          "recommend_reason_zh": "Qwen3.8-Flash 是开放权重的多模态 MoE 模型，也是 Qwen4 架构的早期预览，拥有 125B 参数加 51B N-gram，QwenCloud API 每百万输入 tokens 仅 0.16 美元、输出 0.47 美元，值得一读。",
+          "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "7a0c88e1c4a6b50eb638032ad231d087bc3f14db",
-          "title": "Apple推出M6和M5 Ultra，性能和AI算力大幅跃升。 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "Apple推出M6和M5 Ultra，性能和AI算力大幅跃升。",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": null,
-          "recommend_reason_zh": "Apple推出M6与M5 Ultra，评论认为M6将夺回性能王冠，并回顾M1自2020年发布后Intel今年才追上，还提到Qwen3.8展示同参数下智能提升。",
-          "url": "https://news.ycombinator.com/item?id=49433292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T14:04:03.711000Z"
-        },
-        {
-          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "title_en": null,
-          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
-          "summary": null,
-          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "www.apple.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T13:41:50.050000Z"
-        },
-        {
-          "id": "1687009435840307a88af69c47597de7fdce46aa",
-          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升 / Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-          "title_en": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "title_original": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-25T13:01:22Z"
+          "published_at": "2026-08-26T12:34:01Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
-        "story_heat": 0.75
+        "recency": 0.9898,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:01:22Z",
-      "latest_at": "2026-08-25T14:04:03.711000Z",
+      "earliest_at": "2026-08-26T12:34:01Z",
+      "latest_at": "2026-08-26T12:34:01Z",
       "primary_item": {
-        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
-        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "title_en": null,
-        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
-        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
-        "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "b55371eeff7333b73d24a0c446f766e8712b16ad",
+        "title": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览 / ⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "title_zh": "通义千问发布 Qwen3.8-Flash，多模态 MoE 模型，Qwen4 架构早期预览",
+        "title_en": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "title_original": "⚡Meet Qwen3.8-Flash， a multimodal MoE and an early preview of the Qwen4 architecture， now open-weigh…",
+        "summary": "通义千问发布 Qwen3.8-Flash，一款多模态 MoE 模型，也是 Qwen4 架构的早期预览，现已开放权重。该模型总参数量 125B，每 token 仅激活 6B，原生上下文 262K，可扩展至 1M；训练成本仅为 Qwen3.7-Plus 的 1/9，并在编码和办公任务上表现更优。",
+        "recommend_reason_zh": "Qwen3.8-Flash 是开放权重的多模态 MoE 模型，也是 Qwen4 架构的早期预览，拥有 125B 参数加 51B N-gram，QwenCloud API 每百万输入 tokens 仅 0.16 美元、输出 0.47 美元，值得一读。",
+        "url": "https://x.com/Alibaba_Qwen/status/2092591393424515114",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "新芯片算力强但买不到，等真机评测和价格再动手。",
+      "persona_score": 85,
+      "persona_review": "开源权重可下载，多模态 MoE 能直接跑，Qwen4 预览值得试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -645,15 +671,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7413,
+        "recency": 0.7251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,7 +708,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -730,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7977,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -767,7 +793,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -815,15 +841,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,7 +877,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -899,15 +925,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7812,
+        "recency": 0.7642,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,7 +962,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
+      }
+    },
+    {
+      "story_id": "story_6d44adafc2ce",
+      "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.apple.com"
+      ],
+      "items": [
+        {
+          "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+          "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+          "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        },
+        {
+          "id": "18edc7081b76e892ec99e6b3ad4d98bb5298dc59",
+          "title": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_zh": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "title_en": null,
+          "title_original": "苹果推出 M6 和 M5 Ultra，性能和人工智能计算能力实现重大飞跃",
+          "summary": null,
+          "recommend_reason_zh": "本文报道苹果发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU和双16核神经引擎；M5 Ultra采用四die架构，内存带宽达1.2TB/s，较M3 Ultra提升50%。",
+          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+          "source": "www.apple.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-25T13:41:50.050000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7114,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-25T13:41:50.050000Z",
+      "latest_at": "2026-08-25T13:41:50.050000Z",
+      "primary_item": {
+        "id": "dc643214494de427dfdd7f8c6e946612ba4af61d",
+        "title": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_zh": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "title_en": null,
+        "title_original": "苹果推出 M6 和 M5 Ultra，性能和 AI 算力大幅跃升",
+        "summary": "苹果发布首款 2nm 芯片 M6 和迄今最强芯片 M5 Ultra，分别搭载于新款 Mac mini 与 Mac Studio。",
+        "recommend_reason_zh": "本文报道了Apple发布M6与M5 Ultra：M6为首款2nm芯片，配备12核CPU、双16核神经引擎，内存带宽达170GB/s；M5 Ultra采用四die架构，最高配备36核CPU与80核GPU，带宽1.2TB/s，较M3 Ultra提升50%。",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "新芯片参数没出，开发者等 SDK 和真机再动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -984,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +1159,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1068,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7478,
+        "recency": 0.7315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1242,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1151,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7702,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1188,7 +1327,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1236,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1411,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1320,15 +1459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,7 +1495,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1404,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,7 +1579,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1488,15 +1627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.9406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1524,7 +1663,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     },
     {
@@ -1572,15 +1711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9471,
+        "recency": 0.9265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1608,288 +1747,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
-      }
-    },
-    {
-      "story_id": "story_97f565872705",
-      "title": "苹果新款M6芯片拥有更多核心和更强AI算力 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
-      "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-      "primary_url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-          "title": "苹果新款M6芯片拥有更多核心和更强AI算力 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_zh": "苹果新款M6芯片拥有更多核心和更强AI算力",
-          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "summary": null,
-          "recommend_reason_zh": "Apple发布M6与M5 Ultra：M6为苹果首款2nm芯片，CPU从M5的10核增至12核，配Dual 16核神经引擎；M5 Ultra以UltraFusion连接双M5 Max，达36核CPU、80核GPU，均于9月22日随新Mac Mini和Mac Studio上市。",
-          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-25T13:00:00Z"
-        },
-        {
-          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
-          "title": "Apple新款M6芯片增加核心数和AI算力 / Apple’s new M6 chip gets more cores and more AI compute",
-          "title_zh": "Apple新款M6芯片增加核心数和AI算力",
-          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
-          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
-          "summary": null,
-          "recommend_reason_zh": "新M6芯片是Apple首款2nm产品，CPU/GPU各12核，配双16核神经引擎；M5 Ultra支持最高80核GPU与512GB统一内存，9月22日上市。",
-          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T13:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-          "title": "苹果新款M6芯片拥有更多核心和更强AI算力 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_zh": "苹果新款M6芯片拥有更多核心和更强AI算力",
-          "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-          "summary": null,
-          "recommend_reason_zh": "Apple发布M6与M5 Ultra：M6为苹果首款2nm芯片，CPU从M5的10核增至12核，配Dual 16核神经引擎；M5 Ultra以UltraFusion连接双M5 Max，达36核CPU、80核GPU，均于9月22日随新Mac Mini和Mac Studio上市。",
-          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-25T13:00:00Z"
-        },
-        {
-          "id": "b1d7abe7c8bff5d6873d03816b3c1eb79fde5e0e",
-          "title": "Apple新款M6芯片增加核心数和AI算力 / Apple’s new M6 chip gets more cores and more AI compute",
-          "title_zh": "Apple新款M6芯片增加核心数和AI算力",
-          "title_en": "Apple’s new M6 chip gets more cores and more AI compute",
-          "title_original": "Apple’s new M6 chip gets more cores and more AI compute",
-          "summary": null,
-          "recommend_reason_zh": "新M6芯片是Apple首款2nm产品，CPU/GPU各12核，配双16核神经引擎；M5 Ultra支持最高80核GPU与512GB统一内存，9月22日上市。",
-          "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5734,
-      "importance": 0.5734,
-      "importance_score": 0.5734,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.504,
-        "source_tier": 0.58,
-        "ai_relevance": 0.7,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T13:00:00Z",
-      "latest_at": "2026-08-25T13:00:00Z",
-      "primary_item": {
-        "id": "73f20681e3310a757758f9c3769d821c5fabbbc9",
-        "title": "苹果新款M6芯片拥有更多核心和更强AI算力 / Apple&#8217;s new M6 chip gets more cores and more AI compute",
-        "title_zh": "苹果新款M6芯片拥有更多核心和更强AI算力",
-        "title_en": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-        "title_original": "Apple&#8217;s new M6 chip gets more cores and more AI compute",
-        "summary": null,
-        "recommend_reason_zh": "Apple发布M6与M5 Ultra：M6为苹果首款2nm芯片，CPU从M5的10核增至12核，配Dual 16核神经引擎；M5 Ultra以UltraFusion连接双M5 Max，达36核CPU、80核GPU，均于9月22日随新Mac Mini和Mac Studio上市。",
-        "url": "https://www.theverge.com/tech/984118/apple-m6-m5-ultra-chip-mac-mini-studio",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "芯片参数看看就好，等真机跑分和价格再决定换不换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
-      }
-    },
-    {
-      "story_id": "story_8905d625b3de",
-      "title": "斯坦福研究：AI 对入门级岗位冲击最大 / AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-      "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "primary_url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-          "title": "斯坦福研究：AI 对入门级岗位冲击最大 / AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_zh": "斯坦福研究：AI 对入门级岗位冲击最大",
-          "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福大学最新研究显示，AI对入门级岗位的冲击最为严重，直接关乎初级员工的职业前景，甚至可能重塑企业招聘结构。",
-          "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T18:00:00Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福最新研究显示，22至25岁年轻人在AI高暴露岗位的就业率较其他领域低19%，缺口较去年的13%扩大，数据源自ADP薪资记录与Anthropic Economic Index。",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "斯坦福研究发现，AI对入门级工作冲击最大。 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福研究发现，AI对入门级工作冲击最大。",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": "Stanford研究称AI对入门级工作冲击最大；文中资深开发者现身说法：两位被裁工程师分别近一年、半年无offer，还有人自曝曾年入百万却觉不可持续。",
-          "url": "https://news.ycombinator.com/item?id=49435147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T16:42:40.637000Z"
-        },
-        {
-          "id": "8e15e0286f1f90d0ab09c82cd4812a541d65332d",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": "Stanford最新研究显示，22至25岁年轻人在AI高暴露职业的就业率较同行低19%，而去年这一差距为13%，且主要体现在招聘减少而非裁员。",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "arstechnica.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-          "title": "斯坦福研究：AI 对入门级岗位冲击最大 / AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_zh": "斯坦福研究：AI 对入门级岗位冲击最大",
-          "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福大学最新研究显示，AI对入门级岗位的冲击最为严重，直接关乎初级员工的职业前景，甚至可能重塑企业招聘结构。",
-          "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-25T18:00:00Z"
-        },
-        {
-          "id": "1a95ea240a2761611539bbc972387580ecf249dd",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": null,
-          "title_original": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福最新研究显示，22至25岁年轻人在AI高暴露岗位的就业率较其他领域低19%，缺口较去年的13%扩大，数据源自ADP薪资记录与Anthropic Economic Index。",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-25T17:41:24.768000Z"
-        },
-        {
-          "id": "d91a85545c74544d23307d16668d02585e47f6e7",
-          "title": "斯坦福研究发现，AI对入门级工作冲击最大。 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福研究发现，AI对入门级工作冲击最大。",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": "Stanford研究称AI对入门级工作冲击最大；文中资深开发者现身说法：两位被裁工程师分别近一年、半年无offer，还有人自曝曾年入百万却觉不可持续。",
-          "url": "https://news.ycombinator.com/item?id=49435147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-25T16:42:40.637000Z"
-        },
-        {
-          "id": "8e15e0286f1f90d0ab09c82cd4812a541d65332d",
-          "title": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重 / AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_zh": "斯坦福大学研究发现，人工智能对入门级岗位的冲击最为严重",
-          "title_en": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "title_original": "AI is hitting entry-level jobs hardest, Stanford study finds",
-          "summary": null,
-          "recommend_reason_zh": "Stanford最新研究显示，22至25岁年轻人在AI高暴露职业的就业率较同行低19%，而去年这一差距为13%，且主要体现在招聘减少而非裁员。",
-          "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-25T14:48:58Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5551,
-      "importance": 0.5551,
-      "importance_score": 0.5551,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7739,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-25T14:48:58Z",
-      "latest_at": "2026-08-25T18:00:00Z",
-      "primary_item": {
-        "id": "6cd295691b18795c82d625afa9d5744e07c9a507",
-        "title": "斯坦福研究：AI 对入门级岗位冲击最大 / AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "title_zh": "斯坦福研究：AI 对入门级岗位冲击最大",
-        "title_en": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "title_original": "AI Is Hitting Entry-Level Jobs Hardest, Stanford Study Finds",
-        "summary": null,
-        "recommend_reason_zh": "斯坦福大学最新研究显示，AI对入门级岗位的冲击最为严重，直接关乎初级员工的职业前景，甚至可能重塑企业招聘结构。",
-        "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "宏观就业数据，不直接指导开发选型，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-26T12:10:23.715929Z"
+        "scored_at": "2026-08-26T13:52:12.154566Z"
       }
     }
   ]

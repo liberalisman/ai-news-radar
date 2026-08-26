@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d00dceec4346|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "现有Assistant集成要迁移，尽早检查Gemini兼容性和接口变更。",
-      "title_hash": "89ced6e1",
-      "scored_at": "2026-08-05T12:39:11.965368Z"
-    },
-    "story_e2cae4e7f2b3|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "购物智能体回归亚马逊，对开发者无直接接口价值，关注后续 API 再说。",
-      "title_hash": "e4bb0707",
-      "scored_at": "2026-08-05T12:39:13.756455Z"
-    },
-    "story_5e8e5c7c94d4|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "省token的实操技巧，跑Codex和Claude Code任务的可直接参考。",
-      "title_hash": "b80de7f7",
-      "scored_at": "2026-08-05T12:39:16.926729Z"
-    },
-    "story_f70d268aa3c8|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "法规先行，L3落地有据可依，但离量产上车还远，做相关开发的可以盯细则。",
-      "title_hash": "c37d7052",
-      "scored_at": "2026-08-05T12:39:20.099852Z"
-    },
-    "story_788cae258ab4|cynic|f4237a62": {
-      "score": 68,
-      "review": "3B 单卡能跑是真本事，'开源 SOTA'记得标注是自家榜单的 SOTA。",
-      "title_hash": "8a053ed5",
-      "scored_at": "2026-08-05T12:39:34.452942Z"
-    },
-    "story_788cae258ab4|paper-police|966065bf": {
-      "score": 10,
-      "review": "只有官方宣称，无论文无代码无第三方评测，开源SOTA无从验证。",
-      "title_hash": "8a053ed5",
-      "scored_at": "2026-08-05T12:39:36.180061Z"
-    },
     "story_880f77f03b61|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "开放平台框架值得看，但没给接入细节前先别改架构。",
@@ -6606,6 +6570,48 @@
       "review": "收入数据不改变你的技术选型，等产品开放再动手。",
       "title_hash": "a6fd0a0e",
       "scored_at": "2026-08-26T11:22:20.271810Z"
+    },
+    "story_7cf7f5b5f125|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新架构预览，能跑但别上生产，等正式版和文档。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:52:13.399289Z"
+    },
+    "story_4996502bb406|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开源权重可下载，多模态 MoE 能直接跑，Qwen4 预览值得试。",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:52:14.349525Z"
+    },
+    "story_6d44adafc2ce|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "新芯片参数没出，开发者等 SDK 和真机再动。",
+      "title_hash": "994bb6ca",
+      "scored_at": "2026-08-26T13:52:15.553217Z"
+    },
+    "story_4996502bb406|cynic|f4237a62": {
+      "score": 72,
+      "review": "架构预览就敢叫Flash，参数和实测数据呢？先跑分再吹。",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:52:17.064945Z"
+    },
+    "story_4996502bb406|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方推文宣称，无论文无代码无评测，架构预览难核实。",
+      "title_hash": "8a171f9b",
+      "scored_at": "2026-08-26T13:52:18.192766Z"
+    },
+    "story_7cf7f5b5f125|cynic|f4237a62": {
+      "score": 72,
+      "review": "架构预览敢开源，但'早期预览'四字说明水分还在，等跑分说话。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:52:19.668917Z"
+    },
+    "story_7cf7f5b5f125|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给了架构细节和成本数字，但无论文无代码，等开源再验。",
+      "title_hash": "57657733",
+      "scored_at": "2026-08-26T13:52:20.938188Z"
     }
   }
 }
