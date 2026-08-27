@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T10:08:45.086119Z",
+  "generated_at": "2026-08-27T20:54:08.767750Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_741a74c53da2",
-      "title": "GLM-5.3-Flash 开源：320B 总参数、AA 指数 57 分，定价为 Opus 4.8 的 1/40",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494157&idx=1&sn=6837b15a07d2518842eb6c6b53a3eb3c",
+      "story_id": "story_f91eb53884bc",
+      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "320B开源还打骨折价，参数是实打实的，但AA指数57分这榜谁排的？"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方公众号宣称性能与定价，无论文无代码无第三方评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源可自部署，价格碾压闭源，跑推理的今天就能换。"
-        }
-      }
-    },
-    {
-      "story_id": "story_93586c9b901c",
-      "title": "Gemini 3.5 Transcribe 发布：面向实时语音交互的高精度语音转文本模型 / Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "实时语音转写确实硬，但“高精度”对比基线没给，水分得自己挤。"
+          "review": "视频控制升级是实打实的，但'更强'的基准没给全，水分自己挤。"
         },
         "paper-police": {
           "score": 45,
           "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新语音转文本模型已发布，做实时交互的今天就能接 API 试效果。"
+          "score": 82,
+          "review": "新API已开放，做视频生成控制的今天就能试，但先看文档确认限制。"
         }
       }
     },
     {
-      "story_id": "story_ddd2368b2c0c",
-      "title": "Qwen3.8-Flash 开源，Qwen4 架构预览 / API is live on QwenCloud： https://www.qwencloud.com/models/qwen3.8-flash 🙌Let's build something！",
-      "url": "https://x.com/Alibaba_Qwen/status/2092636376990990503",
+      "story_id": "story_7dd36eb939fe",
+      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
+      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "加速数据看着实诚，但SSIM 0.76-0.91的'无损'，这水分得拧拧。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了数字但无代码无复现，等开源或第三方验证再定论。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "SGLang 实测加速近 2 倍，跑视频生成的今天就能换推理栈。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a013e7e93c51",
+      "title": "Codex CLI 0.150.1",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开源加API上线算实诚，但架构预览画饼，等跑分再吹。"
+          "review": "版本号跳得勤，但没提具体改了什么，营销味有点重。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "只有官方推文和API链接，无论文无代码无评测，架构预览难证实力。"
+          "score": 30,
+          "review": "仅官方更新日志，无评测无代码细节，性能提升无从验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新模型API已上线，今天就能调，跑推理的可以直接换。"
+          "score": 75,
+          "review": "Codex CLI 小版本更新，查下 changelog 看修了啥，影响不大但值得扫一眼。"
         }
       }
     }
