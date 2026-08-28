@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T05:44:57.285335Z",
+  "generated_at": "2026-08-28T19:13:14.511042Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_f91eb53884bc",
-      "title": "Gemini Omni 1.1 Flash 发布，为开发者提供更强生成式视频控制 / Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control",
+      "story_id": "story_17c35f7f6315",
+      "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
+      "url": "https://x.com/Zai_org/status/2093354097122455713",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "视频控制升级是实打实的，但'更强'的基准没给全，水分自己挤。"
+          "review": "开源权重是好事，但'最强'这词得看跟谁比，别只挑自家短板。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。"
+          "score": 35,
+          "review": "官方宣称开源权重，但无论文代码链接，性能数字待验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "新API已开放，做视频生成控制的今天就能试，但先看文档确认限制。"
+          "score": 85,
+          "review": "开源权重直接可下，做智能体编码和网防的今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_9d9b4688f4d7",
-      "title": "Copilot 代码审查：解决原因与扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
-      "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+      "story_id": "story_b09bfd8d0320",
+      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "功能补丁也算更新？至少这次没吹成革命，但离干货还差个复现链接。"
+          "review": "免费无框架是亮点，但'无需框架'听着像把轮子拆了重造，先跑通再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方更新有细节但无代码无评测，等复现或第三方验证。"
+          "score": 62,
+          "review": "GitHub 仓库可查，但无论文无 benchmark，实用性待验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "代码审查功能扩展，能解释拒绝原因，团队可立即调整流程。"
+          "score": 82,
+          "review": "Colab 直接跑 RAG 和 Agent，省去搭环境时间，适合快速验证想法。"
         }
       }
     },
     {
-      "story_id": "story_8a3dca718647",
-      "title": "Actions 保留策略将涵盖检查、工作流运行和状态。 / Actions retention will cover checks, workflow runs, and statuses",
-      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
+      "story_id": "story_e6d6d7fa2d48",
+      "title": "GitHub Copilot 政策与计费即将调整 / Upcoming changes to GitHub Copilot policies and billing",
+      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "终于把保留策略说全了，但别急着鼓掌，先看默认值够不够用。"
+          "score": 55,
+          "review": "改政策不晒具体数字，光说调整，用户只能干等细则。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方公告无代码无评测，仅描述策略变更，缺可验证细节。"
+          "score": 10,
+          "review": "官方公告只说即将调整，无具体细节，无法验证，等于没说。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "CI 日志保留策略变了，得检查下工作流清理脚本，别让旧数据占满存储。"
+          "score": 75,
+          "review": "计费政策要变，先查账单和用量，别等扣款了再改。"
         }
       }
     }
