@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:54:08.767750Z",
+  "generated_at": "2026-08-28T05:44:57.285335Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_7dd36eb939fe",
-      "title": "MiniMax-H3 在 8×H200 上基准测试：无损加速 1.95×，最高 6.24×（SSIM 0.76-0.91） / Blog MiniMax-H3 on 8×H200： 1.95× Lossless， Up to 6.24× at 0.76-0.91 SSIM We benchmarked MiniMax-H3 video generation on 8× NVIDIA H200 with SGLang Diffusion， holding prompts， seeds， resolution， frame rate， and denoising steps fixed across six workloads. - SGLang's dense， l… SGLang Diffusion Team， Cache-DiT Team， NVIDIA， Ant Group",
-      "url": "https://www.lmsys.org/blog/2026-08-27-minimax-h3-h200",
+      "story_id": "story_9d9b4688f4d7",
+      "title": "Copilot 代码审查：解决原因与扩展功能 / Copilot code review: Resolution reasons and expanded capabilities",
+      "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "加速数据看着实诚，但SSIM 0.76-0.91的'无损'，这水分得拧拧。"
+          "review": "功能补丁也算更新？至少这次没吹成革命，但离干货还差个复现链接。"
         },
         "paper-police": {
           "score": 45,
-          "review": "博客给了数字但无代码无复现，等开源或第三方验证再定论。"
+          "review": "官方更新有细节但无代码无评测，等复现或第三方验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "SGLang 实测加速近 2 倍，跑视频生成的今天就能换推理栈。"
+          "score": 72,
+          "review": "代码审查功能扩展，能解释拒绝原因，团队可立即调整流程。"
         }
       }
     },
     {
-      "story_id": "story_a013e7e93c51",
-      "title": "Codex CLI 0.150.1",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_8a3dca718647",
+      "title": "Actions 保留策略将涵盖检查、工作流运行和状态。 / Actions retention will cover checks, workflow runs, and statuses",
+      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "版本号跳得勤，但没提具体改了什么，营销味有点重。"
+          "score": 70,
+          "review": "终于把保留策略说全了，但别急着鼓掌，先看默认值够不够用。"
         },
         "paper-police": {
           "score": 30,
-          "review": "仅官方更新日志，无评测无代码细节，性能提升无从验证。"
+          "review": "官方公告无代码无评测，仅描述策略变更，缺可验证细节。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "Codex CLI 小版本更新，查下 changelog 看修了啥，影响不大但值得扫一眼。"
+          "score": 72,
+          "review": "CI 日志保留策略变了，得检查下工作流清理脚本，别让旧数据占满存储。"
         }
       }
     }
