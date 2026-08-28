@@ -5678,7 +5678,21 @@ def canonical_story_url(raw_url: str) -> str:
 def title_tokens(title: str) -> set[str]:
     compact = re.sub(r"https?://\S+", " ", str(title or "").lower())
     tokens = re.findall(r"[a-z0-9]+|[\u4e00-\u9fff]{2,}", compact)
-    return {tok for tok in tokens if tok not in TITLE_STOPWORDS and len(tok) >= 2}
+    out: set[str] = set()
+    for tok in tokens:
+        if tok in TITLE_STOPWORDS or len(tok) < 2:
+            continue
+        out.add(tok)
+        # 模型名写法变体统一到「hy4」这个指纹：
+        # hy4preview -> hy4（去掉数字后的字母尾巴）；hypreview（纯字母版）
+        # 于是 "Hy4 preview" / "Hy4preview" / "HY4Preview" 都能互相命中
+        t = re.sub(r"(\d)[a-z]+$", r"\1", tok)
+        if t != tok and len(t) >= 2:
+            out.add(t)
+        t2 = re.sub(r"[0-9]+", "", tok)
+        if t2 and len(t2) >= 3 and t2 != tok:
+            out.add(t2)
+    return out
 
 
 def normalized_story_title(item: dict[str, Any]) -> str:
@@ -5700,7 +5714,45 @@ def title_similarity(a: str, b: str) -> float:
         return 0.0
     jaccard = len(ta & tb) / len(ta | tb)
     sequence = SequenceMatcher(None, a.lower(), b.lower()).ratio()
-    return round(max(sequence, (sequence * 0.6) + (jaccard * 0.4)), 4)
+    # 中文标题写法差异大（同事件不同媒体措辞完全不同），加入汉字 bigram 重叠，
+    # 捕捉"腾讯混元发布 Hy4 preview…" vs "腾讯混元 Hy4 preview 开源…"这类改写
+    cjk = _cjk_bigram_jaccard(a, b)
+    return round(max(sequence, (sequence * 0.5) + (jaccard * 0.25) + (cjk * 0.25)), 4)
+
+
+def _cjk_bigram_jaccard(a: str, b: str) -> float:
+    def bigrams(text: str) -> set[str]:
+        compact = re.sub(r"[^\u4e00-\u9fff]", "", str(text or ""))
+        return {compact[i:i + 2] for i in range(len(compact) - 1)} or ({compact} if compact else set())
+
+    ba, bb = bigrams(a), bigrams(b)
+    if not ba or not bb:
+        return 0.0
+    return len(ba & bb) / len(ba | bb)
+
+
+def _strong_entity_overlap(a: str, b: str) -> bool:
+    """同实体强信号合并兜底：改写型中文标题走不到相似度阈值时，
+    凭「共享的稀有词元（模型名/参数等）+ 汉字 bigram 重叠」识别同一事件。
+    时间窗与厂商/模型实体互斥检查仍由调用方保证。"""
+    if not story_titles_can_merge(a, b):
+        return False
+    ta, tb = title_tokens(a), title_tokens(b)
+    if not ta or not tb:
+        return False
+    # 通用后缀不视为稀有词元，避免 "X preview 发布" 与 "X preview 接入"
+    # 这类不同事件仅凭 preview 误并
+    rare = [t for t in (ta & tb) if len(t) >= 3 and t not in _GENERIC_MODEL_SUFFIXES]
+    if not rare:
+        return False
+    cjk = _cjk_bigram_jaccard(a, b)
+    # 共享 ≥2 个稀有词元（如 hy4 + 770）时放宽汉字门槛：实体身份已基本锁定
+    if len(rare) >= 2:
+        return cjk >= 0.08
+    return cjk >= 0.12
+
+
+_GENERIC_MODEL_SUFFIXES = {"preview", "pro", "max", "mini", "ultra", "turbo"}
 
 
 def title_entities(title: str) -> tuple[set[str], set[str]]:
@@ -6017,6 +6069,11 @@ def merge_story_items(
                     reason = "title_similarity"
                     similarity = sim
                     break
+                if _strong_entity_overlap(title, candidate_title):
+                    story_id = candidate_id
+                    reason = "entity_match"
+                    similarity = sim
+                    break
 
         if story_id is None:
             story_id = story_id_for_item(item)
@@ -6091,6 +6148,8 @@ def select_diverse_stories(
             if not tokens or not other_tokens:
                 continue
             if len(tokens & other_tokens) / len(tokens | other_tokens) < 0.4:
+                if _strong_entity_overlap(title, other_title):
+                    return True
                 continue
             if title_similarity(title, other_title) >= 0.86 and story_titles_can_merge(title, other_title):
                 return True
