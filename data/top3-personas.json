@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T00:22:07.546541Z",
+  "generated_at": "2026-08-29T02:24:49.623279Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_17c35f7f6315",
-      "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
-      "url": "https://x.com/Zai_org/status/2093354097122455713",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源权重是好事，但'最强'这词得看跟谁比，别只挑自家短板。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方宣称开源权重，但无论文代码链接，性能数字待验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源权重直接可下，做智能体编码和网防的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_e6d6d7fa2d48",
       "title": "GitHub Copilot 政策与计费即将调整 / Upcoming changes to GitHub Copilot policies and billing",
       "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 75,
           "review": "计费政策要变，先查账单和用量，别等扣款了再改。"
+        }
+      }
+    },
+    {
+      "story_id": "story_68a34bcc53e0",
+      "title": "Visual Studio 中 GitHub Copilot —— 8 月更新 / GitHub Copilot in Visual Studio — August update",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "更新日志写得像产品发布会，但至少没吹成颠覆，功能细节还算实诚。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方博客更新，无论文代码评测，仅功能说明，缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "VS 里 Copilot 更新，常用功能有变化，IDE 用户值得看一眼。"
         }
       }
     }
