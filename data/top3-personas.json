@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:13:14.511042Z",
+  "generated_at": "2026-08-29T00:22:07.546541Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_0cd9f2e6b260",
+      "title": "腾讯混元 Hy4 preview 开源：770B 参数、百万上下文，稳居开源第一梯队",
+      "url": "https://www.aibase.com/news/30698",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "参数和上下文确实顶，但开源第一梯队这话，先让评测跑完再说。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "开源参数和上下文明确，但缺论文和独立评测，需跑分验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "770B开源模型今天就能部署，百万上下文直接抄，省自研成本。"
+        }
+      }
+    },
+    {
       "story_id": "story_17c35f7f6315",
       "title": "GLM-5.3 开源权重，智能体编码与网防最强 / GLM-5.3 is now open-weight. Our most capable model for agentic coding and cyber defense is now avai…",
       "url": "https://x.com/Zai_org/status/2093354097122455713",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 85,
           "review": "开源权重直接可下，做智能体编码和网防的今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b09bfd8d0320",
-      "title": "AI 工程师笔记本：在 Colab 上免费、无需框架即可使用 RAG/智能体/评估工具",
-      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "免费无框架是亮点，但'无需框架'听着像把轮子拆了重造，先跑通再说。"
-        },
-        "paper-police": {
-          "score": 62,
-          "review": "GitHub 仓库可查，但无论文无 benchmark，实用性待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Colab 直接跑 RAG 和 Agent，省去搭环境时间，适合快速验证想法。"
         }
       }
     },
