@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:14:40.082405Z",
+  "generated_at": "2026-08-29T14:45:44.618286Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_e6d6d7fa2d48",
-      "title": "GitHub Copilot 政策与计费即将调整 / Upcoming changes to GitHub Copilot policies and billing",
-      "url": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "改政策不晒具体数字，光说调整，用户只能干等细则。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "官方公告只说即将调整，无具体细节，无法验证，等于没说。"
-        },
-        "pragmatic": {
-          "score": 75,
-          "review": "计费政策要变，先查账单和用量，别等扣款了再改。"
-        }
-      }
-    },
-    {
       "story_id": "story_68a34bcc53e0",
       "title": "Visual Studio 中 GitHub Copilot —— 8 月更新 / GitHub Copilot in Visual Studio — August update",
       "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,18 @@
         "pragmatic": {
           "score": 72,
           "review": "VS 里 Copilot 更新，常用功能有变化，IDE 用户值得看一眼。"
+        }
+      }
+    },
+    {
+      "story_id": "story_ee0a4f6de9e1",
+      "title": "DLSS 5 泄露，模组作者把 Nvidia 的 AI 效果用到了所有地方 / DLSS 5 leaked and modders are putting Nvidia&#8217;s AI effects on everything",
+      "url": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
+      "rank": 3,
+      "reviews": {
+        "pragmatic": {
+          "score": 55,
+          "review": "模组玩法有意思，但非官方泄露，开发者别急着跟进。"
         }
       }
     }
