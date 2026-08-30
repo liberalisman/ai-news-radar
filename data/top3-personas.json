@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:59:28.392931Z",
+  "generated_at": "2026-08-30T13:18:30.881528Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -15,5 +15,66 @@
       "name": "实用派"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "story_id": "story_7c1d44ff3ca2",
+      "title": "Claude 将每周限额永久提高 25% / Claude permanently raising weekly limits by 25%",
+      "url": "https://news.ycombinator.com/item?id=49491282",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "限额提高25%是实打实的，但别指望能当无限用，够用就行。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方公告提限额，无论文代码评测，仅产品政策，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "额度涨了，重度用户能多跑点活，但别指望质变。"
+        }
+      }
+    },
+    {
+      "story_id": "story_fc264aa8f148",
+      "title": "Uber 用 Agent 接管 70% 代码 PR，AI 账单零增长",
+      "url": "https://x.com/AYi_AInotes/status/2093864816079208512",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "70% PR 是 Agent 提的，但合并前谁在审？账单零增长怕是没算人肉兜底成本。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "仅一条推特，无论文无代码无数据，70%和零增长无从验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "Uber 案例可参考，但细节少，先观望别急着抄。"
+        }
+      }
+    },
+    {
+      "story_id": "story_593496b70a8b",
+      "title": "何夕2077 AI 深度信号周报 (2026-W35)：智能体自治危机、稀疏激活架构与具身智能融资潮",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "标题堆砌三个热词，内容怕是综述拼盘，干货密度待验证。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "标题唬人，正文无链接无数据，周报当新闻发，证据为零。"
+        },
+        "pragmatic": {
+          "score": 45,
+          "review": "周报汇总行业动态，无直接可用的工具或API，看看即可。"
+        }
+      }
+    }
+  ]
 }
