@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:18:30.881528Z",
+  "generated_at": "2026-08-30T17:42:57.126178Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_7c1d44ff3ca2",
-      "title": "Claude 将每周限额永久提高 25% / Claude permanently raising weekly limits by 25%",
-      "url": "https://news.ycombinator.com/item?id=49491282",
+      "story_id": "story_78610e902a47",
+      "title": "默认将 Claude 会话链接附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://news.ycombinator.com/item?id=49498201",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "限额提高25%是实打实的，但别指望能当无限用，够用就行。"
+          "score": 45,
+          "review": "把会话链接塞进提交信息，是怕别人不知道你靠AI写代码？"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方公告提限额，无论文代码评测，仅产品政策，证据不足。"
+          "score": 25,
+          "review": "仅官方宣称默认附加链接，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "额度涨了，重度用户能多跑点活，但别指望质变。"
+          "score": 65,
+          "review": "默认加链接方便追溯，但会污染提交历史，团队需先定规范。"
         }
       }
     },
