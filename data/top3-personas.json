@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T05:51:25.464456Z",
+  "generated_at": "2026-08-31T14:14:44.848601Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_aa0326d1aa66",
-      "title": "Anthropic调整Claude Code用量限制:基本额度永久上调25%，实际每周上限降17%",
-      "url": "https://www.aibase.com/news/30709",
+      "story_id": "story_5f8cb23153f3",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "url": "https://www.ithome.com/0/996/637.htm",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "上调25%是文字游戏，实际周上限降17%，数学是体育老师教的？"
+          "score": 55,
+          "review": "接近 Opus-4.8？对比基线选得巧，多模态 Agent 的评测集怕不是自家搭的。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方公告，无数据支撑，上调与下调矛盾，缺第三方验证。"
+          "score": 72,
+          "review": "开源即证据，但多模态能力接近Opus需第三方跑分验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "免费额度涨但周上限降，重度用户得重新算账，API调用方影响不大。"
+          "score": 85,
+          "review": "开源模型直接能跑，多模态 Agent 可抄作业，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_78610e902a47",
-      "title": "默认将 Claude 会话链接附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://news.ycombinator.com/item?id=49498201",
+      "story_id": "story_fb04a48586f4",
+      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
+      "url": "https://www.aibase.com/news/30720",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
-          "review": "把会话链接塞进提交信息，是怕别人不知道你靠AI写代码？"
+          "review": "重构架构听着热闹，多人共享云端会话的延迟和成本敢晒吗？"
         },
         "paper-police": {
           "score": 25,
-          "review": "仅官方宣称默认附加链接，无论文无代码无评测，证据不足。"
+          "review": "仅官方发布消息，无论文无代码无评测，架构重构细节待验证。"
         },
         "pragmatic": {
-          "score": 65,
-          "review": "默认加链接方便追溯，但会污染提交历史，团队需先定规范。"
+          "score": 72,
+          "review": "底层重构影响现有集成，多人共享云端是新卖点，先看迁移文档再动手。"
         }
       }
     },
     {
-      "story_id": "story_e46ee5bfc69b",
-      "title": "上线即爆单!混元Hy4preview Agent能力大升级，腾讯紧急扩容集群",
-      "url": "https://www.aibase.com/news/30711",
+      "story_id": "story_492835039be8",
+      "title": "OpenClaw 2.0，意外之作",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "爆单是营销话术还是真数据？扩容集群倒是实在，但对比基线呢？"
+          "score": 72,
+          "review": "自称意外之作，多半是没测就发。亮点有，但吹的比测的多。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方宣传性能提升，无论文无代码无第三方评测，扩容消息也算不上证据。"
+          "score": 25,
+          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "Agent能力升级且已上线，可试但需留意扩容后稳定性。"
+          "score": 72,
+          "review": "开源Agent框架大版本，先看迁移文档再动手。"
         }
       }
     }

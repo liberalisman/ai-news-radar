@@ -1,156 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_4ce0c388aa43|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "宏观评论，无工具无API，不影响今天写代码。",
-      "title_hash": "10c135b7",
-      "scored_at": "2026-08-10T06:49:29.980989Z"
-    },
-    "story_cca82cecf2ae|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "默认自动模式省操作，但权限自动执行有风险，生产环境慎用。",
-      "title_hash": "5ff20f20",
-      "scored_at": "2026-08-10T06:49:28.152890Z"
-    },
-    "story_cca82cecf2ae|cynic|f4237a62": {
-      "score": 68,
-      "review": "默认自动模式，省了点头，多了翻车风险，调试时记得盯紧点。",
-      "title_hash": "5ff20f20",
-      "scored_at": "2026-08-10T06:49:32.026955Z"
-    },
-    "story_cca82cecf2ae|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方博客自宣新功能，无代码无评测，等社区实测反馈。",
-      "title_hash": "5ff20f20",
-      "scored_at": "2026-08-10T06:49:34.188219Z"
-    },
-    "story_9891276daf63|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "候选版体积膨胀离正式版还有距离，暂不影响现有开发环境。",
-      "title_hash": "7874ba07",
-      "scored_at": "2026-08-10T06:49:24.503588Z"
-    },
-    "story_69d516d1e1bc|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "渠道收费影响商家投放成本，做本地生活服务的技术方案需留意分成变化。",
-      "title_hash": "240ec0ef",
-      "scored_at": "2026-08-10T06:49:26.283580Z"
-    },
-    "story_91b9abec7d9b|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "跟写代码无关，属于职场话题，别浪费时间。",
-      "title_hash": "ff45bb83",
-      "scored_at": "2026-08-10T09:05:41.868287Z"
-    },
-    "story_4fbcdb76ab3b|pragmatic|0a5c5b24": {
-      "score": 22,
-      "review": "上市申购是资本动作，不写代码也不改接口，等产品落地再看。",
-      "title_hash": "c08b8f01",
-      "scored_at": "2026-08-10T09:05:43.547454Z"
-    },
-    "story_ae25210f3945|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源权重已放出，全双工语音可直接部署，做实时对话的今天就能试。",
-      "title_hash": "83adc588",
-      "scored_at": "2026-08-10T09:05:45.061683Z"
-    },
-    "story_89b346066121|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "团队版接入新模型，依赖阿里API的可以看下价格和限额有没有动。",
-      "title_hash": "f452e90d",
-      "scored_at": "2026-08-10T09:05:48.182464Z"
-    },
-    "story_55b8d62ba99b|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "平台开放给生态开发者，但具体API和玩法还没细说，先观望。",
-      "title_hash": "eb1150a3",
-      "scored_at": "2026-08-10T09:05:49.828105Z"
-    },
-    "story_d10e608ddfc9|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "AI代理隔离沙箱已发布，跑不可信代码可直接换用，省去自建环境。",
-      "title_hash": "5a842635",
-      "scored_at": "2026-08-10T09:05:52.160367Z"
-    },
-    "story_ae25210f3945|cynic|f4237a62": {
-      "score": 70,
-      "review": "开源是真，但'全双工'先拿出实测延迟和并发，别光发个权重包。",
-      "title_hash": "83adc588",
-      "scored_at": "2026-08-10T09:05:55.094186Z"
-    },
-    "story_ae25210f3945|paper-police|966065bf": {
-      "score": 18,
-      "review": "仅有新闻转述，无论文无代码无评测链接，开源真实性待验证。",
-      "title_hash": "83adc588",
-      "scored_at": "2026-08-10T09:05:57.557977Z"
-    },
-    "story_1c29972a7c81|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "蒸馏降本是实用方向，若开源可少烧 GPU，先看有没有仓库。",
-      "title_hash": "b63f0767",
-      "scored_at": "2026-08-10T10:53:26.026503Z"
-    },
-    "story_051c42befe67|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "政策定向产业红利，找落户补贴的团队可留意，写代码的暂不用动。",
-      "title_hash": "a84853ad",
-      "scored_at": "2026-08-10T10:53:27.935338Z"
-    },
-    "story_4b75b6d902d4|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景不写代码，等有产品再看。",
-      "title_hash": "7dd7fb0c",
-      "scored_at": "2026-08-10T10:53:29.617637Z"
-    },
-    "story_5b5d1dfa241f|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "调用量榜是营销话术，无具体模型和价格信息，不用行动。",
-      "title_hash": "cdf348e0",
-      "scored_at": "2026-08-10T10:53:33.499711Z"
-    },
-    "story_895e60ee83c3|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源可自部署，本地多模态智能体，直接上手试。",
-      "title_hash": "ca2c4dbd",
-      "scored_at": "2026-08-10T12:14:49.523305Z"
-    },
-    "story_376615090e56|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "开源权重即将放出，可提前评估接入，但别急着改代码。",
-      "title_hash": "1639a359",
-      "scored_at": "2026-08-10T12:14:53.278040Z"
-    },
-    "story_3711c7beb745|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "SGLang 当天支持 Muse Glimmer，跑本地 agent 工作流的可以直接上手。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:14:55.580305Z"
-    },
-    "story_3711c7beb745|cynic|f4237a62": {
-      "score": 55,
-      "review": "Day-0支持成了标配，优化的延迟和吞吐数据呢？别只发贺电。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:14:59.417606Z"
-    },
-    "story_3711c7beb745|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有合作博客，无评测细节和开源代码，性能存疑待验证。",
-      "title_hash": "a11ef51f",
-      "scored_at": "2026-08-10T12:15:02.498030Z"
-    },
-    "story_88c4bb049e16|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "GPT-5.6 已开放，金融任务可直接接 API，提效明显，适合立即试用。",
-      "title_hash": "b20dacb9",
-      "scored_at": "2026-08-10T13:58:48.131565Z"
-    },
-    "story_d49cfe84ff4f|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "用该订阅的得提前找替代，不用则忽略。",
-      "title_hash": "efa487d5",
-      "scored_at": "2026-08-10T13:58:54.969181Z"
-    },
     "story_1ad67226f47b|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "政策游说信，不涉及API或工具变化，做开发的当行业动向了解即可。",
@@ -6110,10 +5960,10 @@
       "scored_at": "2026-08-30T23:40:40.127749Z"
     },
     "story_40b94c960751|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "研究进展，暂无现成工具，做生成模型的可以瞄一眼。",
-      "title_hash": "8aebbf24",
-      "scored_at": "2026-08-30T23:40:41.218161Z"
+      "score": 45,
+      "review": "研究进展，暂无现成工具，做文本生成的可以留意后续实现。",
+      "title_hash": "bcf2cd1a",
+      "scored_at": "2026-08-31T14:14:31.622695Z"
     },
     "story_8672a4a6bc9e|cynic|f4237a62": {
       "score": 55,
@@ -6194,10 +6044,10 @@
       "scored_at": "2026-08-31T05:51:15.845061Z"
     },
     "story_2f756534b2bf|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "扩散语言模型是研究方向，暂无现成工具可抄，搞LLM的可以看看思路。",
-      "title_hash": "32cc997f",
-      "scored_at": "2026-08-31T05:51:16.876508Z"
+      "score": 62,
+      "review": "扩散LM教程可读，但无现成代码，动手前先看仓库。",
+      "title_hash": "c9e87ab3",
+      "scored_at": "2026-08-31T14:14:30.665204Z"
     },
     "story_a25a2dec59b6|pragmatic|0a5c5b24": {
       "score": 55,
@@ -6246,6 +6096,108 @@
       "review": "官方宣传性能提升，无论文无代码无第三方评测，扩容消息也算不上证据。",
       "title_hash": "6c74aa16",
       "scored_at": "2026-08-31T05:51:25.464398Z"
+    },
+    "story_5f8cb23153f3|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开源模型直接能跑，多模态 Agent 可抄作业，今天就能试。",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T14:14:23.845492Z"
+    },
+    "story_e42196c2130a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "法规影响产品合规，但细则未明，暂不需动手改代码。",
+      "title_hash": "838f102e",
+      "scored_at": "2026-08-31T14:14:24.837441Z"
+    },
+    "story_0f2732ec5e84|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全事件提醒你检查会话令牌，但无新工具，影响有限。",
+      "title_hash": "a0ee8417",
+      "scored_at": "2026-08-31T14:14:25.956327Z"
+    },
+    "story_14ea3c1dc9f0|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "账号安全事件，提醒你开二次验证，别用共享号跑任务。",
+      "title_hash": "60cd5ec5",
+      "scored_at": "2026-08-31T14:14:27.272538Z"
+    },
+    "story_f84aa5a305aa|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "预训练完成不等于能用，等API和评测出来再说。",
+      "title_hash": "28f5cc3f",
+      "scored_at": "2026-08-31T14:14:28.024433Z"
+    },
+    "story_fb04a48586f4|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "底层重构影响现有集成，多人共享云端是新卖点，先看迁移文档再动手。",
+      "title_hash": "4518c653",
+      "scored_at": "2026-08-31T14:14:29.350746Z"
+    },
+    "story_afb410df2404|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "多Agent协作创作工具，适合内容团队尝鲜，但非核心开发刚需。",
+      "title_hash": "dcfa6c78",
+      "scored_at": "2026-08-31T14:14:32.957255Z"
+    },
+    "story_33e3871730ab|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "苹果备货不足是供应链问题，不影响你选型，等有货再买。",
+      "title_hash": "cd007fff",
+      "scored_at": "2026-08-31T14:14:34.058144Z"
+    },
+    "story_492835039be8|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源Agent框架大版本，先看迁移文档再动手。",
+      "title_hash": "7e23cdcb",
+      "scored_at": "2026-08-31T14:14:35.222129Z"
+    },
+    "story_2d9cbccbc345|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "股价涨跌不写代码，等产品开放或降价再说。",
+      "title_hash": "df01c33d",
+      "scored_at": "2026-08-31T14:14:36.161620Z"
+    },
+    "story_aa9834fea55d|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "激励加码不写代码，等豆包API降价或开放再动手。",
+      "title_hash": "2931991e",
+      "scored_at": "2026-08-31T14:14:37.363482Z"
+    },
+    "story_5f8cb23153f3|cynic|f4237a62": {
+      "score": 55,
+      "review": "接近 Opus-4.8？对比基线选得巧，多模态 Agent 的评测集怕不是自家搭的。",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T14:14:38.545006Z"
+    },
+    "story_5f8cb23153f3|paper-police|966065bf": {
+      "score": 72,
+      "review": "开源即证据，但多模态能力接近Opus需第三方跑分验证。",
+      "title_hash": "919002e8",
+      "scored_at": "2026-08-31T14:14:39.848801Z"
+    },
+    "story_fb04a48586f4|cynic|f4237a62": {
+      "score": 45,
+      "review": "重构架构听着热闹，多人共享云端会话的延迟和成本敢晒吗？",
+      "title_hash": "4518c653",
+      "scored_at": "2026-08-31T14:14:40.911777Z"
+    },
+    "story_fb04a48586f4|paper-police|966065bf": {
+      "score": 25,
+      "review": "仅官方发布消息，无论文无代码无评测，架构重构细节待验证。",
+      "title_hash": "4518c653",
+      "scored_at": "2026-08-31T14:14:42.015352Z"
+    },
+    "story_492835039be8|cynic|f4237a62": {
+      "score": 72,
+      "review": "自称意外之作，多半是没测就发。亮点有，但吹的比测的多。",
+      "title_hash": "7e23cdcb",
+      "scored_at": "2026-08-31T14:14:43.477563Z"
+    },
+    "story_492835039be8|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。",
+      "title_hash": "7e23cdcb",
+      "scored_at": "2026-08-31T14:14:44.848548Z"
     }
   }
 }
