@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T05:29:04.123489Z",
+  "generated_at": "2026-09-01T10:26:43.814962Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_0e86c779cdf8",
-      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
-      "url": "https://www.aibase.com/news/30735",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "参数堆到3050亿，但开源了才敢说对标，先跑个第三方基准看看。"
-        },
-        "paper-police": {
-          "score": 82,
-          "review": "开源模型参数明确，但缺论文和独立评测，复现门槛待验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源模型可直接部署，3050亿参数对标顶尖，视觉任务今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_5f8cb23153f3",
       "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
       "url": "https://www.ithome.com/0/996/637.htm",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -60,7 +40,7 @@
       "story_id": "story_946b48cdca28",
       "title": "Codex CLI 0.152.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 80,
           "review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。"
+        }
+      }
+    },
+    {
+      "story_id": "story_18a954a364e8",
+      "title": "​百万 Token 上下文首次下放到端侧：讯飞星火 X2.5 双子星开源，全程国产算力训练",
+      "url": "https://www.aibase.com/news/30749",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "端侧百万token听着唬人，但得看小模型实际能跑多快，别又是PPT。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "仅官方宣称，无论文无代码无第三方评测，百万上下文待验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "端侧百万上下文开源，做移动端应用的可以试，但生态和兼容性待验证。"
         }
       }
     }

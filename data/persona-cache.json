@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_78643f2f0854|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Daybreak 若开放 API 可做自动化防御，先查文档再看是否接入。",
-      "title_hash": "cc592005",
-      "scored_at": "2026-08-11T06:19:28.831154Z"
-    },
-    "story_3cab6a09b116|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "专用模型未明确开放情况，有需求等API上线再看。",
-      "title_hash": "4337847f",
-      "scored_at": "2026-08-11T06:19:31.569988Z"
-    },
-    "story_1d745777aa0d|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "有现成流水线思路，做视频音频生成的可直接参考实现。",
-      "title_hash": "17cb0e8b",
-      "scored_at": "2026-08-11T06:19:33.490266Z"
-    },
-    "story_1afc977519d1|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "多了子代理和远程控制，写代码的能直接试用，功能落地可验证。",
-      "title_hash": "f83a09c6",
-      "scored_at": "2026-08-11T06:19:35.532641Z"
-    },
-    "story_4ea5136decec|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "对溯源合规有帮助，但API用户感知不强，先确认是否影响现有生成结果。",
-      "title_hash": "0d5e4a5f",
-      "scored_at": "2026-08-11T07:59:04.723134Z"
-    },
-    "story_a5ebfc1b3422|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "模型路线图猜测，没开放API前不影响选型，等实锤。",
-      "title_hash": "f5484396",
-      "scored_at": "2026-08-11T07:59:08.324308Z"
-    },
-    "story_2e9310d5724c|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "Claude 输出自动带隐形水印，做内容溯源的今天就能用，但注意服务端处理。",
-      "title_hash": "1f51ef75",
-      "scored_at": "2026-08-11T09:30:29.891197Z"
-    },
-    "story_4beb0dde8446|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数学研究离工程落地远，开发者不用行动。",
-      "title_hash": "fc8dd95b",
-      "scored_at": "2026-08-11T09:30:32.513884Z"
-    },
     "story_2ce1fd385677|pragmatic|0a5c5b24": {
       "score": 88,
       "review": "开源可 clone，1.3B 参数直接跑真实任务，低资源场景今天就能试。",
@@ -6192,6 +6144,78 @@
       "review": "仅官方更新日志，无论文无代码无评测，版本号而已。",
       "title_hash": "c32bdf57",
       "scored_at": "2026-09-01T05:29:04.123429Z"
+    },
+    "story_faa62a90bef8|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全事件值得知道，但无具体工具或方案，暂不用行动。",
+      "title_hash": "4b9539fc",
+      "scored_at": "2026-09-01T10:26:32.841304Z"
+    },
+    "story_738e46a2b277|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "AI 指路翻车是旧闻，对开发者无实操价值，别浪费时间。",
+      "title_hash": "be164f4b",
+      "scored_at": "2026-09-01T10:26:33.744954Z"
+    },
+    "story_a7f053021921|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "收入数字跟开发者无关，除非你打算投广告，否则看看就行。",
+      "title_hash": "f3e974a6",
+      "scored_at": "2026-09-01T10:26:34.524459Z"
+    },
+    "story_34e1bbef1d56|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "股价和参数规模是故事，没提API开放和价格，动手前先等实测。",
+      "title_hash": "b8d32979",
+      "scored_at": "2026-09-01T10:26:35.437737Z"
+    },
+    "story_d50e38f3313d|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "模型能生成界面原型，设计验证可用，但离生产代码还远。",
+      "title_hash": "410734c5",
+      "scored_at": "2026-09-01T10:26:36.699829Z"
+    },
+    "story_18a954a364e8|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "端侧百万上下文开源，做移动端应用的可以试，但生态和兼容性待验证。",
+      "title_hash": "53d47241",
+      "scored_at": "2026-09-01T10:26:37.631076Z"
+    },
+    "story_175ffde23042|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "行业大模型又进一步，但具体能力待验证，先观望。",
+      "title_hash": "235f32a8",
+      "scored_at": "2026-09-01T10:26:38.644127Z"
+    },
+    "story_c51d67ee2678|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "嘴炮不写代码，车企接不接豆包跟你今天交付无关。",
+      "title_hash": "0eec7238",
+      "scored_at": "2026-09-01T10:26:39.676898Z"
+    },
+    "story_f25d703e5962|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "开源模型可试，但具体参数和效果未知，先看文档再决定是否用。",
+      "title_hash": "9888ff0c",
+      "scored_at": "2026-09-01T10:26:40.866844Z"
+    },
+    "story_00f3e847a46f|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "YC新项目，没产品细节，等API或开源再动手。",
+      "title_hash": "81d1f4f0",
+      "scored_at": "2026-09-01T10:26:41.905912Z"
+    },
+    "story_18a954a364e8|cynic|f4237a62": {
+      "score": 72,
+      "review": "端侧百万token听着唬人，但得看小模型实际能跑多快，别又是PPT。",
+      "title_hash": "53d47241",
+      "scored_at": "2026-09-01T10:26:42.839866Z"
+    },
+    "story_18a954a364e8|paper-police|966065bf": {
+      "score": 35,
+      "review": "仅官方宣称，无论文无代码无第三方评测，百万上下文待验证。",
+      "title_hash": "53d47241",
+      "scored_at": "2026-09-01T10:26:43.814916Z"
     }
   }
 }
