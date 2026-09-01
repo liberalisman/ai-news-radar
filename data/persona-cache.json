@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_2ce1fd385677|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源可 clone，1.3B 参数直接跑真实任务，低资源场景今天就能试。",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:44.402759Z"
-    },
-    "story_2ce1fd385677|cynic|f4237a62": {
-      "score": 48,
-      "review": "1.3B激活参数听着省，怎么不报总参数？开源链接和基准呢？",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:49.423383Z"
-    },
-    "story_2ce1fd385677|paper-police|966065bf": {
-      "score": 25,
-      "review": "只看到公众号宣称开源，无代码无benchmark，无法验证。",
-      "title_hash": "d6b505bb",
-      "scored_at": "2026-08-11T10:29:52.956870Z"
-    },
-    "story_025a725a5231|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "数学能力再强也没开放API，短期不影响开发，关注后续产品化。",
-      "title_hash": "15e48ca3",
-      "scored_at": "2026-08-11T12:11:01.044648Z"
-    },
-    "story_9fbb4447f967|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "语言选型老话题，观点参考可以，别指望看完就能动手。",
-      "title_hash": "4d74c329",
-      "scored_at": "2026-08-11T12:11:02.555837Z"
-    },
-    "story_eddc237df9be|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "研究向的token优化方案，等有可跑代码再动手。",
-      "title_hash": "4338b71a",
-      "scored_at": "2026-08-11T14:02:07.459550Z"
-    },
-    "story_f527ac6baab4|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "本地跑智能体有新选择，但需确认是否开源，能下载就值。",
-      "title_hash": "04ab77da",
-      "scored_at": "2026-08-11T14:02:09.427035Z"
-    },
-    "story_2172d913ef6d|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "自查是否在用该类工具，尽快轮换凭证并检查暴露记录。",
-      "title_hash": "2d769870",
-      "scored_at": "2026-08-11T14:02:12.100791Z"
-    },
     "story_bdd68ac35b2d|pragmatic|0a5c5b24": {
       "score": 70,
       "review": "账单能按模型拆了，做成本核算的直接受益，改下报表就行。",
@@ -6216,6 +6168,72 @@
       "review": "仅官方宣称，无论文无代码无第三方评测，百万上下文待验证。",
       "title_hash": "53d47241",
       "scored_at": "2026-09-01T10:26:43.814916Z"
+    },
+    "story_d2daab157b0c|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Team 计划模型访问变了，先查权限再跑流水线，免得 CI 断。",
+      "title_hash": "c615157e",
+      "scored_at": "2026-09-01T15:12:37.921692Z"
+    },
+    "story_0ccf033da9a1|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "数据中心用电虚报影响选址和成本，做基建或云服务的得留意，普通开发者暂不用动。",
+      "title_hash": "92a811f3",
+      "scored_at": "2026-09-01T15:12:39.348210Z"
+    },
+    "story_e56fdeaae0c9|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "多模型接入方便选型，但功能本身不新，看具体需求再试。",
+      "title_hash": "1e418188",
+      "scored_at": "2026-09-01T15:12:40.591394Z"
+    },
+    "story_08b8473c055e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "多模态模型开源可即用，做Agent视觉任务的今天就能试。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T15:12:41.897955Z"
+    },
+    "story_48f071bde448|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "版权官司离写代码远，等判例落地再评估风险。",
+      "title_hash": "3e427d63",
+      "scored_at": "2026-09-01T15:12:42.727771Z"
+    },
+    "story_417795a6a239|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "观点文，无实操价值，等有具体案例或工具再关注。",
+      "title_hash": "f902d5a0",
+      "scored_at": "2026-09-01T15:12:43.789809Z"
+    },
+    "story_3dbd0aa14092|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "YC新项目，产品未开源，等API或demo出来再评估。",
+      "title_hash": "81d1f4f0",
+      "scored_at": "2026-09-01T15:12:45.104860Z"
+    },
+    "story_d2daab157b0c|cynic|f4237a62": {
+      "score": 70,
+      "review": "更新是实打实的，但别指望免费午餐，Team 计划门槛还在。",
+      "title_hash": "c615157e",
+      "scored_at": "2026-09-01T15:12:46.602907Z"
+    },
+    "story_d2daab157b0c|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方更新但无技术细节，无评测无代码，仅凭公告难证价值。",
+      "title_hash": "c615157e",
+      "scored_at": "2026-09-01T15:12:48.123352Z"
+    },
+    "story_08b8473c055e|cynic|f4237a62": {
+      "score": 70,
+      "review": "开源多模态模型专供Agent，方向对但避谈人类场景，水分得挤挤。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T15:12:49.627591Z"
+    },
+    "story_08b8473c055e|paper-police|966065bf": {
+      "score": 35,
+      "review": "仅媒体宣称开源，无论文无代码无评测，证据不足待验证。",
+      "title_hash": "6479b21a",
+      "scored_at": "2026-09-01T15:12:50.610009Z"
     }
   }
 }
