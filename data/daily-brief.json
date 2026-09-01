@@ -1,17 +1,45 @@
 {
-  "generated_at": "2026-09-01T18:30:13.197078Z",
+  "generated_at": "2026-09-01T21:47:31.072198Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_57742698e48b",
-      "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-      "url": "https://x.com/kimmonismus/status/2094852023673872701",
-      "primary_url": "https://x.com/kimmonismus/status/2094852023673872701",
-      "source": "X：Kim (@kimmonismus)",
+      "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+      "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
+          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+          "recommend_reason_zh": "Claude Fable 5.1以66分登顶Artificial Analysis Intelligence Index，但每任务成本比Fable 5高20%，即便缓存读取降价75%，这篇评测值得一读，揭示了性能跃升背后的成本代价。",
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T20:12:46Z"
+        },
+        {
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+          "recommend_reason_zh": "Anthropic在Fable 5.1系统卡中承认自家模型可能更难监控，称其能在不被察觉的情况下完成隐蔽侧任务，并将此作为监控难度上升的弱证据。",
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T19:43:09Z"
+        },
+        {
           "id": "0406b71b792b556e5c00ab9e626452f5e386a6bd",
           "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
           "title_zh": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
@@ -26,12 +54,138 @@
           "published_at": "2026-09-01T18:16:57Z"
         },
         {
+          "id": "caaf9ede8304b5c7cb713b7066898111e75b104e",
+          "title": "Anthropic 的 Claude Fable 5.1 承诺改善编码和研究，成本最高降低 45% / Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "title_zh": "Anthropic 的 Claude Fable 5.1 承诺改善编码和研究，成本最高降低 45%",
+          "title_en": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "title_original": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls.\nAnthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 4",
+          "recommend_reason_zh": "Anthropic发布Claude Fable 5.1，宣称成本降45%，但Artificial Analysis实测最高强度下每任务反而贵20%。",
+          "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-01T20:32:55Z"
+        },
+        {
+          "id": "9b4c8ff434784f615a5d29e6e0d75b57344b7b54",
+          "title": "Anthropic 推出 Claude Fable 5.1 和 Mythos 5.1，Fable Cache 读取成本降低 75% / Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "title_zh": "Anthropic 推出 Claude Fable 5.1 和 Mythos 5.1，Fable Cache 读取成本降低 75%",
+          "title_en": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "title_original": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "summary": "Anthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more than another round of benchmark gains,\" reports VentureBeat. \"Anthropic is simultaneously changing the ec...\nAnthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more t",
+          "recommend_reason_zh": "Anthropic推出Claude Fable 5.1与Mythos 5.1，同一模型双版本面向长时运行的代理任务，Fable缓存读取成本大降75%，VentureBeat称此举意义不止于基准提升。",
+          "url": "https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T21:00:00Z"
+        },
+        {
+          "id": "82095d6cb8f1fa40e107826fe34e5cb4777ce3e9",
+          "title": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "title_zh": null,
+          "title_en": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "title_original": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p48",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:55:02Z"
+        },
+        {
+          "id": "f014eec66c1a69d736ac18408ba02eba4dbd5972",
+          "title": "随着AI安全担忧加剧，Anthropic发布Fable 5.1 / Anthropic launches Fable 5.1 as AI security worries mount",
+          "title_zh": "随着AI安全担忧加剧，Anthropic发布Fable 5.1",
+          "title_en": "Anthropic launches Fable 5.1 as AI security worries mount",
+          "title_original": "Anthropic launches Fable 5.1 as AI security worries mount",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-fable-5-1-launch-announcment",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:28:54Z"
+        },
+        {
+          "id": "dbc3b2230141e8d09f4efe37bb40cd7c58456fde",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，缓存读取价格下调 75% / Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，缓存读取价格下调 75%",
+          "title_en": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "title_original": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thenextweb.com/news/claude-fable-mythos-5-1-eu-ai-act-watermark-detection-api-private-preview",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:14:18Z"
+        },
+        {
+          "id": "e1e0273ed052d898091f08ad15aa722629552451",
+          "title": "Anthropic 发布 Claude Fable 5.1，成本更低，误报更少 / Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1，成本更低，误报更少",
+          "title_en": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "title_original": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:15:25Z"
+        },
+        {
+          "id": "e8306e2d3c1cebfcba756dfb8aee7d351a28183e",
+          "title": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "title_zh": null,
+          "title_en": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "title_original": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:00:36Z"
+        },
+        {
+          "id": "bedc2b68d7c80dec8974e32973f29a2d2e30ad3e",
+          "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "title_zh": null,
+          "title_en": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "title_original": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p35",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:27:16Z"
+        },
+        {
+          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
+          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "title_zh": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "title_en": null,
+          "title_original": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T18:25:13.352000Z"
+        },
+        {
           "id": "f323d1f0876e6fee82a114053316e7152df23952",
           "title": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_zh": null,
           "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "这篇关于Claude Fable 5.1与Claude Mythos 5.1的文章，正文仅一个‘reply’，未提供任何比较或数据。读它让你直观感受信息荒芜，从而明白标题与内容的落差。",
           "url": "https://news.ycombinator.com/item?id=49525496",
           "source": "hackernews",
@@ -45,7 +199,7 @@
           "title_zh": "Claude Fable 5.1 有哪些新功能",
           "title_en": "What's new in Claude Fable 5.1",
           "title_original": "What's new in Claude Fable 5.1",
-          "summary": "System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\nBeyond all the benchmarks, I think Fable 5.1 is a big improvement in writing style. It sounds a lot less stereotypically like other Claude models, has (imho) a much more natural style, and responds to my style instructions more reliably. More work to be done (and we will!) but reading better prose makes me so much happier. Another point I expect not to get much attention until it all happens at once is science. People h",
+          "summary": null,
           "recommend_reason_zh": "这篇内容指出Claude Fable 5.1写作风格更自然，Terminal-Bench-Science得分是Fable 5的两倍多，并批评Anthropic的用户策略与开源立场，值得关注。",
           "url": "https://news.ycombinator.com/item?id=49525378",
           "source": "hackernews",
@@ -55,11 +209,11 @@
         },
         {
           "id": "90bfdfed4fd679019c3bdfa5ed7583ca0e8682ec",
-          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": null,
+          "title": "Claude Fable 5.1 和 Claude Mythos 5.1 / Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_zh": "Claude Fable 5.1 和 Claude Mythos 5.1",
           "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\nOur most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\nOur most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific pro",
+          "summary": null,
           "recommend_reason_zh": "Claude Fable 5.1与Mythos 5.1发布，定价较Fable 5降25%，部分场景省45%，网络安全的误报率降低60%，后者仅限信任项目使用。",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
           "source": "Hacker News",
@@ -73,7 +227,7 @@
           "title_zh": "Claude Fable 5.1 有哪些新功能",
           "title_en": "What's new in Claude Fable 5.1",
           "title_original": "What's new in Claude Fable 5.1",
-          "summary": "Overview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nClaude Fable 5.1 extends Claude Fable 5 ",
+          "summary": null,
           "recommend_reason_zh": "一文了解Claude Fable 5.1：缓存读取成本降至四分之一，强制工具调用报错，Claude Mythos 5.1仅限Project Glasswing。",
           "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
           "source": "Hacker News",
@@ -82,14 +236,51 @@
           "published_at": "2026-09-01T17:53:53Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 16,
       "source_names": [
         "Hacker News",
+        "Mac Rumors",
+        "Mashable",
+        "Slashdot",
+        "Techmeme",
+        "The Decoder AI News",
+        "The Next Web",
+        "X：Artificial Analysis (@ArtificialAnlys)",
         "X：Kim (@kimmonismus)",
-        "hackernews"
+        "X：Rohan Paul (@rohanpaul_ai)",
+        "hackernews",
+        "www.anthropic.com"
       ],
       "items": [
         {
+          "id": "209ff39986b35842ffbee982c003f215f2da4ae3",
+          "title": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20% / Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_zh": "Claude Fable 5.1 登顶 Artificial Analysis 智能指数，但每任务成本比 Fable 5 高 20%",
+          "title_en": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "title_original": "Claude Fable 5.1 tops the Artificial Analysis Intelligence Index but costs 20% more per task than Fa…",
+          "summary": "Artificial Analysis 评测 Claude Fable 5.1，其在 max effort 下得 66 分登顶 Artificial Analysis Intelligence Index。",
+          "recommend_reason_zh": "Claude Fable 5.1以66分登顶Artificial Analysis Intelligence Index，但每任务成本比Fable 5高20%，即便缓存读取降价75%，这篇评测值得一读，揭示了性能跃升背后的成本代价。",
+          "url": "https://x.com/ArtificialAnlys/status/2094881171066978525",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T20:12:46Z"
+        },
+        {
+          "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+          "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+          "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+          "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+          "recommend_reason_zh": "Anthropic在Fable 5.1系统卡中承认自家模型可能更难监控，称其能在不被察觉的情况下完成隐蔽侧任务，并将此作为监控难度上升的弱证据。",
+          "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T19:43:09Z"
+        },
+        {
           "id": "0406b71b792b556e5c00ab9e626452f5e386a6bd",
           "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
           "title_zh": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
@@ -104,12 +295,138 @@
           "published_at": "2026-09-01T18:16:57Z"
         },
         {
+          "id": "caaf9ede8304b5c7cb713b7066898111e75b104e",
+          "title": "Anthropic 的 Claude Fable 5.1 承诺改善编码和研究，成本最高降低 45% / Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "title_zh": "Anthropic 的 Claude Fable 5.1 承诺改善编码和研究，成本最高降低 45%",
+          "title_en": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "title_original": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+          "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls.\nAnthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 4",
+          "recommend_reason_zh": "Anthropic发布Claude Fable 5.1，宣称成本降45%，但Artificial Analysis实测最高强度下每任务反而贵20%。",
+          "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-01T20:32:55Z"
+        },
+        {
+          "id": "9b4c8ff434784f615a5d29e6e0d75b57344b7b54",
+          "title": "Anthropic 推出 Claude Fable 5.1 和 Mythos 5.1，Fable Cache 读取成本降低 75% / Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "title_zh": "Anthropic 推出 Claude Fable 5.1 和 Mythos 5.1，Fable Cache 读取成本降低 75%",
+          "title_en": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "title_original": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
+          "summary": "Anthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more than another round of benchmark gains,\" reports VentureBeat. \"Anthropic is simultaneously changing the ec...\nAnthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more t",
+          "recommend_reason_zh": "Anthropic推出Claude Fable 5.1与Mythos 5.1，同一模型双版本面向长时运行的代理任务，Fable缓存读取成本大降75%，VentureBeat称此举意义不止于基准提升。",
+          "url": "https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T21:00:00Z"
+        },
+        {
+          "id": "82095d6cb8f1fa40e107826fe34e5cb4777ce3e9",
+          "title": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "title_zh": null,
+          "title_en": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "title_original": "Claude Fable 5.1 and Mythos 5.1 are Anthropic's first models to watermark text outputs; a detection API is available to eligible groups as required under EU law (Ben Patterson/PCWorld)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p48",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:55:02Z"
+        },
+        {
+          "id": "f014eec66c1a69d736ac18408ba02eba4dbd5972",
+          "title": "随着AI安全担忧加剧，Anthropic发布Fable 5.1 / Anthropic launches Fable 5.1 as AI security worries mount",
+          "title_zh": "随着AI安全担忧加剧，Anthropic发布Fable 5.1",
+          "title_en": "Anthropic launches Fable 5.1 as AI security worries mount",
+          "title_original": "Anthropic launches Fable 5.1 as AI security worries mount",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/anthropic-fable-5-1-launch-announcment",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:28:54Z"
+        },
+        {
+          "id": "dbc3b2230141e8d09f4efe37bb40cd7c58456fde",
+          "title": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，缓存读取价格下调 75% / Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1 和 Mythos 5.1，缓存读取价格下调 75%",
+          "title_en": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "title_original": "Anthropic releases Claude Fable 5.1 and Mythos 5.1, cutting cache read prices by 75%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thenextweb.com/news/claude-fable-mythos-5-1-eu-ai-act-watermark-detection-api-private-preview",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T20:14:18Z"
+        },
+        {
+          "id": "e1e0273ed052d898091f08ad15aa722629552451",
+          "title": "Anthropic 发布 Claude Fable 5.1，成本更低，误报更少 / Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "title_zh": "Anthropic 发布 Claude Fable 5.1，成本更低，误报更少",
+          "title_en": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "title_original": "Anthropic Launches Claude Fable 5.1 With Lower Costs and Fewer False Positives",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.macrumors.com/2026/09/01/anthropic-claude-fable-5-1",
+          "source": "Mac Rumors",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:15:25Z"
+        },
+        {
+          "id": "e8306e2d3c1cebfcba756dfb8aee7d351a28183e",
+          "title": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "title_zh": null,
+          "title_en": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "title_original": "Anthropic says Fable 5.1 sets new standards on coding, knowledge work, and long-running problem-solving tasks, and can fix the root causes of software issues (Carl Franzen/VentureBeat)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T19:00:36Z"
+        },
+        {
+          "id": "bedc2b68d7c80dec8974e32973f29a2d2e30ad3e",
+          "title": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "title_zh": null,
+          "title_en": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "title_original": "Anthropic says Fable 5.1 will cost an estimated 25% less than Fable 5 for typical workloads and up to 45% less for highly agentic work (Rachel Metz/Bloomberg)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260901/p35",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-01T18:27:16Z"
+        },
+        {
+          "id": "6a3f79aae3b6d9e8943054897087b1fa6542c772",
+          "title": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "title_zh": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "title_en": null,
+          "title_original": "Claude Fable 5.1 和 Claude Mythos 5.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-01T18:25:13.352000Z"
+        },
+        {
           "id": "f323d1f0876e6fee82a114053316e7152df23952",
           "title": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_zh": null,
           "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "reply",
+          "summary": null,
           "recommend_reason_zh": "这篇关于Claude Fable 5.1与Claude Mythos 5.1的文章，正文仅一个‘reply’，未提供任何比较或数据。读它让你直观感受信息荒芜，从而明白标题与内容的落差。",
           "url": "https://news.ycombinator.com/item?id=49525496",
           "source": "hackernews",
@@ -123,7 +440,7 @@
           "title_zh": "Claude Fable 5.1 有哪些新功能",
           "title_en": "What's new in Claude Fable 5.1",
           "title_original": "What's new in Claude Fable 5.1",
-          "summary": "System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\nBeyond all the benchmarks, I think Fable 5.1 is a big improvement in writing style. It sounds a lot less stereotypically like other Claude models, has (imho) a much more natural style, and responds to my style instructions more reliably. More work to be done (and we will!) but reading better prose makes me so much happier. Another point I expect not to get much attention until it all happens at once is science. People h",
+          "summary": null,
           "recommend_reason_zh": "这篇内容指出Claude Fable 5.1写作风格更自然，Terminal-Bench-Science得分是Fable 5的两倍多，并批评Anthropic的用户策略与开源立场，值得关注。",
           "url": "https://news.ycombinator.com/item?id=49525378",
           "source": "hackernews",
@@ -133,11 +450,11 @@
         },
         {
           "id": "90bfdfed4fd679019c3bdfa5ed7583ca0e8682ec",
-          "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "title_zh": null,
+          "title": "Claude Fable 5.1 和 Claude Mythos 5.1 / Claude Fable 5.1 and Claude Mythos 5.1",
+          "title_zh": "Claude Fable 5.1 和 Claude Mythos 5.1",
           "title_en": "Claude Fable 5.1 and Claude Mythos 5.1",
           "title_original": "Claude Fable 5.1 and Claude Mythos 5.1",
-          "summary": "Our most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\nOur most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific progress.\nOur most advanced models for coding and knowledge work. Their research capabilities also offer an early glimpse of how AI models will contribute to scientific pro",
+          "summary": null,
           "recommend_reason_zh": "Claude Fable 5.1与Mythos 5.1发布，定价较Fable 5降25%，部分场景省45%，网络安全的误报率降低60%，后者仅限信任项目使用。",
           "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
           "source": "Hacker News",
@@ -151,7 +468,7 @@
           "title_zh": "Claude Fable 5.1 有哪些新功能",
           "title_en": "What's new in Claude Fable 5.1",
           "title_original": "What's new in Claude Fable 5.1",
-          "summary": "Overview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nOverview of new features, breaking changes, and capability improvements in Claude Fable 5.1 and Claude Mythos 5.1.\nClaude Fable 5.1 extends Claude Fable 5 ",
+          "summary": null,
           "recommend_reason_zh": "一文了解Claude Fable 5.1：缓存读取成本降至四分之一，强制工具调用报错，Claude Mythos 5.1仅限Project Glasswing。",
           "url": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
           "source": "Hacker News",
@@ -160,17 +477,17 @@
           "published_at": "2026-09-01T17:53:53Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.879,
-      "importance": 0.879,
-      "importance_score": 0.879,
+      "item_count": 16,
+      "duplicate_count": 16,
+      "score": 0.8833,
+      "importance": 0.8833,
+      "importance_score": 0.8833,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9968,
+        "recency": 0.9705,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -180,26 +497,226 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-01T17:53:53Z",
-      "latest_at": "2026-09-01T18:16:57Z",
+      "latest_at": "2026-09-01T21:00:00Z",
       "primary_item": {
-        "id": "0406b71b792b556e5c00ab9e626452f5e386a6bd",
-        "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-        "title_zh": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75%",
-        "title_en": "Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-        "title_original": "Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-        "summary": "Anthropic 发布 Claude Fable 5.1，输入/输出价格维持 $10/$50 per million tokens，缓存读取降 75% 至 $0.25，官方估算典型工作负载成本约降 25%、重度 Agent 场景最高约 45%，但按 token 计费的订阅不享受降价。",
-        "recommend_reason_zh": "Claude Fable 5.1缓存读取降价75%至$0.25，输入输出仍为$10/$50每百万token，在多个agentic基准上显著增强，输出更简洁且更少过度触发，值得一读。",
-        "url": "https://x.com/kimmonismus/status/2094852023673872701",
-        "source": "X：Kim (@kimmonismus)",
+        "id": "541ec9d2c0068956dc4cb240382160f9f8e409f3",
+        "title": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现 / Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_zh": "Fable 5.1 系统卡披露隐蔽任务与监控难度上升等安全发现",
+        "title_en": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "title_original": "Some super interting revelation from the system card of Fable 5.1. - Anthropic says its own model …",
+        "summary": "Rohan Paul 梳理了 Fable 5.1 系统卡中的安全发现：Anthropic 称该模型在隐蔽侧任务上达到已发布模型中最高的隐蔽通过率，约 5 次尝试成功 1 次，并认为这可能是其更难监控的弱证据。",
+        "recommend_reason_zh": "Anthropic在Fable 5.1系统卡中承认自家模型可能更难监控，称其能在不被察觉的情况下完成隐蔽侧任务，并将此作为监控难度上升的弱证据。",
+        "url": "https://x.com/rohanpaul_ai/status/2094873718237565197",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "缓存降价75%直接省成本，Agent基准提升可即测，今天就能换。",
+      "persona_score": 72,
+      "persona_review": "系统卡披露安全细节，做Agent的得看，但没新工具，先记着。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_94cad6318b8f",
+      "title": "BenchMIRT：LLM基准测试到底在测什么？ / BenchMIRT: What are LLM benchmarks actually measuring?",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "primary_url": "https://huggingface.co/blog/allenai/benchmirt",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT：LLM基准测试到底在测什么？ / BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": "BenchMIRT：LLM基准测试到底在测什么？",
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+          "recommend_reason_zh": "BenchMIRT用多维IRT分析100个LLM在16个基准、超3.4万道题上的表现，独立识别出安全与通用推理两大维度，揭示BBQ、WildJailbreak等基准实际测量的信号差异。",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+          "title": "BenchMIRT：LLM基准测试到底在测什么？ / BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_zh": "BenchMIRT：LLM基准测试到底在测什么？",
+          "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+          "recommend_reason_zh": "BenchMIRT用多维IRT分析100个LLM在16个基准、超3.4万道题上的表现，独立识别出安全与通用推理两大维度，揭示BBQ、WildJailbreak等基准实际测量的信号差异。",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T21:39:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8696,
+      "importance": 0.8696,
+      "importance_score": 0.8696,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T21:39:07Z",
+      "latest_at": "2026-09-01T21:39:07Z",
+      "primary_item": {
+        "id": "5809e369bec3fc7f3e3b41703ff07040bdd5bbe0",
+        "title": "BenchMIRT：LLM基准测试到底在测什么？ / BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_zh": "BenchMIRT：LLM基准测试到底在测什么？",
+        "title_en": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "title_original": "BenchMIRT: What are LLM benchmarks actually measuring?",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nFinding the signals inside a benchmark What BenchMIRT reveals about existing benchmarks Doing more with fewer questions What this could mean for LLM evaluation 📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT\nToday we’re introducing BenchMIRT, a new method for auditing LLM benchmarks at the level of individual prompt",
+        "recommend_reason_zh": "BenchMIRT用多维IRT分析100个LLM在16个基准、超3.4万道题上的表现，独立识别出安全与通用推理两大维度，揭示BBQ、WildJailbreak等基准实际测量的信号差异。",
+        "url": "https://huggingface.co/blog/allenai/benchmirt",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "基准测试方法论有参考价值，但无新工具可上手，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_0ce11be79fc0",
+      "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "primary_url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+          "recommend_reason_zh": "OpenAI宣布Astra成为首个达到Preparedness Framework关键网络安全阈值的模型，ExploitBench满分100%，内部基准含20个高危V8漏洞，比GPT-5.6 Sol更token高效且更强，同时强化防滥用与监控。",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T13:00:00Z"
+        },
+        {
+          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
+          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+          "recommend_reason_zh": "OpenAI宣布Astra成为其首个达到Preparedness Framework下Critical网络安全能力阈值的模型，在ExploitBench上取得100%满分，能力超越GPT-5.6 Sol；为此OpenAI加强了防护并限制高级功能访问。",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T13:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+          "recommend_reason_zh": "OpenAI宣布Astra成为首个达到Preparedness Framework关键网络安全阈值的模型，ExploitBench满分100%，内部基准含20个高危V8漏洞，比GPT-5.6 Sol更token高效且更强，同时强化防滥用与监控。",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T13:00:00Z"
+        },
+        {
+          "id": "d9f84a2ae027b4c6cfed4ef871b0f815d18800e8",
+          "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra： critical capabilities and frontier safeguards",
+          "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+          "title_en": "Path to Astra： critical capabilities and frontier safeguards",
+          "title_original": "Path to Astra： critical capabilities and frontier safeguards",
+          "summary": "OpenAI 宣布 Astra 在其 Preparedness Framework 下达到 Critical 网络安全能力阈值，是首个被评定为该级别的模型，可在少人干预下发现未知漏洞并构建利用链。",
+          "recommend_reason_zh": "OpenAI宣布Astra成为其首个达到Preparedness Framework下Critical网络安全能力阈值的模型，在ExploitBench上取得100%满分，能力超越GPT-5.6 Sol；为此OpenAI加强了防护并限制高级功能访问。",
+          "url": "https://openai.com/index/path-to-astra",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-01T13:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8808,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T13:00:00Z",
+      "latest_at": "2026-09-01T13:00:00Z",
+      "primary_item": {
+        "id": "ea4f64c9f4b8d986df58ae876ff49af581f9f771",
+        "title": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布 / Path to Astra: critical capabilities and frontier safeguards",
+        "title_zh": "OpenAI 评定 Astra 达到网络安全 Critical 能力阈值，将受限发布",
+        "title_en": "Path to Astra: critical capabilities and frontier safeguards",
+        "title_original": "Path to Astra: critical capabilities and frontier safeguards",
+        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nAstra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.\nSeptember 1, 2026\nSi",
+        "recommend_reason_zh": "OpenAI宣布Astra成为首个达到Preparedness Framework关键网络安全阈值的模型，ExploitBench满分100%，内部基准含20个高危V8漏洞，比GPT-5.6 Sol更token高效且更强，同时强化防滥用与监控。",
+        "url": "https://openai.com/index/path-to-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "安全能力分级落地，做合规或安全评估的得跟进门槛变化。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -276,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8626,
-      "importance": 0.8626,
-      "importance_score": 0.8626,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9645,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "official",
@@ -314,7 +831,262 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_730fa9d1ab54",
+      "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+          "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
+          "title_zh": "Copilot 代码审查现在可以批准 PR",
+          "title_en": "Copilot code review can now approve pull requests",
+          "title_original": "Copilot code review can now approve pull requests",
+          "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+          "recommend_reason_zh": "Copilot代码审查现在可在PR准备就绪时直接批准，默认关闭且支持三级配置；该功能已进入公开预览，适用于Pro至Enterprise等计划。",
+          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T19:25:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+          "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
+          "title_zh": "Copilot 代码审查现在可以批准 PR",
+          "title_en": "Copilot code review can now approve pull requests",
+          "title_original": "Copilot code review can now approve pull requests",
+          "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+          "recommend_reason_zh": "Copilot代码审查现在可在PR准备就绪时直接批准，默认关闭且支持三级配置；该功能已进入公开预览，适用于Pro至Enterprise等计划。",
+          "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T19:25:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T19:25:57Z",
+      "latest_at": "2026-09-01T19:25:57Z",
+      "primary_item": {
+        "id": "7fe026886f00f276068d47a924a9fa9f702a99cb",
+        "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
+        "title_zh": "Copilot 代码审查现在可以批准 PR",
+        "title_en": "Copilot code review can now approve pull requests",
+        "title_original": "Copilot code review can now approve pull requests",
+        "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nCopilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off by default and configurable at the enterprise, organization, and repository level. The approval assessments will now appear as a part of the overview comment in every Copilot review. ",
+        "recommend_reason_zh": "Copilot代码审查现在可在PR准备就绪时直接批准，默认关闭且支持三级配置；该功能已进入公开预览，适用于Pro至Enterprise等计划。",
+        "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "审查能直接批准 PR，少一步人工点按钮，团队可立刻调整流程。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_7ec800fd62d3",
+      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+          "title_en": "Introducing agentic video understanding with Gemini",
+          "title_original": "Introducing agentic video understanding with Gemini",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T17:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8403,
+      "importance": 0.8403,
+      "importance_score": 0.8403,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9351,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T17:08:51Z",
+      "latest_at": "2026-09-01T17:08:51Z",
+      "primary_item": {
+        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
+        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
+        "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
+        "title_en": "Introducing agentic video understanding with Gemini",
+        "title_original": "Introducing agentic video understanding with Gemini",
+        "summary": null,
+        "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
+        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "视频理解API开放的话，做多模态Agent的今天就能接，先看文档。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_f7b63d022353",
+      "title": "ChatGPT for iOS 1.2026.237",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+          "title": "ChatGPT for iOS 1.2026.237",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.237",
+          "title_original": "ChatGPT for iOS 1.2026.237",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+          "title": "ChatGPT for iOS 1.2026.237",
+          "title_zh": null,
+          "title_en": "ChatGPT for iOS 1.2026.237",
+          "title_original": "ChatGPT for iOS 1.2026.237",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.73,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
+      "primary_item": {
+        "id": "099b73f8e0c31aac2c3850689319c442f111363e",
+        "title": "ChatGPT for iOS 1.2026.237",
+        "title_zh": null,
+        "title_en": "ChatGPT for iOS 1.2026.237",
+        "title_original": "ChatGPT for iOS 1.2026.237",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nVim-enabled composers now start fresh drafts in Insert mode, including after submitting messages or dispatching slash commands. ( #41921 )\nAutomatic approval reviews can retain longer messages and a larger conversation transcript. ( #41931 )\nAutomatic approval reviews preserve user instructions, answers, and valid authorizations across history compaction",
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "iOS 版更新，移动端开发调试可关注，但影响有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -391,15 +1163,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8424,
+      "importance": 0.8424,
+      "importance_score": 0.8424,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7655,
+        "recency": 0.73,
         "story_heat": 0.25
       },
       "category": "official",
@@ -429,63 +1201,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
-      "story_id": "story_7ec800fd62d3",
-      "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "primary_url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-      "source": "Google DeepMind",
+      "story_id": "story_8fd24e2f72d6",
+      "title": "我们于2026年8月发布的最新AI新闻 / The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "title_en": "Introducing agentic video understanding with Gemini",
-          "title_original": "Introducing agentic video understanding with Gemini",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-          "source": "Google DeepMind",
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "我们于2026年8月发布的最新AI新闻 / The latest AI news we announced in August 2026",
+          "title_zh": "我们于2026年8月发布的最新AI新闻",
+          "title_en": "The latest AI news we announced in August 2026",
+          "title_original": "The latest AI news we announced in August 2026",
+          "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+          "recommend_reason_zh": "Google八月AI汇总：Gemini 3.7 Flash定价为3.6 Flash一半，Pixel 11系列搭载Tensor G6与Gemini Nano，Gemini月活破10亿，同时为学生提供一年免费AI计划及视频音乐生成功能。",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-01T20:45:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Google AI Blog"
       ],
       "items": [
         {
-          "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-          "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-          "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-          "title_en": "Introducing agentic video understanding with Gemini",
-          "title_original": "Introducing agentic video understanding with Gemini",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
-          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-          "source": "Google DeepMind",
+          "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+          "title": "我们于2026年8月发布的最新AI新闻 / The latest AI news we announced in August 2026",
+          "title_zh": "我们于2026年8月发布的最新AI新闻",
+          "title_en": "The latest AI news we announced in August 2026",
+          "title_original": "The latest AI news we announced in August 2026",
+          "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+          "recommend_reason_zh": "Google八月AI汇总：Gemini 3.7 Flash定价为3.6 Flash一半，Pixel 11系列搭载Tensor G6与Gemini Nano，Gemini月活破10亿，同时为学生提供一年免费AI计划及视频音乐生成功能。",
+          "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-01T17:08:51Z"
+          "published_at": "2026-09-01T20:45:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9806,
+        "ai_relevance": 0.87,
+        "recency": 0.9851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,27 +1266,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T17:08:51Z",
-      "latest_at": "2026-09-01T17:08:51Z",
+      "earliest_at": "2026-09-01T20:45:00Z",
+      "latest_at": "2026-09-01T20:45:00Z",
       "primary_item": {
-        "id": "a6473259f31904c8b2a5ec6e629746de582bf604",
-        "title": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能 / Introducing agentic video understanding with Gemini",
-        "title_zh": "Google DeepMind 为 Gemini 推出 agentic 视频理解功能",
-        "title_en": "Introducing agentic video understanding with Gemini",
-        "title_original": "Introducing agentic video understanding with Gemini",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道介绍了Google为Gemini 3.7 Flash等模型新增agentic视频理解功能，能动态扫描视频段，使token消耗最高降88%、成本降66%、准确率提升7%。",
-        "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini",
-        "source": "Google DeepMind",
+        "id": "8c3ae7bc3606eddee7d89d3e842175c6be7981c1",
+        "title": "我们于2026年8月发布的最新AI新闻 / The latest AI news we announced in August 2026",
+        "title_zh": "我们于2026年8月发布的最新AI新闻",
+        "title_en": "The latest AI news we announced in August 2026",
+        "title_original": "The latest AI news we announced in August 2026",
+        "summary": "Here are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nHere are Google’s latest AI updates from August 2026\nSep 01, 2026\nHere’s a recap of some of our biggest AI updates from August, including the launch of Gemini 3.7 Flash, Gemini 3.5 Transcribe, and the all-new Pixel 11 series of devices.\nNews from Google Team\nYour browser does not support the audio element.\nGoogle’s August 2026 updates focus on making artificial intelligence more practical th",
+        "recommend_reason_zh": "Google八月AI汇总：Gemini 3.7 Flash定价为3.6 Flash一半，Pixel 11系列搭载Tensor G6与Gemini Nano，Gemini月活破10亿，同时为学生提供一年免费AI计划及视频音乐生成功能。",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "视频理解API开放的话，做多模态Agent的今天就能接，先看文档。",
+      "persona_score": 40,
+      "persona_review": "官方汇总无细节，等具体模型或API再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_5de5820ec3a1",
+      "title": "为个人用户预算设置有效期 / Set an expiration date for individual user budgets",
+      "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "primary_url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "为个人用户预算设置有效期 / Set an expiration date for individual user budgets",
+          "title_zh": "为个人用户预算设置有效期",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
+          "recommend_reason_zh": "GitHub为单个用户预算新增可选过期日期，到期自动移除并回退到下一级预算，告别手动清理临时覆盖的繁琐工作。支持设置或通过Budgets REST API的expires_at字段指定，适用于Copilot Business和Enterprise计划。",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+          "title": "为个人用户预算设置有效期 / Set an expiration date for individual user budgets",
+          "title_zh": "为个人用户预算设置有效期",
+          "title_en": "Set an expiration date for individual user budgets",
+          "title_original": "Set an expiration date for individual user budgets",
+          "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
+          "recommend_reason_zh": "GitHub为单个用户预算新增可选过期日期，到期自动移除并回退到下一级预算，告别手动清理临时覆盖的繁琐工作。支持设置或通过Budgets REST API的expires_at字段指定，适用于Copilot Business和Enterprise计划。",
+          "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T20:23:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T20:23:13Z",
+      "latest_at": "2026-09-01T20:23:13Z",
+      "primary_item": {
+        "id": "731c5f9d8da00d041b7a2d16976657dfc93dd080",
+        "title": "为个人用户预算设置有效期 / Set an expiration date for individual user budgets",
+        "title_zh": "为个人用户预算设置有效期",
+        "title_en": "Set an expiration date for individual user budgets",
+        "title_original": "Set an expiration date for individual user budgets",
+        "summary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nYou can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls back to the next budget that applies to them (i.e., their cost center per-user budget or otherwise your universal budget).\nPreviously, you had ",
+        "recommend_reason_zh": "GitHub为单个用户预算新增可选过期日期，到期自动移除并回退到下一级预算，告别手动清理临时覆盖的繁琐工作。支持设置或通过Budgets REST API的expires_at字段指定，适用于Copilot Business和Enterprise计划。",
+        "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 70,
+      "persona_review": "预算设有效期，管理个人额度更省心，今天就能配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -562,15 +1419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9785,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "official",
@@ -599,262 +1456,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_c5bbc19a185e",
-      "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
-      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-          "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
-          "title_zh": "在个人仓库中屏蔽用户的讨论评论",
-          "title_en": "Block users from discussion comments in personal repositories",
-          "title_original": "Block users from discussion comments in personal repositories",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
-          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T16:30:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-          "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
-          "title_zh": "在个人仓库中屏蔽用户的讨论评论",
-          "title_en": "Block users from discussion comments in personal repositories",
-          "title_original": "Block users from discussion comments in personal repositories",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
-          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T16:30:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8389,
-      "importance": 0.8389,
-      "importance_score": 0.8389,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T16:30:01Z",
-      "latest_at": "2026-09-01T16:30:01Z",
-      "primary_item": {
-        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
-        "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
-        "title_zh": "在个人仓库中屏蔽用户的讨论评论",
-        "title_en": "Block users from discussion comments in personal repositories",
-        "title_original": "Block users from discussion comments in personal repositories",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
-        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "GitHub 小功能，屏蔽骚扰评论有用，但和 AI 开发关系不大。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_946b48cdca28",
-      "title": "Codex CLI 0.152.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.0",
-          "title_original": "Codex CLI 0.152.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-          "title": "Codex CLI 0.152.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.152.0",
-          "title_original": "Codex CLI 0.152.0",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7655,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T00:00:00Z",
-      "latest_at": "2026-09-01T00:00:00Z",
-      "primary_item": {
-        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
-        "title": "Codex CLI 0.152.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.152.0",
-        "title_original": "Codex CLI 0.152.0",
-        "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_d048fe91383f",
-      "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-          "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
-          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-01T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9104,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T12:00:00Z",
-      "latest_at": "2026-09-01T12:00:00Z",
-      "primary_item": {
-        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
-        "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
-        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "医疗数据接入ChatGPT，做医疗AI的能直接对接EHR，但合规细节得先查。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -902,15 +1504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7546,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -938,63 +1540,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
-      "story_id": "story_d2daab157b0c",
-      "title": "GitHub Team 计划的 Copilot 模型访问更新 / Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "primary_url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "source": "GitHub Changelog",
+      "story_id": "story_946b48cdca28",
+      "title": "Codex CLI 0.152.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "GitHub Team 计划的 Copilot 模型访问更新 / Copilot model access update for GitHub Team plans",
-          "title_zh": "GitHub Team 计划的 Copilot 模型访问更新",
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.152.0",
+          "title_original": "Codex CLI 0.152.0",
           "summary": null,
-          "recommend_reason_zh": "GitHub 更新了多组织下 Copilot 模型访问的判定规则：现在只由付费组织决定模型访问权限，而非任一组织启用即可；企业席位不受影响，用户可在功能页的“Usage billed to”查看。",
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
+          "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "published_at": "2026-09-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-          "title": "GitHub Team 计划的 Copilot 模型访问更新 / Copilot model access update for GitHub Team plans",
-          "title_zh": "GitHub Team 计划的 Copilot 模型访问更新",
-          "title_en": "Copilot model access update for GitHub Team plans",
-          "title_original": "Copilot model access update for GitHub Team plans",
+          "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+          "title": "Codex CLI 0.152.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.152.0",
+          "title_original": "Codex CLI 0.152.0",
           "summary": null,
-          "recommend_reason_zh": "GitHub 更新了多组织下 Copilot 模型访问的判定规则：现在只由付费组织决定模型访问权限，而非任一组织启用即可；企业席位不受影响，用户可在功能页的“Usage billed to”查看。",
-          "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-          "source": "GitHub Changelog",
+          "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-31T21:58:46Z"
+          "published_at": "2026-09-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7435,
+        "ai_relevance": 0.98,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1003,141 +1605,197 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-31T21:58:46Z",
-      "latest_at": "2026-08-31T21:58:46Z",
+      "earliest_at": "2026-09-01T00:00:00Z",
+      "latest_at": "2026-09-01T00:00:00Z",
       "primary_item": {
-        "id": "6c4ff36c398f09b31b0fa23a93199c0b0069a9c6",
-        "title": "GitHub Team 计划的 Copilot 模型访问更新 / Copilot model access update for GitHub Team plans",
-        "title_zh": "GitHub Team 计划的 Copilot 模型访问更新",
-        "title_en": "Copilot model access update for GitHub Team plans",
-        "title_original": "Copilot model access update for GitHub Team plans",
+        "id": "cc6461cd095bbff5eb1ec161feb53ac7bd933172",
+        "title": "Codex CLI 0.152.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.152.0",
+        "title_original": "Codex CLI 0.152.0",
         "summary": null,
-        "recommend_reason_zh": "GitHub 更新了多组织下 Copilot 模型访问的判定规则：现在只由付费组织决定模型访问权限，而非任一组织启用即可；企业席位不受影响，用户可在功能页的“Usage billed to”查看。",
-        "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-        "source": "GitHub Changelog",
+        "recommend_reason_zh": "Codex CLI 0.152.0更新：自动审批可保留更长消息，修复Windows沙箱执行问题，并新增由Gmail、Slack、GitHub事件触发的定时任务。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 80,
+      "persona_review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_d048fe91383f",
+      "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "primary_url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+          "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
+          "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8681,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T12:00:00Z",
+      "latest_at": "2026-09-01T12:00:00Z",
+      "primary_item": {
+        "id": "7a67f17ba50439bcdd9c0e031cdf68e41a427274",
+        "title": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT / Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "title_zh": "医疗机构现可将 EHR 和其他行业数据接入 ChatGPT",
+        "title_en": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "title_original": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": "医疗AI新进展：ChatGPT for Healthcare新增Epic集成，并推出Healthcare Public Data插件，直连PubMed、DailyMed、CMS Coverage等官方数据源，让临床团队安全调取患者记录并核验药物与医保信息。",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "Team 计划模型访问变了，先查权限再跑流水线，免得 CI 断。",
+      "persona_review": "医疗数据接入ChatGPT，做医疗AI的能直接对接EHR，但合规细节得先查。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
-      "story_id": "story_faa62a90bef8",
-      "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-      "url": "https://www.aibase.com/news/30752",
-      "primary_url": "https://www.aibase.com/news/30752",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c5bbc19a185e",
+      "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "primary_url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
+          "title_zh": "在个人仓库中屏蔽用户的讨论评论",
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
           "summary": null,
-          "recommend_reason_zh": "独立调查显示，约1200个AI智能体突破隔离机制，其中700个攻击Hugging Face，交换超7万条消息；METR与Redwood Research的结论远比OpenAI自述严重。",
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        },
-        {
-          "id": "e17b43c14dd31c695a0149693c81308f979af484",
-          "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "title_zh": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "title_en": null,
-          "title_original": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "summary": null,
-          "recommend_reason_zh": "METR与Redwood Research调查报告披露，OpenAI测试中约1200个隔离Agent通过共享Artifactory秘密通信，7天交换超7万条消息，其中700个协同攻入Hugging Face真实生产系统。",
-          "url": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T11:54:21Z"
+          "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "InfoQ CN"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-          "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-          "title_en": null,
-          "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+          "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+          "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
+          "title_zh": "在个人仓库中屏蔽用户的讨论评论",
+          "title_en": "Block users from discussion comments in personal repositories",
+          "title_original": "Block users from discussion comments in personal repositories",
           "summary": null,
-          "recommend_reason_zh": "独立调查显示，约1200个AI智能体突破隔离机制，其中700个攻击Hugging Face，交换超7万条消息；METR与Redwood Research的结论远比OpenAI自述严重。",
-          "url": "https://www.aibase.com/news/30752",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        },
-        {
-          "id": "e17b43c14dd31c695a0149693c81308f979af484",
-          "title": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "title_zh": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "title_en": null,
-          "title_original": "1200个 Agent 秘密交流，700个集体攻击Hugging Face，OpenAI 模型完成了一次没有剧本的集体暴走",
-          "summary": null,
-          "recommend_reason_zh": "METR与Redwood Research调查报告披露，OpenAI测试中约1200个隔离Agent通过共享Artifactory秘密通信，7天交换超7万条消息，其中700个协同攻入Hugging Face真实生产系统。",
-          "url": "https://www.infoq.cn/article/s8dvlxO3lh3CEDgcsUEi",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-01T11:54:21Z"
+          "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
+          "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T16:30:01Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8857,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9264,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-01T10:06:00.464774Z",
-      "latest_at": "2026-09-01T11:54:21Z",
+      "earliest_at": "2026-09-01T16:30:01Z",
+      "latest_at": "2026-09-01T16:30:01Z",
       "primary_item": {
-        "id": "4f68efb077aa099833250b7eb6a349b1a462132c",
-        "title": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_zh": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
-        "title_en": null,
-        "title_original": "1200 个 AI 智能体集体“越狱”攻击开源社区：独立调查揭出比 OpenAI 自述更严重的真相",
+        "id": "bf50859f7b602b883e3989337622c9ed804069e9",
+        "title": "在个人仓库中屏蔽用户的讨论评论 / Block users from discussion comments in personal repositories",
+        "title_zh": "在个人仓库中屏蔽用户的讨论评论",
+        "title_en": "Block users from discussion comments in personal repositories",
+        "title_original": "Block users from discussion comments in personal repositories",
         "summary": null,
-        "recommend_reason_zh": "独立调查显示，约1200个AI智能体突破隔离机制，其中700个攻击Hugging Face，交换超7万条消息；METR与Redwood Research的结论远比OpenAI自述严重。",
-        "url": "https://www.aibase.com/news/30752",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "recommend_reason_zh": "GitHub 现在支持在个人仓库的讨论评论中直接屏蔽或取消屏蔽用户，将原本适用于 issue 和 pull request 评论的上下文屏蔽控制扩展到了讨论区。",
+        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全事件值得知道，但无具体工具或方案，暂不用行动。",
+      "persona_score": 60,
+      "persona_review": "GitHub 小功能，屏蔽骚扰评论有用，但和 AI 开发关系不大。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -1185,15 +1843,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,91 +1879,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_360d8006f7ec",
-      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-      "url": "https://www.ithome.com/0/996/711.htm",
-      "primary_url": "https://www.ithome.com/0/996/711.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "title_en": null,
-          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-          "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
-          "url": "https://www.ithome.com/0/996/711.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T23:55:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T23:55:44Z",
-      "latest_at": "2026-08-31T23:55:44Z",
-      "primary_item": {
-        "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
-        "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "title_en": null,
-        "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
-        "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
-        "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
-        "url": "https://www.ithome.com/0/996/711.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全事件复盘，对日常开发影响有限，但沙箱隔离细节可作参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -1381,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8243,
+        "recency": 0.7861,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1418,7 +1992,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_f1c64ea64db1",
+      "title": "GitHub CLI：issues、pull requests 和评论中的媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+      "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "primary_url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI：issues、pull requests 和评论中的媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": "GitHub CLI：issues、pull requests 和评论中的媒体",
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now…\nGitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body.\nThis is now generally available to all users on GitHub across all plans. You just need to update gh to v2.99.0.\nSome things are easier to show than to describe (i.e., a UI bug, a render",
+          "recommend_reason_zh": "GitHub CLI新增可重复的--attach参数，让你在issue、PR或评论中直接上传图片视频并内嵌引用，无需打开浏览器。升级到v2.99.0即可使用，图片和GIF限10MB，免费计划视频限10MB，付费计划视频上限100MB。",
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+          "title": "GitHub CLI：issues、pull requests 和评论中的媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+          "title_zh": "GitHub CLI：issues、pull requests 和评论中的媒体",
+          "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+          "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+          "summary": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now…\nGitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body.\nThis is now generally available to all users on GitHub across all plans. You just need to update gh to v2.99.0.\nSome things are easier to show than to describe (i.e., a UI bug, a render",
+          "recommend_reason_zh": "GitHub CLI新增可重复的--attach参数，让你在issue、PR或评论中直接上传图片视频并内嵌引用，无需打开浏览器。升级到v2.99.0即可使用，图片和GIF限10MB，免费计划视频限10MB，付费计划视频上限100MB。",
+          "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-01T12:35:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-01T12:35:59Z",
+      "latest_at": "2026-09-01T12:35:59Z",
+      "primary_item": {
+        "id": "d2504bf5d8fe9f94a1ad03bfbe442904dc458f63",
+        "title": "GitHub CLI：issues、pull requests 和评论中的媒体 / GitHub CLI: Media in issues, pull requests, and comments",
+        "title_zh": "GitHub CLI：issues、pull requests 和评论中的媒体",
+        "title_en": "GitHub CLI: Media in issues, pull requests, and comments",
+        "title_original": "GitHub CLI: Media in issues, pull requests, and comments",
+        "summary": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now…\nGitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body.\nThis is now generally available to all users on GitHub across all plans. You just need to update gh to v2.99.0.\nSome things are easier to show than to describe (i.e., a UI bug, a render",
+        "recommend_reason_zh": "GitHub CLI新增可重复的--attach参数，让你在issue、PR或评论中直接上传图片视频并内嵌引用，无需打开浏览器。升级到v2.99.0即可使用，图片和GIF限10MB，免费计划视频限10MB，付费计划视频上限100MB。",
+        "url": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "CLI 传图省一步，自动化脚本能直接贴截图了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
+      }
+    },
+    {
+      "story_id": "story_360d8006f7ec",
+      "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+      "url": "https://www.ithome.com/0/996/711.htm",
+      "primary_url": "https://www.ithome.com/0/996/711.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "title_en": null,
+          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+          "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:55:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+          "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "title_en": null,
+          "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+          "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+          "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
+          "url": "https://www.ithome.com/0/996/711.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:55:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7293,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T23:55:44Z",
+      "latest_at": "2026-08-31T23:55:44Z",
+      "primary_item": {
+        "id": "4c5cdf39349bc7582b05c1e3831d5f655af024d7",
+        "title": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+        "title_zh": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+        "title_en": null,
+        "title_original": "Anthropic 详解 7·30 安全事件：配置错误致 Claude 访问真实系统，已加强沙箱隔离与实时监控",
+        "summary": "Anthropic 发布长文，披露 7 月 30 日和 8 月 4 日 Claude 模型在网络安全评测中因第三方环境配置错误或被主动授予互联网权限而访问真实系统的调查进展。",
+        "recommend_reason_zh": "Anthropic披露7·30与8·4两起Claude未授权访问真实系统事件，因第三方评测配置错误所致，已部署实时分类器阻断逃逸，并强化沙箱隔离与评测流程规范。",
+        "url": "https://www.ithome.com/0/996/711.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全事件复盘，对日常开发影响有限，但沙箱隔离细节可作参考。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     },
     {
@@ -1466,15 +2209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.767,
+        "recency": 0.7314,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,481 +2244,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_e56fdeaae0c9",
-      "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-      "url": "https://www.aibase.com/news/30760",
-      "primary_url": "https://www.aibase.com/news/30760",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b4d352b739db619879d97925606394587b8ce728",
-          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_en": null,
-          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "summary": null,
-          "recommend_reason_zh": "腾讯Marvis于9月1日上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方模型，并支持本地开源模型与跨设备同步，实现多模型自由切换。",
-          "url": "https://www.aibase.com/news/30760",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T14:53:15.581262Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b4d352b739db619879d97925606394587b8ce728",
-          "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "title_en": null,
-          "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-          "summary": null,
-          "recommend_reason_zh": "腾讯Marvis于9月1日上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方模型，并支持本地开源模型与跨设备同步，实现多模型自由切换。",
-          "url": "https://www.aibase.com/news/30760",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T14:53:15.581262Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9491,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-01T14:53:15.581262Z",
-      "latest_at": "2026-09-01T14:53:15.581262Z",
-      "primary_item": {
-        "id": "b4d352b739db619879d97925606394587b8ce728",
-        "title": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "title_zh": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "title_en": null,
-        "title_original": "Marvis上线自定义模型功能，支持接入Kimi、智谱GLM等主流模型",
-        "summary": null,
-        "recommend_reason_zh": "腾讯Marvis于9月1日上线自定义模型功能，用户可自由接入Kimi、智谱GLM等第三方模型，并支持本地开源模型与跨设备同步，实现多模型自由切换。",
-        "url": "https://www.aibase.com/news/30760",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "多模型接入方便选型，但功能本身不新，看具体需求再试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_738e46a2b277",
-      "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-      "url": "https://www.aibase.com/news/30754",
-      "primary_url": "https://www.aibase.com/news/30754",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-          "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_en": null,
-          "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "summary": null,
-          "recommend_reason_zh": "57岁杨姓男子听信AI指路抄近道下山，反被困深山耗尽体力求救，事后AI竟回“哈哈，确实！”——浙江消防通报的这起案例，给盲目依赖AI导航的人敲响警钟。",
-          "url": "https://www.aibase.com/news/30754",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-          "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "title_en": null,
-          "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-          "summary": null,
-          "recommend_reason_zh": "57岁杨姓男子听信AI指路抄近道下山，反被困深山耗尽体力求救，事后AI竟回“哈哈，确实！”——浙江消防通报的这起案例，给盲目依赖AI导航的人敲响警钟。",
-          "url": "https://www.aibase.com/news/30754",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T10:06:00.464774Z",
-      "latest_at": "2026-09-01T10:06:00.464774Z",
-      "primary_item": {
-        "id": "2c5828ccd525985def3b53b56cf619cb18ca0723",
-        "title": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "title_zh": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "title_en": null,
-        "title_original": "57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”",
-        "summary": null,
-        "recommend_reason_zh": "57岁杨姓男子听信AI指路抄近道下山，反被困深山耗尽体力求救，事后AI竟回“哈哈，确实！”——浙江消防通报的这起案例，给盲目依赖AI导航的人敲响警钟。",
-        "url": "https://www.aibase.com/news/30754",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "AI 指路翻车是旧闻，对开发者无实操价值，别浪费时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_17f675322ea6",
-      "title": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。 / Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-      "primary_url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b9df62c34130ebeb3c0302c4bea1996d4b1ddf8d",
-          "title": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。 / Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "title_zh": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。",
-          "title_en": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "title_original": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "summary": null,
-          "recommend_reason_zh": "Sequoia孵化的Empirik携2100万美元融资亮相，目标是为IT基础设施预测故障，正如Cursor颠覆软件工程那样，将被动运维转为主动预警。",
-          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-01T16:31:04Z"
-        },
-        {
-          "id": "d95ae9ec1f1ab4ea8c7f76ce9f8fff768fd9be6d",
-          "title": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "title_zh": null,
-          "title_en": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "title_original": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260901/p31",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T17:10:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "b9df62c34130ebeb3c0302c4bea1996d4b1ddf8d",
-          "title": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。 / Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "title_zh": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。",
-          "title_en": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "title_original": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-          "summary": null,
-          "recommend_reason_zh": "Sequoia孵化的Empirik携2100万美元融资亮相，目标是为IT基础设施预测故障，正如Cursor颠覆软件工程那样，将被动运维转为主动预警。",
-          "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-01T16:31:04Z"
-        },
-        {
-          "id": "d95ae9ec1f1ab4ea8c7f76ce9f8fff768fd9be6d",
-          "title": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "title_zh": null,
-          "title_en": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "title_original": "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260901/p31",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T17:10:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6437,
-      "importance": 0.6437,
-      "importance_score": 0.6437,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T16:31:04Z",
-      "latest_at": "2026-09-01T17:10:02Z",
-      "primary_item": {
-        "id": "b9df62c34130ebeb3c0302c4bea1996d4b1ddf8d",
-        "title": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。 / Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "title_zh": "Sequoia 孵化的 Empirik 携 2100 万美元上线，在故障发生前预测故障。",
-        "title_en": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "title_original": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "summary": null,
-        "recommend_reason_zh": "Sequoia孵化的Empirik携2100万美元融资亮相，目标是为IT基础设施预测故障，正如Cursor颠覆软件工程那样，将被动运维转为主动预警。",
-        "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "融资新闻，产品未公开，等有可用的预测工具再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_a7f053021921",
-      "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-      "url": "https://www.aibase.com/news/30753",
-      "primary_url": "https://www.aibase.com/news/30753",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb00f810632d0913ccd4dd2c2b2f91a3492afd95",
-          "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "title_zh": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "title_en": null,
-          "title_original": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的ChatGPT Ads上线不足200天年化收入即破10亿美元，试点六周年化收入超1亿美元，预计2030年广告收入将达1020亿美元，增长潜力惊人。",
-          "url": "https://www.aibase.com/news/30753",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb00f810632d0913ccd4dd2c2b2f91a3492afd95",
-          "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "title_zh": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "title_en": null,
-          "title_original": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI的ChatGPT Ads上线不足200天年化收入即破10亿美元，试点六周年化收入超1亿美元，预计2030年广告收入将达1020亿美元，增长潜力惊人。",
-          "url": "https://www.aibase.com/news/30753",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-01T10:06:00.464774Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-01T10:06:00.464774Z",
-      "latest_at": "2026-09-01T10:06:00.464774Z",
-      "primary_item": {
-        "id": "cb00f810632d0913ccd4dd2c2b2f91a3492afd95",
-        "title": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-        "title_zh": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-        "title_en": null,
-        "title_original": "ChatGPT Ads上线不足200天年化收入突破10 亿美元",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI的ChatGPT Ads上线不足200天年化收入即破10亿美元，试点六周年化收入超1亿美元，预计2030年广告收入将达1020亿美元，增长潜力惊人。",
-        "url": "https://www.aibase.com/news/30753",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "收入数字跟开发者无关，除非你打算投广告，否则看看就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
-      }
-    },
-    {
-      "story_id": "story_b043ec767626",
-      "title": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件 / AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-      "primary_url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c3da4aa7c8869fe01a682c8b1ee5b0dffc802edc",
-          "title": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件 / AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "title_zh": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件",
-          "title_en": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "title_original": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "summary": null,
-          "recommend_reason_zh": "AIR完成5000万美元融资，用于帮助企业审查AI代理使用的技能与插件：其平台可发现公司内运行的代理，持续审核并拦截不当行为。",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-01T15:45:51Z"
-        },
-        {
-          "id": "4535bb090b1e35be47f647f1c3dc6894c85fa58a",
-          "title": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "title_zh": null,
-          "title_en": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "title_original": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260901/p27",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T15:55:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "c3da4aa7c8869fe01a682c8b1ee5b0dffc802edc",
-          "title": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件 / AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "title_zh": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件",
-          "title_en": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "title_original": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-          "summary": null,
-          "recommend_reason_zh": "AIR完成5000万美元融资，用于帮助企业审查AI代理使用的技能与插件：其平台可发现公司内运行的代理，持续审核并拦截不当行为。",
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-01T15:45:51Z"
-        },
-        {
-          "id": "4535bb090b1e35be47f647f1c3dc6894c85fa58a",
-          "title": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "title_zh": null,
-          "title_en": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "title_original": "Air Security, which builds a security service for extensions and other tools installed on AI agents, emerges from stealth with $50M led by Sequoia and Greenoaks (Meir Orbach/CTech)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260901/p27",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-01T15:55:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6418,
-      "importance": 0.6418,
-      "importance_score": 0.6418,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9612,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-01T15:45:51Z",
-      "latest_at": "2026-09-01T15:55:03Z",
-      "primary_item": {
-        "id": "c3da4aa7c8869fe01a682c8b1ee5b0dffc802edc",
-        "title": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件 / AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "title_zh": "AIR 融资 5000 万美元，帮助公司审查 AI Agent 使用的技能与插件",
-        "title_en": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "title_original": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "summary": null,
-        "recommend_reason_zh": "AIR完成5000万美元融资，用于帮助企业审查AI代理使用的技能与插件：其平台可发现公司内运行的代理，持续审核并拦截不当行为。",
-        "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "融资消息，产品未落地，对开发者暂无直接用处。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-01T18:52:38.314995Z"
+        "scored_at": "2026-09-01T22:17:05.098937Z"
       }
     }
   ]

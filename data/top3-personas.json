@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:52:43.292389Z",
+  "generated_at": "2026-09-01T22:17:15.105146Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_57742698e48b",
-      "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
-      "url": "https://x.com/kimmonismus/status/2094852023673872701",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "基准提升和降价都实打实，但'大幅'得看基线，别急着高潮。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅X帖与HN讨论，无论文无代码无评测细节，性能提升无从验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "缓存降价75%直接省成本，Agent基准提升可即测，今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_8ba38180ebe6",
       "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 85,
           "review": "浏览器跑模型提速，前端推理今天就能试，省服务器钱。"
+        }
+      }
+    },
+    {
+      "story_id": "story_730fa9d1ab54",
+      "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "审批权给了，但代码质量谁把关？别让AI自己给自己盖章。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方博客宣称功能，无论文代码，无独立验证，仅凭更新日志难服众。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "审查能直接批准 PR，少一步人工点按钮，团队可立刻调整流程。"
         }
       }
     },
