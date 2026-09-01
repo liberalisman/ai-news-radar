@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T00:13:48.207442Z",
+  "generated_at": "2026-09-01T05:29:04.123489Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_0e86c779cdf8",
+      "title": "DeepSeek首个视觉实验模型正式开源，3050亿参数对标顶尖水平",
+      "url": "https://www.aibase.com/news/30735",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "参数堆到3050亿，但开源了才敢说对标，先跑个第三方基准看看。"
+        },
+        "paper-police": {
+          "score": 82,
+          "review": "开源模型参数明确，但缺论文和独立评测，复现门槛待验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "开源模型可直接部署，3050亿参数对标顶尖，视觉任务今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_5f8cb23153f3",
       "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
       "url": "https://www.ithome.com/0/996/637.htm",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_fb04a48586f4",
-      "title": "OpenClaw2.0正式发布:重构底层架构，支持多人共享云端会话",
-      "url": "https://www.aibase.com/news/30720",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "重构架构听着热闹，多人共享云端会话的延迟和成本敢晒吗？"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅官方发布消息，无论文无代码无评测，架构重构细节待验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "底层重构影响现有集成，多人共享云端是新卖点，先看迁移文档再动手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_bd6dbcbcc36a",
-      "title": "GitHub Copilot in VS Code：2026年8月版本发布 / GitHub Copilot in VS Code, August 2026 releases",
-      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+      "story_id": "story_946b48cdca28",
+      "title": "Codex CLI 0.152.0",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "月度更新照例挤牙膏，亮点得自己翻，但至少是官方实锤。"
+          "review": "版本号跳得勤，但没提具体改了什么，水分得挤挤。"
         },
         "paper-police": {
-          "score": 70,
-          "review": "官方更新有据可查，但缺代码和benchmark，等复现再评。"
+          "score": 30,
+          "review": "仅官方更新日志，无论文无代码无评测，版本号而已。"
         },
         "pragmatic": {
-          "score": 70,
-          "review": "Copilot 月度更新，看具体功能再决定升不升，别盲跟。"
+          "score": 80,
+          "review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。"
         }
       }
     }
