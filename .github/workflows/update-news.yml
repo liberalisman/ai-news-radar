@@ -9,7 +9,10 @@ on:
         default: false
         type: boolean
   schedule:
+    # GitHub 定时偶发漏触发（本仓库历史约 3-5 小时才跑一次），加双触发点兜底。
+    # 付费源有间隔保护（paid-source-state.json），多跑不会增加付费 API 开销
     - cron: "17 * * * *"
+    - cron: "47 * * * *"
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
