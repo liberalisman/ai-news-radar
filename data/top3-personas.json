@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T15:12:50.610066Z",
+  "generated_at": "2026-09-01T18:19:09.009664Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_8ba38180ebe6",
+      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "207个内核听着唬人，但浏览器推理的功耗和兼容性坑还没填，先跑个demo再说。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方博客有细节和数字，但无论文和独立评测，代码未验证，需等复现。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "浏览器跑模型提速，前端推理今天就能试，省服务器钱。"
+        }
+      }
+    },
+    {
       "story_id": "story_946b48cdca28",
       "title": "Codex CLI 0.152.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_d2daab157b0c",
-      "title": "GitHub Team 计划的 Copilot 模型访问更新 / Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "更新是实打实的，但别指望免费午餐，Team 计划门槛还在。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方更新但无技术细节，无评测无代码，仅凭公告难证价值。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Team 计划模型访问变了，先查权限再跑流水线，免得 CI 断。"
-        }
-      }
-    },
-    {
-      "story_id": "story_08b8473c055e",
-      "title": "DeepSeek 首个开源多模态模型来了：这双“眼睛”不给人类看图，专供 Agent 干活",
-      "url": "https://www.aibase.com/news/30755",
+      "story_id": "story_944fc7884d19",
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "开源多模态模型专供Agent，方向对但避谈人类场景，水分得挤挤。"
+          "score": 72,
+          "review": "工具看着实用，但宣传里没提生成速度和多轮编辑的坑，先观望。"
         },
         "paper-police": {
           "score": 35,
-          "review": "仅媒体宣称开源，无论文无代码无评测，证据不足待验证。"
+          "review": "官方博客宣称功能，无论文无代码无评测，仅凭官方更新难证实力。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "多模态模型开源可即用，做Agent视觉任务的今天就能试。"
+          "review": "Workspace 里直接生成和编辑图，做 PPT 配图能省事，但得看具体开放范围。"
         }
       }
     }

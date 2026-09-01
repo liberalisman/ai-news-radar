@@ -1,95 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_bdd68ac35b2d|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "账单能按模型拆了，做成本核算的直接受益，改下报表就行。",
-      "title_hash": "072b9f8e",
-      "scored_at": "2026-08-11T15:36:53.423317Z"
-    },
-    "story_5ce5e8a5042c|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "万亿参数还在传闻阶段，等开源放出来再看，别急着改选型。",
-      "title_hash": "da73503e",
-      "scored_at": "2026-08-11T15:36:54.938251Z"
-    },
-    "story_2b0f68d1ef21|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "直接能在 SGLang 跑新模型，做 Agent 推理的可以今天上手试。",
-      "title_hash": "9a452965",
-      "scored_at": "2026-08-11T15:36:57.180569Z"
-    },
-    "story_98891a5c0ebf|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "前缀缓存优化方案，做推理优化的可以读读，但暂无现成实现可抄。",
-      "title_hash": "77602c10",
-      "scored_at": "2026-08-11T15:36:59.344732Z"
-    },
-    "story_e5745a33fcfd|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "30B 开源模型可本地部署，推理党今天就能 clone 跑起来。",
-      "title_hash": "78ec6d7c",
-      "scored_at": "2026-08-11T15:37:01.043796Z"
-    },
-    "story_e5745a33fcfd|cynic|f4237a62": {
-      "score": 55,
-      "review": "30B稠密也敢叫'重磅'？先给出和同规模开源模型的对比再说。",
-      "title_hash": "78ec6d7c",
-      "scored_at": "2026-08-11T15:37:04.968409Z"
-    },
-    "story_e5745a33fcfd|paper-police|966065bf": {
-      "score": 20,
-      "review": "只说开源没给仓库和评测链接，无法验证模型真假。",
-      "title_hash": "78ec6d7c",
-      "scored_at": "2026-08-11T15:37:07.123745Z"
-    },
     "story_5d259fa5549c|pragmatic|0a5c5b24": {
       "score": 52,
       "review": "研究演示还没开放，做医疗AI的可以观察后续是否出API或论文。",
       "title_hash": "a5efa1cb",
       "scored_at": "2026-08-11T18:25:51.100309Z"
-    },
-    "story_2bcee1a44f59|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "广告测试不影响API，但免费版体验要变，留意后续官方细则。",
-      "title_hash": "621aeb90",
-      "scored_at": "2026-08-11T17:28:35.663701Z"
-    },
-    "story_2b5700449511|pragmatic|0a5c5b24": {
-      "score": 87,
-      "review": "Google Cloud的PG迁移加了Gemini辅助，迁移用户今天就能上手。",
-      "title_hash": "b6cfd1ac",
-      "scored_at": "2026-08-11T17:28:46.427941Z"
-    },
-    "story_fbc94e6886a3|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "预测帖不写代码，等真出现失控再操心。",
-      "title_hash": "8cdd7cdd",
-      "scored_at": "2026-08-11T17:28:47.732273Z"
-    },
-    "story_2b5700449511|cynic|f4237a62": {
-      "score": 45,
-      "review": "又给老工具贴AI标签，迁移加速了没基准数据，先跑个TPC-H再说。",
-      "title_hash": "b6cfd1ac",
-      "scored_at": "2026-08-11T17:28:49.838970Z"
-    },
-    "story_2b5700449511|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客有细节但无独立验证，等实际迁移数据再定论。",
-      "title_hash": "b6cfd1ac",
-      "scored_at": "2026-08-11T17:28:51.593362Z"
-    },
-    "story_2b0f68d1ef21|cynic|f4237a62": {
-      "score": 70,
-      "review": "Day-0支持是常规操作，先跑个真实负载看加速比再说。",
-      "title_hash": "9a452965",
-      "scored_at": "2026-08-11T17:28:54.697994Z"
-    },
-    "story_2b0f68d1ef21|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅博客宣称支持，无代码或评测链接，Day-0 说法缺实证。",
-      "title_hash": "9a452965",
-      "scored_at": "2026-08-11T17:28:57.600186Z"
     },
     "story_f1aeb278b794|pragmatic|0a5c5b24": {
       "score": 80,
@@ -6234,6 +6150,84 @@
       "review": "仅媒体宣称开源，无论文无代码无评测，证据不足待验证。",
       "title_hash": "6479b21a",
       "scored_at": "2026-09-01T15:12:50.610009Z"
+    },
+    "story_944fc7884d19|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Workspace 里直接生成和编辑图，做 PPT 配图能省事，但得看具体开放范围。",
+      "title_hash": "f6692843",
+      "scored_at": "2026-09-01T18:18:54.129563Z"
+    },
+    "story_7ec800fd62d3|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "视频理解API开放的话，做多模态Agent的今天就能接，先看文档。",
+      "title_hash": "6e57b2e2",
+      "scored_at": "2026-09-01T18:18:55.501173Z"
+    },
+    "story_8ba38180ebe6|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "浏览器跑模型提速，前端推理今天就能试，省服务器钱。",
+      "title_hash": "6cbad976",
+      "scored_at": "2026-09-01T18:18:56.664729Z"
+    },
+    "story_ad13bde463ce|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "概念文章，无具体工具或API，对日常开发帮助有限。",
+      "title_hash": "369165d5",
+      "scored_at": "2026-09-01T18:18:57.924091Z"
+    },
+    "story_c5bbc19a185e|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "GitHub 小功能，屏蔽骚扰评论有用，但和 AI 开发关系不大。",
+      "title_hash": "770211c8",
+      "scored_at": "2026-09-01T18:18:58.834065Z"
+    },
+    "story_d048fe91383f|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "医疗数据接入ChatGPT，做医疗AI的能直接对接EHR，但合规细节得先查。",
+      "title_hash": "4a2a03d9",
+      "scored_at": "2026-09-01T18:19:00.097150Z"
+    },
+    "story_360d8006f7ec|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全事件复盘，对日常开发影响有限，但沙箱隔离细节可作参考。",
+      "title_hash": "a8685112",
+      "scored_at": "2026-09-01T18:19:01.364958Z"
+    },
+    "story_b043ec767626|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "融资消息，产品未落地，对开发者暂无直接用处。",
+      "title_hash": "49506782",
+      "scored_at": "2026-09-01T18:19:02.471167Z"
+    },
+    "story_9652bf750e3a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "科普文，适合新手扫盲，老手不用看。",
+      "title_hash": "13a8e874",
+      "scored_at": "2026-09-01T18:19:03.591269Z"
+    },
+    "story_8ba38180ebe6|cynic|f4237a62": {
+      "score": 72,
+      "review": "207个内核听着唬人，但浏览器推理的功耗和兼容性坑还没填，先跑个demo再说。",
+      "title_hash": "6cbad976",
+      "scored_at": "2026-09-01T18:19:04.856558Z"
+    },
+    "story_8ba38180ebe6|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方博客有细节和数字，但无论文和独立评测，代码未验证，需等复现。",
+      "title_hash": "6cbad976",
+      "scored_at": "2026-09-01T18:19:06.320493Z"
+    },
+    "story_944fc7884d19|cynic|f4237a62": {
+      "score": 72,
+      "review": "工具看着实用，但宣传里没提生成速度和多轮编辑的坑，先观望。",
+      "title_hash": "f6692843",
+      "scored_at": "2026-09-01T18:19:07.851515Z"
+    },
+    "story_944fc7884d19|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方博客宣称功能，无论文无代码无评测，仅凭官方更新难证实力。",
+      "title_hash": "f6692843",
+      "scored_at": "2026-09-01T18:19:09.009610Z"
     }
   }
 }
