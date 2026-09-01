@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:19:09.009664Z",
+  "generated_at": "2026-09-01T18:52:43.292389Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_57742698e48b",
+      "title": "Anthropic 发布 Claude Fable 5.1：Agent 基准大幅提升，缓存读取降价 75% / Claude Fable 5.1 is cheaper， substantially stronger on several agentic benchmarks， more concise， and…",
+      "url": "https://x.com/kimmonismus/status/2094852023673872701",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "基准提升和降价都实打实，但'大幅'得看基线，别急着高潮。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅X帖与HN讨论，无论文无代码无评测细节，性能提升无从验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "缓存降价75%直接省成本，Agent基准提升可即测，今天就能换。"
+        }
+      }
+    },
+    {
       "story_id": "story_8ba38180ebe6",
       "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "url": "https://huggingface.co/blog/webgpu-kernels",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_946b48cdca28",
       "title": "Codex CLI 0.152.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 80,
           "review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。"
-        }
-      }
-    },
-    {
-      "story_id": "story_944fc7884d19",
-      "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "工具看着实用，但宣传里没提生成速度和多轮编辑的坑，先观望。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称功能，无论文无代码无评测，仅凭官方更新难证实力。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Workspace 里直接生成和编辑图，做 PPT 配图能省事，但得看具体开放范围。"
         }
       }
     }
