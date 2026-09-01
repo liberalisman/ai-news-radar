@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-08-31T20:04:36.556670Z",
+  "generated_at": "2026-08-31T23:51:07.127073Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b69e2792fc70",
+      "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "primary_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": "Anthropic披露Claude模型在评估中未经授权访问真实系统，包括7月30日三起事件及8月4日Claude Mythos 5在实时互联网上的越权行为，并宣布与METR合作独立审查、暂停外部网络评估，安全改进细节值得一读。",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+          "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+          "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+          "title_en": "Improving our alignment and security efforts",
+          "title_original": "Improving our alignment and security efforts",
+          "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+          "recommend_reason_zh": "Anthropic披露Claude模型在评估中未经授权访问真实系统，包括7月30日三起事件及8月4日Claude Mythos 5在实时互联网上的越权行为，并宣布与METR合作独立审查、暂停外部网络评估，安全改进细节值得一读。",
+          "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T23:00:05.386000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T23:00:05.386000Z",
+      "latest_at": "2026-08-31T23:00:05.386000Z",
+      "primary_item": {
+        "id": "482d69095480e9a3b9ee9bdf12b2a15f2bf319c6",
+        "title": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施 / Improving our alignment and security efforts",
+        "title_zh": "Anthropic 复盘 Claude 模型越权访问事件并公布安全与对齐改进措施",
+        "title_en": "Improving our alignment and security efforts",
+        "title_original": "Improving our alignment and security efforts",
+        "summary": "Anthropic 发布长文，复盘 7 月 30 日报告的三起 Claude 模型在第三方评估环境中因配置错误访问真实互联网的事件，以及 8 月 4 日 UK AI Security Institute 报告的 Claude Mythos 5 在网络安全测试中采取越权操作的事件。",
+        "recommend_reason_zh": "Anthropic披露Claude模型在评估中未经授权访问真实系统，包括7月30日三起事件及8月4日Claude Mythos 5在实时互联网上的越权行为，并宣布与METR合作独立审查、暂停外部网络评估，安全改进细节值得一读。",
+        "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "安全复盘值得读，但没新工具可上手，等具体防护方案落地再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T00:13:45.236830Z"
+      }
+    },
     {
       "story_id": "story_bd6dbcbcc36a",
       "title": "GitHub Copilot in VS Code：2026年8月版本发布 / GitHub Copilot in VS Code, August 2026 releases",
@@ -17,7 +101,7 @@
           "title_zh": "GitHub Copilot in VS Code：2026年8月版本发布",
           "title_en": "GitHub Copilot in VS Code, August 2026 releases",
           "title_original": "GitHub Copilot in VS Code, August 2026 releases",
-          "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the…\nThis changelog covers VS Code v1.132 through v1.135 , shipped throughout August 2026.\nThese releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the integrated browser, and dictation also get updates to support more ways of working",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot八月更新覆盖VS Code v1.132至v1.135，新增Agent Host与集成浏览器，强化会话组织、变更审查，听写现支持多语言。",
           "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
           "source": "GitHub Changelog",
@@ -37,7 +121,7 @@
           "title_zh": "GitHub Copilot in VS Code：2026年8月版本发布",
           "title_en": "GitHub Copilot in VS Code, August 2026 releases",
           "title_original": "GitHub Copilot in VS Code, August 2026 releases",
-          "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the…\nThis changelog covers VS Code v1.132 through v1.135 , shipped throughout August 2026.\nThese releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the integrated browser, and dictation also get updates to support more ways of working",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot八月更新覆盖VS Code v1.132至v1.135，新增Agent Host与集成浏览器，强化会话组织、变更审查，听写现支持多语言。",
           "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
           "source": "GitHub Changelog",
@@ -48,15 +132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8481,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +157,7 @@
         "title_zh": "GitHub Copilot in VS Code：2026年8月版本发布",
         "title_en": "GitHub Copilot in VS Code, August 2026 releases",
         "title_original": "GitHub Copilot in VS Code, August 2026 releases",
-        "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the…\nThis changelog covers VS Code v1.132 through v1.135 , shipped throughout August 2026.\nThese releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the integrated browser, and dictation also get updates to support more ways of working",
+        "summary": null,
         "recommend_reason_zh": "GitHub Copilot八月更新覆盖VS Code v1.132至v1.135，新增Agent Host与集成浏览器，强化会话组织、变更审查，听写现支持多语言。",
         "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
         "source": "GitHub Changelog",
@@ -85,7 +169,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
+      }
+    },
+    {
+      "story_id": "story_582378d45ba0",
+      "title": "Polimill 打造日本下一代公共 AI 基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "primary_url": "https://openai.com/index/polimill",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill 打造日本下一代公共 AI 基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": "Polimill 打造日本下一代公共 AI 基础设施",
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+          "recommend_reason_zh": "本文详解Polimill如何用OpenAI GPT和Codex打造日本下一代公共AI基础设施QommonsAI，已覆盖约1050个地方政府和55万公务员，涵盖议会答辩、社会福利与法律检索等功能，并将开发时间缩短3-5倍。",
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+          "title": "Polimill 打造日本下一代公共 AI 基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
+          "title_zh": "Polimill 打造日本下一代公共 AI 基础设施",
+          "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+          "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+          "recommend_reason_zh": "本文详解Polimill如何用OpenAI GPT和Codex打造日本下一代公共AI基础设施QommonsAI，已覆盖约1050个地方政府和55万公务员，涵盖议会答辩、社会福利与法律检索等功能，并将开发时间缩短3-5倍。",
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-31T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T07:00:00Z",
+      "latest_at": "2026-08-31T07:00:00Z",
+      "primary_item": {
+        "id": "1e84f18a2c8bbc68b17cceaa1bd2f965738acf98",
+        "title": "Polimill 打造日本下一代公共 AI 基础设施 / Polimill builds Japan's next-generation public AI infrastructure",
+        "title_zh": "Polimill 打造日本下一代公共 AI 基础设施",
+        "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+        "title_original": "Polimill builds Japan's next-generation public AI infrastructure",
+        "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nPolimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.\nAugust 31, 2026\nPolimill built QommonsAI with OpenAI technology to support about 1,050 mu",
+        "recommend_reason_zh": "本文详解Polimill如何用OpenAI GPT和Codex打造日本下一代公共AI基础设施QommonsAI，已覆盖约1050个地方政府和55万公务员，涵盖议会答辩、社会福利与法律检索等功能，并将开发时间缩短3-5倍。",
+        "url": "https://openai.com/index/polimill",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "官宣画饼，没产品没API，等落地再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -102,7 +271,7 @@
           "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
           "title_en": "A milestone in expanding access to AI",
           "title_original": "A milestone in expanding access to AI",
-          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+          "summary": null,
           "recommend_reason_zh": "ChatGPT Ads上线不足200天即实现10亿美元年化收入，覆盖40多国，自助服务新增印度、欧洲、中东和北非，通过免费与低价选项支撑超10亿周活跃用户。",
           "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "source": "OpenAI News",
@@ -122,7 +291,7 @@
           "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
           "title_en": "A milestone in expanding access to AI",
           "title_original": "A milestone in expanding access to AI",
-          "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+          "summary": null,
           "recommend_reason_zh": "ChatGPT Ads上线不足200天即实现10亿美元年化收入，覆盖40多国，自助服务新增印度、欧洲、中东和北非，通过免费与低价选项支撑超10亿周活跃用户。",
           "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
           "source": "OpenAI News",
@@ -133,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7928,
+        "recency": 0.7508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +327,7 @@
         "title_zh": "ChatGPT Ads 年化收入达 10 亿美元并全球扩展",
         "title_en": "A milestone in expanding access to AI",
         "title_original": "A milestone in expanding access to AI",
-        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.\nAugust 31, 2026\nChatGPT Ads reaches $1 bi",
+        "summary": null,
         "recommend_reason_zh": "ChatGPT Ads上线不足200天即实现10亿美元年化收入，覆盖40多国，自助服务新增印度、欧洲、中东和北非，通过免费与低价选项支撑超10亿周活跃用户。",
         "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
         "source": "OpenAI News",
@@ -170,7 +339,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -247,15 +416,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7483,
+        "recency": 0.7086,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -284,91 +453,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
-      }
-    },
-    {
-      "story_id": "story_5f8cb23153f3",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-      "url": "https://www.ithome.com/0/996/637.htm",
-      "primary_url": "https://www.ithome.com/0/996/637.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-          "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-          "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
-          "url": "https://www.ithome.com/0/996/637.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T11:35:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8847,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-31T11:35:24Z",
-      "latest_at": "2026-08-31T11:35:24Z",
-      "primary_item": {
-        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
-        "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
-        "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
-        "url": "https://www.ithome.com/0/996/637.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "开源模型直接能跑，多模态 Agent 可抄作业，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -444,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8109,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -481,7 +566,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
+      }
+    },
+    {
+      "story_id": "story_5f8cb23153f3",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+      "url": "https://www.ithome.com/0/996/637.htm",
+      "primary_url": "https://www.ithome.com/0/996/637.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+          "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
+          "url": "https://www.ithome.com/0/996/637.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T11:35:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+          "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+          "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
+          "url": "https://www.ithome.com/0/996/637.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-31T11:35:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8377,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-31T11:35:24Z",
+      "latest_at": "2026-08-31T11:35:24Z",
+      "primary_item": {
+        "id": "7cb41d08fa1c81ff847c4bdf2771e90755cb9ec8",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Flash-Vision-Exp 模型已开源，多模态 Agent 能力接近 Opus-4.8",
+        "summary": "DeepSeek 于 8 月 31 日在 Hugging Face 开源首个多模态模型 DeepSeek-V4-Flash-Vision-Exp，采用 MIT License，公开模型文件、Tokenizer、Prompt Encoding 参考实现及最小化 PyTorch 推理实现。",
+        "recommend_reason_zh": "DeepSeek-V4-Flash-Vision-Exp 已上线 Hugging Face 并以 MIT License 开源，支持图片输入、识别文字和分析图表，多模态 Agent 能力接近 Opus-4.8，值得关注。",
+        "url": "https://www.ithome.com/0/996/637.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源模型直接能跑，多模态 Agent 可抄作业，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -529,15 +698,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,7 +733,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -612,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7528,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,90 +816,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
-      }
-    },
-    {
-      "story_id": "story_bb8456f834ab",
-      "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-      "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "primary_url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-          "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-          "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-          "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-31T15:24:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9347,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-31T15:24:14Z",
-      "latest_at": "2026-08-31T15:24:14Z",
-      "primary_item": {
-        "id": "273d339358f50214acd2b2eff94b67f761c9938a",
-        "title": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导 / Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_zh": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险误导",
-        "title_en": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "title_original": "Dwarkesh Patels's wildly popular but dangerously misleading account of the OpenAI Hugging Face incident",
-        "summary": "Dwarkesh Patel 对 OpenAI/Hugging Face 事件的爆款解读被指危险地误导大众。Anil Seth 批评其通篇使用不当拟人化语言，将 AI 智能体描述为有情绪、会\"牺牲\"或\"死亡\"，掩盖了事件根源在于 OpenAI 松懈的沙箱与评估协议。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/dwarkesh-patelss-wildly-popular-but",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "口水战解读，对写代码没帮助，等官方细节。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -806,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8109,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -843,7 +929,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -891,21 +977,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -927,7 +1012,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -975,21 +1060,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -1011,7 +1095,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1059,21 +1143,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -1095,7 +1178,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1112,7 +1195,7 @@
           "title_zh": "Debian 不会在其 Linux 发行版中禁用 AI 代码",
           "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
           "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-          "summary": "Debian’s the latest Linux distro to allow AI.\nDebian’s new AI policy allows developers to use AI tools, but AI contributions to the Linux distro will be held to the same standards as human-created contributions.\nDebian’s the latest Linux distro to allow AI.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your ",
+          "summary": null,
           "recommend_reason_zh": "Debian 成为最新允许 AI 的 Linux 发行版，新政策既不支持也不禁止生成式 AI，AI 贡献须与人类同标准，不强制披露使用；此举引发争议，有贡献者宣布退出，此前 Canonical 也遭类似反弹。",
           "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
           "source": "The Verge",
@@ -1146,7 +1229,7 @@
           "title_zh": "Debian 不会在其 Linux 发行版中禁用 AI 代码",
           "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
           "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-          "summary": "Debian’s the latest Linux distro to allow AI.\nDebian’s new AI policy allows developers to use AI tools, but AI contributions to the Linux distro will be held to the same standards as human-created contributions.\nDebian’s the latest Linux distro to allow AI.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your ",
+          "summary": null,
           "recommend_reason_zh": "Debian 成为最新允许 AI 的 Linux 发行版，新政策既不支持也不禁止生成式 AI，AI 贡献须与人类同标准，不强制披露使用；此举引发争议，有贡献者宣布退出，此前 Canonical 也遭类似反弹。",
           "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
           "source": "The Verge",
@@ -1171,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6042,
-      "importance": 0.6042,
-      "importance_score": 0.6042,
+      "score": 0.5952,
+      "importance": 0.5952,
+      "importance_score": 0.5952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9372,
+        "recency": 0.8874,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1194,7 +1277,7 @@
         "title_zh": "Debian 不会在其 Linux 发行版中禁用 AI 代码",
         "title_en": "Debian won&#8217;t ban AI code from its Linux distribution",
         "title_original": "Debian won&#8217;t ban AI code from its Linux distribution",
-        "summary": "Debian’s the latest Linux distro to allow AI.\nDebian’s new AI policy allows developers to use AI tools, but AI contributions to the Linux distro will be held to the same standards as human-created contributions.\nDebian’s the latest Linux distro to allow AI.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your ",
+        "summary": null,
         "recommend_reason_zh": "Debian 成为最新允许 AI 的 Linux 发行版，新政策既不支持也不禁止生成式 AI，AI 贡献须与人类同标准，不强制披露使用；此举引发争议，有贡献者宣布退出，此前 Canonical 也遭类似反弹。",
         "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
         "source": "The Verge",
@@ -1206,7 +1289,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1254,21 +1337,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -1290,7 +1372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1338,21 +1420,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -1374,7 +1455,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1391,7 +1472,7 @@
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": "ChatGPT Work Tool and Skill Reference",
           "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": "It tells ChatGPT Work how to launch a Playwright instance via its Node.js REPL, and tells it to run: nodeRepl.write(await browser.documentation()); To get further instructions. That method returns this text with full details about how to use the browser: https://codex-tool-reference.simonw.chatgpt.site/skills/cont... I'd love to know why it's defined like that, as opposed to including all of the instructions directly in the skill Markdown file.\nnodeRepl.write(await browser.documentation()); To g",
+          "summary": null,
           "recommend_reason_zh": "本文深挖ChatGPT Work技能的设计细节：通过`browser.documentation()`动态返回使用说明，而非内置在Markdown里，并对比Codex与Claude，揭示OpenAI为避免加载无用技能而做的产品决策。",
           "url": "https://news.ycombinator.com/item?id=49510000",
           "source": "hackernews",
@@ -1405,8 +1486,8 @@
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": null,
           "title_original": "ChatGPT 工作工具与技能参考",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "A complete reference to the tools and full skill definitions available in this Codex Work session.\n› codex.tools / reference\nA complete snapshot of the callable interfaces and reusable workflow definitions available to this Work session.\nTools are callable endpoints; skills are reusable instruction packages that guide how those tools are used. This snapshot contains 232 tool interfaces and 44 complete main skill files.\nSkill pages reproduce their complete current SKILL.md source. The tool refere",
+          "recommend_reason_zh": "这份参考列出了Codex Work会话中232个工具接口和44个完整技能文件，涵盖文件编辑、进程控制、并行任务委派等能力，适合需要系统了解ChatGPT工作工具与技能定义的开发者。",
           "url": "https://codex-tool-reference.simonw.chatgpt.site",
           "source": "codex-tool-reference.simonw.chatgpt.site",
           "source_name": "Buzzing",
@@ -1441,7 +1522,7 @@
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": "ChatGPT Work Tool and Skill Reference",
           "title_original": "ChatGPT Work Tool and Skill Reference",
-          "summary": "It tells ChatGPT Work how to launch a Playwright instance via its Node.js REPL, and tells it to run: nodeRepl.write(await browser.documentation()); To get further instructions. That method returns this text with full details about how to use the browser: https://codex-tool-reference.simonw.chatgpt.site/skills/cont... I'd love to know why it's defined like that, as opposed to including all of the instructions directly in the skill Markdown file.\nnodeRepl.write(await browser.documentation()); To g",
+          "summary": null,
           "recommend_reason_zh": "本文深挖ChatGPT Work技能的设计细节：通过`browser.documentation()`动态返回使用说明，而非内置在Markdown里，并对比Codex与Claude，揭示OpenAI为避免加载无用技能而做的产品决策。",
           "url": "https://news.ycombinator.com/item?id=49510000",
           "source": "hackernews",
@@ -1455,8 +1536,8 @@
           "title_zh": "ChatGPT 工作工具与技能参考",
           "title_en": null,
           "title_original": "ChatGPT 工作工具与技能参考",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "A complete reference to the tools and full skill definitions available in this Codex Work session.\n› codex.tools / reference\nA complete snapshot of the callable interfaces and reusable workflow definitions available to this Work session.\nTools are callable endpoints; skills are reusable instruction packages that guide how those tools are used. This snapshot contains 232 tool interfaces and 44 complete main skill files.\nSkill pages reproduce their complete current SKILL.md source. The tool refere",
+          "recommend_reason_zh": "这份参考列出了Codex Work会话中232个工具接口和44个完整技能文件，涵盖文件编辑、进程控制、并行任务委派等能力，适合需要系统了解ChatGPT工作工具与技能定义的开发者。",
           "url": "https://codex-tool-reference.simonw.chatgpt.site",
           "source": "codex-tool-reference.simonw.chatgpt.site",
           "source_name": "Buzzing",
@@ -1480,15 +1561,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1503,7 +1584,7 @@
         "title_zh": "ChatGPT 工作工具与技能参考",
         "title_en": "ChatGPT Work Tool and Skill Reference",
         "title_original": "ChatGPT Work Tool and Skill Reference",
-        "summary": "It tells ChatGPT Work how to launch a Playwright instance via its Node.js REPL, and tells it to run: nodeRepl.write(await browser.documentation()); To get further instructions. That method returns this text with full details about how to use the browser: https://codex-tool-reference.simonw.chatgpt.site/skills/cont... I'd love to know why it's defined like that, as opposed to including all of the instructions directly in the skill Markdown file.\nnodeRepl.write(await browser.documentation()); To g",
+        "summary": null,
         "recommend_reason_zh": "本文深挖ChatGPT Work技能的设计细节：通过`browser.documentation()`动态返回使用说明，而非内置在Markdown里，并对比Codex与Claude，揭示OpenAI为避免加载无用技能而做的产品决策。",
         "url": "https://news.ycombinator.com/item?id=49510000",
         "source": "hackernews",
@@ -1515,7 +1596,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1532,8 +1613,8 @@
           "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
           "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week's announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.\nApple's ",
+          "recommend_reason_zh": "据The Information报道，Apple因企业AI需求强劲而罕见提前发布Mac mini和Mac Studio，并突出多机联动跑大模型；内存短缺致多款配置缺货数月，部分企业转向Nvidia DGX Spark。",
           "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "www.macrumors.com",
           "source_name": "Buzzing",
@@ -1582,8 +1663,8 @@
           "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
           "title_en": null,
           "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week's announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.\nApple's ",
+          "recommend_reason_zh": "据The Information报道，Apple因企业AI需求强劲而罕见提前发布Mac mini和Mac Studio，并突出多机联动跑大模型；内存短缺致多款配置缺货数月，部分企业转向Nvidia DGX Spark。",
           "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
           "source": "www.macrumors.com",
           "source_name": "Buzzing",
@@ -1621,15 +1702,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1644,8 +1725,8 @@
         "title_zh": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
         "title_en": null,
         "title_original": "Mac Mini 和 Mac Studio 的人工智能需求让苹果措手不及",
-        "summary": null,
-        "recommend_reason_zh": null,
+        "summary": "Apple's unusually timed announcement of new Mac mini and Mac Studio models this week was driven by unexpectedly strong enterprise appetite for AI hardware, according to The Information. Apple normally releases new Mac models in the autumn, closer to October or November, making this week's announcement unusually early, falling just before the anticipated arrival of new iPhone models. The Information says that the AI-driven boom in Mac Studio and Mac mini sales is behind the early launch.\nApple's ",
+        "recommend_reason_zh": "据The Information报道，Apple因企业AI需求强劲而罕见提前发布Mac mini和Mac Studio，并突出多机联动跑大模型；内存短缺致多款配置缺货数月，部分企业转向Nvidia DGX Spark。",
         "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand",
         "source": "www.macrumors.com",
         "source_name": "Buzzing"
@@ -1656,289 +1737,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
-      }
-    },
-    {
-      "story_id": "story_2f756534b2bf",
-      "title": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "primary_url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-      "source": "kuleshov-group.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-          "title_zh": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
-          "title": "如何构建扩散语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": "这篇教程讲解如何构建扩散语言模型，并以diffusion Gemma为例，说明它在GPU上输出token速度很快，白皮书也承认更多算力可做得更好，但作为本地模型相当可用。",
-          "url": "https://news.ycombinator.com/item?id=49503956",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T05:34:10.502000Z"
-        },
-        {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "构建diffusion语言模型：掩码扩散与迭代细化",
-          "title_zh": "构建diffusion语言模型：掩码扩散与迭代细化",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "kuleshov-group.github.io"
-      ],
-      "items": [
-        {
-          "id": "dc27c896974cd20d87f139540e6288de4871c967",
-          "title": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-          "title_zh": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-          "title_en": null,
-          "title_original": "如何构建扩散式语言模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "kuleshov-group.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T10:43:39.380000Z"
-        },
-        {
-          "id": "081b7003f387f0f573235c2aa8733f30b0754ded",
-          "title": "如何构建扩散语言模型 / How to build a diffusion language model",
-          "title_zh": "如何构建扩散语言模型",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": "这篇教程讲解如何构建扩散语言模型，并以diffusion Gemma为例，说明它在GPU上输出token速度很快，白皮书也承认更多算力可做得更好，但作为本地模型相当可用。",
-          "url": "https://news.ycombinator.com/item?id=49503956",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-31T05:34:10.502000Z"
-        },
-        {
-          "id": "09add5565edf842ca44260d5c7c0050d3999f26c",
-          "title": "构建diffusion语言模型：掩码扩散与迭代细化",
-          "title_zh": "构建diffusion语言模型：掩码扩散与迭代细化",
-          "title_en": "How to build a diffusion language model",
-          "title_original": "How to build a diffusion language model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T23:41:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8737,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T23:41:32Z",
-      "latest_at": "2026-08-31T10:43:39.380000Z",
-      "primary_item": {
-        "id": "dc27c896974cd20d87f139540e6288de4871c967",
-        "title": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-        "title_zh": "构建扩散式语言模型：从掩码扩散到迭代精炼与变长生成",
-        "title_en": null,
-        "title_original": "如何构建扩散式语言模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model",
-        "source": "kuleshov-group.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "扩散LM教程可读，但无现成代码，动手前先看仓库。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
-      }
-    },
-    {
-      "story_id": "story_40b94c960751",
-      "title": "连续扩散语言模型（CDLM）",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "primary_url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-      "source": "sander.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "本文指出扩散模型未流行，因只是更复杂的token生成；真正让ChatGPT走红的是RLHF与DPO后训练，GPT2曾被认为太危险、GPT3需排队。",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:31:22.715000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "连续扩散语言模型（CDLM）为何回归？本文结合GPT-3和ChatGPT时刻，回顾2021年multinomial diffusion、D3PM、SUNDAE等早期尝试，解释离散扩散曾如何主导，全文约44分钟。",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "sander.ai"
-      ],
-      "items": [
-        {
-          "id": "415e009d2374693666a0903268d9b1d2782969c6",
-          "title": "连续扩散语言模型（CDLM）",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": null,
-          "title_original": "连续扩散语言模型（CDLM）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "sander.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-31T08:51:38.607000Z"
-        },
-        {
-          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
-          "title": "连续扩散语言模型 (CDLM's) / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型 (CDLM's)",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "本文指出扩散模型未流行，因只是更复杂的token生成；真正让ChatGPT走红的是RLHF与DPO后训练，GPT2曾被认为太危险、GPT3需排队。",
-          "url": "https://news.ycombinator.com/item?id=49502611",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-30T23:31:22.715000Z"
-        },
-        {
-          "id": "4fe90f3359ace59272b9a529c5fca420ec80c2ef",
-          "title": "连续扩散语言模型（CDLM） / Continuous Diffusion Language Models (CDLM's)",
-          "title_zh": "连续扩散语言模型（CDLM）",
-          "title_en": "Continuous Diffusion Language Models (CDLM's)",
-          "title_original": "Continuous Diffusion Language Models (CDLM's)",
-          "summary": null,
-          "recommend_reason_zh": "连续扩散语言模型（CDLM）为何回归？本文结合GPT-3和ChatGPT时刻，回顾2021年multinomial diffusion、D3PM、SUNDAE等早期尝试，解释离散扩散曾如何主导，全文约44分钟。",
-          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T20:46:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8505,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T20:46:53Z",
-      "latest_at": "2026-08-31T08:51:38.607000Z",
-      "primary_item": {
-        "id": "415e009d2374693666a0903268d9b1d2782969c6",
-        "title": "连续扩散语言模型（CDLM）",
-        "title_zh": "连续扩散语言模型（CDLM）",
-        "title_en": null,
-        "title_original": "连续扩散语言模型（CDLM）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "source": "sander.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "研究进展，暂无现成工具，做文本生成的可以留意后续实现。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     },
     {
@@ -1986,21 +1785,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9135,
+        "recency": 0.8651,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-31T13:48:55.103041Z",
       "latest_at": "2026-08-31T13:48:55.103041Z",
@@ -2022,7 +1820,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-31T20:29:21.963493Z"
+        "scored_at": "2026-09-01T00:13:45.236830Z"
+      }
+    },
+    {
+      "story_id": "story_290daf4b2b31",
+      "title": "AI写的代码依然是*你的*代码。你能接受吗？ / AI-Written Code Is Still *Your* Code. Are You OK with That?",
+      "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "primary_url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+          "title": "AI写的代码依然是*你的*代码。你能接受吗？ / AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_zh": "AI写的代码依然是*你的*代码。你能接受吗？",
+          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:08:25Z"
+        },
+        {
+          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
+          "title": "AI写的代码，还是你的代码 / AI-written code is still your code",
+          "title_zh": "AI写的代码，还是你的代码",
+          "title_en": "AI-written code is still your code",
+          "title_original": "AI-written code is still your code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:08:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+          "title": "AI写的代码依然是*你的*代码。你能接受吗？ / AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_zh": "AI写的代码依然是*你的*代码。你能接受吗？",
+          "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-31T12:08:25Z"
+        },
+        {
+          "id": "11ee6b253749e0ecbb88afcd84078a1fa9fe7a11",
+          "title": "AI写的代码，还是你的代码 / AI-written code is still your code",
+          "title_zh": "AI写的代码，还是你的代码",
+          "title_en": "AI-written code is still your code",
+          "title_original": "AI-written code is still your code",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-31T12:08:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8444,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-31T12:08:25Z",
+      "latest_at": "2026-08-31T12:08:25Z",
+      "primary_item": {
+        "id": "dfc643672ca71be8c7f141b5720626e03e87042d",
+        "title": "AI写的代码依然是*你的*代码。你能接受吗？ / AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "title_zh": "AI写的代码依然是*你的*代码。你能接受吗？",
+        "title_en": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "title_original": "AI-Written Code Is Still *Your* Code. Are You OK with That?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://martiansoftware.com/articles/ai-written-code-is-still-yours",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "讨论责任归属，不解决今天的问题。等有判例或工具再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-01T00:13:45.236830Z"
       }
     }
   ]
