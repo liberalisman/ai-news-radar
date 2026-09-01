@@ -5692,6 +5692,9 @@ def title_tokens(title: str) -> set[str]:
         t2 = re.sub(r"[0-9]+", "", tok)
         if t2 and len(t2) >= 3 and t2 != tok:
             out.add(t2)
+    # 版本号作为共享指纹（"2.0"/"5.2"），英文标题识别同一模型版本的必备信号
+    for ver in re.findall(r"\d+(?:\.\d+)+", compact):
+        out.add(ver)
     return out
 
 
@@ -5704,7 +5707,7 @@ def normalized_story_title(item: dict[str, Any]) -> str:
 
 def title_is_mergeable(title: str) -> bool:
     tokens = title_tokens(title)
-    return len(tokens) >= 4 and len(str(title or "").strip()) >= 18
+    return len(tokens) >= 3 and len(str(title or "").strip()) >= 10
 
 
 def title_similarity(a: str, b: str) -> float:
@@ -5745,8 +5748,14 @@ def _strong_entity_overlap(a: str, b: str) -> bool:
     rare = [t for t in (ta & tb) if len(t) >= 3 and t not in _GENERIC_MODEL_SUFFIXES]
     if not rare:
         return False
+    # 拉丁稀有词元 ≥2 且其中至少一个带数字（模型名 hy4/gpt5、版本 2.0、
+    # 参数量 770b）才算锁定实体——纯通用英文词（briefing/updates 等）
+    # 的重合不足以证明是同一事件
+    latin_rare = [t for t in rare if re.fullmatch(r"[a-z0-9.]+", t)]
+    if len(latin_rare) >= 2 and any(re.search(r"\d", t) for t in latin_rare):
+        return True
     cjk = _cjk_bigram_jaccard(a, b)
-    # 共享 ≥2 个稀有词元（如 hy4 + 770）时放宽汉字门槛：实体身份已基本锁定
+    # 共享 ≥2 个稀有词元时放宽汉字门槛：实体身份已基本锁定
     if len(rare) >= 2:
         return cjk >= 0.08
     return cjk >= 0.12
