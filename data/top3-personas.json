@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T00:00:58.091922Z",
+  "generated_at": "2026-09-02T00:39:23.755746Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_8ba38180ebe6",
-      "title": "Hugging Face 发布 @huggingface/kernels，提供 207 个 WebGPU 内核用于浏览器本地 AI 推理 / Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "story_id": "story_0684dd59481d",
+      "title": "Claude Fable 5.1 现已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "207个内核听着唬人，但浏览器推理的功耗和兼容性坑还没填，先跑个demo再说。"
+          "score": 70,
+          "review": "官方渠道确认，但'一般可用'背后藏着多少限制条件？先跑个真实项目再说。"
         },
         "paper-police": {
           "score": 72,
-          "review": "官方博客有细节和数字，但无论文和独立评测，代码未验证，需等复现。"
+          "review": "官方博客确认上线，但缺论文和独立评测，代码未开源，证据链缺一角。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "浏览器跑模型提速，前端推理今天就能试，省服务器钱。"
+          "score": 90,
+          "review": "写代码的今天就能在 Copilot 里用上新模型，直接提升效率。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_946b48cdca28",
-      "title": "Codex CLI 0.152.0",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_944fc7884d19",
+      "title": "Google Workspace 推出图像创作编辑工具 Google Pics / Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "版本号跳得勤，但没提具体改了什么，水分得挤挤。"
+          "review": "工具看着实用，但宣传里没提生成速度和多轮编辑的坑，先观望。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅官方更新日志，无论文无代码无评测，版本号而已。"
+          "score": 35,
+          "review": "官方博客宣称功能，无论文无代码无评测，仅凭官方更新难证实力。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "Codex CLI 小版本更新，命令行工具链用户可升级，影响有限但值得跟进。"
+          "score": 72,
+          "review": "Workspace 里直接生成和编辑图，做 PPT 配图能省事，但得看具体开放范围。"
         }
       }
     }
