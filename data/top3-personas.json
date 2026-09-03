@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:57:00.243942Z",
+  "generated_at": "2026-09-03T01:17:56.549256Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_0684dd59481d",
-      "title": "Claude Fable 5.1 现已正式登陆 GitHub Copilot / Claude Fable 5.1 is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
+      "story_id": "story_969f51f96125",
+      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "官方渠道确认，但'一般可用'背后藏着多少限制条件？先跑个真实项目再说。"
+          "review": "Flash 系列迭代快，但'Cyber'后缀更像营销包装，实际提升待测。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方博客确认上线，但缺论文和独立评测，代码未开源，证据链缺一角。"
+          "score": 45,
+          "review": "官方博客给了细节和数字，但无论文无代码，等第三方复现再定论。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "写代码的今天就能在 Copilot 里用上新模型，直接提升效率。"
+          "review": "新模型已发布，API 可用，跑推理任务今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_730fa9d1ab54",
-      "title": "Copilot 代码审查现在可以批准 PR / Copilot code review can now approve pull requests",
-      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "story_id": "story_3f22f5f68a33",
+      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "审批权给了，但代码质量谁把关？别让AI自己给自己盖章。"
+          "review": "名字花哨，参数没细说，先看看跑分再吹。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称功能，无论文代码，无独立验证，仅凭更新日志难服众。"
+          "score": 20,
+          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "审查能直接批准 PR，少一步人工点按钮，团队可立刻调整流程。"
+          "score": 85,
+          "review": "新模型已发布，API 可测，跑任务的今天就能换。"
         }
       }
     },
     {
-      "story_id": "story_ceac6bc98277",
-      "title": "Qwen3.8-Max-0902 登顶 Code Arena 并以 $5/MToken 领跑 Pareto 前沿 / 🏆 #1 overall on Code Arena， and top of the Pareto frontier at $5/MToken. Thanks！ @arena Give Qwen3…",
-      "url": "https://x.com/Alibaba_Qwen/status/2094982928371794077",
+      "story_id": "story_f2e8c1eb7be1",
+      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "登顶榜单是好事，但$5/MToken的性价比得看具体任务，别急着封神。"
+          "review": "排除功能总算转正，但默认全开才算真保护，别拿开关当盾牌。"
         },
         "paper-police": {
           "score": 45,
-          "review": "官方X帖称登顶Code Arena，但无论文代码benchmark链接，仅自报数字待验证。"
+          "review": "官方更新有细节但无代码无benchmark，功能可查但缺独立验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "编码模型登顶且价格有竞争力，跑代码任务的可以实测对比再切换。"
+          "score": 72,
+          "review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。"
         }
       }
     }
