@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T01:17:56.549256Z",
+  "generated_at": "2026-09-03T04:59:32.000101Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_3f22f5f68a33",
-      "title": "Anthropic 发布 Claude Fable 5.1 与 Claude Mythos 5.1 / Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "story_id": "story_b0d1d2b2315c",
+      "title": "Anthropic 发布 Claude Fable5.1:具备更强 Agent 编码能力，最高降本45%",
+      "url": "https://www.aibase.com/news/30801",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "名字花哨，参数没细说，先看看跑分再吹。"
+          "score": 62,
+          "review": "降本45%的基线藏着呢，编码能力提升先跑个真实项目再说。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
+          "score": 35,
+          "review": "官方宣称降本45%，但无论文代码，仅新闻稿，需第三方验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新模型已发布，API 可测，跑任务的今天就能换。"
+          "score": 88,
+          "review": "新模型已发布且降价，Agent 编码任务今天就能换，先跑 benchmark 验证。"
         }
       }
     },
     {
-      "story_id": "story_f2e8c1eb7be1",
-      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "story_id": "story_0a991ead0e43",
+      "title": "Codex CLI 0.153.0",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "排除功能总算转正，但默认全开才算真保护，别拿开关当盾牌。"
+          "score": 75,
+          "review": "版本号跳得勤，但没细看更新内容前，先别急着喊革命。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方更新有细节但无代码无benchmark，功能可查但缺独立验证。"
+          "score": 30,
+          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。"
+          "score": 82,
+          "review": "Codex CLI 更新，命令行干活的人直接升级看新功能。"
         }
       }
     }

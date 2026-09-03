@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_40f7961c06b7|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "多智能体系统踩坑总结，做Agent编排前值得一读，但没有可上手的新工具。",
-      "title_hash": "5ca32dd1",
-      "scored_at": "2026-08-13T03:03:59.234452Z"
-    },
-    "story_8f837c453dea|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "融资数字不产生API，等产品迭代再看不迟。",
-      "title_hash": "82ac7fdd",
-      "scored_at": "2026-08-13T03:04:01.492076Z"
-    },
-    "story_5a3ae58e0902|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "行业诚信丑闻，对开发者无直接行动价值，看个热闹就行。",
-      "title_hash": "65bdc2e9",
-      "scored_at": "2026-08-13T03:04:03.817134Z"
-    },
-    "story_2ac97bec3be9|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "新社交产品而已，没开放API，开发者别急着跟进。",
-      "title_hash": "b963b94a",
-      "scored_at": "2026-08-13T03:04:06.230129Z"
-    },
-    "story_ccf9d5d6e58f|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "加水印不影响输出质量，介意就去查官方说明，否则不用管。",
-      "title_hash": "deceafc4",
-      "scored_at": "2026-08-13T03:04:08.744212Z"
-    },
-    "story_c169917dbb00|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "还没上线不用急，等真能提升审查效率再上手。",
-      "title_hash": "ab9e3fef",
-      "scored_at": "2026-08-13T03:04:11.152749Z"
-    },
     "story_40432760e961|pragmatic|0a5c5b24": {
       "score": 28,
       "review": "融资估值与写代码无关，等有产品更新或降价再关注。",
@@ -6258,6 +6222,72 @@
       "review": "官方更新有细节但无代码无benchmark，功能可查但缺独立验证。",
       "title_hash": "7c91a343",
       "scored_at": "2026-09-03T01:17:56.549206Z"
+    },
+    "story_0a991ead0e43|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Codex CLI 更新，命令行干活的人直接升级看新功能。",
+      "title_hash": "30b83cce",
+      "scored_at": "2026-09-03T04:59:22.372892Z"
+    },
+    "story_b0d1d2b2315c|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型已发布且降价，Agent 编码任务今天就能换，先跑 benchmark 验证。",
+      "title_hash": "c37073f6",
+      "scored_at": "2026-09-03T04:59:23.419907Z"
+    },
+    "story_79a710d471b1|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "榜单对比看看就行，没开放 API 前对开发无直接影响。",
+      "title_hash": "50f1a008",
+      "scored_at": "2026-09-03T04:59:24.378791Z"
+    },
+    "story_0ec88da4f343|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资估值跟写代码无关，等产品开放再说。",
+      "title_hash": "78d5efff",
+      "scored_at": "2026-09-03T04:59:25.373653Z"
+    },
+    "story_a14603975d08|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "科研预警模型，暂无直接工具可用，关注后续开源或API。",
+      "title_hash": "4299a3cf",
+      "scored_at": "2026-09-03T04:59:26.722666Z"
+    },
+    "story_dcd4b8739e9b|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "巨单是资本故事，不写代码。除非你卖算力，否则看看就行。",
+      "title_hash": "bdd42c22",
+      "scored_at": "2026-09-03T04:59:27.454698Z"
+    },
+    "story_1ae4e4f84112|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "政策风向影响未来版权规则，但今天不改变你的训练和部署方式。",
+      "title_hash": "75025324",
+      "scored_at": "2026-09-03T04:59:28.595780Z"
+    },
+    "story_b0d1d2b2315c|cynic|f4237a62": {
+      "score": 62,
+      "review": "降本45%的基线藏着呢，编码能力提升先跑个真实项目再说。",
+      "title_hash": "c37073f6",
+      "scored_at": "2026-09-03T04:59:29.506393Z"
+    },
+    "story_b0d1d2b2315c|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方宣称降本45%，但无论文代码，仅新闻稿，需第三方验证。",
+      "title_hash": "c37073f6",
+      "scored_at": "2026-09-03T04:59:30.229879Z"
+    },
+    "story_0a991ead0e43|cynic|f4237a62": {
+      "score": 75,
+      "review": "版本号跳得勤，但没细看更新内容前，先别急着喊革命。",
+      "title_hash": "30b83cce",
+      "scored_at": "2026-09-03T04:59:31.218605Z"
+    },
+    "story_0a991ead0e43|paper-police|966065bf": {
+      "score": 30,
+      "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。",
+      "title_hash": "30b83cce",
+      "scored_at": "2026-09-03T04:59:32.000044Z"
     }
   }
 }
