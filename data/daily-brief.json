@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:05:43.335254Z",
+  "generated_at": "2026-09-03T14:44:38.003756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -73,7 +73,7 @@
           "title_zh": "3.8 Flash 正在向 @GeminiApp 推送 https://t.co/FItHefpEdv",
           "title_en": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
           "title_original": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
-          "summary": "3.8 Flash rolling out to @GeminiApp\n3.8 Flash rolling out to @GeminiApp\n3.8 Flash rolling out to @GeminiApp\nSee what’s happening and join the conversation",
+          "summary": null,
           "recommend_reason_zh": "3.8 Flash正在向@GeminiApp推出，正文三次重复这一更新，并附有查看动态和参与讨论的入口。关注该版本落地动态的用户，值得直接阅读原文。",
           "url": "https://x.com/joshwoodward/status/2095177483129917849",
           "source": "Follow Builders · X · Josh Woodward",
@@ -228,7 +228,7 @@
           "title_zh": "3.8 Flash 正在向 @GeminiApp 推送 https://t.co/FItHefpEdv",
           "title_en": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
           "title_original": "3.8 Flash rolling out to @GeminiApp https://t.co/FItHefpEdv",
-          "summary": "3.8 Flash rolling out to @GeminiApp\n3.8 Flash rolling out to @GeminiApp\n3.8 Flash rolling out to @GeminiApp\nSee what’s happening and join the conversation",
+          "summary": null,
           "recommend_reason_zh": "3.8 Flash正在向@GeminiApp推出，正文三次重复这一更新，并附有查看动态和参与讨论的入口。关注该版本落地动态的用户，值得直接阅读原文。",
           "url": "https://x.com/joshwoodward/status/2095177483129917849",
           "source": "Follow Builders · X · Josh Woodward",
@@ -309,15 +309,15 @@
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.9112,
-      "importance": 0.9112,
-      "importance_score": 0.9112,
+      "score": 0.9022,
+      "importance": 0.9022,
+      "importance_score": 0.9022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7735,
+        "recency": 0.7233,
         "story_heat": 1.0
       },
       "category": "official",
@@ -347,7 +347,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -482,15 +482,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8714,
-      "importance": 0.8714,
-      "importance_score": 0.8714,
+      "score": 0.8606,
+      "importance": 0.8606,
+      "importance_score": 0.8606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.8666,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -519,7 +519,291 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
+      }
+    },
+    {
+      "story_id": "story_16469548a272",
+      "title": "NeoMME：高效的原生多模态多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "primary_url": "https://huggingface.co/blog/Hcompany/neomme",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：高效的原生多模态多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：高效的原生多模态多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": "A Blog post by H company on Hugging Face\nA Blog post by H company on Hugging Face\nTL;DR Why another multimodal encoder? NeoMME encoder backbone One Transformer for images and text Learning from images through masked text NeoMME -Retriever A dual-head design for dense and late-interaction retrieval Competitive retrieval at compact model sizes Making high-resolution retrieval practical for late-interaction Try NeoMME -Retriever yourself! Fine-tuning with Sentence Transformers From retrieval to vis",
+          "recommend_reason_zh": "NeoMME用单一双向Transformer统一处理图像与文本，免去预训练视觉塔；260M/800M两版均处ViDoRe v3 Pareto前沿，260M在L40S上每秒编码约51页，后期交互索引存储压缩255倍至6kB/页。",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+          "title": "NeoMME：高效的原生多模态多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_zh": "NeoMME：高效的原生多模态多语言编码器",
+          "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "summary": "A Blog post by H company on Hugging Face\nA Blog post by H company on Hugging Face\nTL;DR Why another multimodal encoder? NeoMME encoder backbone One Transformer for images and text Learning from images through masked text NeoMME -Retriever A dual-head design for dense and late-interaction retrieval Competitive retrieval at compact model sizes Making high-resolution retrieval practical for late-interaction Try NeoMME -Retriever yourself! Fine-tuning with Sentence Transformers From retrieval to vis",
+          "recommend_reason_zh": "NeoMME用单一双向Transformer统一处理图像与文本，免去预训练视觉塔；260M/800M两版均处ViDoRe v3 Pareto前沿，260M在L40S上每秒编码约51页，后期交互索引存储压缩255倍至6kB/页。",
+          "url": "https://huggingface.co/blog/Hcompany/neomme",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T13:13:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8561,
+      "importance": 0.8561,
+      "importance_score": 0.8561,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T13:13:48Z",
+      "latest_at": "2026-09-03T13:13:48Z",
+      "primary_item": {
+        "id": "d93c1f6b932dc05ebde205846d094df62f896547",
+        "title": "NeoMME：高效的原生多模态多语言编码器 / NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_zh": "NeoMME：高效的原生多模态多语言编码器",
+        "title_en": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "title_original": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "summary": "A Blog post by H company on Hugging Face\nA Blog post by H company on Hugging Face\nTL;DR Why another multimodal encoder? NeoMME encoder backbone One Transformer for images and text Learning from images through masked text NeoMME -Retriever A dual-head design for dense and late-interaction retrieval Competitive retrieval at compact model sizes Making high-resolution retrieval practical for late-interaction Try NeoMME -Retriever yourself! Fine-tuning with Sentence Transformers From retrieval to vis",
+        "recommend_reason_zh": "NeoMME用单一双向Transformer统一处理图像与文本，免去预训练视觉塔；260M/800M两版均处ViDoRe v3 Pareto前沿，260M在L40S上每秒编码约51页，后期交互索引存储压缩255倍至6kB/页。",
+        "url": "https://huggingface.co/blog/Hcompany/neomme",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "多模态编码器新选择，做检索或跨语言任务的可以看下效果再决定是否替换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-03T15:22:40.914010Z"
+      }
+    },
+    {
+      "story_id": "story_6129f245443c",
+      "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "primary_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "recommend_reason_zh": "NVIDIA以129.3亿美元收购Hugging Face，后者拥有超1800万开发者、300万模型和20万家企业用户；文章强调其仍保持开放平台，不强制使用NVIDIA算力，继续支持多云端与开源权重模型。",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to Acquire Hugging Face",
+          "title_zh": null,
+          "title_en": "Nvidia to Acquire Hugging Face",
+          "title_original": "Nvidia to Acquire Hugging Face",
+          "summary": "reply\nreply\nreply\n- https://www.youtube.com/watch?v=2WoDQBhJCVQ\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nThey have a winning product for sure… the worlds models have chosen a hugging face workflow, but honestly where would they be able to find the revenue required to justify another couple rounds at ever higher valuations. To me, I think these folks see that the music is getting harder to hear and might stop entirely, might as well cash out. I do hope their employees were well taken care ",
+          "recommend_reason_zh": "Nvidia将收购Hugging Face，看点在于13b NVDA对价背后：全球模型已依赖Hugging Face工作流，但评论质疑其营收难撑高估值，这笔交易的分歧值得细读。",
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:29:03.348000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "NVIDIA Blog（RSS）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+          "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+          "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+          "title_en": "NVIDIA to Acquire Hugging Face",
+          "title_original": "NVIDIA to Acquire Hugging Face",
+          "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+          "recommend_reason_zh": "NVIDIA以129.3亿美元收购Hugging Face，后者拥有超1800万开发者、300万模型和20万家企业用户；文章强调其仍保持开放平台，不强制使用NVIDIA算力，继续支持多云端与开源权重模型。",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-03T11:59:49Z"
+        },
+        {
+          "id": "c34ecfce4127b33bc31e5ac97e15386469e96c44",
+          "title": "Nvidia to Acquire Hugging Face",
+          "title_zh": null,
+          "title_en": "Nvidia to Acquire Hugging Face",
+          "title_original": "Nvidia to Acquire Hugging Face",
+          "summary": "reply\nreply\nreply\n- https://www.youtube.com/watch?v=2WoDQBhJCVQ\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nThey have a winning product for sure… the worlds models have chosen a hugging face workflow, but honestly where would they be able to find the revenue required to justify another couple rounds at ever higher valuations. To me, I think these folks see that the music is getting harder to hear and might stop entirely, might as well cash out. I do hope their employees were well taken care ",
+          "recommend_reason_zh": "Nvidia将收购Hugging Face，看点在于13b NVDA对价背后：全球模型已依赖Hugging Face工作流，但评论质疑其营收难撑高估值，这笔交易的分歧值得细读。",
+          "url": "https://news.ycombinator.com/item?id=49548952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-03T14:29:03.348000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.91,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9611,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T11:59:49Z",
+      "latest_at": "2026-09-03T14:29:03.348000Z",
+      "primary_item": {
+        "id": "97039d8f5eae769457f61ad241d373cd2c617626",
+        "title": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face / NVIDIA to Acquire Hugging Face",
+        "title_zh": "NVIDIA 宣布以 129.303 亿美元收购 Hugging Face",
+        "title_en": "NVIDIA to Acquire Hugging Face",
+        "title_original": "NVIDIA to Acquire Hugging Face",
+        "summary": "NVIDIA 宣布已同意以 12，930，300，000 美元收购 Hugging Face，黄仁勋在官方博客公布了这一消息。Hugging Face 目前有超过 1800 万开发者，托管超过 300 万个模型、50 万个数据集和 100 万个应用，服务超过 20 万家企业。",
+        "recommend_reason_zh": "NVIDIA以129.3亿美元收购Hugging Face，后者拥有超1800万开发者、300万模型和20万家企业用户；文章强调其仍保持开放平台，不强制使用NVIDIA算力，继续支持多云端与开源权重模型。",
+        "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "收购离代码远，等 API 和模型托管政策落地再动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-03T15:22:40.914010Z"
+      }
+    },
+    {
+      "story_id": "story_49f7f7e715ad",
+      "title": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
+      "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+      "primary_url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
+          "title": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
+          "title_zh": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测",
+          "title_en": "CodeQL 2.26.4 improves GitHub actions security detections",
+          "title_original": "CodeQL 2.26.4 improves GitHub actions security detections",
+          "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4 , which adds support for Go 1.27, improves alert locations for Rust data flow queries, and includes accuracy improvements across C#, Java/Kotlin",
+          "recommend_reason_zh": "新版CodeQL 2.26.4支持Go 1.27，改进Rust数据流查询的告警定位，并提升C#、Java/Kotlin和GitHub Actions检测精度，值得代码扫描用户关注。",
+          "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T14:04:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
+          "title": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
+          "title_zh": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测",
+          "title_en": "CodeQL 2.26.4 improves GitHub actions security detections",
+          "title_original": "CodeQL 2.26.4 improves GitHub actions security detections",
+          "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4 , which adds support for Go 1.27, improves alert locations for Rust data flow queries, and includes accuracy improvements across C#, Java/Kotlin",
+          "recommend_reason_zh": "新版CodeQL 2.26.4支持Go 1.27，改进Rust数据流查询的告警定位，并提升C#、Java/Kotlin和GitHub Actions检测精度，值得代码扫描用户关注。",
+          "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T14:04:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T14:04:59Z",
+      "latest_at": "2026-09-03T14:04:59Z",
+      "primary_item": {
+        "id": "f7a1409b697d1b2c8889bd97dd00ee308a791264",
+        "title": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测 / CodeQL 2.26.4 improves GitHub actions security detections",
+        "title_zh": "CodeQL 2.26.4 增强了对 GitHub Actions 的安全检测",
+        "title_en": "CodeQL 2.26.4 improves GitHub actions security detections",
+        "title_original": "CodeQL 2.26.4 improves GitHub actions security detections",
+        "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4 , which adds support for Go 1.27, improves alert locations for Rust data flow queries, and includes accuracy improvements across C#, Java/Kotlin",
+        "recommend_reason_zh": "新版CodeQL 2.26.4支持Go 1.27，改进Rust数据流查询的告警定位，并提升C#、Java/Kotlin和GitHub Actions检测精度，值得代码扫描用户关注。",
+        "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "CI 安全扫描更全了，用 GitHub Actions 的今天就能升级试试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -567,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8643,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "official",
@@ -604,92 +888,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
-      }
-    },
-    {
-      "story_id": "story_42b25cdf8d9b",
-      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy people loved it RL over taste The RL environment you need to build The pool is the reward function Just one more yolo run What it actually learned Infra is hard What it costs What I would try next What I changed from the original Everything is published\nOn 23 August, Surya\nNarred",
-          "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy people loved it RL over taste The RL environment you need to build The pool is the reward function Just one more yolo run What it actually learned Infra is hard What it costs What I would try next What I changed from the original Everything is published\nOn 23 August, Surya\nNarred",
-          "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
-          "url": "https://huggingface.co/blog/train-to-paint-with-code",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8643,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-03T00:00:00Z",
-      "primary_item": {
-        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
-        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
-        "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
-        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy people loved it RL over taste The RL environment you need to build The pool is the reward function Just one more yolo run What it actually learned Infra is hard What it costs What I would try next What I changed from the original Everything is published\nOn 23 August, Surya\nNarred",
-        "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
-        "url": "https://huggingface.co/blog/train-to-paint-with-code",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "思路可借鉴但非通用方案，做图像生成的可看，纯编码的跳过。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -706,7 +905,7 @@
           "title_zh": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
           "title_en": null,
           "title_original": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
-          "summary": "The organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "这篇报道讲述Baidu AI底层架构再调整：Sun Tianxiang于7月执掌基础模型研究部后，原DeepSeek研究员Wei Haoran携团队加入，出任ERNIE多模态算法负责人。",
           "url": "https://www.aibase.com/news/30812",
           "source": "AIbase",
@@ -720,7 +919,7 @@
           "title_zh": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
           "title_en": null,
           "title_original": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
-          "summary": "The Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nThe Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nThe Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30805",
           "source": "AIbase",
@@ -754,7 +953,7 @@
           "title_zh": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
           "title_en": null,
           "title_original": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
-          "summary": "The organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "这篇报道讲述Baidu AI底层架构再调整：Sun Tianxiang于7月执掌基础模型研究部后，原DeepSeek研究员Wei Haoran携团队加入，出任ERNIE多模态算法负责人。",
           "url": "https://www.aibase.com/news/30812",
           "source": "AIbase",
@@ -768,7 +967,7 @@
           "title_zh": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
           "title_en": null,
           "title_original": "百度基础模型部大换血：北美大模型专家与前DeepSeek核心成员加盟，文心多模态迎关键升级",
-          "summary": "The Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nThe Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nThe Basic Model Research Department (BMU) of Baidu has recently made significant talent arrangements, continuously accelerating the comprehensive upgrade of org\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30805",
           "source": "AIbase",
@@ -793,15 +992,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9351,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -818,7 +1017,7 @@
         "title_zh": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
         "title_en": null,
         "title_original": "百度AI底层架构再迎重磅人事变动：原DeepSeek研究员魏浩然出任文心多模态负责人",
-        "summary": "The organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nThe organizational restructuring in the core technology areas of artificial intelligence at Baidu is still deepening. It is reported that after Sun Tianxiang of\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "这篇报道讲述Baidu AI底层架构再调整：Sun Tianxiang于7月执掌基础模型研究部后，原DeepSeek研究员Wei Haoran携团队加入，出任ERNIE多模态算法负责人。",
         "url": "https://www.aibase.com/news/30812",
         "source": "AIbase",
@@ -830,92 +1029,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
-      }
-    },
-    {
-      "story_id": "story_f2e8c1eb7be1",
-      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-          "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
-          "title_en": "Content exclusions generally available in Copilot app and CLI",
-          "title_original": "Content exclusions generally available in Copilot app and CLI",
-          "summary": null,
-          "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-          "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-          "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
-          "title_en": "Content exclusions generally available in Copilot app and CLI",
-          "title_original": "Content exclusions generally available in Copilot app and CLI",
-          "summary": null,
-          "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
-          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T18:14:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7954,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T18:14:23Z",
-      "latest_at": "2026-09-02T18:14:23Z",
-      "primary_item": {
-        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
-        "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-        "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
-        "title_en": "Content exclusions generally available in Copilot app and CLI",
-        "title_original": "Content exclusions generally available in Copilot app and CLI",
-        "summary": null,
-        "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
-        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1020,15 +1134,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8623,
+        "recency": 0.8063,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1057,7 +1171,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1105,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.813,
-      "importance": 0.813,
-      "importance_score": 0.813,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8277,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1142,63 +1256,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
-      "story_id": "story_1a90c856fc66",
-      "title": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。 / ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "primary_url": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI News",
+      "story_id": "story_42b25cdf8d9b",
+      "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "primary_url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-          "title": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。 / ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_zh": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。",
-          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
+          "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T12:00:00Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-          "title": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。 / ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_zh": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。",
-          "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+          "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+          "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+          "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/atv-big-air-tour",
-          "source": "OpenAI News",
+          "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
+          "url": "https://huggingface.co/blog/train-to-paint-with-code",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T12:00:00Z"
+          "published_at": "2026-09-03T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7268,
+        "recency": 0.8082,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1207,27 +1321,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T12:00:00Z",
-      "latest_at": "2026-09-02T12:00:00Z",
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
       "primary_item": {
-        "id": "16f498096a95b114de9ff4a9d3b4a452c37314db",
-        "title": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。 / ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "title_zh": "ATV Big Air Tour 用 ChatGPT 把 3 天的工作缩成了 3 小时。",
-        "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-        "title_original": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "id": "f2c2884c9619edcc261613b03c59b425878d0bda",
+        "title": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现 / Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_zh": "用 TRL 和 OpenEnv 训练编码模型画水彩：Hugging Face 全流程开源复现",
+        "title_en": "Training a coding model to paint watercolours with TRL and OpenEnv",
+        "title_original": "Training a coding model to paint watercolours with TRL and OpenEnv",
         "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/atv-big-air-tour",
-        "source": "OpenAI News",
+        "recommend_reason_zh": "Surya Narreddi的AI水彩画视频获超150万次观看，本文用TRL和OpenEnv复现其训练法：让模型写出约150行JavaScript代码作画，开放全部数据集与脚本，并对比三种奖励混合效果。",
+        "url": "https://huggingface.co/blog/train-to-paint-with-code",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "案例宣传，具体工作流没细节，抄不了作业，看看就行。",
+      "persona_score": 62,
+      "persona_review": "思路可借鉴但非通用方案，做图像生成的可看，纯编码的跳过。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1275,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7663,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1312,115 +1426,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
-      "story_id": "story_e664187f9e97",
-      "title": "在Confluent上利用IBM时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "primary_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "在Confluent上利用IBM时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": "在Confluent上利用IBM时间序列模型实现实时智能",
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍IBM将时间序列基础模型集成到Confluent，用于实时流数据的预测与异常检测，业务人员无需数据科学团队，其模型下载量超4400万，生产率提升5至10倍。",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-          "title": "在Confluent上利用IBM时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_zh": "在Confluent上利用IBM时间序列模型实现实时智能",
-          "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍IBM将时间序列基础模型集成到Confluent，用于实时流数据的预测与异常检测，业务人员无需数据科学团队，其模型下载量超4400万，生产率提升5至10倍。",
-          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-02T13:49:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7462,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-02T13:49:14Z",
-      "latest_at": "2026-09-02T13:49:14Z",
-      "primary_item": {
-        "id": "dbd72b06e20d827c12dbf3f4d6c6dfc0a628acf2",
-        "title": "在Confluent上利用IBM时间序列模型实现实时智能 / Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_zh": "在Confluent上利用IBM时间序列模型实现实时智能",
-        "title_en": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "title_original": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-        "summary": null,
-        "recommend_reason_zh": "本文介绍IBM将时间序列基础模型集成到Confluent，用于实时流数据的预测与异常检测，业务人员无需数据科学团队，其模型下载量超4400万，生产率提升5至10倍。",
-        "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "官方集成方案，适合 Confluent 用户做实时预测，但需看具体模型和文档。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
-      }
-    },
-    {
-      "story_id": "story_fa76f0c850c4",
-      "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
-      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "story_id": "story_f2e8c1eb7be1",
+      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
-          "title_zh": "企业管理设置支持任意默认模型",
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+          "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
+          "title_en": "Content exclusions generally available in Copilot app and CLI",
+          "title_original": "Content exclusions generally available in Copilot app and CLI",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
+          "published_at": "2026-09-02T18:14:23Z"
         }
       ],
       "source_count": 1,
@@ -1429,31 +1458,31 @@
       ],
       "items": [
         {
-          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-          "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
-          "title_zh": "企业管理设置支持任意默认模型",
-          "title_en": "Enterprise-managed settings support any default model",
-          "title_original": "Enterprise-managed settings support any default model",
+          "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+          "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+          "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
+          "title_en": "Content exclusions generally available in Copilot app and CLI",
+          "title_original": "Content exclusions generally available in Copilot app and CLI",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
+          "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-02T18:51:12Z"
+          "published_at": "2026-09-02T18:14:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8024,
+        "ai_relevance": 0.91,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1462,27 +1491,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-02T18:51:12Z",
-      "latest_at": "2026-09-02T18:51:12Z",
+      "earliest_at": "2026-09-02T18:14:23Z",
+      "latest_at": "2026-09-02T18:14:23Z",
       "primary_item": {
-        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
-        "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
-        "title_zh": "企业管理设置支持任意默认模型",
-        "title_en": "Enterprise-managed settings support any default model",
-        "title_original": "Enterprise-managed settings support any default model",
+        "id": "f99c5aaf224a9ee03e3bf2a2c1a36c5765c17b7d",
+        "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+        "title_zh": "Copilot 应用和 CLI 正式推出内容排除功能",
+        "title_en": "Content exclusions generally available in Copilot app and CLI",
+        "title_original": "Content exclusions generally available in Copilot app and CLI",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
-        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+        "recommend_reason_zh": "内容排除现已对 GitHub Copilot app 与 Copilot CLI 全面可用：企业、组织、仓库管理员配置的排除文件不会用作上下文，可在代理式工作流中保护敏感代码，面向 Copilot Business 与 Copilot Enterprise 开放。",
+        "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "企业管理员可设任意默认模型，团队选型更灵活，今天就能配。",
+      "persona_review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1530,15 +1559,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7926,
+        "recency": 0.7411,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1567,7 +1596,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
+      }
+    },
+    {
+      "story_id": "story_edf252f7cb9c",
+      "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "primary_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+          "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_zh": "用100步GRPO微调350M模型，以获得更好的结构化输出",
+          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nPrerequisites IFStruct Evaluation on LFM2.5-350M (Base model) GRPO Fine-tuning with TRL on Structured Outputs Training data Model and LoRA Reward functions Training Merging and saving the model IFStruct Evaluation on GRPO Tuned LFM2.5-350M Conclusion This guide is a fully public, ine",
+          "recommend_reason_zh": "用GRPO对LFM2.5-350M做仅100步的轻量微调，即可让IFStruct基准得分从22.6%提升到29.7%，全程约500个样本，甚至能在免费版Colab上运行。",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+          "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_zh": "用100步GRPO微调350M模型，以获得更好的结构化输出",
+          "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nPrerequisites IFStruct Evaluation on LFM2.5-350M (Base model) GRPO Fine-tuning with TRL on Structured Outputs Training data Model and LoRA Reward functions Training Merging and saving the model IFStruct Evaluation on GRPO Tuned LFM2.5-350M Conclusion This guide is a fully public, ine",
+          "recommend_reason_zh": "用GRPO对LFM2.5-350M做仅100步的轻量微调，即可让IFStruct基准得分从22.6%提升到29.7%，全程约500个样本，甚至能在免费版Colab上运行。",
+          "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-03T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8082,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-03T00:00:00Z",
+      "latest_at": "2026-09-03T00:00:00Z",
+      "primary_item": {
+        "id": "1d46fee4f597d8725792eef4fe9221191a315dd5",
+        "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "title_zh": "用100步GRPO微调350M模型，以获得更好的结构化输出",
+        "title_en": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "title_original": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nPrerequisites IFStruct Evaluation on LFM2.5-350M (Base model) GRPO Fine-tuning with TRL on Structured Outputs Training data Model and LoRA Reward functions Training Merging and saving the model IFStruct Evaluation on GRPO Tuned LFM2.5-350M Conclusion This guide is a fully public, ine",
+        "recommend_reason_zh": "用GRPO对LFM2.5-350M做仅100步的轻量微调，即可让IFStruct基准得分从22.6%提升到29.7%，全程约500个样本，甚至能在免费版Colab上运行。",
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "GRPO微调350M模型100步出结构化输出，小模型可抄作业，值得试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1584,7 +1698,7 @@
           "title_zh": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
           "title_en": null,
           "title_original": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-          "summary": "On September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30811",
           "source": "AIbase",
@@ -1598,7 +1712,7 @@
           "title_zh": "奥特曼官宣：OpenAI将正式自研人形机器人，首款AI硬件与IPO进程全曝光",
           "title_en": null,
           "title_original": "奥特曼官宣：OpenAI将正式自研人形机器人，首款AI硬件与IPO进程全曝光",
-          "summary": "Leading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nLeading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nLeading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CEO Sam Altman官宣将自研人形机器人，披露OpenAI Robotics由Aditya Ramesh领导，并聚焦硬件与机器学习的协同设计，还涉及首款AI硬件及IPO进程。",
           "url": "https://www.aibase.com/news/30813",
           "source": "AIbase",
@@ -1618,7 +1732,7 @@
           "title_zh": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
           "title_en": null,
           "title_original": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-          "summary": "On September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30811",
           "source": "AIbase",
@@ -1632,7 +1746,7 @@
           "title_zh": "奥特曼官宣：OpenAI将正式自研人形机器人，首款AI硬件与IPO进程全曝光",
           "title_en": null,
           "title_original": "奥特曼官宣：OpenAI将正式自研人形机器人，首款AI硬件与IPO进程全曝光",
-          "summary": "Leading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nLeading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nLeading AI company OpenAI is accelerating its expansion into the physical world. In the latest episode of its podcast, OpenAI CEO Sam Altman made a public and c\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "OpenAI CEO Sam Altman官宣将自研人形机器人，披露OpenAI Robotics由Aditya Ramesh领导，并聚焦硬件与机器学习的协同设计，还涉及首款AI硬件及IPO进程。",
           "url": "https://www.aibase.com/news/30813",
           "source": "AIbase",
@@ -1643,15 +1757,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9351,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1668,7 +1782,7 @@
         "title_zh": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
         "title_en": null,
         "title_original": "OpenAI宣布自研人形机器人 首款由乔纳森主导的AI终端拟于2027年发布",
-        "summary": "On September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nOn September 2, Sam Altman, CEO of OpenAI, clearly stated that the company will develop humanoid robots and other forms of robot bodies in a full-stack self-res\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30811",
         "source": "AIbase",
@@ -1680,7 +1794,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1706,7 +1820,7 @@
           "published_at": "2026-09-03T01:10:22Z"
         },
         {
-          "id": "e83cebf3bf6ea53e914fbbeb07e68977fe04de7e",
+          "id": "e4c149d5e61c155f7a118ebdb4471898b32e30d2",
           "title": "Muse Spark 1.3 正式发布 / Introducing Muse Spark 1.3",
           "title_zh": "Muse Spark 1.3 正式发布",
           "title_en": "Introducing Muse Spark 1.3",
@@ -1714,15 +1828,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-02T19:25:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
       ],
       "items": [
@@ -1741,7 +1855,7 @@
           "published_at": "2026-09-03T01:10:22Z"
         },
         {
-          "id": "e83cebf3bf6ea53e914fbbeb07e68977fe04de7e",
+          "id": "e4c149d5e61c155f7a118ebdb4471898b32e30d2",
           "title": "Muse Spark 1.3 正式发布 / Introducing Muse Spark 1.3",
           "title_zh": "Muse Spark 1.3 正式发布",
           "title_en": "Introducing Muse Spark 1.3",
@@ -1749,30 +1863,29 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://research.meta.ai/blog/introducing-muse-spark-1-3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-02T19:25:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.822,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T19:25:47Z",
       "latest_at": "2026-09-03T01:10:22Z",
@@ -1794,7 +1907,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1825,7 +1938,7 @@
           "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
           "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
           "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "summary": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.\nClaude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.\nClaude can now use your computer in the background in Cl",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://x.com/claudeai/status/2095226833293685100",
           "source": "Follow Builders · X · Claude",
@@ -1860,7 +1973,7 @@
           "title_zh": "Claude 在 Cowork 和 Claude Code 中支持后台操作电脑",
           "title_en": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
           "title_original": "Claude can now use your computer in the background in Claude Cowork and Claude Code. Give it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something el...",
-          "summary": "Claude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.\nClaude can now use your computer in the background in Claude Cowork and Claude Code.\n\nGive it something to do on your desktop and Claude clicks, types, and opens apps just like you would, while you work on something else.\nClaude can now use your computer in the background in Cl",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://x.com/claudeai/status/2095226833293685100",
           "source": "Follow Builders · X · Claude",
@@ -1871,22 +1984,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7531,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-02T19:06:19Z",
       "latest_at": "2026-09-02T19:06:19Z",
@@ -1908,7 +2020,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
+      }
+    },
+    {
+      "story_id": "story_fa76f0c850c4",
+      "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
+      "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "primary_url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
+          "title_zh": "企业管理设置支持任意默认模型",
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:51:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+          "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
+          "title_zh": "企业管理设置支持任意默认模型",
+          "title_en": "Enterprise-managed settings support any default model",
+          "title_original": "Enterprise-managed settings support any default model",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
+          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-02T18:51:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7503,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-02T18:51:12Z",
+      "latest_at": "2026-09-02T18:51:12Z",
+      "primary_item": {
+        "id": "568de570ec0e2b50fb98f313a460557d380af1d4",
+        "title": "企业管理设置支持任意默认模型 / Enterprise-managed settings support any default model",
+        "title_zh": "企业管理设置支持任意默认模型",
+        "title_en": "Enterprise-managed settings support any default model",
+        "title_original": "Enterprise-managed settings support any default model",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Copilot企业托管设置现已支持为所有新对话指定默认模型，并可在team-mappings.json中按团队分配不同默认模型、允许覆盖；该功能面向Copilot Business和Copilot Enterprise在app、CLI及Visual Studio Code中正式可用。",
+        "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "企业管理员可设任意默认模型，团队选型更灵活，今天就能配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -1956,15 +2153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7756,
+        "recency": 0.7252,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1991,90 +2188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
-      }
-    },
-    {
-      "story_id": "story_297c4042827c",
-      "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-          "recommend_reason_zh": "OpenAI因加拿大Tumbler Ridge校园枪击案新增30起诉讼，被控协助教唆：内部曾标记枪手ChatGPT涉枪对话并建议报警，高层为声誉沉默，只停用账户致其换邮箱再次使用。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T14:35:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-          "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-          "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-          "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-          "recommend_reason_zh": "OpenAI因加拿大Tumbler Ridge校园枪击案新增30起诉讼，被控协助教唆：内部曾标记枪手ChatGPT涉枪对话并建议报警，高层为声誉沉默，只停用账户致其换邮箱再次使用。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-02T14:35:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7545,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-02T14:35:03Z",
-      "latest_at": "2026-09-02T14:35:03Z",
-      "primary_item": {
-        "id": "aa94a40b65d18b345f373bb35e8636a13f859fd9",
-        "title": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆 / OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "title_zh": "OpenAI 因 Tumbler Ridge 枪击案面临 30 起新诉讼，被指协助教唆",
-        "title_en": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "title_original": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
-        "summary": "OpenAI 及 CEO Sam Altman 面临 30 起新诉讼，指控其为加拿大 Tumbler Ridge 校园枪击案嫌疑人提供实质性协助与鼓励，诉讼由事发时在校的学生、教师和校长于加州联邦法院提起。",
-        "recommend_reason_zh": "OpenAI因加拿大Tumbler Ridge校园枪击案新增30起诉讼，被控协助教唆：内部曾标记枪手ChatGPT涉枪对话并建议报警，高层为声誉沉默，只停用账户致其换邮箱再次使用。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "诉讼离代码远，除非你做法务，否则不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     },
     {
@@ -2150,15 +2264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.864,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -2187,91 +2301,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
-      }
-    },
-    {
-      "story_id": "story_4714a5d58c58",
-      "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-      "url": "https://www.aibase.com/news/30802",
-      "primary_url": "https://www.aibase.com/news/30802",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
-          "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "title_en": null,
-          "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "summary": "Meta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nExplore AI Fronti",
-          "recommend_reason_zh": "Meta 宣布不再用 AI 采用率仪表盘或 Token 用量评估工程师绩效，明确 93% 代码变更已由 AI 辅助，但强调采用 AI 本身并非终极目标，值得一读。",
-          "url": "https://www.aibase.com/news/30802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T10:05:43.335254Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
-          "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "title_en": null,
-          "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-          "summary": "Meta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nExplore AI Fronti",
-          "recommend_reason_zh": "Meta 宣布不再用 AI 采用率仪表盘或 Token 用量评估工程师绩效，明确 93% 代码变更已由 AI 辅助，但强调采用 AI 本身并非终极目标，值得一读。",
-          "url": "https://www.aibase.com/news/30802",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-03T10:05:43.335254Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-03T10:05:43.335254Z",
-      "latest_at": "2026-09-03T10:05:43.335254Z",
-      "primary_item": {
-        "id": "ec25c2c4a681a5c3bdd0063601048cf09ac17b1f",
-        "title": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-        "title_zh": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-        "title_en": null,
-        "title_original": "AI 绩效评估从\"用量\"转向\"产出\"：Meta 弃用采用率仪表盘与 Token 指标",
-        "summary": "Meta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nMeta engineering executives Maher Saba and Santosh Janardhan released a memo to internal employees on Tuesday, updating the company's expectations for engineers\nExplore AI Fronti",
-        "recommend_reason_zh": "Meta 宣布不再用 AI 采用率仪表盘或 Token 用量评估工程师绩效，明确 93% 代码变更已由 AI 辅助，但强调采用 AI 本身并非终极目标，值得一读。",
-        "url": "https://www.aibase.com/news/30802",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "管理口径变化，对开发者选型无直接影响，等具体工具落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-03T10:35:24.384845Z"
+        "scored_at": "2026-09-03T15:22:40.914010Z"
       }
     }
   ]

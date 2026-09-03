@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cab5ba4e8224|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源 TTS 可直接 clone 跑推理，做语音合成的今天就能上手试。",
-      "title_hash": "b26c93b5",
-      "scored_at": "2026-08-13T10:46:42.542041Z"
-    },
-    "story_9fd2d6d4a7de|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接换，便宜六成性能不输，跑量任务立省成本。",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:44.625078Z"
-    },
-    "story_fe80c6938485|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "小版本更新，功能局限在其产品内，非通用工具，看看就好。",
-      "title_hash": "bf2e7271",
-      "scored_at": "2026-08-13T10:46:48.054593Z"
-    },
-    "story_f803e81923df|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "模型延期影响排期，但没给你可用的东西，观望即可。",
-      "title_hash": "b6789663",
-      "scored_at": "2026-08-13T10:46:50.136637Z"
-    },
-    "story_9fd2d6d4a7de|cynic|f4237a62": {
-      "score": 22,
-      "review": "性价比榜谁排的？智能指数敢晒测试集吗？便宜一半先发货再说。",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:52.353077Z"
-    },
-    "story_9fd2d6d4a7de|paper-police|966065bf": {
-      "score": 8,
-      "review": "只有媒体宣称，无论文无代码无评测报告，性价比榜是谁排的？",
-      "title_hash": "f6ffb3b6",
-      "scored_at": "2026-08-13T10:46:54.054835Z"
-    },
-    "story_804890f5e6d9|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "新模型已上线，Agent任务今天就能升级调用，先测兼容性再切流量。",
-      "title_hash": "6813aabb",
-      "scored_at": "2026-08-13T12:19:26.501128Z"
-    },
-    "story_804890f5e6d9|cynic|f4237a62": {
-      "score": 60,
-      "review": "“大幅增强”有多大幅？给个可复现的基准，别只发更新日志。",
-      "title_hash": "6813aabb",
-      "scored_at": "2026-08-13T12:19:30.885665Z"
-    },
-    "story_804890f5e6d9|paper-police|966065bf": {
-      "score": 38,
-      "review": "官方更新日志称 Agent 增强，无论文无代码无跑分，待实测验证。",
-      "title_hash": "6813aabb",
-      "scored_at": "2026-08-13T12:19:35.662279Z"
-    },
-    "story_12c3ea2ff41b|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "开发者预览版可试用，但未正式稳定，先读文档再决定是否接入。",
-      "title_hash": "50649dd7",
-      "scored_at": "2026-08-13T14:07:39.797164Z"
-    },
     "story_829dd1cf861d|pragmatic|0a5c5b24": {
       "score": 88,
       "review": "开源即上线，今天就能调API跑推理，省了部署成本。",
@@ -6204,6 +6144,42 @@
       "review": "管理口径变化，对开发者选型无直接影响，等具体工具落地再说。",
       "title_hash": "cda03b11",
       "scored_at": "2026-09-03T10:35:29.078480Z"
+    },
+    "story_16469548a272|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "多模态编码器新选择，做检索或跨语言任务的可以看下效果再决定是否替换。",
+      "title_hash": "107fa520",
+      "scored_at": "2026-09-03T15:22:42.152344Z"
+    },
+    "story_6129f245443c|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "收购离代码远，等 API 和模型托管政策落地再动。",
+      "title_hash": "bd988f72",
+      "scored_at": "2026-09-03T15:22:43.123227Z"
+    },
+    "story_49f7f7e715ad|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "CI 安全扫描更全了，用 GitHub Actions 的今天就能升级试试。",
+      "title_hash": "0730beeb",
+      "scored_at": "2026-09-03T15:22:45.051349Z"
+    },
+    "story_edf252f7cb9c|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "GRPO微调350M模型100步出结构化输出，小模型可抄作业，值得试。",
+      "title_hash": "ad271cec",
+      "scored_at": "2026-09-03T15:22:45.855728Z"
+    },
+    "story_edf252f7cb9c|cynic|f4237a62": {
+      "score": 72,
+      "review": "百步调参就敢晒结构化输出，demo挑得巧，换复杂任务怕是要现原形。",
+      "title_hash": "ad271cec",
+      "scored_at": "2026-09-03T15:22:46.756238Z"
+    },
+    "story_edf252f7cb9c|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了步骤和数字，但无代码无独立验证，等复现再信。",
+      "title_hash": "ad271cec",
+      "scored_at": "2026-09-03T15:22:47.514904Z"
     }
   }
 }

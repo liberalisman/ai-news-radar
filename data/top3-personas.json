@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T10:35:29.078619Z",
+  "generated_at": "2026-09-03T15:22:47.514955Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f2e8c1eb7be1",
-      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
-      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "story_id": "story_edf252f7cb9c",
+      "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "排除功能总算转正，但默认全开才算真保护，别拿开关当盾牌。"
+          "review": "百步调参就敢晒结构化输出，demo挑得巧，换复杂任务怕是要现原形。"
         },
         "paper-police": {
           "score": 45,
-          "review": "官方更新有细节但无代码无benchmark，功能可查但缺独立验证。"
+          "review": "博客给了步骤和数字，但无代码无独立验证，等复现再信。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。"
+          "score": 82,
+          "review": "GRPO微调350M模型100步出结构化输出，小模型可抄作业，值得试。"
         }
       }
     }
