@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:25:27.846847Z",
+  "generated_at": "2026-09-03T10:35:29.078619Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_b0d1d2b2315c",
-      "title": "Anthropic 发布 Claude Fable5.1:具备更强 Agent 编码能力，最高降本45%",
-      "url": "https://www.aibase.com/news/30801",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "降本45%的基线藏着呢，编码能力提升先跑个真实项目再说。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方宣称降本45%，但无论文代码，仅新闻稿，需第三方验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "新模型已发布且降价，Agent 编码任务今天就能换，先跑 benchmark 验证。"
-        }
-      }
-    },
-    {
       "story_id": "story_0a991ead0e43",
       "title": "Codex CLI 0.153.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "Codex CLI 更新，命令行干活的人直接升级看新功能。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f2e8c1eb7be1",
+      "title": "Copilot 应用和 CLI 正式推出内容排除功能 / Content exclusions generally available in Copilot app and CLI",
+      "url": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "排除功能总算转正，但默认全开才算真保护，别拿开关当盾牌。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方更新有细节但无代码无benchmark，功能可查但缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "内容排除功能上线，敏感代码可防泄露，合规项目今天就能配。"
         }
       }
     }
