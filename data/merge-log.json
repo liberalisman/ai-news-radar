@@ -1,22 +1,8 @@
 {
-  "generated_at": "2026-09-04T14:21:30.317598Z",
+  "generated_at": "2026-09-04T15:06:27.367838Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 34,
+  "total_events": 33,
   "events": [
-    {
-      "story_id": "story_a0931d161b21",
-      "item_id": "2ce61cfe8316633c46e8daecde2604beec30c201",
-      "merged_into": "story_a0931d161b21",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_efce4745d1e1",
-      "item_id": "e33b87a2cf96ca0ccc8c8bee88e06144f0b56029",
-      "merged_into": "story_efce4745d1e1",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_1d9d0a926ea7",
       "item_id": "4af8e2089978458d125b370c065710974967b754",
@@ -102,16 +88,9 @@
       "similarity": 0.2129
     },
     {
-      "story_id": "story_54dbd84743df",
-      "item_id": "5632284eb332dbdc21c127f0c413d685d41f120e",
-      "merged_into": "story_54dbd84743df",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_54dbd84743df",
+      "story_id": "story_1570a7972a70",
       "item_id": "e8e1cc352fbf42ac0ef529e79e05e7cd5993bc17",
-      "merged_into": "story_54dbd84743df",
+      "merged_into": "story_1570a7972a70",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -163,6 +142,13 @@
       "merged_into": "story_2b2808fe9126",
       "reason": "entity_match",
       "similarity": 0.6047
+    },
+    {
+      "story_id": "story_1570a7972a70",
+      "item_id": "edc53e565a3e799a805fc85f3fa40da6053c2208",
+      "merged_into": "story_1570a7972a70",
+      "reason": "entity_match",
+      "similarity": 0.2987
     },
     {
       "story_id": "story_159b0118eabc",
@@ -240,6 +226,13 @@
       "merged_into": "story_eff828d39dac",
       "reason": "entity_match",
       "similarity": 0.3663
+    },
+    {
+      "story_id": "story_e4d67efd652d",
+      "item_id": "3dfa6fe8bf9e2bbbbd6c9b6d959fb480e6715f4f",
+      "merged_into": "story_e4d67efd652d",
+      "reason": "canonical_url",
+      "similarity": 1.0
     }
   ]
 }
