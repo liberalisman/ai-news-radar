@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T15:33:38.800306Z",
+  "generated_at": "2026-09-04T19:09:33.636562Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_f1454cb33a85",
-      "title": "Gemini 3.8 Flash 现已可在 GitHub Copilot 中使用 / Gemini 3.8 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+      "story_id": "story_49efdff27ea0",
+      "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
+      "url": "https://www.aibase.com/news/30836",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "模型进Copilot是常规操作，但别指望它替你写代码时不翻车。"
+          "score": 62,
+          "review": "长周期编程和自主Agent听着唬人，先跑个真实项目看看再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客宣布可用，无论文无代码无评测，仅靠公告难证性能。"
+          "score": 20,
+          "review": "仅官方公告称接入API，无论文代码及第三方评测，证据薄弱。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Copilot 用户今天就能切新模型，代码补全和聊天体验直接升级。"
+          "review": "API已接入，长周期编程和Agent场景今天就能试，省去自己折腾部署。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_159b0118eabc",
-      "title": "微软发布MAI-Transcribe-2语音识别模型，每小时仅0.10美元",
-      "url": "https://www.aibase.com/news/30822",
+      "story_id": "story_0f3277bac9d6",
+      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "价格确实低，但得看长音频和噪音下的表现，别只拿干净demo说事。"
+          "review": "多模型编排降本不新鲜，关键看实测省了多少，别拿内部数字糊弄。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方宣称价格与性能，无论文无代码无评测，证据不足。"
+          "score": 45,
+          "review": "官方博客给了细节和数字，但无论文无代码，等开源或第三方验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "价格够低，语音转写批量任务今天就能换，先测准度再切。"
+          "score": 72,
+          "review": "多模型编排降本，Copilot 用户短期感知有限，等正式 API 再动手。"
         }
       }
     }
