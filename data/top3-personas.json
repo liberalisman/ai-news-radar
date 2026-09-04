@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:22:47.514955Z",
+  "generated_at": "2026-09-04T05:10:49.805419Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_969f51f96125",
-      "title": "Google DeepMind 发布 Gemini 3.8 Flash 与 3.8 Flash Cyber 两款新模型 / Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber",
+      "story_id": "story_f1454cb33a85",
+      "title": "Gemini 3.8 Flash 现已可在 GitHub Copilot 中使用 / Gemini 3.8 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "Flash 系列迭代快，但'Cyber'后缀更像营销包装，实际提升待测。"
+          "review": "模型进Copilot是常规操作，但别指望它替你写代码时不翻车。"
         },
         "paper-police": {
           "score": 45,
-          "review": "官方博客给了细节和数字，但无论文无代码，等第三方复现再定论。"
+          "review": "官方博客宣布可用，无论文无代码无评测，仅靠公告难证性能。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "新模型已发布，API 可用，跑推理任务今天就能试。"
+          "score": 85,
+          "review": "Copilot 用户今天就能切新模型，代码补全和聊天体验直接升级。"
         }
       }
     },
     {
-      "story_id": "story_0a991ead0e43",
-      "title": "Codex CLI 0.153.0",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_ec9d66feb5a5",
+      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "版本号跳得勤，但没细看更新内容前，先别急着喊革命。"
+          "score": 45,
+          "review": "ARC-AGI 99.9%听着唬人，可这榜单一向自家说了算，换个基准试试？"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。"
+          "score": 8,
+          "review": "无论文无代码无评测细节，99.9%只是宣传数字。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "Codex CLI 更新，命令行干活的人直接升级看新功能。"
+          "score": 85,
+          "review": "新模型发布，若 API 已开放可直接测；否则等文档和价格。"
         }
       }
     },
     {
-      "story_id": "story_edf252f7cb9c",
-      "title": "用100步GRPO微调350M模型，以获得更好的结构化输出 / Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "story_id": "story_159b0118eabc",
+      "title": "微软发布MAI-Transcribe-2语音识别模型，每小时仅0.10美元",
+      "url": "https://www.aibase.com/news/30822",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "百步调参就敢晒结构化输出，demo挑得巧，换复杂任务怕是要现原形。"
+          "review": "价格确实低，但得看长音频和噪音下的表现，别只拿干净demo说事。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客给了步骤和数字，但无代码无独立验证，等复现再信。"
+          "score": 20,
+          "review": "仅官方宣称价格与性能，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "GRPO微调350M模型100步出结构化输出，小模型可抄作业，值得试。"
+          "score": 85,
+          "review": "价格够低，语音转写批量任务今天就能换，先测准度再切。"
         }
       }
     }
