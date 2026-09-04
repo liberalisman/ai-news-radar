@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_0276dc6b6132|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "生态盘点供选型参考，无新工具，看趋势即可。",
-      "title_hash": "3d3375db",
-      "scored_at": "2026-08-14T19:23:28.321826Z"
-    },
-    "story_4a31f336fa32|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "聊天里能用了，但 API 未同步开放，写代码的还得等。",
-      "title_hash": "16624c97",
-      "scored_at": "2026-08-14T19:23:29.864516Z"
-    },
-    "story_b8125cc46db3|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "水印机制原理说明，暂无 API 可调用，写检测工具的人可先读。",
-      "title_hash": "2f5b5d4a",
-      "scored_at": "2026-08-14T20:07:17.986334Z"
-    },
-    "story_18cc8e6fbb9e|pragmatic|0a5c5b24": {
-      "score": 48,
-      "review": "水印移除是平台策略调整，对开发者日常没直接影响，不用管。",
-      "title_hash": "67a7758f",
-      "scored_at": "2026-08-14T20:07:20.238500Z"
-    },
     "story_e27bfcf013b4|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "多回调 URI 和 token 刷新，做 OAuth 集成的今天就能改配置。",
@@ -6030,6 +6006,78 @@
       "review": "官方博客给了细节和数字，但无论文无代码，等开源或第三方验证。",
       "title_hash": "e7417170",
       "scored_at": "2026-09-04T19:09:33.636506Z"
+    },
+    "story_1f3f9b7a140c|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "Copilot 用户今天就能用上 GPT-6 Astra，写代码直接升级，值得立刻试。",
+      "title_hash": "91c398ac",
+      "scored_at": "2026-09-04T22:01:14.103666Z"
+    },
+    "story_e76115a5a946|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "Codex CLI 小版本更新，修 bug 提稳定性，正在用的直接升。",
+      "title_hash": "ebde164d",
+      "scored_at": "2026-09-04T22:01:14.899803Z"
+    },
+    "story_f2dd19138871|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "机器证明里程碑，但离工程落地远，做形式化验证的可以围观。",
+      "title_hash": "a8d8cf0e",
+      "scored_at": "2026-09-04T22:01:15.757939Z"
+    },
+    "story_a4c37a83ad98|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "GitHub 新端点能拿星标历史，做趋势分析或榜单的今天就能接。",
+      "title_hash": "4834743f",
+      "scored_at": "2026-09-04T22:01:16.720111Z"
+    },
+    "story_fe67d000c4c1|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "GPT-6 Astra 已开放，Pro/企业用户今天就能用，直接上手测效果。",
+      "title_hash": "bedcc90e",
+      "scored_at": "2026-09-04T22:01:17.520187Z"
+    },
+    "story_2456070438da|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "ARC基准新SOTA，但无API细节，短期难直接落地，观望。",
+      "title_hash": "7cd5a15c",
+      "scored_at": "2026-09-04T22:01:18.407485Z"
+    },
+    "story_1f3f9b7a140c|cynic|f4237a62": {
+      "score": 72,
+      "review": "正式版总算来了，但'革命性'在哪？先跑个真实项目再说。",
+      "title_hash": "91c398ac",
+      "scored_at": "2026-09-04T22:01:19.205945Z"
+    },
+    "story_1f3f9b7a140c|paper-police|966065bf": {
+      "score": 70,
+      "review": "官方博客发布，但缺论文和代码，需看实际效果再评。",
+      "title_hash": "91c398ac",
+      "scored_at": "2026-09-04T22:01:20.175853Z"
+    },
+    "story_e76115a5a946|cynic|f4237a62": {
+      "score": 72,
+      "review": "版本号刷得勤，但没提具体改了什么，水分自己挤。",
+      "title_hash": "ebde164d",
+      "scored_at": "2026-09-04T22:01:20.983414Z"
+    },
+    "story_e76115a5a946|paper-police|966065bf": {
+      "score": 35,
+      "review": "仅官方更新日志，无论文代码评测，版本号而已，证据单薄。",
+      "title_hash": "ebde164d",
+      "scored_at": "2026-09-04T22:01:21.804193Z"
+    },
+    "story_fe67d000c4c1|cynic|f4237a62": {
+      "score": 55,
+      "review": "又是订阅分层，先说说和GPT-5差在哪，别光换名字。",
+      "title_hash": "bedcc90e",
+      "scored_at": "2026-09-04T22:01:22.632296Z"
+    },
+    "story_fe67d000c4c1|paper-police|966065bf": {
+      "score": 10,
+      "review": "仅官方推文宣称，无论文无代码无评测，证据不足。",
+      "title_hash": "bedcc90e",
+      "scored_at": "2026-09-04T22:01:23.399470Z"
     }
   }
 }

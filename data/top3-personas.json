@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:09:33.636562Z",
+  "generated_at": "2026-09-04T22:01:23.399522Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_49efdff27ea0",
-      "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
-      "url": "https://www.aibase.com/news/30836",
+      "story_id": "story_1f3f9b7a140c",
+      "title": "GPT-6 Astra 现已正式登陆 GitHub Copilot / GPT-6 Astra is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "长周期编程和自主Agent听着唬人，先跑个真实项目看看再说。"
+          "score": 72,
+          "review": "正式版总算来了，但'革命性'在哪？先跑个真实项目再说。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方公告称接入API，无论文代码及第三方评测，证据薄弱。"
+          "score": 70,
+          "review": "官方博客发布，但缺论文和代码，需看实际效果再评。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "API已接入，长周期编程和Agent场景今天就能试，省去自己折腾部署。"
+          "score": 90,
+          "review": "Copilot 用户今天就能用上 GPT-6 Astra，写代码直接升级，值得立刻试。"
         }
       }
     },
     {
-      "story_id": "story_ec9d66feb5a5",
-      "title": "OpenAI 发布 GPT-6 Astra，ARC-AGI 3 得分 99.9% / GPT-6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
+      "story_id": "story_e76115a5a946",
+      "title": "Codex CLI 0.153.3",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "ARC-AGI 99.9%听着唬人，可这榜单一向自家说了算，换个基准试试？"
+          "score": 72,
+          "review": "版本号刷得勤，但没提具体改了什么，水分自己挤。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "无论文无代码无评测细节，99.9%只是宣传数字。"
+          "score": 35,
+          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据单薄。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "新模型发布，若 API 已开放可直接测；否则等文档和价格。"
+          "review": "Codex CLI 小版本更新，修 bug 提稳定性，正在用的直接升。"
         }
       }
     },
     {
-      "story_id": "story_0f3277bac9d6",
-      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "story_id": "story_fe67d000c4c1",
+      "title": "OpenAI 发布 GPT-6 Astra，面向 Pro、Enterprise 和 Business Premium 用户开放 / GPT-6 Astra is now available to all Pro， Enterprise， and Business Premium users in ChatGPT Work and …",
+      "url": "https://x.com/OpenAI/status/2095968413646737608",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "多模型编排降本不新鲜，关键看实测省了多少，别拿内部数字糊弄。"
+          "score": 55,
+          "review": "又是订阅分层，先说说和GPT-5差在哪，别光换名字。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了细节和数字，但无论文无代码，等开源或第三方验证。"
+          "score": 10,
+          "review": "仅官方推文宣称，无论文无代码无评测，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "多模型编排降本，Copilot 用户短期感知有限，等正式 API 再动手。"
+          "score": 85,
+          "review": "GPT-6 Astra 已开放，Pro/企业用户今天就能用，直接上手测效果。"
         }
       }
     }
