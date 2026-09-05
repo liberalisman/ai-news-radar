@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:51:06.985353Z",
+  "generated_at": "2026-09-05T00:32:34.754436Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_e76115a5a946",
-      "title": "Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "版本号刷得勤，但没提具体改了什么，水分自己挤。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "仅官方更新日志，无论文代码评测，版本号而已，证据单薄。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "Codex CLI 小版本更新，修 bug 提稳定性，正在用的直接升。"
-        }
-      }
-    },
-    {
       "story_id": "story_15513cdb6d25",
       "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
       "url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "GPT-6 Astra 主打电脑操作，若 API 开放，自动化脚本今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_013a8ac40c9d",
+      "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
+      "url": "https://x.com/sama/status/2096008528834244741",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "Plus用户先尝鲜，基准数据呢？别又拿自家对比表糊弄。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "仅CEO推文宣称推出，无论文无代码无评测，证据为零。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Plus和Business用户今天就能用，直接上手测新模型。"
         }
       }
     }
