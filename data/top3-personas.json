@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:27:43.091053Z",
+  "generated_at": "2026-09-05T21:51:54.613417Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_903604aee596",
-      "title": "OpenRouter 上的 GPT-6 Astra",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "OpenRouter 挂个名就敢叫 GPT-6 Astra，参数和测试数据呢？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅平台页面与论坛提及，无论文无代码无评测，查无实据。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "OpenRouter 已上线 GPT-6 Astra，今天就能调 API 试效果，跑任务前先测兼容性。"
-        }
-      }
-    },
-    {
       "story_id": "story_36edef5c4324",
       "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_5110803ce212",
       "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
       "url": "https://x.com/kimmonismus/status/2096007967749349844",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "形式化证明验证了推理能力，但暂无直接可用的工具或API，观望。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bf4a1e858a01",
+      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "新瓶装旧酒，额度砍半叫升级？先解释下为什么比前代还抠门。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方公告称推出GPT-6 Astra，但无论文无代码无评测，额度对比也无依据。"
+        },
+        "pragmatic": {
+          "score": 65,
+          "review": "新模型上线但额度减半，重度用户先算成本再迁移。"
         }
       }
     }
