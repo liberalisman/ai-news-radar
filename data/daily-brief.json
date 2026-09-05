@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T19:30:13.786821Z",
+  "generated_at": "2026-09-05T21:14:21.295152Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_e1e7a08cca0d",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8146,
+      "importance": 0.8146,
+      "importance_score": 0.8146,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8659,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -228,92 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
-      }
-    },
-    {
-      "story_id": "story_e7cbcef29db3",
-      "title": "GitHub Copilot 每周发布 — 8月31日 / GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "primary_url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot 每周发布 — 8月31日 / GitHub Copilot weekly releases — August 31",
-          "title_zh": "GitHub Copilot 每周发布 — 8月31日",
-          "title_en": "GitHub Copilot weekly releases — August 31",
-          "title_original": "GitHub Copilot weekly releases — August 31",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot本周扩展模型选择与内容保护，VS Code新增管理agent会话及让pull request合并就绪的途径；同时Copilot harness在JetBrains中正式可用，带来更快的功能交付和更好的代码质量。",
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-          "title": "GitHub Copilot 每周发布 — 8月31日 / GitHub Copilot weekly releases — August 31",
-          "title_zh": "GitHub Copilot 每周发布 — 8月31日",
-          "title_en": "GitHub Copilot weekly releases — August 31",
-          "title_original": "GitHub Copilot weekly releases — August 31",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot本周扩展模型选择与内容保护，VS Code新增管理agent会话及让pull request合并就绪的途径；同时Copilot harness在JetBrains中正式可用，带来更快的功能交付和更好的代码质量。",
-          "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T21:05:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7234,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-04T21:05:01Z",
-      "latest_at": "2026-09-04T21:05:01Z",
-      "primary_item": {
-        "id": "6b8d1ce6756fba7757f676f83fa006229b8f7c68",
-        "title": "GitHub Copilot 每周发布 — 8月31日 / GitHub Copilot weekly releases — August 31",
-        "title_zh": "GitHub Copilot 每周发布 — 8月31日",
-        "title_en": "GitHub Copilot weekly releases — August 31",
-        "title_original": "GitHub Copilot weekly releases — August 31",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot本周扩展模型选择与内容保护，VS Code新增管理agent会话及让pull request合并就绪的途径；同时Copilot harness在JetBrains中正式可用，带来更快的功能交付和更好的代码质量。",
-        "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "官方周更，具体内容未明，等 changelog 细节再决定是否跟进。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -390,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.8222,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -427,7 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -475,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8455,
+        "recency": 0.8246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -511,7 +426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -559,15 +474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8463,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -595,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -643,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9172,
+        "recency": 0.8945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -727,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.742,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,7 +677,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -810,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7424,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,119 +761,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
-      }
-    },
-    {
-      "story_id": "story_a03b9d86c084",
-      "title": "AI算力提供商Nscale寻求35亿美元IPO前融资 / AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "primary_url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5dd2a4001dd89c0f38a924ec464f122fdaf165cf",
-          "title": "AI算力提供商Nscale寻求35亿美元IPO前融资 / AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "title_zh": "AI算力提供商Nscale寻求35亿美元IPO前融资",
-          "title_en": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "title_original": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "summary": null,
-          "recommend_reason_zh": "AI算力供应商Nscale近期刚与Anthropic达成450亿美元合作，现又寻求约35亿美元Pre-IPO融资，为即将到来的IPO做准备。一文解析这轮融资谈判的金额与关键背景。",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-04T21:12:11Z"
-        },
-        {
-          "id": "9d9882b183192cba47ac3855859ccede01779b2f",
-          "title": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "title_zh": null,
-          "title_en": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "title_original": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260904/p27",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T19:50:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "5dd2a4001dd89c0f38a924ec464f122fdaf165cf",
-          "title": "AI算力提供商Nscale寻求35亿美元IPO前融资 / AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "title_zh": "AI算力提供商Nscale寻求35亿美元IPO前融资",
-          "title_en": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "title_original": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-          "summary": null,
-          "recommend_reason_zh": "AI算力供应商Nscale近期刚与Anthropic达成450亿美元合作，现又寻求约35亿美元Pre-IPO融资，为即将到来的IPO做准备。一文解析这轮融资谈判的金额与关键背景。",
-          "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-04T21:12:11Z"
-        },
-        {
-          "id": "9d9882b183192cba47ac3855859ccede01779b2f",
-          "title": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "title_zh": null,
-          "title_en": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "title_original": "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260904/p27",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T19:50:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5992,
-      "importance": 0.5992,
-      "importance_score": 0.5992,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7247,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T19:50:08Z",
-      "latest_at": "2026-09-04T21:12:11Z",
-      "primary_item": {
-        "id": "5dd2a4001dd89c0f38a924ec464f122fdaf165cf",
-        "title": "AI算力提供商Nscale寻求35亿美元IPO前融资 / AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "title_zh": "AI算力提供商Nscale寻求35亿美元IPO前融资",
-        "title_en": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "title_original": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "summary": null,
-        "recommend_reason_zh": "AI算力供应商Nscale近期刚与Anthropic达成450亿美元合作，现又寻求约35亿美元Pre-IPO融资，为即将到来的IPO做准备。一文解析这轮融资谈判的金额与关键背景。",
-        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "融资消息不写代码，等它降价或开放再管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1064,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8755,
+        "recency": 0.8538,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1099,7 +902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1205,15 +1008,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8401,
+        "recency": 0.8193,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1240,7 +1043,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1317,15 +1120,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9521,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,7 +1155,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1458,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7632,
+        "recency": 0.7443,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1493,148 +1296,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
-      }
-    },
-    {
-      "story_id": "story_cf09ddd52d41",
-      "title": "人工智能现在能设计电路板了吗？",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "primary_url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-      "source": "eebench.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-          "title": "人工智能现在能设计电路板了吗？",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": null,
-          "title_original": "人工智能现在能设计电路板了吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "eebench.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T23:59:17.240000Z"
-        },
-        {
-          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
-          "title": "AI 现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "AI 现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": "AI设计电路板仍不成熟：能搞定常见元器件原理图，但复杂模拟/RF易翻车，必须喂数据手册和勘误，有人已用它做ST吉他护板艺术项目。",
-          "url": "https://news.ycombinator.com/item?id=49569366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T21:10:24.087000Z"
-        },
-        {
-          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
-          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:48:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "eebench.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-          "title": "人工智能现在能设计电路板了吗？",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": null,
-          "title_original": "人工智能现在能设计电路板了吗？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "eebench.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-04T23:59:17.240000Z"
-        },
-        {
-          "id": "103112e6bcf3536d0a63ac3c8ac49b299be4139d",
-          "title": "AI 现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "AI 现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": "AI设计电路板仍不成熟：能搞定常见元器件原理图，但复杂模拟/RF易翻车，必须喂数据手册和勘误，有人已用它做ST吉他护板艺术项目。",
-          "url": "https://news.ycombinator.com/item?id=49569366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-04T21:10:24.087000Z"
-        },
-        {
-          "id": "5a0b2133cef4249c3556991f23c4ab1c08422c1f",
-          "title": "人工智能现在能设计电路板了吗？ / Can AI design circuit boards yet?",
-          "title_zh": "人工智能现在能设计电路板了吗？",
-          "title_en": "Can AI design circuit boards yet?",
-          "title_original": "Can AI design circuit boards yet?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-04T19:48:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7544,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T19:48:29Z",
-      "latest_at": "2026-09-04T23:59:17.240000Z",
-      "primary_item": {
-        "id": "879e61a06c21bc7758018b6fc9e92f052ab1795c",
-        "title": "人工智能现在能设计电路板了吗？",
-        "title_zh": "人工智能现在能设计电路板了吗？",
-        "title_en": null,
-        "title_original": "人工智能现在能设计电路板了吗？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet",
-        "source": "eebench.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "有评测基准但没给结论，先看报告再决定是否跟进。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1711,15 +1373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5116,
+      "importance": 0.5116,
+      "importance_score": 0.5116,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8304,
+        "recency": 0.8098,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1746,119 +1408,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
-      }
-    },
-    {
-      "story_id": "story_9796580b8d66",
-      "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-      "url": "https://www.techmeme.com/260904/p29",
-      "primary_url": "https://www.techmeme.com/260904/p29",
-      "source": "Techmeme",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "baf17f37331c6ef17eb6f007c741b0a303d9f839",
-          "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "title_zh": null,
-          "title_en": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "title_original": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260904/p29",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:10:01Z"
-        },
-        {
-          "id": "d0edf05b27725b0c34f8368ff92d6512260f1e2b",
-          "title": "AI初创公司micro1出价1250万美元竞购Spirit的记录，超过Google已同意的1000万美元交易。 / AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "title_zh": "AI初创公司micro1出价1250万美元竞购Spirit的记录，超过Google已同意的1000万美元交易。",
-          "title_en": "AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "title_original": "AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "summary": null,
-          "recommend_reason_zh": "AI初创公司micro1为倒闭的Spirit航空内部记录出价1250万美元，高出Google已同意的1000万美元，并提议由Spirit顾问选任监察员，解决Google协议中脱敏环节的利益冲突。",
-          "url": "https://thenextweb.com/news/micro1-12-5m-counterbid-spirit-airlines-records-google-deidentification-cjeu-srb-edpb-opinion-28-2024",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T20:00:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Techmeme",
-        "The Next Web"
-      ],
-      "items": [
-        {
-          "id": "baf17f37331c6ef17eb6f007c741b0a303d9f839",
-          "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "title_zh": null,
-          "title_en": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "title_original": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260904/p29",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T21:10:01Z"
-        },
-        {
-          "id": "d0edf05b27725b0c34f8368ff92d6512260f1e2b",
-          "title": "AI初创公司micro1出价1250万美元竞购Spirit的记录，超过Google已同意的1000万美元交易。 / AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "title_zh": "AI初创公司micro1出价1250万美元竞购Spirit的记录，超过Google已同意的1000万美元交易。",
-          "title_en": "AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "title_original": "AI startup micro1 bids $12.5M for Spirit’s records, topping Google’s agreed $10M deal",
-          "summary": null,
-          "recommend_reason_zh": "AI初创公司micro1为倒闭的Spirit航空内部记录出价1250万美元，高出Google已同意的1000万美元，并提议由Spirit顾问选任监察员，解决Google协议中脱敏环节的利益冲突。",
-          "url": "https://thenextweb.com/news/micro1-12-5m-counterbid-spirit-airlines-records-google-deidentification-cjeu-srb-edpb-opinion-28-2024",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-04T20:00:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7243,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-04T20:00:31Z",
-      "latest_at": "2026-09-04T21:10:01Z",
-      "primary_item": {
-        "id": "baf17f37331c6ef17eb6f007c741b0a303d9f839",
-        "title": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-        "title_zh": null,
-        "title_en": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-        "title_original": "Filing: AI training data startup Micro1 offers to pay $12.5M for Spirit Airlines' data; the offer faces hurdles as Spirit already has a $10M deal with Google (Jonathan Randles/Bloomberg)",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.techmeme.com/260904/p29",
-        "source": "Techmeme",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "收购案离代码太远，数据归属和价格战跟开发者日常无关。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -1935,15 +1485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8215,
+        "recency": 0.8012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1970,7 +1520,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     },
     {
@@ -2047,15 +1597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.504,
-      "importance": 0.504,
-      "importance_score": 0.504,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7675,
+        "recency": 0.7485,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2082,7 +1632,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-05T19:44:29.369641Z"
+        "scored_at": "2026-09-05T21:27:43.090868Z"
       }
     }
   ]
