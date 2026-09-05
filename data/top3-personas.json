@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:32:52.609217Z",
+  "generated_at": "2026-09-05T11:22:45.117937Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_0f3277bac9d6",
-      "title": "GitHub 发布 Project HydraFusion 研究预览，用多模型运行时编排降低 Copilot 成本 / Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration",
+      "story_id": "story_36edef5c4324",
+      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "多模型编排降本不新鲜，关键看实测省了多少，别拿内部数字糊弄。"
+          "review": "省90%代币听着唬人，先晒出对比基线和完整测试集再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了细节和数字，但无论文无代码，等开源或第三方验证。"
+          "score": 35,
+          "review": "官方博客自报数字，无论文无代码无第三方验证，90%降幅待复现。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "多模型编排降本，Copilot 用户短期感知有限，等正式 API 再动手。"
+          "score": 82,
+          "review": "省 token 的代理方案，跑 Claude Code 的今天就能试，成本直降。"
         }
       }
     }
