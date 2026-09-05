@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:32:11.968002Z",
+  "generated_at": "2026-09-05T19:44:34.679066Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_1f3f9b7a140c",
-      "title": "GPT-6 Astra 现已正式登陆 GitHub Copilot / GPT-6 Astra is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "正式版总算来了，但'革命性'在哪？先跑个真实项目再说。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "官方博客发布，但缺论文和代码，需看实际效果再评。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "Copilot 用户今天就能用上 GPT-6 Astra，写代码直接升级，值得立刻试。"
-        }
-      }
-    },
-    {
       "story_id": "story_903604aee596",
       "title": "OpenRouter 上的 GPT-6 Astra",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -60,7 +40,7 @@
       "story_id": "story_36edef5c4324",
       "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
       "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "省 token 的代理方案，跑 Claude Code 的今天就能试，成本直降。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5110803ce212",
+      "title": "Claude 完成 Fermat 大定理的首个全机器校验形式化证明 / Respect where respect is due： Anthropic says Claude completed the first fully computer-checked proof…",
+      "url": "https://x.com/kimmonismus/status/2096007967749349844",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "机器校验证明是硬功夫，但别急着封神，先看看形式化范围有没有注水。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "仅一条推特宣称，无论文无代码无验证，机器校验证明无从查证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "形式化证明验证了推理能力，但暂无直接可用的工具或API，观望。"
         }
       }
     }
