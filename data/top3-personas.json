@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:32:34.754436Z",
+  "generated_at": "2026-09-05T01:55:03.635662Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_15513cdb6d25",
-      "title": "OpenAI 发布 GPT-6 Astra，主打电脑操作并触发网络安全 Critical 红线",
-      "url": "https://x.com/frxiaobei/status/2095682473745363068",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "又是'红线'营销，先让模型真能稳定操作电脑再说吧。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "仅X帖传闻，无论文代码benchmark，Critical红线无出处，零证据。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GPT-6 Astra 主打电脑操作，若 API 开放，自动化脚本今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_013a8ac40c9d",
       "title": "GPT-6 Astra 开始向 Plus 和 Business 用户推出 / Now out to all Plus and Business users. Happy building！",
       "url": "https://x.com/sama/status/2096008528834244741",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Plus和Business用户今天就能用，直接上手测新模型。"
+        }
+      }
+    },
+    {
+      "story_id": "story_49efdff27ea0",
+      "title": "Gemini 3.8 Flash正式接入B.AI API，聚焦长周期编程与自主Agent",
+      "url": "https://www.aibase.com/news/30836",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "长周期编程和自主Agent听着唬人，先跑个真实项目看看再说。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅官方公告称接入API，无论文代码及第三方评测，证据薄弱。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "API已接入，长周期编程和Agent场景今天就能试，省去自己折腾部署。"
         }
       }
     }
