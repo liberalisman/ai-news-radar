@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:25:30.095691Z",
+  "generated_at": "2026-09-05T17:12:33.590823Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_a4c37a83ad98",
-      "title": "新增 API 端点提供隐私安全的 Star 历史数据 / New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+      "story_id": "story_36edef5c4324",
+      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "隐私安全是遮羞布，历史数据照给，只是换个说法。"
+          "review": "省90%代币听着唬人，先晒出对比基线和完整测试集再说。"
         },
         "paper-police": {
-          "score": 50,
-          "review": "官方更新有细节，但无代码无benchmark，仅凭changelog难证隐私安全。"
+          "score": 35,
+          "review": "官方博客自报数字，无论文无代码无第三方验证，90%降幅待复现。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "GitHub 新端点能拿星标历史，做趋势分析或榜单的今天就能接。"
+          "review": "省 token 的代理方案，跑 Claude Code 的今天就能试，成本直降。"
         }
       }
     }
