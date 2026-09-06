@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:28:44.294166Z",
+  "generated_at": "2026-09-06T01:07:30.627831Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_36edef5c4324",
-      "title": "Spotify的Portal将我的Claude Code代币使用量减少了90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "省90%代币听着唬人，先晒出对比基线和完整测试集再说。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客自报数字，无论文无代码无第三方验证，90%降幅待复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "省 token 的代理方案，跑 Claude Code 的今天就能试，成本直降。"
-        }
-      }
-    },
-    {
       "story_id": "story_4d1ff3880451",
       "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…",
       "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 72,
           "review": "榜单换榜首，但没提 API 是否开放，先观望别急着换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_6b663a3b490f",
+      "title": "OKF Agent Memory – AI编程Agent的Git原生持久记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49581240",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "Git当记忆库不算新，但胜在实用。宣传别吹成革命，顶多算个正经工具。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "仅HN帖子宣称Git原生记忆，无论文无代码无评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 70,
+          "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。"
         }
       }
     },
