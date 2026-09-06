@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T19:39:18.636072Z",
+  "generated_at": "2026-09-06T21:30:56.943859Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_4c290d31ae88",
+      "title": "Show HN：Agentic OS——一个 Rust Linux 二进制，每个实体一个 SQLite 和一个沙箱 / Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
+      "url": "https://news.ycombinator.com/item?id=49590351",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "Rust加SQLite不算新，沙箱隔离听着美，先跑个真实负载看看。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "仅HN帖子自称，无论文无代码链接，性能无从验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Rust 单二进制可跑实体沙箱，想搞多智能体隔离的能抄架构。"
+        }
+      }
+    },
+    {
       "story_id": "story_6b663a3b490f",
       "title": "OKF Agent Memory – AI编程Agent的Git原生持久记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=49581240",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 70,
           "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_612a2e0c0069",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "承认监控变弱是进步，但没给具体数据，更像危机公关。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方博客自述困境，无论文无代码无数据，仅凭一面之词难证监控减弱。"
-        },
-        "pragmatic": {
-          "score": 45,
-          "review": "官方反思文，无新工具或API，对日常开发无直接影响。"
         }
       }
     }
