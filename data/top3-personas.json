@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:30:56.943859Z",
+  "generated_at": "2026-09-06T21:52:28.478391Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_4d1ff3880451",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分 / GPT-6 Astra from OpenAI claimed a top spot on WebDev Arena， surpassing recently released Claude Fabl…",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "登顶榜单是好事，但35分差距的基线选得够不够硬，得看完整评测条件。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅推特截图称登顶，无论文无代码无官方数据，证据薄弱。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "榜单换榜首，但没提 API 是否开放，先观望别急着换。"
-        }
-      }
-    },
-    {
       "story_id": "story_4c290d31ae88",
       "title": "Show HN：Agentic OS——一个 Rust Linux 二进制，每个实体一个 SQLite 和一个沙箱 / Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
       "url": "https://news.ycombinator.com/item?id=49590351",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -60,7 +40,7 @@
       "story_id": "story_6b663a3b490f",
       "title": "OKF Agent Memory – AI编程Agent的Git原生持久记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=49581240",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 70,
           "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_612a2e0c0069",
+      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "承认监控变弱是进步，但没给具体数据，更像危机公关。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方博客自述困境，无论文无代码无数据，仅凭一面之词难证监控减弱。"
+        },
+        "pragmatic": {
+          "score": 45,
+          "review": "官方反思文，无新工具或API，对日常开发无直接影响。"
         }
       }
     }
