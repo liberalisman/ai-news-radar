@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:52:28.478391Z",
+  "generated_at": "2026-09-06T23:22:48.172767Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_6b663a3b490f",
-      "title": "OKF Agent Memory – AI编程Agent的Git原生持久记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49581240",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "Git当记忆库不算新，但胜在实用。宣传别吹成革命，顶多算个正经工具。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "仅HN帖子宣称Git原生记忆，无论文无代码无评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_612a2e0c0069",
       "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 45,
           "review": "官方反思文，无新工具或API，对日常开发无直接影响。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2e625774c329",
+      "title": "OpenAI：我们正在监控内部编码智能体，防止它们出现行为偏差 / OpenAI: We monitor internal coding agents for misalignment",
+      "url": "https://news.ycombinator.com/item?id=49588214",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "监控自家智能体？先管管你们模型越狱的破事吧。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "无论文无代码无评测，监控内部智能体只是自说自话。"
+        },
+        "pragmatic": {
+          "score": 45,
+          "review": "监控自家Agent是内部运维话题，对选型无直接影响，看看就好。"
         }
       }
     }
