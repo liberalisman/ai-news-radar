@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T06:38:06.870713Z",
+  "generated_at": "2026-09-06T11:10:15.908356Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f827ef6f6cea",
+      "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "实测对比只挑自家前后代，基线呢？第三方盲测数据敢放出来吗？"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "公众号实测无论文无代码，数字来源不明，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "新模型实测对比，代码和前端能力有提升，可参考选型，但需确认是否已开放。"
+        }
+      }
+    },
+    {
       "story_id": "story_6b663a3b490f",
       "title": "OKF Agent Memory – AI编程Agent的Git原生持久记忆 / OKF Agent Memory – Git-native persistent memory for AI coding agents",
       "url": "https://news.ycombinator.com/item?id=49581240",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 70,
           "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_bf4a1e858a01",
-      "title": "OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半 / OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
-      "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "新瓶装旧酒，额度砍半叫升级？先解释下为什么比前代还抠门。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方公告称推出GPT-6 Astra，但无论文无代码无评测，额度对比也无依据。"
-        },
-        "pragmatic": {
-          "score": 65,
-          "review": "新模型上线但额度减半，重度用户先算成本再迁移。"
         }
       }
     }

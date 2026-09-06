@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7a8d440461c0|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "纯研究实验，验证数据上限影响，不改代码不换 API，看个结论即可。",
-      "title_hash": "c9bbbc77",
-      "scored_at": "2026-08-16T10:48:44.006647Z"
-    },
     "story_0bf300873ab5|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "多智能体踩坑总结，架构选型前可扫一眼，但暂无直接可用的工具。",
@@ -6090,6 +6084,30 @@
       "review": "行业趋势分析，对选型有参考但无直接行动项，外包从业者需留意。",
       "title_hash": "27853f4b",
       "scored_at": "2026-09-06T06:07:05.711780Z"
+    },
+    "story_5c53403fc048|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "基准测试数据造假争议，对选型无直接影响，等第三方复测。",
+      "title_hash": "d106c85e",
+      "scored_at": "2026-09-06T11:10:13.047130Z"
+    },
+    "story_f827ef6f6cea|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新模型实测对比，代码和前端能力有提升，可参考选型，但需确认是否已开放。",
+      "title_hash": "fa43765a",
+      "scored_at": "2026-09-06T11:10:14.050964Z"
+    },
+    "story_f827ef6f6cea|cynic|f4237a62": {
+      "score": 55,
+      "review": "实测对比只挑自家前后代，基线呢？第三方盲测数据敢放出来吗？",
+      "title_hash": "fa43765a",
+      "scored_at": "2026-09-06T11:10:15.075076Z"
+    },
+    "story_f827ef6f6cea|paper-police|966065bf": {
+      "score": 25,
+      "review": "公众号实测无论文无代码，数字来源不明，无法独立验证。",
+      "title_hash": "fa43765a",
+      "scored_at": "2026-09-06T11:10:15.908281Z"
     }
   }
 }
