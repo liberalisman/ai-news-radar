@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:39:39.795909Z",
+  "generated_at": "2026-09-07T13:25:37.768950Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_89772b9cda52",
+      "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://news.ycombinator.com/item?id=49596054",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "AMD 上跑通 vLLM 投机解码算实打实，但没提吞吐提升多少，先别急着吹。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "仅新闻标题无技术细节，无论文代码评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "AMD 上能跑投机解码，省显存提速度，手头有 MI 系列卡的可以试。"
+        }
+      }
+    },
+    {
       "story_id": "story_545843532362",
       "title": "Coop 隔离虚拟机环境，用于运行 Claude Code 和 Codex / Coop – Isolated VM Environments for Running Claude Code and Codex",
       "url": "https://news.ycombinator.com/item?id=49593842",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "隔离跑AI编码代理防污染，有沙箱需求的今天能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_6b1b1f939962",
-      "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://news.ycombinator.com/item?id=49594008",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "本地优先SQLite记忆引擎，方向务实，但'通用'二字得看实际兼容性。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "有项目页和代码仓库，但缺论文和独立评测，先跑通再信。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "本地优先SQLite记忆引擎，做AI CLI工具的可直接抄，省去自建存储。"
         }
       }
     }
