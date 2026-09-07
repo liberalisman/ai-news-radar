@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T04:57:02.478716Z",
+  "generated_at": "2026-09-07T06:54:12.735996Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_4c290d31ae88",
-      "title": "Show HN：Agentic OS——一个 Rust Linux 二进制，每个实体一个 SQLite 和一个沙箱 / Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-      "url": "https://news.ycombinator.com/item?id=49590351",
+      "story_id": "story_4f086e6db1c7",
+      "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
+      "url": "https://www.aibase.com/news/30867",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "Rust加SQLite不算新，沙箱隔离听着美，先跑个真实负载看看。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "仅HN帖子自称，无论文无代码链接，性能无从验证。"
-        },
-        "pragmatic": {
           "score": 72,
-          "review": "Rust 单二进制可跑实体沙箱，想搞多智能体隔离的能抄架构。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f5c486b1ef2a",
-      "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://news.ycombinator.com/item?id=49592366",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "多引擎数学内核听着唬人，但证据感知具体指什么？别又是包装术语。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "标题像论文但无链接无代码，仅HN讨论，证据不足待补。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "多引擎数学内核配MCP，做数学工具链的可试，但生态未定不急迁移。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a0689e4c8b0e",
-      "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
-      "url": "https://www.aibase.com/news/30865",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "智能体数量是上去了，可金融场景的合规和风控细节呢？别又是PPT式上新。"
+          "review": "MoE 293B 参数不虚，但'大幅提升'的基线得先亮出来，别拿自家旧版当标杆。"
         },
         "paper-police": {
           "score": 20,
-          "review": "官方宣称上新智能体，无技术细节无评测无代码，仅平台新闻稿。"
+          "review": "官方发布无论文无代码，性能提升缺独立验证，仅凭宣传难信服。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "金融智能体入口聚合，做金融AI的可以看下对接文档，但没开放细节前先观望。"
+          "score": 72,
+          "review": "MoE 293B 参数，代码和智能体能力提升，可关注 API 开放情况。"
+        }
+      }
+    },
+    {
+      "story_id": "story_545843532362",
+      "title": "Coop 隔离虚拟机环境，用于运行 Claude Code 和 Codex / Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://news.ycombinator.com/item?id=49593842",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "隔离VM跑AI编码工具是刚需，但'隔离'二字背后资源开销和配置复杂度，PR稿里可没细说。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅HN帖子提及，无论文代码或评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "隔离跑AI编码代理防污染，有沙箱需求的今天能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_6b1b1f939962",
+      "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://news.ycombinator.com/item?id=49594008",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "本地优先SQLite记忆引擎，方向务实，但'通用'二字得看实际兼容性。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "有项目页和代码仓库，但缺论文和独立评测，先跑通再信。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "本地优先SQLite记忆引擎，做AI CLI工具的可直接抄，省去自建存储。"
         }
       }
     }

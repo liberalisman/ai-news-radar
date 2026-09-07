@@ -7,18 +7,6 @@
       "title_hash": "a0874a13",
       "scored_at": "2026-08-17T17:54:55.990832Z"
     },
-    "story_a1caa46a80fe|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "理论探讨，无直接可用工具，先收藏等落地。",
-      "title_hash": "324b4902",
-      "scored_at": "2026-08-17T05:56:11.381490Z"
-    },
-    "story_8b2229e8149b|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "表态无落地，不解决任何开发问题，等具体行动。",
-      "title_hash": "f1d6d3ff",
-      "scored_at": "2026-08-17T05:56:09.461275Z"
-    },
     "story_ed78f965c703|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "报告造假是流程问题，不改变模型能力，做开发的看完就忘。",
@@ -5943,9 +5931,9 @@
     },
     "story_920f8b383ea8|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "安全事件值得知道，但无工具可上手，等新框架细则再评估。",
-      "title_hash": "b30f203b",
-      "scored_at": "2026-09-07T01:31:55.402542Z"
+      "review": "承认事件但无具体工具或方案，等披露框架落地再说。",
+      "title_hash": "b80400ce",
+      "scored_at": "2026-09-07T06:53:57.059852Z"
     },
     "story_920f8b383ea8|cynic|f4237a62": {
       "score": 45,
@@ -6054,6 +6042,84 @@
       "review": "官方宣称上新智能体，无技术细节无评测无代码，仅平台新闻稿。",
       "title_hash": "5abc6132",
       "scored_at": "2026-09-07T04:57:02.478650Z"
+    },
+    "story_4f086e6db1c7|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "MoE 293B 参数，代码和智能体能力提升，可关注 API 开放情况。",
+      "title_hash": "518b421f",
+      "scored_at": "2026-09-07T06:53:58.026026Z"
+    },
+    "story_fc8fc80cdf77|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "办公AI新功能，百人协作场景有限，先观望实际效果再决定是否采用。",
+      "title_hash": "9a5778f8",
+      "scored_at": "2026-09-07T06:53:59.284019Z"
+    },
+    "story_2fabd48a7add|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "功能未开放，先观望。若支持API对接，再做集成方案。",
+      "title_hash": "910d197b",
+      "scored_at": "2026-09-07T06:54:00.657699Z"
+    },
+    "story_ba65f15575b0|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "版权平台内测，短期无API可调，做IP生意的可留意，写代码的不用动。",
+      "title_hash": "d02d2d6f",
+      "scored_at": "2026-09-07T06:54:02.069317Z"
+    },
+    "story_545843532362|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "隔离跑AI编码代理防污染，有沙箱需求的今天能试。",
+      "title_hash": "4bac4ebd",
+      "scored_at": "2026-09-07T06:54:03.129516Z"
+    },
+    "story_6b1b1f939962|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "本地优先SQLite记忆引擎，做AI CLI工具的可直接抄，省去自建存储。",
+      "title_hash": "54be8f92",
+      "scored_at": "2026-09-07T06:54:04.244253Z"
+    },
+    "story_b94cfff5e377|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "个人情绪表达，无工具或方案，对开发者没实际影响。",
+      "title_hash": "d858b53a",
+      "scored_at": "2026-09-07T06:54:05.534279Z"
+    },
+    "story_4f086e6db1c7|cynic|f4237a62": {
+      "score": 72,
+      "review": "MoE 293B 参数不虚，但'大幅提升'的基线得先亮出来，别拿自家旧版当标杆。",
+      "title_hash": "518b421f",
+      "scored_at": "2026-09-07T06:54:06.545476Z"
+    },
+    "story_4f086e6db1c7|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方发布无论文无代码，性能提升缺独立验证，仅凭宣传难信服。",
+      "title_hash": "518b421f",
+      "scored_at": "2026-09-07T06:54:07.780975Z"
+    },
+    "story_545843532362|cynic|f4237a62": {
+      "score": 62,
+      "review": "隔离VM跑AI编码工具是刚需，但'隔离'二字背后资源开销和配置复杂度，PR稿里可没细说。",
+      "title_hash": "4bac4ebd",
+      "scored_at": "2026-09-07T06:54:09.408794Z"
+    },
+    "story_545843532362|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅HN帖子提及，无论文代码或评测，证据不足。",
+      "title_hash": "4bac4ebd",
+      "scored_at": "2026-09-07T06:54:10.465801Z"
+    },
+    "story_6b1b1f939962|cynic|f4237a62": {
+      "score": 72,
+      "review": "本地优先SQLite记忆引擎，方向务实，但'通用'二字得看实际兼容性。",
+      "title_hash": "54be8f92",
+      "scored_at": "2026-09-07T06:54:11.651697Z"
+    },
+    "story_6b1b1f939962|paper-police|966065bf": {
+      "score": 45,
+      "review": "有项目页和代码仓库，但缺论文和独立评测，先跑通再信。",
+      "title_hash": "54be8f92",
+      "scored_at": "2026-09-07T06:54:12.735943Z"
     }
   }
 }
