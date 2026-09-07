@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:46:08.422773Z",
+  "generated_at": "2026-09-07T18:43:03.387648Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -38,21 +38,21 @@
     },
     {
       "story_id": "story_89772b9cda52",
-      "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://news.ycombinator.com/item?id=49596054",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "AMD 上跑通 vLLM 投机解码算实打实，但没提吞吐提升多少，先别急着吹。"
+          "review": "AMD上跑通推测解码是实打实的，但别急着吹，先看看通用性再说。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "仅新闻标题无技术细节，无论文代码评测，证据不足。"
+          "score": 45,
+          "review": "博客给了技术细节和数字，但无代码无独立验证，等开源或第三方复现。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "AMD 上能跑投机解码，省显存提速度，手头有 MI 系列卡的可以试。"
+          "review": "AMD上vLLM提速方案，有仓库可测，但非主流卡慎入。"
         }
       }
     },

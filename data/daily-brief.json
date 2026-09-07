@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:26:52.945295Z",
+  "generated_at": "2026-09-07T18:24:04.860985Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7886,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -198,90 +198,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
-      }
-    },
-    {
-      "story_id": "story_f2dfaec2b3ca",
-      "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-      "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-          "recommend_reason_zh": "OpenAI宣布达成automated research intern里程碑：人类监督的AI系统能完成熟练研究员需数日的明确定义任务，且内部agent runtime已大幅超越人类劳动，可借此了解AI自动化研究的实际进展。",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-          "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-          "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-          "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-          "recommend_reason_zh": "OpenAI宣布达成automated research intern里程碑：人类监督的AI系统能完成熟练研究员需数日的明确定义任务，且内部agent runtime已大幅超越人类劳动，可借此了解AI自动化研究的实际进展。",
-          "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-06T18:23:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7272,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-06T18:23:14Z",
-      "latest_at": "2026-09-06T18:23:14Z",
-      "primary_item": {
-        "id": "a760dbdfc09e78a43ddda41e2bc60b343aa60c29",
-        "title": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍 / OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "title_zh": "OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍",
-        "title_en": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "title_original": "OpenAI just officially said it has reached its \"automated research intern\" milestone. i.e. a human…",
-        "summary": "OpenAI 发布内部数据称已达到自动化研究实习生里程碑，即可在人类监督下完成熟练研究员需数天的明确任务。截至 8 月中旬，其研究组织每投入 1 个人工工作日，就使用 3.1 个 agent 工作日的运行时长，该比值衡量的是运行时间而非等效生产力；原文作者援引 OpenAI 员工观点称递归自我改进或成为未来几年 AI 能力的关键，并呼吁其他 AI 公司同样公开数据。",
-        "recommend_reason_zh": "OpenAI宣布达成automated research intern里程碑：人类监督的AI系统能完成熟练研究员需数日的明确定义任务，且内部agent runtime已大幅超越人类劳动，可借此了解AI自动化研究的实际进展。",
-        "url": "https://x.com/rohanpaul_ai/status/2096665545190043737",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "内部效率数字听听就好，没开放 API 前不改变今天的工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -357,15 +274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8437,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -394,7 +311,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -442,15 +359,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -477,7 +394,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -525,15 +442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7901,
+        "recency": 0.7681,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -560,7 +477,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -636,15 +553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8437,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -673,7 +590,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -750,15 +667,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8436,
+        "recency": 0.8201,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -787,7 +704,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -835,21 +752,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -871,7 +787,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -919,21 +835,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -955,7 +870,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
+      }
+    },
+    {
+      "story_id": "story_89772b9cda52",
+      "title": "基于AMD GPU的vLLM中的推测性解码",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "primary_url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "source": "vllm.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nTL;DR: Speculativ",
+          "recommend_reason_zh": "本文在AMD Instinct MI300X与MI355X上使用ROCm平台，实测vLLM中native MTP、Gemma 4 MTP、EAGLE-3、DFlash、DSpark五种推测解码的吞吐差异，指出其受草案长度、模型族与接受行为影响，并给出配置调优指南。",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": "AMD 显卡跑 stock vLLM 仅 20-30t/s，而 Radiance 这类 fork 可达 150-200t/s，且 MXFP4 fork 对 4 张 R9700 还有额外加速，详解为何 AMD 官方忽视 R9700 AI Pro。",
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:42:50.715000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": "本文实测AMD Instinct MI300X与MI355X上vLLM投机解码，对比MTP、EAGLE-3、DFlash、DSpark等草稿法对吞吐的影响，并给出配置调优指南。",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "vllm.ai"
+      ],
+      "items": [
+        {
+          "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+          "title": "基于AMD GPU的vLLM中的推测性解码",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": null,
+          "title_original": "基于AMD GPU的vLLM中的推测性解码",
+          "summary": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nTL;DR: Speculativ",
+          "recommend_reason_zh": "本文在AMD Instinct MI300X与MI355X上使用ROCm平台，实测vLLM中native MTP、Gemma 4 MTP、EAGLE-3、DFlash、DSpark五种推测解码的吞吐差异，指出其受草案长度、模型族与接受行为影响，并给出配置调优指南。",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "vllm.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-07T17:40:59.747000Z"
+        },
+        {
+          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
+          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": "AMD 显卡跑 stock vLLM 仅 20-30t/s，而 Radiance 这类 fork 可达 150-200t/s，且 MXFP4 fork 对 4 张 R9700 还有额外加速，详解为何 AMD 官方忽视 R9700 AI Pro。",
+          "url": "https://news.ycombinator.com/item?id=49596054",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T12:42:50.715000Z"
+        },
+        {
+          "id": "9942feece18a40a37cb253f83db06755e1388c43",
+          "title": "基于AMD GPU的vLLM中的推测性解码 / Speculative Decoding in vLLM on AMD GPUs",
+          "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
+          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
+          "summary": null,
+          "recommend_reason_zh": "本文实测AMD Instinct MI300X与MI355X上vLLM投机解码，对比MTP、EAGLE-3、DFlash、DSpark等草稿法对吞吐的影响，并给出配置调优指南。",
+          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-07T09:26:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9897,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T09:26:41Z",
+      "latest_at": "2026-09-07T17:40:59.747000Z",
+      "primary_item": {
+        "id": "0896a888caca86c87227f711221bfe4a5d303f25",
+        "title": "基于AMD GPU的vLLM中的推测性解码",
+        "title_zh": "基于AMD GPU的vLLM中的推测性解码",
+        "title_en": null,
+        "title_original": "基于AMD GPU的vLLM中的推测性解码",
+        "summary": "A practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nA practical guide to speculative decoding in vLLM on AMD GPUs, covering draft-and-verify mechanics, MTP, EAGLE-3, DFlash, DSpark, configuration, tuning, and ben\nTL;DR: Speculativ",
+        "recommend_reason_zh": "本文在AMD Instinct MI300X与MI355X上使用ROCm平台，实测vLLM中native MTP、Gemma 4 MTP、EAGLE-3、DFlash、DSpark五种推测解码的吞吐差异，指出其受草案长度、模型族与接受行为影响，并给出配置调优指南。",
+        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+        "source": "vllm.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "AMD上vLLM提速方案，有仓库可测，但非主流卡慎入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1003,21 +1059,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -1039,7 +1094,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1087,21 +1142,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -1123,119 +1177,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
-      }
-    },
-    {
-      "story_id": "story_89772b9cda52",
-      "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://news.ycombinator.com/item?id=49596054",
-      "primary_url": "https://news.ycombinator.com/item?id=49596054",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": "AMD 显卡跑 stock vLLM 仅 20-30t/s，而 Radiance 这类 fork 可达 150-200t/s，且 MXFP4 fork 对 4 张 R9700 还有额外加速，详解为何 AMD 官方忽视 R9700 AI Pro。",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:42:50.715000Z"
-        },
-        {
-          "id": "9942feece18a40a37cb253f83db06755e1388c43",
-          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": "本文实测AMD Instinct MI300X与MI355X上vLLM投机解码，对比MTP、EAGLE-3、DFlash、DSpark等草稿法对吞吐的影响，并给出配置调优指南。",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": "AMD 显卡跑 stock vLLM 仅 20-30t/s，而 Radiance 这类 fork 可达 150-200t/s，且 MXFP4 fork 对 4 张 R9700 还有额外加速，详解为何 AMD 官方忽视 R9700 AI Pro。",
-          "url": "https://news.ycombinator.com/item?id=49596054",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T12:42:50.715000Z"
-        },
-        {
-          "id": "9942feece18a40a37cb253f83db06755e1388c43",
-          "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-          "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
-          "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-          "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-          "summary": null,
-          "recommend_reason_zh": "本文实测AMD Instinct MI300X与MI355X上vLLM投机解码，对比MTP、EAGLE-3、DFlash、DSpark等草稿法对吞吐的影响，并给出配置调优指南。",
-          "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-07T09:26:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9475,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T09:26:41Z",
-      "latest_at": "2026-09-07T12:42:50.715000Z",
-      "primary_item": {
-        "id": "9c8dfd1eabbaa76fbe9e080cae267c253cea8725",
-        "title": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现 / Speculative Decoding in vLLM on AMD GPUs",
-        "title_zh": "Speculative Decoding 在 AMD GPU 上的 vLLM 实现",
-        "title_en": "Speculative Decoding in vLLM on AMD GPUs",
-        "title_original": "Speculative Decoding in vLLM on AMD GPUs",
-        "summary": null,
-        "recommend_reason_zh": "AMD 显卡跑 stock vLLM 仅 20-30t/s，而 Radiance 这类 fork 可达 150-200t/s，且 MXFP4 fork 对 4 张 R9700 还有额外加速，详解为何 AMD 官方忽视 R9700 AI Pro。",
-        "url": "https://news.ycombinator.com/item?id=49596054",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "AMD 上能跑投机解码，省显存提速度，手头有 MI 系列卡的可以试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1311,15 +1253,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9209,
+        "recency": 0.8952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1346,203 +1288,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
-      }
-    },
-    {
-      "story_id": "story_8af0488e15ed",
-      "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-      "url": "https://www.aibase.com/news/30879",
-      "primary_url": "https://www.aibase.com/news/30879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
-          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "title_en": null,
-          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "summary": null,
-          "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
-          "url": "https://www.aibase.com/news/30879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:17:42.843293Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
-          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "title_en": null,
-          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-          "summary": null,
-          "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
-          "url": "https://www.aibase.com/news/30879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-07T10:17:42.843293Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-07T10:17:42.843293Z",
-      "latest_at": "2026-09-07T10:17:42.843293Z",
-      "primary_item": {
-        "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
-        "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-        "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-        "title_en": null,
-        "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
-        "summary": null,
-        "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
-        "url": "https://www.aibase.com/news/30879",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "政策方向对反诈产品有影响，但没具体接口和落地细节，暂不用动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
-      }
-    },
-    {
-      "story_id": "story_612a2e0c0069",
-      "title": "《外星人的思维》",
-      "url": "https://openai.com/index/an-alien-mind",
-      "primary_url": "https://openai.com/index/an-alien-mind",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "title_zh": "《外星人的思维》",
-          "title_en": null,
-          "title_original": "《外星人的思维》",
-          "summary": null,
-          "recommend_reason_zh": "Jakub Pachocki以OpenAI首席科学家身份反思推理模型进展，回忆2023年RLSlow项目夜谈，警告数年内机器智能或超越人类，呼吁更强安全保障与国际协调。",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        },
-        {
-          "id": "2aa8cbeff305e88294e6fa5501aa6aa192d41a5e",
-          "title": "《外星人的思维》 / An Alien Mind",
-          "title_zh": "《外星人的思维》",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": null,
-          "recommend_reason_zh": "Jakub Pachocki回忆2023年“RLSlow”项目见证推理模型突破，警告AI几年内或实现递归自我改进，呼吁更强保障与国际协调。",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:27:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-          "title": "《外星人的思维》",
-          "title_zh": "《外星人的思维》",
-          "title_en": null,
-          "title_original": "《外星人的思维》",
-          "summary": null,
-          "recommend_reason_zh": "Jakub Pachocki以OpenAI首席科学家身份反思推理模型进展，回忆2023年RLSlow项目夜谈，警告数年内机器智能或超越人类，呼吁更强安全保障与国际协调。",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-06T18:33:46.745000Z"
-        },
-        {
-          "id": "2aa8cbeff305e88294e6fa5501aa6aa192d41a5e",
-          "title": "《外星人的思维》 / An Alien Mind",
-          "title_zh": "《外星人的思维》",
-          "title_en": "An Alien Mind",
-          "title_original": "An Alien Mind",
-          "summary": null,
-          "recommend_reason_zh": "Jakub Pachocki回忆2023年“RLSlow”项目见证推理模型突破，警告AI几年内或实现递归自我改进，呼吁更强保障与国际协调。",
-          "url": "https://openai.com/index/an-alien-mind",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T16:27:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.729,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:27:05Z",
-      "latest_at": "2026-09-06T18:33:46.745000Z",
-      "primary_item": {
-        "id": "11c74011454eeca9fdf1dda05e8f4996f0f8c862",
-        "title": "《外星人的思维》",
-        "title_zh": "《外星人的思维》",
-        "title_en": null,
-        "title_original": "《外星人的思维》",
-        "summary": null,
-        "recommend_reason_zh": "Jakub Pachocki以OpenAI首席科学家身份反思推理模型进展，回忆2023年RLSlow项目夜谈，警告数年内机器智能或超越人类，呼吁更强安全保障与国际协调。",
-        "url": "https://openai.com/index/an-alien-mind",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "没产品没代码，外星思维不如看API文档。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1619,15 +1365,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8679,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1654,7 +1400,202 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
+      }
+    },
+    {
+      "story_id": "story_8af0488e15ed",
+      "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+      "url": "https://www.aibase.com/news/30879",
+      "primary_url": "https://www.aibase.com/news/30879",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_en": null,
+          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "summary": null,
+          "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
+          "url": "https://www.aibase.com/news/30879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:17:42.843293Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+          "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "title_en": null,
+          "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+          "summary": null,
+          "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
+          "url": "https://www.aibase.com/news/30879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-07T10:17:42.843293Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-07T10:17:42.843293Z",
+      "latest_at": "2026-09-07T10:17:42.843293Z",
+      "primary_item": {
+        "id": "4628b72a0217fd85d4017d14fab02075d8e98869",
+        "title": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+        "title_zh": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+        "title_en": null,
+        "title_original": "工信部发布“十五五”信息通信业规划：涉诈 APP 分级处置，探索 AI 反诈助手",
+        "summary": null,
+        "recommend_reason_zh": "工信部发布信息通信业五年规划，提出涉诈APP分级处置、建设行业反诈实验室，并探索AI反诈助手，强化智能“断卡”与全流程实名制管理。",
+        "url": "https://www.aibase.com/news/30879",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "政策方向对反诈产品有影响，但没具体接口和落地细节，暂不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-07T18:43:00.463682Z"
+      }
+    },
+    {
+      "story_id": "story_6b1b1f939962",
+      "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://news.ycombinator.com/item?id=49594008",
+      "primary_url": "https://news.ycombinator.com/item?id=49594008",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cfc850214623432cc591ce60e20d33942d84b081",
+          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
+          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "summary": null,
+          "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
+          "url": "https://news.ycombinator.com/item?id=49594008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:38:13.678000Z"
+        },
+        {
+          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
+          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
+          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "summary": null,
+          "recommend_reason_zh": "Engrim是一个本地优先的SQLite记忆引擎，以4000字符精炼工作记忆对抗注意力稀释，在105个连续会话和186个单元测试中做到零回归、零上下文遗忘。",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:49:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cfc850214623432cc591ce60e20d33942d84b081",
+          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
+          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "summary": null,
+          "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
+          "url": "https://news.ycombinator.com/item?id=49594008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T06:38:13.678000Z"
+        },
+        {
+          "id": "90bf08e0b6af0ee998f77478da0daa4cd0af0c5e",
+          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
+          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "summary": null,
+          "recommend_reason_zh": "Engrim是一个本地优先的SQLite记忆引擎，以4000字符精炼工作记忆对抗注意力稀释，在105个连续会话和186个单元测试中做到零回归、零上下文遗忘。",
+          "url": "https://github.com/timgordontg/engrim",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:49:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8438,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T04:49:36Z",
+      "latest_at": "2026-09-07T06:38:13.678000Z",
+      "primary_item": {
+        "id": "cfc850214623432cc591ce60e20d33942d84b081",
+        "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
+        "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "summary": null,
+        "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
+        "url": "https://news.ycombinator.com/item?id=49594008",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "本地优先SQLite记忆引擎，做AI CLI工具的可直接抄，省去自建存储。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1702,21 +1643,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -1738,119 +1678,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
-      "story_id": "story_6b1b1f939962",
-      "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://news.ycombinator.com/item?id=49594008",
-      "primary_url": "https://news.ycombinator.com/item?id=49594008",
+      "story_id": "story_b94cfff5e377",
+      "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+      "url": "https://news.ycombinator.com/item?id=49593959",
+      "primary_url": "https://news.ycombinator.com/item?id=49593959",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "cfc850214623432cc591ce60e20d33942d84b081",
-          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
-          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝培训可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
-          "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
-          "url": "https://news.ycombinator.com/item?id=49594008",
+          "recommend_reason_zh": "一位作者拒绝训练可能取代自己的AI，却坦言不知为何退出；文章借评论区争论AI接管技能是否应受人类约束，援引欧盟禁止纯自动化人事决策，对比中国加速推进，反思个体与社会的应对空间。",
+          "url": "https://news.ycombinator.com/item?id=49593959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-07T06:38:13.678000Z"
         },
         {
-          "id": "d555adb885ab679330a93291abf9a4f9141a65bd",
-          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
-          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝培训可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
-          "recommend_reason_zh": "Engrim是一个本地优先的SQLite记忆引擎，以4000字符精炼工作记忆对抗注意力稀释，在105个连续会话和186个单元测试中做到零回归、零上下文遗忘。",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T04:49:36Z"
+          "recommend_reason_zh": "工业社会学博士James Maisiri拒绝以时薪600兰特（37美元）训练AI授课与评卷——那是可能取代他的工作。他以南非47.4%的青年失业率为例，揭示AI公司正低价榨取非洲专家的知识。",
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:38:22Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "cfc850214623432cc591ce60e20d33942d84b081",
-          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
-          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+          "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝培训可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
-          "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
-          "url": "https://news.ycombinator.com/item?id=49594008",
+          "recommend_reason_zh": "一位作者拒绝训练可能取代自己的AI，却坦言不知为何退出；文章借评论区争论AI接管技能是否应受人类约束，援引欧盟禁止纯自动化人事决策，对比中国加速推进，反思个体与社会的应对空间。",
+          "url": "https://news.ycombinator.com/item?id=49593959",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-09-07T06:38:13.678000Z"
         },
         {
-          "id": "d555adb885ab679330a93291abf9a4f9141a65bd",
-          "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
-          "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-          "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+          "id": "1f9045f9ada848db2f897ea8f25c60e34021d8a9",
+          "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+          "title_zh": "我拒绝培训可能取代我的AI",
+          "title_en": "I refused to train the AI that could replace me",
+          "title_original": "I refused to train the AI that could replace me",
           "summary": null,
-          "recommend_reason_zh": "Engrim是一个本地优先的SQLite记忆引擎，以4000字符精炼工作记忆对抗注意力稀释，在105个连续会话和186个单元测试中做到零回归、零上下文遗忘。",
-          "url": "https://github.com/timgordontg/engrim",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T04:49:36Z"
+          "recommend_reason_zh": "工业社会学博士James Maisiri拒绝以时薪600兰特（37美元）训练AI授课与评卷——那是可能取代他的工作。他以南非47.4%的青年失业率为例，揭示AI公司正低价榨取非洲专家的知识。",
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T04:38:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8679,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-07T04:49:36Z",
+      "earliest_at": "2026-09-07T04:38:22Z",
       "latest_at": "2026-09-07T06:38:13.678000Z",
       "primary_item": {
-        "id": "cfc850214623432cc591ce60e20d33942d84b081",
-        "title": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎 / Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "title_zh": "Show HN：Engrim——为 AI CLI 打造的通用本地优先 SQLite 记忆引擎",
-        "title_en": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-        "title_original": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+        "id": "8a17ae2dbee853e1e744373b1af9169e961cc347",
+        "title": "我拒绝培训可能取代我的AI / I refused to train the AI that could replace me",
+        "title_zh": "我拒绝培训可能取代我的AI",
+        "title_en": "I refused to train the AI that could replace me",
+        "title_original": "I refused to train the AI that could replace me",
         "summary": null,
-        "recommend_reason_zh": "Show HN 展示 Engrim——一个面向 AI CLI 的通用、本地优先 SQLite 内存引擎，讲解它如何为命令行工具提供记忆层，并强调数据留在本地，兼顾通用性与隐私，值得开发者一读。",
-        "url": "https://news.ycombinator.com/item?id=49594008",
+        "recommend_reason_zh": "一位作者拒绝训练可能取代自己的AI，却坦言不知为何退出；文章借评论区争论AI接管技能是否应受人类约束，援引欧盟禁止纯自动化人事决策，对比中国加速推进，反思个体与社会的应对空间。",
+        "url": "https://news.ycombinator.com/item?id=49593959",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "本地优先SQLite记忆引擎，做AI CLI工具的可直接抄，省去自建存储。",
+      "persona_score": 25,
+      "persona_review": "个人情绪表达，无工具或方案，对开发者没实际影响。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     },
     {
@@ -1898,21 +1838,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.915,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-07T10:17:42.843293Z",
       "latest_at": "2026-09-07T10:17:42.843293Z",
@@ -1934,7 +1873,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-07T16:46:07.497355Z"
+        "scored_at": "2026-09-07T18:43:00.463682Z"
+      }
+    },
+    {
+      "story_id": "story_f5c486b1ef2a",
+      "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://news.ycombinator.com/item?id=49592366",
+      "primary_url": "https://news.ycombinator.com/item?id=49592366",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器",
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": "这篇介绍MathKernel——一个多引擎数学内核与MCP服务器，将NumPy、SymPy、Z3、Lean等库接入LLM，针对其高等数学推理输出“hit-or-miss”的问题给出具体解决路径，值得关注。",
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T04:40:46.245000Z"
+        },
+        {
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
+          "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器",
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": "MathKernel让LLM只负责意图解析，数学计算交给多引擎内核，支持精确、符号、形式化与 certified-interval 计算，并附 trust label 和完整 provenance，可作为 Python 库或 MCP 服务器使用。",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T00:21:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+          "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器",
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": "这篇介绍MathKernel——一个多引擎数学内核与MCP服务器，将NumPy、SymPy、Z3、Lean等库接入LLM，针对其高等数学推理输出“hit-or-miss”的问题给出具体解决路径，值得关注。",
+          "url": "https://news.ycombinator.com/item?id=49592366",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-07T04:40:46.245000Z"
+        },
+        {
+          "id": "d7279c0d493e7388f747a5b387aace3de8ad3184",
+          "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_zh": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器",
+          "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+          "summary": null,
+          "recommend_reason_zh": "MathKernel让LLM只负责意图解析，数学计算交给多引擎内核，支持精确、符号、形式化与 certified-interval 计算，并附 trust label 和完整 provenance，可作为 Python 库或 MCP 服务器使用。",
+          "url": "https://github.com/Staatsgeheim/MathKernel",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-07T00:21:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8202,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-07T00:21:01Z",
+      "latest_at": "2026-09-07T04:40:46.245000Z",
+      "primary_item": {
+        "id": "8e2dcbc0687f86a12431bf09136a6043d39c818b",
+        "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "title_zh": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器",
+        "title_en": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "title_original": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+        "summary": null,
+        "recommend_reason_zh": "这篇介绍MathKernel——一个多引擎数学内核与MCP服务器，将NumPy、SymPy、Z3、Lean等库接入LLM，针对其高等数学推理输出“hit-or-miss”的问题给出具体解决路径，值得关注。",
+        "url": "https://news.ycombinator.com/item?id=49592366",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "多引擎数学内核配MCP，做数学工具链的可试，但生态未定不急迁移。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-07T18:43:00.463682Z"
       }
     }
   ]
