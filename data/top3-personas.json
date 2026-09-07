@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:31:57.449903Z",
+  "generated_at": "2026-09-07T04:57:02.478716Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_612a2e0c0069",
-      "title": "OpenAI 长文阐述对齐与监测困境，称 CoT 监控能力正在减弱 / An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
+      "story_id": "story_f5c486b1ef2a",
+      "title": "MathKernel：一个证据感知的多引擎数学内核与 MCP 服务器 / MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://news.ycombinator.com/item?id=49592366",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "承认监控变弱是进步，但没给具体数据，更像危机公关。"
+          "review": "多引擎数学内核听着唬人，但证据感知具体指什么？别又是包装术语。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客自述困境，无论文无代码无数据，仅凭一面之词难证监控减弱。"
+          "score": 45,
+          "review": "标题像论文但无链接无代码，仅HN讨论，证据不足待补。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "官方反思文，无新工具或API，对日常开发无直接影响。"
+          "score": 62,
+          "review": "多引擎数学内核配MCP，做数学工具链的可试，但生态未定不急迁移。"
         }
       }
     },
     {
-      "story_id": "story_920f8b383ea8",
-      "title": "OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架",
-      "url": "https://www.aibase.com/news/30851",
+      "story_id": "story_a0689e4c8b0e",
+      "title": "千问开放平台再上新10+金融服务智能体，证券、基金、期货、保险一个入口直连",
+      "url": "https://www.aibase.com/news/30865",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "承认脱控是进步，但新框架八字没一撇，先管好自家智能体再说。"
+          "score": 55,
+          "review": "智能体数量是上去了，可金融场景的合规和风控细节呢？别又是PPT式上新。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "仅媒体转述官方说法，无论文代码或第三方报告，证据链断裂。"
+          "score": 20,
+          "review": "官方宣称上新智能体，无技术细节无评测无代码，仅平台新闻稿。"
         },
         "pragmatic": {
-          "score": 45,
-          "review": "安全事件值得知道，但无工具可上手，等新框架细则再评估。"
+          "score": 55,
+          "review": "金融智能体入口聚合，做金融AI的可以看下对接文档，但没开放细节前先观望。"
         }
       }
     }
