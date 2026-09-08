@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:17:41.678931Z",
+  "generated_at": "2026-09-08T18:31:21.871989Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_8f80342078b7",
+      "title": "Dependabot 自动访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
+      "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "省了配置功夫，但只对自家仓库有效，别吹成通用方案。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方更新但无技术细节，仅声明功能，缺论文代码验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "省去手动配 token，依赖扫描今天就能少踩坑。"
+        }
+      }
+    },
+    {
       "story_id": "story_77f905f90359",
       "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
       "url": "https://www.aibase.com/news/30905",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -40,7 +60,7 @@
       "story_id": "story_613d849d5200",
       "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
       "url": "https://www.aibase.com/news/30911",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "内测未开放，等API和价格出来再评估，别急着改架构。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f0b41f3df1cc",
-      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "教程标题唬人，实操细节藏一半，踩坑记录倒比玩法实在。"
-        },
-        "paper-police": {
-          "score": 15,
-          "review": "只有公众号教程，无论文无代码无基准，GPT-6真实性待验证。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "教程能抄但模型未开放，先收藏等API，别急着改流程。"
         }
       }
     }

@@ -7,18 +7,6 @@
       "title_hash": "e86fed0c",
       "scored_at": "2026-08-18T19:46:54.413285Z"
     },
-    "story_41f4a70159de|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "案例很猛但没工具可上手，属于市场宣传，参考效率即可。",
-      "title_hash": "6aa4c5bd",
-      "scored_at": "2026-08-18T16:57:26.132705Z"
-    },
-    "story_63e3e8627617|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "行业伦理争议，跟写代码没关系，围观即可。",
-      "title_hash": "5fbb40e0",
-      "scored_at": "2026-08-18T16:57:28.501751Z"
-    },
     "story_cd7a1ff75de2|cynic|f4237a62": {
       "score": 78,
       "review": "多向量编码总算进了官方库，但别急着吹，复现和调参才是真考验。",
@@ -30,24 +18,6 @@
       "review": "官方博客有技术细节，代码开源可复现，缺独立基准验证。",
       "title_hash": "e86fed0c",
       "scored_at": "2026-08-18T19:47:02.286977Z"
-    },
-    "story_7e601a28e35c|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "新托管服务对标 GitHub，但生态迁移成本高，先观望别急换。",
-      "title_hash": "e591653d",
-      "scored_at": "2026-08-18T17:50:21.031455Z"
-    },
-    "story_7e601a28e35c|cynic|f4237a62": {
-      "score": 65,
-      "review": "代码托管不是换个Logo就能替代，迁移工具和生态先摆出来看看。",
-      "title_hash": "e591653d",
-      "scored_at": "2026-08-18T17:50:25.594033Z"
-    },
-    "story_7e601a28e35c|paper-police|966065bf": {
-      "score": 30,
-      "review": "仅官方公告，无独立评测或开源，替代GitHub待验证。",
-      "title_hash": "e591653d",
-      "scored_at": "2026-08-18T17:50:28.517015Z"
     },
     "story_77f8f8705916|pragmatic|0a5c5b24": {
       "score": 72,
@@ -5883,9 +5853,9 @@
     },
     "story_e9c8b7eef4d1|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "安全对齐的精细控制思路，短期难直接落地，先观望。",
-      "title_hash": "0a7e39b5",
-      "scored_at": "2026-09-08T15:17:38.669018Z"
+      "review": "安全策略细化思路，但无工具无代码，暂不影响选型。",
+      "title_hash": "5a13586d",
+      "scored_at": "2026-09-08T18:31:14.308121Z"
     },
     "story_be047988843b|pragmatic|0a5c5b24": {
       "score": 30,
@@ -5900,10 +5870,64 @@
       "scored_at": "2026-09-08T15:17:40.858125Z"
     },
     "story_bac4ec48b080|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "新闻业合作是公关动作，不写代码的不用管。",
+      "title_hash": "161243a0",
+      "scored_at": "2026-09-08T18:31:20.220992Z"
+    },
+    "story_dc315e1882c1|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "数学证明离工程很远，等有可复现代码再说。",
+      "title_hash": "8b60c608",
+      "scored_at": "2026-09-08T18:31:13.279619Z"
+    },
+    "story_8f80342078b7|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "省去手动配 token，依赖扫描今天就能少踩坑。",
+      "title_hash": "4c3bc374",
+      "scored_at": "2026-09-08T18:31:15.025489Z"
+    },
+    "story_d9a44d1c17f0|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "学术竞赛口水战，不写代码不发布工具，开发者不用管。",
+      "title_hash": "0c6ca058",
+      "scored_at": "2026-09-08T18:31:15.802801Z"
+    },
+    "story_d7d617c533bb|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "官方优化建议，偏方法论，具体效果待验证，可参考但不必立即行动。",
+      "title_hash": "06ca99ce",
+      "scored_at": "2026-09-08T18:31:16.763598Z"
+    },
+    "story_5e97ad7fadc2|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "新闻业合作项目，对开发者无直接API影响，暂不用行动。",
-      "title_hash": "26041a28",
-      "scored_at": "2026-09-08T15:17:41.678684Z"
+      "review": "成本下降趋势对算力规划有参考，但当前无直接可用的工具或方案。",
+      "title_hash": "7d1287bd",
+      "scored_at": "2026-09-08T18:31:17.694568Z"
+    },
+    "story_0959e7bd019e|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "研究资助离动手远，等出结论再看不迟。",
+      "title_hash": "b55586ac",
+      "scored_at": "2026-09-08T18:31:18.514867Z"
+    },
+    "story_ffc737da7bf9|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "数据质量是瓶颈，调模型不如先清洗数据，但暂无直接可抄方案。",
+      "title_hash": "e9e1f158",
+      "scored_at": "2026-09-08T18:31:19.419142Z"
+    },
+    "story_8f80342078b7|cynic|f4237a62": {
+      "score": 72,
+      "review": "省了配置功夫，但只对自家仓库有效，别吹成通用方案。",
+      "title_hash": "4c3bc374",
+      "scored_at": "2026-09-08T18:31:21.042816Z"
+    },
+    "story_8f80342078b7|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方更新但无技术细节，仅声明功能，缺论文代码验证。",
+      "title_hash": "4c3bc374",
+      "scored_at": "2026-09-08T18:31:21.871909Z"
     }
   }
 }
