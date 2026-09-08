@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:01:55.570256Z",
+  "generated_at": "2026-09-08T22:24:19.551580Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_16900b8aedbb",
+      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "图像模型迭代不假，但'2.5'这命名，是怕人不知道你跳过了2.0？"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "新图像模型已上线，做视觉生成的可直接试API，效果和价格待实测。"
+        }
+      }
+    },
+    {
+      "story_id": "story_6c71d9371c7c",
+      "title": "GPT-5.6 Sol 如何助力量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "量子实验demo挺唬人，但没给基线对比，水分得自己挤。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣称助力量子实验，无论文无代码无第三方验证，仅凭描述难信服。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "量子计算实验门槛高，若真能简化流程，搞科研的可以试试。"
+        }
+      }
+    },
+    {
       "story_id": "story_8f80342078b7",
       "title": "Dependabot 自动访问 GitHub 托管的注册表 / Automatic Dependabot access to GitHub-hosted registries",
       "url": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "省去手动配 token，依赖扫描今天就能少踩坑。"
-        }
-      }
-    },
-    {
-      "story_id": "story_77f905f90359",
-      "title": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-      "url": "https://www.aibase.com/news/30905",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "克隆风格听着唬人，先看看是不是只对自家范文有效。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方宣称克隆写作风格，无论文无代码无第三方评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "写作风格克隆对内容生产有用，但需实测效果，别急着改流程。"
-        }
-      }
-    },
-    {
-      "story_id": "story_613d849d5200",
-      "title": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-      "url": "https://www.aibase.com/news/30911",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "内测版就敢喊极致，先拿个公开基准跑分再吹。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "内测消息无论文无代码无评测，仅媒体转述，证据为零。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "内测未开放，等API和价格出来再评估，别急着改架构。"
         }
       }
     }
