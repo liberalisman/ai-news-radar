@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:05:53.724859Z",
+  "generated_at": "2026-09-08T14:47:25.492730Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8806,
-      "importance": 0.8806,
-      "importance_score": 0.8806,
+      "score": 0.8695,
+      "importance": 0.8695,
+      "importance_score": 0.8695,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9422,
+        "recency": 0.8805,
         "story_heat": 0.75
       },
       "category": "official",
@@ -172,7 +172,347 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
+      }
+    },
+    {
+      "story_id": "story_e9c8b7eef4d1",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nNarrow-boundary safety Where self-generated safety tuning breaks The trade-off, and a trap it hides What this changes Most safety alignment work treats harm as a property of a topic. A prompt is unsafe because it falls into a general category such as weapons, fraud, or self-harm, and guard models like LlamaGuard-3 encode exactly this kind of topic-level taxonomy. Benchmarks like XSTest and OR-",
+          "recommend_reason_zh": "Multiverse Computing 在 Hugging Face 发布论文博客《Safety for Whom?》：安全调校不该拒绝整个主题，只需拒绝与部署冲突的子集。他们以政治说服为例，指出 LlamaGuard-3 只覆盖选举“事实性错误”，并介绍边界感知自蒸馏方法。",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_zh": null,
+          "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+          "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nNarrow-boundary safety Where self-generated safety tuning breaks The trade-off, and a trap it hides What this changes Most safety alignment work treats harm as a property of a topic. A prompt is unsafe because it falls into a general category such as weapons, fraud, or self-harm, and guard models like LlamaGuard-3 encode exactly this kind of topic-level taxonomy. Benchmarks like XSTest and OR-",
+          "recommend_reason_zh": "Multiverse Computing 在 Hugging Face 发布论文博客《Safety for Whom?》：安全调校不该拒绝整个主题，只需拒绝与部署冲突的子集。他们以政治说服为例，指出 LlamaGuard-3 只覆盖选举“事实性错误”，并介绍边界感知自蒸馏方法。",
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:23:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.859,
+      "importance": 0.859,
+      "importance_score": 0.859,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9942,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:23:07Z",
+      "latest_at": "2026-09-08T14:23:07Z",
+      "primary_item": {
+        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_zh": null,
+        "title_en": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "title_original": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nNarrow-boundary safety Where self-generated safety tuning breaks The trade-off, and a trap it hides What this changes Most safety alignment work treats harm as a property of a topic. A prompt is unsafe because it falls into a general category such as weapons, fraud, or self-harm, and guard models like LlamaGuard-3 encode exactly this kind of topic-level taxonomy. Benchmarks like XSTest and OR-",
+        "recommend_reason_zh": "Multiverse Computing 在 Hugging Face 发布论文博客《Safety for Whom?》：安全调校不该拒绝整个主题，只需拒绝与部署冲突的子集。他们以政治说服为例，指出 LlamaGuard-3 只覆盖选举“事实性错误”，并介绍边界感知自蒸馏方法。",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全对齐的精细控制思路，短期难直接落地，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-08T15:17:37.720069Z"
+      }
+    },
+    {
+      "story_id": "story_be047988843b",
+      "title": "现在伸手可及的工作 / The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "primary_url": "https://openai.com/index/the-work-now-within-reach",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "现在伸手可及的工作 / The Work Now Within Reach",
+          "title_zh": "现在伸手可及的工作",
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nSeptember 8, 2026\nBy Sarah Friar\nAI is expanding what people and businesses can achieve. Ideas once held back ",
+          "recommend_reason_zh": "GPT-6 Astra号称全球最智能模型，OpenAI正借其覆盖超10亿周活用户与250万企业；文中还发现个人用户半年后日消息量增50%、任务种类翻倍。",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0c225103d8bbdb274acb89884cf1925952614089",
+          "title": "现在伸手可及的工作 / The Work Now Within Reach",
+          "title_zh": "现在伸手可及的工作",
+          "title_en": "The Work Now Within Reach",
+          "title_original": "The Work Now Within Reach",
+          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nSeptember 8, 2026\nBy Sarah Friar\nAI is expanding what people and businesses can achieve. Ideas once held back ",
+          "recommend_reason_zh": "GPT-6 Astra号称全球最智能模型，OpenAI正借其覆盖超10亿周活用户与250万企业；文中还发现个人用户半年后日消息量增50%、任务种类翻倍。",
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T13:00:00Z",
+      "latest_at": "2026-09-08T13:00:00Z",
+      "primary_item": {
+        "id": "0c225103d8bbdb274acb89884cf1925952614089",
+        "title": "现在伸手可及的工作 / The Work Now Within Reach",
+        "title_zh": "现在伸手可及的工作",
+        "title_en": "The Work Now Within Reach",
+        "title_original": "The Work Now Within Reach",
+        "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nExplore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.\nSeptember 8, 2026\nBy Sarah Friar\nAI is expanding what people and businesses can achieve. Ideas once held back ",
+        "recommend_reason_zh": "GPT-6 Astra号称全球最智能模型，OpenAI正借其覆盖超10亿周活用户与250万企业；文中还发现个人用户半年后日消息量增50%、任务种类翻倍。",
+        "url": "https://openai.com/index/the-work-now-within-reach",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "OpenAI 官宣没给 API 或开源，只有愿景，动手前先等产品。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-08T15:17:37.720069Z"
+      }
+    },
+    {
+      "story_id": "story_a927f6f1604a",
+      "title": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱",
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": "Explore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nAlphaGenome Atlas team\nHow predicting the",
+          "recommend_reason_zh": "AlphaGenome Atlas预测人类基因组90亿种单核苷酸变异的分子效应，推出AVI评分供快速排序，以1-petabyte数据免费开放，并被用于罕见病研究。",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+          "title": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_zh": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱",
+          "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+          "summary": "Explore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nAlphaGenome Atlas team\nHow predicting the",
+          "recommend_reason_zh": "AlphaGenome Atlas预测人类基因组90亿种单核苷酸变异的分子效应，推出AVI评分供快速排序，以1-petabyte数据免费开放，并被用于罕见病研究。",
+          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T14:00:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T14:00:15Z",
+      "latest_at": "2026-09-08T14:00:15Z",
+      "primary_item": {
+        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
+        "title": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱 / AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_zh": "AlphaGenome Atlas：人类基因组中每一种可能的DNA碱基变化的预测图谱",
+        "title_en": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "title_original": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "summary": "Explore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nExplore AlphaGenome Atlas, a catalogue predicting the molecular effects and AVI scores for 9 billion single-nucleotide variants across the human genome.\nAlphaGenome Atlas team\nHow predicting the",
+        "recommend_reason_zh": "AlphaGenome Atlas预测人类基因组90亿种单核苷酸变异的分子效应，推出AVI评分供快速排序，以1-petabyte数据免费开放，并被用于罕见病研究。",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "科研图谱，非工具，做基因组学的可留意，普通开发者不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-08T15:17:37.720069Z"
+      }
+    },
+    {
+      "story_id": "story_bac4ec48b080",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nSeptember 8, 2026\nOpenAI is launching a major, multi-faceted initiat",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_zh": null,
+          "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+          "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nSeptember 8, 2026\nOpenAI is launching a major, multi-faceted initiat",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8077,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-08T00:00:00Z",
+      "primary_item": {
+        "id": "93b14de03a3f2eafbd624b721df4b902bc60f879",
+        "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_zh": null,
+        "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "title_original": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+        "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nOpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.\nSeptember 8, 2026\nOpenAI is launching a major, multi-faceted initiat",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "新闻业合作项目，对开发者无直接API影响，暂不用行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -189,7 +529,7 @@
           "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
           "title_en": null,
           "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": "Artificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "ChatGPT Work升级后能精准克隆个人写作风格，自动扫描分析用户历史数据，提取语言习惯与用词偏好，且不存原文只加密量化参数，兼顾效率与隐私。",
           "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
@@ -223,7 +563,7 @@
           "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
           "title_en": null,
           "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-          "summary": "Artificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "ChatGPT Work升级后能精准克隆个人写作风格，自动扫描分析用户历史数据，提取语言习惯与用词偏好，且不存原文只加密量化参数，兼顾效率与隐私。",
           "url": "https://www.aibase.com/news/30905",
           "source": "AIbase",
@@ -248,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -273,7 +613,7 @@
         "title_zh": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
         "title_en": null,
         "title_original": "ChatGPT Work 迎来重磅升级：精准克隆个人写作风格",
-        "summary": "Artificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nArtificial intelligence is accelerating from generic tools to personalized office companions that truly understand you. Recently, ChatGPT Work, designed for ent\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "ChatGPT Work升级后能精准克隆个人写作风格，自动扫描分析用户历史数据，提取语言习惯与用词偏好，且不存原文只加密量化参数，兼顾效率与隐私。",
         "url": "https://www.aibase.com/news/30905",
         "source": "AIbase",
@@ -285,7 +625,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -333,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.8979,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -369,7 +709,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -386,7 +726,7 @@
           "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
           "title_en": null,
           "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "summary": "Chui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek Harness团队负责人Chui Tianyi一次放出约150个岗位，主招后端开发与agent弹性计算工程师，继6月扩招后再公开扩张，规模膨胀正倒逼后端重写。",
           "url": "https://www.aibase.com/news/30906",
           "source": "AIbase",
@@ -400,7 +740,7 @@
           "title_zh": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
           "title_en": null,
           "title_original": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "summary": "On September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nOn September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nOn September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek于9月8日启动约150名资深工程师招聘，专注服务端与Agent弹性计算研究，要求2-10年经验且不设AI研究岗；这是继6月25日全员扩招后又一动作，显示其战略正转向Agent工程化与DSec基建落地。",
           "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
@@ -420,7 +760,7 @@
           "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
           "title_en": null,
           "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-          "summary": "Chui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek Harness团队负责人Chui Tianyi一次放出约150个岗位，主招后端开发与agent弹性计算工程师，继6月扩招后再公开扩张，规模膨胀正倒逼后端重写。",
           "url": "https://www.aibase.com/news/30906",
           "source": "AIbase",
@@ -434,7 +774,7 @@
           "title_zh": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
           "title_en": null,
           "title_original": "DeepSeek招募150名资深工程师 重点加码Agent工程化与DSec基建",
-          "summary": "On September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nOn September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nOn September 8, DeepSeek launched a new round of recruitment for approximately 150 engineers, focusing precisely on server-side development and Agent elastic co\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek于9月8日启动约150名资深工程师招聘，专注服务端与Agent弹性计算研究，要求2-10年经验且不设AI研究岗；这是继6月25日全员扩招后又一动作，显示其战略正转向Agent工程化与DSec基建落地。",
           "url": "https://www.aibase.com/news/30904",
           "source": "AIbase",
@@ -445,15 +785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -470,7 +810,7 @@
         "title_zh": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
         "title_en": null,
         "title_original": "DeepSeek 一次性放出 150 个岗位：Harness 团队急招工程师，规模膨胀倒逼后端重写",
-        "summary": "Chui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nChui Tianyi, head of the DeepSeek Harness team, publicly recruited on social media, releasing about 150 positions at once, stating that \"many new directions, ne\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "DeepSeek Harness团队负责人Chui Tianyi一次放出约150个岗位，主招后端开发与agent弹性计算工程师，继6月扩招后再公开扩张，规模膨胀正倒逼后端重写。",
         "url": "https://www.aibase.com/news/30906",
         "source": "AIbase",
@@ -482,7 +822,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -530,21 +870,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8679,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T00:17:23Z",
       "latest_at": "2026-09-08T00:17:23Z",
@@ -566,7 +905,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -614,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.7429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,7 +988,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -697,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -732,7 +1071,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -808,15 +1147,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7679,
+      "importance": 0.7679,
+      "importance_score": 0.7679,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.8629,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -845,7 +1184,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -862,7 +1201,7 @@
           "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
           "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": "Arm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Arm CEO Rene Haas在BBC采访中称，AI有望助人类在有生之年攻克癌症，但芯片供应是最大瓶颈——吉瓦级数据中心正挤占癌症研究与人形机器人开发所需芯片。这篇报道呈现了AI医疗宏愿与算力紧缺的现实冲突。",
           "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
@@ -882,7 +1221,7 @@
           "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
           "title_en": null,
           "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-          "summary": "Arm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Arm CEO Rene Haas在BBC采访中称，AI有望助人类在有生之年攻克癌症，但芯片供应是最大瓶颈——吉瓦级数据中心正挤占癌症研究与人形机器人开发所需芯片。这篇报道呈现了AI医疗宏愿与算力紧缺的现实冲突。",
           "url": "https://www.aibase.com/news/30908",
           "source": "AIbase",
@@ -893,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,7 +1256,7 @@
         "title_zh": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
         "title_en": null,
         "title_original": "Arm CEO：AI 有生之年能帮人类攻克癌症，但芯片供应是最大瓶颈",
-        "summary": "Arm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nArm's CEO said that artificial intelligence might help humanity cure cancer within our lifetime. However, before achieving this goal, the entire industry first\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": "Arm CEO Rene Haas在BBC采访中称，AI有望助人类在有生之年攻克癌症，但芯片供应是最大瓶颈——吉瓦级数据中心正挤占癌症研究与人形机器人开发所需芯片。这篇报道呈现了AI医疗宏愿与算力紧缺的现实冲突。",
         "url": "https://www.aibase.com/news/30908",
         "source": "AIbase",
@@ -929,7 +1268,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -946,7 +1285,7 @@
           "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
           "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": "On September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek V4.1-Flash于9月8日开启中间版内测，新模型结构支持原生多模态，开发者仅需将模型名设为deepseek-v4.1-flash-expires-on-0910即可调用，计费与V4-Flash持平，外部反馈最大亮点是“极速”。",
           "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
@@ -966,7 +1305,7 @@
           "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
           "title_en": null,
           "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-          "summary": "On September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "DeepSeek V4.1-Flash于9月8日开启中间版内测，新模型结构支持原生多模态，开发者仅需将模型名设为deepseek-v4.1-flash-expires-on-0910即可调用，计费与V4-Flash持平，外部反馈最大亮点是“极速”。",
           "url": "https://www.aibase.com/news/30911",
           "source": "AIbase",
@@ -977,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1001,7 +1340,7 @@
         "title_zh": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
         "title_en": null,
         "title_original": "DeepSeek V4.1-Flash内测：更强的视觉智能，更极致的速度与成本",
-        "summary": "On September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nOn September 8th, multiple sources confirmed that DeepSeek V4.1-Flash has officially begun its intermediate version internal testing. This version introduces a\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": "DeepSeek V4.1-Flash于9月8日开启中间版内测，新模型结构支持原生多模态，开发者仅需将模型名设为deepseek-v4.1-flash-expires-on-0910即可调用，计费与V4-Flash持平，外部反馈最大亮点是“极速”。",
         "url": "https://www.aibase.com/news/30911",
         "source": "AIbase",
@@ -1013,7 +1352,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1030,7 +1369,7 @@
           "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
           "title_en": null,
           "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": "Meta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Meta智能体AI“Muse”开启限量Alpha/Beta封闭测试，已上架App Store需邀请码，能连接Gmail和银行账户追踪支出，但支付仍须用户手动确认。",
           "url": "https://www.aibase.com/news/30902",
           "source": "AIbase",
@@ -1050,7 +1389,7 @@
           "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
           "title_en": null,
           "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-          "summary": "Meta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Meta智能体AI“Muse”开启限量Alpha/Beta封闭测试，已上架App Store需邀请码，能连接Gmail和银行账户追踪支出，但支付仍须用户手动确认。",
           "url": "https://www.aibase.com/news/30902",
           "source": "AIbase",
@@ -1061,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,7 +1424,7 @@
         "title_zh": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
         "title_en": null,
         "title_original": "Meta智能体AI“Muse”开启封闭测试 支持跨应用与个人财务管理",
-        "summary": "Meta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nMeta's agentic AI called \"Muse\" has ended its internal testing and officially entered a limited Alpha and Beta closed testing phase. According to Testing Catalo\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "Meta智能体AI“Muse”开启限量Alpha/Beta封闭测试，已上架App Store需邀请码，能连接Gmail和银行账户追踪支出，但支付仍须用户手动确认。",
         "url": "https://www.aibase.com/news/30902",
         "source": "AIbase",
@@ -1097,7 +1436,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1114,7 +1453,7 @@
           "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
           "title_en": null,
           "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": "Satya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "微软CEO Satya Nadella于9月7日发布Project Opal：让Microsoft 365 Copilot接管复杂长任务，连续工作数小时甚至数天，自动完成找材料、生成PPT并发送，还能分析一个月户外影像并自动剪辑动物高光视频、整理物种标签表格。",
           "url": "https://www.aibase.com/news/30909",
           "source": "AIbase",
@@ -1134,7 +1473,7 @@
           "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
           "title_en": null,
           "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-          "summary": "Satya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "微软CEO Satya Nadella于9月7日发布Project Opal：让Microsoft 365 Copilot接管复杂长任务，连续工作数小时甚至数天，自动完成找材料、生成PPT并发送，还能分析一个月户外影像并自动剪辑动物高光视频、整理物种标签表格。",
           "url": "https://www.aibase.com/news/30909",
           "source": "AIbase",
@@ -1145,15 +1484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1169,7 +1508,7 @@
         "title_zh": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
         "title_en": null,
         "title_original": "微软发布 Project Opal：只说目标，AI 连干数小时帮你交付成品",
-        "summary": "Satya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nSatya Nadella, CEO of Microsoft, posted a tweet on the X platform on September 7, announcing a new AI feature called Project Opal for Microsoft 365 Copilot. The\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "微软CEO Satya Nadella于9月7日发布Project Opal：让Microsoft 365 Copilot接管复杂长任务，连续工作数小时甚至数天，自动完成找材料、生成PPT并发送，还能分析一个月户外影像并自动剪辑动物高光视频、整理物种标签表格。",
         "url": "https://www.aibase.com/news/30909",
         "source": "AIbase",
@@ -1181,7 +1520,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1198,7 +1537,7 @@
           "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
           "title_en": null,
           "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": "United Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30903",
           "source": "AIbase",
@@ -1218,7 +1557,7 @@
           "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
           "title_en": null,
           "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-          "summary": "United Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30903",
           "source": "AIbase",
@@ -1229,15 +1568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1253,7 +1592,7 @@
         "title_zh": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
         "title_en": null,
         "title_original": "联合国高级专员警告：AI 对人类构成“生存性”风险，呼吁设不可逾越的红线",
-        "summary": "United Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nUnited Nations High Commissioner for Human Rights Volker Turk warned on Monday that artificial intelligence could pose a threat to humanity and pledged to urge\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30903",
         "source": "AIbase",
@@ -1265,7 +1604,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1342,15 +1681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9501,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,7 +1716,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1403,7 +1742,7 @@
           "published_at": "2026-09-08T02:51:51.808000Z"
         },
         {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
           "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
           "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
           "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -1411,15 +1750,15 @@
           "summary": null,
           "recommend_reason_zh": "90年代Netscape 4.51内置的E-Certify 512-bit RSA根证书被作者成功分解，用CADO-NFS在Ryzen 9 5950X上分别耗时32与29小时复原私钥，并搭建e-certify.fly.dev验证，揭示早期Web PKI的脆弱真相。",
           "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-08T01:16:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "mcpherrin.ca"
       ],
       "items": [
@@ -1438,7 +1777,7 @@
           "published_at": "2026-09-08T02:51:51.808000Z"
         },
         {
-          "id": "08da2142657f98da837d7f4e1fb61f9bb6c427e5",
+          "id": "f45666775f0a948fe3f9adfb43e1628d7ddd2bff",
           "title": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。 / I've factored the RSA keys of a Certificate Authority from the 90s",
           "title_zh": "我已经将一份90年代的证书颁发机构（CA）的RSA密钥分解成了因式。",
           "title_en": "I've factored the RSA keys of a Certificate Authority from the 90s",
@@ -1446,23 +1785,23 @@
           "summary": null,
           "recommend_reason_zh": "90年代Netscape 4.51内置的E-Certify 512-bit RSA根证书被作者成功分解，用CADO-NFS在Ryzen 9 5950X上分别耗时32与29小时复原私钥，并搭建e-certify.fly.dev验证，揭示早期Web PKI的脆弱真相。",
           "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-08T01:16:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9008,
+        "recency": 0.8418,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1489,7 +1828,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     },
     {
@@ -1506,7 +1845,7 @@
           "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
           "title_en": null,
           "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": "Grok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Grok Bot已与Microsoft账号深度集成，把5月已有的连接器改造成持久云PC插件，可在Outlook、Calendar和OneDrive中主动处理邮件和日程，与Microsoft Copilot、Anthropic、OpenClaw的正面竞争值得关注。",
           "url": "https://www.aibase.com/news/30907",
           "source": "AIbase",
@@ -1526,7 +1865,7 @@
           "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
           "title_en": null,
           "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-          "summary": "Grok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Grok Bot已与Microsoft账号深度集成，把5月已有的连接器改造成持久云PC插件，可在Outlook、Calendar和OneDrive中主动处理邮件和日程，与Microsoft Copilot、Anthropic、OpenClaw的正面竞争值得关注。",
           "url": "https://www.aibase.com/news/30907",
           "source": "AIbase",
@@ -1537,15 +1876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9345,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1561,7 +1900,7 @@
         "title_zh": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
         "title_en": null,
         "title_original": "马斯克杀入Copilot主场：Grok Bot 深度接管微软账号",
-        "summary": "Grok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nGrok Bot has recently undergone a major upgrade and officially announced full integration with Microsoft accounts. Through dedicated plugins, it connects to cor\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "Grok Bot已与Microsoft账号深度集成，把5月已有的连接器改造成持久云PC插件，可在Outlook、Calendar和OneDrive中主动处理邮件和日程，与Microsoft Copilot、Anthropic、OpenClaw的正面竞争值得关注。",
         "url": "https://www.aibase.com/news/30907",
         "source": "AIbase",
@@ -1573,427 +1912,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
-      }
-    },
-    {
-      "story_id": "story_5d4d715437bd",
-      "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-      "url": "https://news.ycombinator.com/item?id=49601810",
-      "primary_url": "https://news.ycombinator.com/item?id=49601810",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "fbe0df9f18da083e44e52ba5bb84c7356c83d038",
-          "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-          "title_zh": "AI 冷水澡：当炒作遇上现实",
-          "title_en": "AI Cold Showers",
-          "title_original": "AI Cold Showers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49601810",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T20:14:33.777000Z"
-        },
-        {
-          "id": "388b68a65ccb8bcc84cea8b0ee8427dc85d928bb",
-          "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-          "title_zh": "AI 冷水澡：当炒作遇上现实",
-          "title_en": "AI Cold Showers",
-          "title_original": "AI Cold Showers",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章借多篇评论指出，移除HITL中的人类并非提效而是放弃系统自我纠正机制，并警示过度依赖LLM写作可能丧失独立思考能力，还提出“反向半人马”概念，发人深省。",
-          "url": "https://allan.reyes.sh/posts/ai-cold-showers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T19:05:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbe0df9f18da083e44e52ba5bb84c7356c83d038",
-          "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-          "title_zh": "AI 冷水澡：当炒作遇上现实",
-          "title_en": "AI Cold Showers",
-          "title_original": "AI Cold Showers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49601810",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T20:14:33.777000Z"
-        },
-        {
-          "id": "388b68a65ccb8bcc84cea8b0ee8427dc85d928bb",
-          "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-          "title_zh": "AI 冷水澡：当炒作遇上现实",
-          "title_en": "AI Cold Showers",
-          "title_original": "AI Cold Showers",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章借多篇评论指出，移除HITL中的人类并非提效而是放弃系统自我纠正机制，并警示过度依赖LLM写作可能丧失独立思考能力，还提出“反向半人马”概念，发人深省。",
-          "url": "https://allan.reyes.sh/posts/ai-cold-showers",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T19:05:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8187,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T19:05:39Z",
-      "latest_at": "2026-09-07T20:14:33.777000Z",
-      "primary_item": {
-        "id": "fbe0df9f18da083e44e52ba5bb84c7356c83d038",
-        "title": "AI 冷水澡：当炒作遇上现实 / AI Cold Showers",
-        "title_zh": "AI 冷水澡：当炒作遇上现实",
-        "title_en": "AI Cold Showers",
-        "title_original": "AI Cold Showers",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49601810",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "冷水澡是情绪不是工具，等具体案例再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
-      }
-    },
-    {
-      "story_id": "story_0d185dfe820c",
-      "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "primary_url": "https://news.ycombinator.com/item?id=49600233",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重新对Plus和Business Standard用户实施5小时使用限制。有网友直指其商业模式不可持续，并提醒：为了抢占市场才给甜头，未来IPO后限制恐更严，付费者应保留切换模型的余地。",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI恢复Plus和Business Standard用户的5小时使用限制，HN评论区热议：有人建议推出$500-$1000/月无限量套餐让agent全天候运行，另有$200/月用户称非常划算，还讨论订阅费每涨$10恐减半用户群。",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T18:14:07.125000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": null,
-          "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重新对Plus和Business Standard用户实施5小时使用限制。有网友直指其商业模式不可持续，并提醒：为了抢占市场才给甜头，未来IPO后限制恐更严，付费者应保留切换模型的余地。",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-07T18:58:53.306000Z"
-        },
-        {
-          "id": "0b672d8f831c07be6a9d87b6f492d1fdf8a2335b",
-          "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制 / Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-          "title_en": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "title_original": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI恢复Plus和Business Standard用户的5小时使用限制，HN评论区热议：有人建议推出$500-$1000/月无限量套餐让agent全天候运行，另有$200/月用户称非常划算，还讨论订阅费每涨$10恐减半用户群。",
-          "url": "https://news.ycombinator.com/item?id=49600233",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-07T18:14:07.125000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8039,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T18:14:07.125000Z",
-      "latest_at": "2026-09-07T18:58:53.306000Z",
-      "primary_item": {
-        "id": "cb9c787070b7baa0c02b7b923d1b553f350b9b9a",
-        "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_zh": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "title_en": null,
-        "title_original": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI重新对Plus和Business Standard用户实施5小时使用限制。有网友直指其商业模式不可持续，并提醒：为了抢占市场才给甜头，未来IPO后限制恐更严，付费者应保留切换模型的余地。",
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "重度用户得算着额度用，轻量用户影响不大，API 调用不受限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
-      }
-    },
-    {
-      "story_id": "story_8b01a7e80019",
-      "title": "AI技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "primary_url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "AI技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-          "title_zh": "AI技术对就业的初步影响看起来是积极的",
-          "title_en": "Initial effects of AI technology on employment look positive",
-          "title_original": "Initial effects of AI technology on employment look positive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "就业末日推迟了。AI 就业热潮正在到来 / The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": "就业末日推迟了。AI 就业热潮正在到来",
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-          "title": "AI技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-          "title_zh": "AI技术对就业的初步影响看起来是积极的",
-          "title_en": "Initial effects of AI technology on employment look positive",
-          "title_original": "Initial effects of AI technology on employment look positive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-07T10:38:32Z"
-        },
-        {
-          "id": "1deac515e4f630342fcf5d6d2b218a5b1c0cf8d6",
-          "title": "就业末日推迟了。AI 就业热潮正在到来 / The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_zh": "就业末日推迟了。AI 就业热潮正在到来",
-          "title_en": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "title_original": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-07T10:38:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7127,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-07T10:38:32Z",
-      "latest_at": "2026-09-07T10:38:32Z",
-      "primary_item": {
-        "id": "d8549658f0d39ce72a79065fe3e86fe27f62679f",
-        "title": "AI技术对就业的初步影响看起来是积极的 / Initial effects of AI technology on employment look positive",
-        "title_zh": "AI技术对就业的初步影响看起来是积极的",
-        "title_en": "Initial effects of AI technology on employment look positive",
-        "title_original": "Initial effects of AI technology on employment look positive",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "宏观就业评论，不写代码不选型，等具体岗位数据再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
-      }
-    },
-    {
-      "story_id": "story_292bbb5879c6",
-      "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-      "url": "https://www.aibase.com/news/30889",
-      "primary_url": "https://www.aibase.com/news/30889",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 加速布局生物技术赛道，以约4亿美元股票收购成立仅8个月的AI初创Coefficient Bio，团队并入其医疗健康与生命科学部门，战略覆盖药物发现到临床开发全链条。",
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T04:34:56.584743Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-          "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "title_en": null,
-          "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic 加速布局生物技术赛道，以约4亿美元股票收购成立仅8个月的AI初创Coefficient Bio，团队并入其医疗健康与生命科学部门，战略覆盖药物发现到临床开发全链条。",
-          "url": "https://www.aibase.com/news/30889",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-08T04:34:56.584743Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9234,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T04:34:56.584743Z",
-      "latest_at": "2026-09-08T04:34:56.584743Z",
-      "primary_item": {
-        "id": "c305e8b256f5fe2b9bed331d2d673760b20a34de",
-        "title": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_zh": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "title_en": null,
-        "title_original": "AI医疗版图大扩张：Anthropic 持续加码，密集收购与布局生物技术赛道",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic 加速布局生物技术赛道，以约4亿美元股票收购成立仅8个月的AI初创Coefficient Bio，团队并入其医疗健康与生命科学部门，战略覆盖药物发现到临床开发全链条。",
-        "url": "https://www.aibase.com/news/30889",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "收购布局离代码远，等有具体产品或API再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-08T10:31:37.913974Z"
+        "scored_at": "2026-09-08T15:17:37.720069Z"
       }
     }
   ]
