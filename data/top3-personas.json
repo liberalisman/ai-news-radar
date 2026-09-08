@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:58:29.780426Z",
+  "generated_at": "2026-09-08T04:54:01.476755Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_4f086e6db1c7",
-      "title": "讯飞星火 X2.5 正式发布：MoE 架构 293B，代码与智能体能力大幅提升",
-      "url": "https://www.aibase.com/news/30867",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "MoE 293B 参数不虚，但'大幅提升'的基线得先亮出来，别拿自家旧版当标杆。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方发布无论文无代码，性能提升缺独立验证，仅凭宣传难信服。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "MoE 293B 参数，代码和智能体能力提升，可关注 API 开放情况。"
-        }
-      }
-    },
-    {
       "story_id": "story_89772b9cda52",
       "title": "基于AMD GPU的vLLM中的推测性解码",
       "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_0d185dfe820c",
       "title": "Tell HN: OpenAI 重新对 Plus 和 Business Standard 用户实施了 5 小时的使用限制",
       "url": "https://news.ycombinator.com/item?id=49600233",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "重度用户得算着额度用，轻量用户影响不大，API 调用不受限。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f0b41f3df1cc",
+      "title": "GPT-6 Astra操控Blender保姆级教程：三种玩法与踩坑实录",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686056&idx=1&sn=c1710404c08cf3201da27f4d53f94940",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "教程标题唬人，实操细节藏一半，踩坑记录倒比玩法实在。"
+        },
+        "paper-police": {
+          "score": 15,
+          "review": "只有公众号教程，无论文无代码无基准，GPT-6真实性待验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "教程能抄但模型未开放，先收藏等API，别急着改流程。"
         }
       }
     }
