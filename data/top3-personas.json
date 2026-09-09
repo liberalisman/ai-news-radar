@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:59:43.575112Z",
+  "generated_at": "2026-09-09T10:17:07.190567Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_16900b8aedbb",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "story_id": "story_6c71d9371c7c",
+      "title": "GPT-5.6 Sol 如何助力量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "图像模型迭代不假，但'2.5'这命名，是怕人不知道你跳过了2.0？"
+          "review": "量子实验demo挺唬人，但没给基线对比，水分得自己挤。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
+          "score": 25,
+          "review": "官方博客宣称助力量子实验，无论文无代码无第三方验证，仅凭描述难信服。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新图像模型已上线，做视觉生成的可直接试API，效果和价格待实测。"
+          "score": 72,
+          "review": "量子计算实验门槛高，若真能简化流程，搞科研的可以试试。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_6c71d9371c7c",
-      "title": "GPT-5.6 Sol 如何助力量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "story_id": "story_cca71c225d5c",
+      "title": "GitHub Enterprise Server 3.22 正式发布 / GitHub Enterprise Server 3.22 is now generally available",
+      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "量子实验demo挺唬人，但没给基线对比，水分得自己挤。"
+          "score": 70,
+          "review": "版本号更新照例挤牙膏，亮点得翻半天 changelog 才找得到。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方博客宣称助力量子实验，无论文无代码无第三方验证，仅凭描述难信服。"
+          "score": 70,
+          "review": "官方发布有文档，但无独立评测或复现，功能细节待查。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "量子计算实验门槛高，若真能简化流程，搞科研的可以试试。"
+          "review": "企业版大版本更新，自托管用户升级前先看变更日志，云用户不受影响。"
         }
       }
     }
