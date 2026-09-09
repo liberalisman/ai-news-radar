@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:10:54.122974Z",
+  "generated_at": "2026-09-09T17:27:07.087326Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_ea4f77cf3524",
+      "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "SOTA自封，商用许可倒是实在，但时间序列模型还得看真实场景跑分。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客宣称SOTA，但缺论文和代码链接，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。"
+        }
+      }
+    },
+    {
       "story_id": "story_fee049a1c565",
       "title": "用智能体自动修复代码质量问题 / Remediate Code Quality findings with agentic autofix",
       "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "GitHub 官方功能，能自动修代码质量，CI 流程可省人工，值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8876e98eb3be",
-      "title": "Copilot for JetBrains 的企业托管沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "企业沙箱是刚需，但别指望它解决所有代码安全问题。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，仅功能公告，缺论文代码评测。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业管控Copilot代码补全，安全合规团队今天就能配置，个人开发者无感。"
         }
       }
     }

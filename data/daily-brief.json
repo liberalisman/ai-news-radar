@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:35:47.830108Z",
+  "generated_at": "2026-09-09T16:53:29.916155Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
           "title_zh": "GPT‑5.6 Sol 如何助力开展量子计算实验",
           "title_en": null,
           "title_original": "GPT‑5.6 Sol 如何助力开展量子计算实验",
-          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSee how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSee how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSeptember 8, 2026\nConnecting GPT‑5.6 Sol to laboratory software to r",
+          "summary": null,
           "recommend_reason_zh": "MIT研究生Beatriz Yankelevich用GPT-5.6 Sol结合Codex控制实验室软件，在未校准的六-qubit超导芯片上自主完成测量与校准，大幅减少人工盯守，让她能专注实验设计和分析。",
           "url": "https://openai.com/index/codex-quantum-computing-experiments",
           "source": "openai.com",
@@ -40,7 +40,7 @@
           "published_at": "2026-09-09T13:29:27.051000Z"
         },
         {
-          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
+          "id": "2d5d842ced7cd1718c29f742fd3bbc082e4f87f8",
           "title": "GPT‑5.6 Sol 如何助力开展量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
           "title_zh": "GPT‑5.6 Sol 如何助力开展量子计算实验",
           "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
@@ -48,15 +48,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-09T07:22:46Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "OpenAI News",
         "openai.com"
       ],
@@ -81,7 +81,7 @@
           "title_zh": "GPT‑5.6 Sol 如何助力开展量子计算实验",
           "title_en": null,
           "title_original": "GPT‑5.6 Sol 如何助力开展量子计算实验",
-          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSee how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSee how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.\nSeptember 8, 2026\nConnecting GPT‑5.6 Sol to laboratory software to r",
+          "summary": null,
           "recommend_reason_zh": "MIT研究生Beatriz Yankelevich用GPT-5.6 Sol结合Codex控制实验室软件，在未校准的六-qubit超导芯片上自主完成测量与校准，大幅减少人工盯守，让她能专注实验设计和分析。",
           "url": "https://openai.com/index/codex-quantum-computing-experiments",
           "source": "openai.com",
@@ -90,7 +90,7 @@
           "published_at": "2026-09-09T13:29:27.051000Z"
         },
         {
-          "id": "351a4ba2c29a5a061bc92b822eb300b89b6a46fe",
+          "id": "2d5d842ced7cd1718c29f742fd3bbc082e4f87f8",
           "title": "GPT‑5.6 Sol 如何助力开展量子计算实验 / How GPT‑5.6 Sol helps run quantum computing experiments",
           "title_zh": "GPT‑5.6 Sol 如何助力开展量子计算实验",
           "title_en": "How GPT‑5.6 Sol helps run quantum computing experiments",
@@ -98,23 +98,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/codex-quantum-computing-experiments",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-09T07:22:46Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8575,
+      "importance": 0.8575,
+      "importance_score": 0.8575,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7321,
+        "recency": 0.7082,
         "story_heat": 0.5
       },
       "category": "official",
@@ -144,7 +144,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
+      }
+    },
+    {
+      "story_id": "story_ea4f77cf3524",
+      "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_zh": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可",
+          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nTL;DR Strong zero-shot forecasting on GIFT-Eval Competitive even against models allowed to use benchmark training data Architecture: What changed from PatchTST-FM-r1? Training data Open for research experimentation — and for commercial use Try PatchTST-FM-r2 in a few lines of Python From notebooks to streaming time series High-performance zero-shot forecasting with commercial-friendly open licensing\nTime-seri",
+          "recommend_reason_zh": "IBM发布385M参数的Granite Time Series PatchTST-FM-r2，在GIFT-Eval零样本榜上CRPS达0.467、MASE为0.6846，仅次于TimesFM-3，且采用Apache 2.0等商用友好许可。",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_zh": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可",
+          "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nTL;DR Strong zero-shot forecasting on GIFT-Eval Competitive even against models allowed to use benchmark training data Architecture: What changed from PatchTST-FM-r1? Training data Open for research experimentation — and for commercial use Try PatchTST-FM-r2 in a few lines of Python From notebooks to streaming time series High-performance zero-shot forecasting with commercial-friendly open licensing\nTime-seri",
+          "recommend_reason_zh": "IBM发布385M参数的Granite Time Series PatchTST-FM-r2，在GIFT-Eval零样本榜上CRPS达0.467、MASE为0.6846，仅次于TimesFM-3，且采用Apache 2.0等商用友好许可。",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9816,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T15:36:24Z",
+      "latest_at": "2026-09-09T15:36:24Z",
+      "primary_item": {
+        "id": "fd91534dca51075721031b57097e5f9315f7f497",
+        "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "title_zh": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可",
+        "title_en": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "title_original": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nTL;DR Strong zero-shot forecasting on GIFT-Eval Competitive even against models allowed to use benchmark training data Architecture: What changed from PatchTST-FM-r1? Training data Open for research experimentation — and for commercial use Try PatchTST-FM-r2 in a few lines of Python From notebooks to streaming time series High-performance zero-shot forecasting with commercial-friendly open licensing\nTime-seri",
+        "recommend_reason_zh": "IBM发布385M参数的Granite Time Series PatchTST-FM-r2，在GIFT-Eval零样本榜上CRPS达0.467、MASE为0.6846，仅次于TimesFM-3，且采用Apache 2.0等商用友好许可。",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-09T17:27:01.958951Z"
+      }
+    },
+    {
+      "story_id": "story_0a10715b8943",
+      "title": "用 Search 新增的足球功能，为比赛做好准备。 / Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
+          "title": "用 Search 新增的足球功能，为比赛做好准备。 / Get ready for the game with new football features in Search",
+          "title_zh": "用 Search 新增的足球功能，为比赛做好准备。",
+          "title_en": "Get ready for the game with new football features in Search",
+          "title_original": "Get ready for the game with new football features in Search",
+          "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nSep 09, 2026\nNever miss a play this season. Our latest upgrades in Search bring a Live Game Feed and deeper stats straight to your screen. Plus, y",
+          "recommend_reason_zh": "Google Search新增Live Game Feed实时追踪比赛，支持连接Yahoo Fantasy或Sleeper账号获取AI定制建议，并展示传球达阵等联盟领袖数据，移动端美国英语版率先上线。",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
+          "title": "用 Search 新增的足球功能，为比赛做好准备。 / Get ready for the game with new football features in Search",
+          "title_zh": "用 Search 新增的足球功能，为比赛做好准备。",
+          "title_en": "Get ready for the game with new football features in Search",
+          "title_original": "Get ready for the game with new football features in Search",
+          "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nSep 09, 2026\nNever miss a play this season. Our latest upgrades in Search bring a Live Game Feed and deeper stats straight to your screen. Plus, y",
+          "recommend_reason_zh": "Google Search新增Live Game Feed实时追踪比赛，支持连接Yahoo Fantasy或Sleeper账号获取AI定制建议，并展示传球达阵等联盟领袖数据，移动端美国英语版率先上线。",
+          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T16:00:00Z",
+      "latest_at": "2026-09-09T16:00:00Z",
+      "primary_item": {
+        "id": "dad5e6c6622a0090580d4406896a7166970daff0",
+        "title": "用 Search 新增的足球功能，为比赛做好准备。 / Get ready for the game with new football features in Search",
+        "title_zh": "用 Search 新增的足球功能，为比赛做好准备。",
+        "title_en": "Get ready for the game with new football features in Search",
+        "title_original": "Get ready for the game with new football features in Search",
+        "summary": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nTrack live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.\nSep 09, 2026\nNever miss a play this season. Our latest upgrades in Search bring a Live Game Feed and deeper stats straight to your screen. Plus, y",
+        "recommend_reason_zh": "Google Search新增Live Game Feed实时追踪比赛，支持连接Yahoo Fantasy或Sleeper账号获取AI定制建议，并展示传球达阵等联盟领袖数据，移动端美国英语版率先上线。",
+        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "搜索加足球功能，对开发者无直接影响，除非做体育应用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -161,7 +331,7 @@
           "title_zh": "用智能体自动修复代码质量问题",
           "title_en": "Remediate Code Quality findings with agentic autofix",
           "title_original": "Remediate Code Quality findings with agentic autofix",
-          "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…\nAgentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the whole set to Copilot in one action. Copilot starts fixing them agentically on a branch, validates its own changes, then opens a pull request for you to review and merge.\nAssign ",
+          "summary": null,
           "recommend_reason_zh": "GitHub为Code Quality新增agentic autofix，一次最多可选25个findings交给Copilot批量修复，Copilot自行验证并开PR供审查，且沿用现有企业策略，无需单独配置。",
           "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
           "source": "GitHub Changelog",
@@ -181,7 +351,7 @@
           "title_zh": "用智能体自动修复代码质量问题",
           "title_en": "Remediate Code Quality findings with agentic autofix",
           "title_original": "Remediate Code Quality findings with agentic autofix",
-          "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…\nAgentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the whole set to Copilot in one action. Copilot starts fixing them agentically on a branch, validates its own changes, then opens a pull request for you to review and merge.\nAssign ",
+          "summary": null,
           "recommend_reason_zh": "GitHub为Code Quality新增agentic autofix，一次最多可选25个findings交给Copilot批量修复，Copilot自行验证并开PR供审查，且沿用现有企业策略，无需单独配置。",
           "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
           "source": "GitHub Changelog",
@@ -192,15 +362,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9681,
+        "recency": 0.9365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -217,7 +387,7 @@
         "title_zh": "用智能体自动修复代码质量问题",
         "title_en": "Remediate Code Quality findings with agentic autofix",
         "title_original": "Remediate Code Quality findings with agentic autofix",
-        "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…\nAgentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the whole set to Copilot in one action. Copilot starts fixing them agentically on a branch, validates its own changes, then opens a pull request for you to review and merge.\nAssign ",
+        "summary": null,
         "recommend_reason_zh": "GitHub为Code Quality新增agentic autofix，一次最多可选25个findings交给Copilot批量修复，Copilot自行验证并开PR供审查，且沿用现有企业策略，无需单独配置。",
         "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
         "source": "GitHub Changelog",
@@ -229,7 +399,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -364,15 +534,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7378,
+        "recency": 0.7137,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -401,7 +571,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
+      }
+    },
+    {
+      "story_id": "story_c1742d135f37",
+      "title": "逐帧重现一段70年的爱情故事 / Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "逐帧重现一段70年的爱情故事 / Recreating a 70-year love story frame by frame",
+          "title_zh": "逐帧重现一段70年的爱情故事",
+          "title_en": "Recreating a 70-year love story frame by frame",
+          "title_original": "Recreating a 70-year love story frame by frame",
+          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nSep 09, 2026\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short fi",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "26fbf978c4fd836611834662158952580d960e28",
+          "title": "逐帧重现一段70年的爱情故事 / Recreating a 70-year love story frame by frame",
+          "title_zh": "逐帧重现一段70年的爱情故事",
+          "title_en": "Recreating a 70-year love story frame by frame",
+          "title_original": "Recreating a 70-year love story frame by frame",
+          "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nSep 09, 2026\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short fi",
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T16:00:00Z",
+      "latest_at": "2026-09-09T16:00:00Z",
+      "primary_item": {
+        "id": "26fbf978c4fd836611834662158952580d960e28",
+        "title": "逐帧重现一段70年的爱情故事 / Recreating a 70-year love story frame by frame",
+        "title_zh": "逐帧重现一段70年的爱情故事",
+        "title_en": "Recreating a 70-year love story frame by frame",
+        "title_original": "Recreating a 70-year love story frame by frame",
+        "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"\nSep 09, 2026\nDiscover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short fi",
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "谷歌宣传片，无工具无API，动手党不用看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -478,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.8998,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -515,7 +770,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -563,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8425,
+        "recency": 0.815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,7 +855,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
+      }
+    },
+    {
+      "story_id": "story_1e0e5586f10e",
+      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+      "url": "https://www.anthropic.com/institute/econ-scenarios",
+      "primary_url": "https://www.anthropic.com/institute/econ-scenarios",
+      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
+          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+          "title_en": "Scenarios for our Economic Future",
+          "title_original": "Scenarios for our Economic Future",
+          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+          "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T13:27:40.545000Z"
+        },
+        {
+          "id": "873d4837526d1a4d53b428d73657a03c1501629d",
+          "title": "我们的经济未来会是什么样子？",
+          "title_zh": "我们的经济未来会是什么样子？",
+          "title_en": null,
+          "title_original": "我们的经济未来会是什么样子？",
+          "summary": "The Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nWe don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment? Neither, or something else? How can we tell?\nAnthropic’s Economics team built a model of how AI might affect jobs, growth, and unemployment in the US in",
+          "recommend_reason_zh": "Anthropic经济学团队用O*NET任务模型推演2030年美国就业与增长，输入AI能力预期即可查看经济前景，甚至以护士日常为例拆解岗位如何被增强或自动化。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-09T16:05:40.926000Z"
+        },
+        {
+          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
+          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
+          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+          "title_en": "What will our economic future look like?",
+          "title_original": "What will our economic future look like?",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic Economics Team发布2030年AI经济模型，输入AI能力预测即可生成对应就业与增长场景，显示超高速增长或冲击知识工人薪资。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T13:38:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "Hacker News",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
+          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+          "title_en": "Scenarios for our Economic Future",
+          "title_original": "Scenarios for our Economic Future",
+          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+          "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-09T13:27:40.545000Z"
+        },
+        {
+          "id": "873d4837526d1a4d53b428d73657a03c1501629d",
+          "title": "我们的经济未来会是什么样子？",
+          "title_zh": "我们的经济未来会是什么样子？",
+          "title_en": null,
+          "title_original": "我们的经济未来会是什么样子？",
+          "summary": "The Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nWe don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment? Neither, or something else? How can we tell?\nAnthropic’s Economics team built a model of how AI might affect jobs, growth, and unemployment in the US in",
+          "recommend_reason_zh": "Anthropic经济学团队用O*NET任务模型推演2030年美国就业与增长，输入AI能力预期即可查看经济前景，甚至以护士日常为例拆解岗位如何被增强或自动化。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-09T16:05:40.926000Z"
+        },
+        {
+          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
+          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
+          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+          "title_en": "What will our economic future look like?",
+          "title_original": "What will our economic future look like?",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic Economics Team发布2030年AI经济模型，输入AI能力预测即可生成对应就业与增长场景，显示超高速增长或冲击知识工人薪资。",
+          "url": "https://www.anthropic.com/institute/econ-scenarios",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-09T13:38:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9517,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-09T13:27:40.545000Z",
+      "latest_at": "2026-09-09T16:05:40.926000Z",
+      "primary_item": {
+        "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
+        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
+        "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
+        "title_en": "Scenarios for our Economic Future",
+        "title_original": "Scenarios for our Economic Future",
+        "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
+        "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
+        "url": "https://www.anthropic.com/institute/econ-scenarios",
+        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "宏观推演离代码太远，做AI应用的不必现在行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -648,15 +1046,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9268,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -684,7 +1082,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -761,15 +1159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8152,
+        "recency": 0.7887,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,7 +1196,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -846,15 +1244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,7 +1280,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -958,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,121 +1393,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
-      }
-    },
-    {
-      "story_id": "story_1e0e5586f10e",
-      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "primary_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "Scenarios for our Economic Future",
-          "title_original": "Scenarios for our Economic Future",
-          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-          "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
-        },
-        {
-          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "What will our economic future look like?",
-          "title_original": "What will our economic future look like?",
-          "summary": "The Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nWe don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment? Neither, or something else? How can we tell?\nAnthropic’s Economics team built a model of how AI might affect jobs, growth, and unemployment in the US in",
-          "recommend_reason_zh": "Anthropic Economics Team发布2030年AI经济模型，输入AI能力预测即可生成对应就业与增长场景，显示超高速增长或冲击知识工人薪资。",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T13:38:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "Hacker News"
-      ],
-      "items": [
-        {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "Scenarios for our Economic Future",
-          "title_original": "Scenarios for our Economic Future",
-          "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-          "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
-        },
-        {
-          "id": "ae2a95b911eb0f0c1b1d814b452a53c946756b37",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "title_en": "What will our economic future look like?",
-          "title_original": "What will our economic future look like?",
-          "summary": "The Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nThe Anthropic Economics Team models the effects of AI on the economy of 2030.\nWe don’t know yet how AI will reshape the economy. Will it lead to unprecedented growth? Widespread unemployment? Neither, or something else? How can we tell?\nAnthropic’s Economics team built a model of how AI might affect jobs, growth, and unemployment in the US in",
-          "recommend_reason_zh": "Anthropic Economics Team发布2030年AI经济模型，输入AI能力预测即可生成对应就业与增长场景，显示超高速增长或冲击知识工人薪资。",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-09T13:38:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9837,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T13:27:40.545000Z",
-      "latest_at": "2026-09-09T13:38:23Z",
-      "primary_item": {
-        "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / Scenarios for our Economic Future",
-        "title_zh": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-        "title_en": "Scenarios for our Economic Future",
-        "title_original": "Scenarios for our Economic Future",
-        "summary": "Anthropic 经济团队基于技术报告《Economic Scenarios for Transformative AI》发布交互式经济情景探索工具，把经济表示为任务束，推演 AI 到 2030 年对美国经济的影响。",
-        "recommend_reason_zh": "Anthropic经济学团队以Korinek et al. 2026报告为据，模拟AI对2030年美国就业与增长的影响，显示在增长翻倍场景下知识工作者工资承压，失业率仍在历史区间。",
-        "url": "https://www.anthropic.com/institute/econ-scenarios",
-        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "宏观推演离代码太远，做AI应用的不必现在行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1186,15 +1470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8631,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1223,7 +1507,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1271,21 +1555,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7323,
+        "recency": 0.7085,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-08T17:01:27Z",
       "latest_at": "2026-09-08T17:01:27Z",
@@ -1307,7 +1590,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1355,15 +1638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7855,
+        "recency": 0.7599,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1392,7 +1675,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1440,15 +1723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,7 +1759,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1524,15 +1807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8117,
+        "recency": 0.7852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1559,173 +1842,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
-      }
-    },
-    {
-      "story_id": "story_433201069aa6",
-      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-      "url": "https://x.com/OpenAI/status/2097375276384567642",
-      "primary_url": "https://x.com/OpenAI/status/2097375276384567642",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-          "recommend_reason_zh": "研究人员与智能体祝贺Levent Alpöge、Tristan Buckmaster的杰出数学工作，并声明在其公开前并未以任何途径看过其成果，亦未为解题访问特定用户数据，凸显AI协作中的透明与隐私边界。",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-          "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-          "recommend_reason_zh": "研究人员与智能体祝贺Levent Alpöge、Tristan Buckmaster的杰出数学工作，并声明在其公开前并未以任何途径看过其成果，亦未为解题访问特定用户数据，凸显AI协作中的透明与隐私边界。",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T17:23:27Z",
-      "latest_at": "2026-09-08T17:23:27Z",
-      "primary_item": {
-        "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺 / We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "title_zh": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-        "title_en": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "title_original": "We congratulate Levent Alpöge and Tristan Buckmaster on their remarkable mathematical work. We （the…",
-        "summary": "OpenAI 宣布由一组智能体使用一个能力显著超过 GPT-6 Astra 的下一代模型给出 Navier-Stokes 千禧年大奖难题的解，该问题关注三维光滑流体运动的描述是否会失效，已悬置约 90 年。",
-        "recommend_reason_zh": "研究人员与智能体祝贺Levent Alpöge、Tristan Buckmaster的杰出数学工作，并声明在其公开前并未以任何途径看过其成果，亦未为解题访问特定用户数据，凸显AI协作中的透明与隐私边界。",
-        "url": "https://x.com/OpenAI/status/2097375276384567642",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "数学证明离工程太远，等有可用的工具再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
-      }
-    },
-    {
-      "story_id": "story_8bc5596ddee1",
-      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-      "url": "https://x.com/sama/status/2097385167002415140",
-      "primary_url": "https://x.com/sama/status/2097385167002415140",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-          "recommend_reason_zh": "作者周末与Seb团队深入交流后写下此文：原本相信另一团队也已解决该问题、计划合作发布，后来得知对方已有Euler；期间Seb与同事的诚信与慷慨贯穿始终。",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-          "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-          "recommend_reason_zh": "作者周末与Seb团队深入交流后写下此文：原本相信另一团队也已解决该问题、计划合作发布，后来得知对方已有Euler；期间Seb与同事的诚信与慷慨贯穿始终。",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7432,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T18:02:46Z",
-      "latest_at": "2026-09-08T18:02:46Z",
-      "primary_item": {
-        "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议 / I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "title_zh": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-        "title_en": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "title_original": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted w…",
-        "summary": "Sam Altman 发文回应与 Anthropic 一方围绕 Euler/Navier-Stokes 证明发布的争议，称对方只有 Euler 结果、双方协调失败，并称对方以抄袭指控相威胁。",
-        "recommend_reason_zh": "作者周末与Seb团队深入交流后写下此文：原本相信另一团队也已解决该问题、计划合作发布，后来得知对方已有Euler；期间Seb与同事的诚信与慷慨贯穿始终。",
-        "url": "https://x.com/sama/status/2097385167002415140",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "口水战与证明争议，对开发无直接用处，等论文和代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1773,15 +1890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7428,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1810,7 +1927,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     },
     {
@@ -1858,15 +1975,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9092,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1894,91 +2011,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
-      }
-    },
-    {
-      "story_id": "story_f8d7f4981a15",
-      "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-      "url": "https://www.aibase.com/news/30937",
-      "primary_url": "https://www.aibase.com/news/30937",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-          "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "title_zh": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "title_en": null,
-          "title_original": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30937",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T11:51:24.369734Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-          "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "title_zh": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "title_en": null,
-          "title_original": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30937",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T11:51:24.369734Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9612,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T11:51:24.369734Z",
-      "latest_at": "2026-09-09T11:51:24.369734Z",
-      "primary_item": {
-        "id": "3833d138bb365fbbf3cbd9ff19ab1f8061acea5c",
-        "title": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-        "title_zh": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-        "title_en": null,
-        "title_original": "AI Coding诞生新吉尼斯纪录：9岁孩子夺冠，外滩黑客松上万人用AI做应用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30937",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "黑客松热闹但无技术细节，对选型无参考，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-09T15:10:45.613780Z"
+        "scored_at": "2026-09-09T17:27:01.958951Z"
       }
     }
   ]
