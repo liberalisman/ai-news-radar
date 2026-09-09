@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:56:40.694642Z",
+  "generated_at": "2026-09-09T05:10:44.258133Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_95e46fc5b77c",
-      "title": "DeepSeek 宣布 Flash 系列模型降价：输出降至每百万 Token 4 元",
-      "url": "https://www.aibase.com/news/30913",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "降价是实在的，但别指望这能改变什么，先看看性能再说。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅官方宣布降价，无论文无代码无评测，价格调整本身可查但缺技术细节。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "输出价砍半，批量推理和长文本任务今天就能换，省成本立竿见影。"
-        }
-      }
-    },
-    {
       "story_id": "story_16900b8aedbb",
       "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 85,
           "review": "新图像模型已上线，做视觉生成的可直接试API，效果和价格待实测。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8876e98eb3be",
+      "title": "Copilot for JetBrains 的企业托管沙箱 / Enterprise-managed sandbox in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "企业沙箱是刚需，但别指望它解决所有代码安全问题。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方更新但无技术细节，仅功能公告，缺论文代码评测。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "企业管控Copilot代码补全，安全合规团队今天就能配置，个人开发者无感。"
         }
       }
     },
