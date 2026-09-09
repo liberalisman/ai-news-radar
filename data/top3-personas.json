@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:27:07.087326Z",
+  "generated_at": "2026-09-09T19:12:10.662186Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_6c71d9371c7c",
-      "title": "GPT‑5.6 Sol 如何助力开展量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "量子实验demo挺炫，但没给对比基线，水分得自己挤。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称量子计算助力，无论文无代码无第三方复现，证据不足。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "量子实验跑通案例，若 API 开放可直接抄，先查文档再动手。"
-        }
-      }
-    },
-    {
       "story_id": "story_ea4f77cf3524",
       "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 82,
           "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。"
+        }
+      }
+    },
+    {
+      "story_id": "story_0251a274feda",
+      "title": "阻止包含泄露敏感信息的拉取请求被合并 / Block pull requests with exposed secrets from merging",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "GitHub 终于补上这个洞，但早干嘛去了？默认开启才算诚意。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方更新有细节但无代码无复现，需等实际验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "GitHub 原生拦截密钥泄露，CI 里少写一道检查，今天就能配。"
         }
       }
     },
