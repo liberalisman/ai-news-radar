@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7de8d1dc0770|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "可以按 token 类型精准撤销，安全排查省事，有凭据管理需求的今天就能用。",
-      "title_hash": "56091ecd",
-      "scored_at": "2026-08-18T22:47:39.159369Z"
-    },
-    "story_02cf85db407e|pragmatic|0a5c5b24": {
-      "score": 68,
-      "review": "官方小版本更新，没写具体改动，先看changelog再决定升不升。",
-      "title_hash": "7d97e62d",
-      "scored_at": "2026-08-18T22:47:46.446929Z"
-    },
-    "story_7b5d73500e30|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "编译器开箱即用，写高性能算子可以直接上手试，但生态迁移成本别低估。",
-      "title_hash": "9549aa07",
-      "scored_at": "2026-08-18T22:47:48.443846Z"
-    },
-    "story_e8202dde9923|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "案例展示多于落地工具，做蛋白设计的可参考思路，暂无直接可用的接口。",
-      "title_hash": "588ceeaa",
-      "scored_at": "2026-08-18T22:47:50.091261Z"
-    },
-    "story_7b5d73500e30|cynic|f4237a62": {
-      "score": 82,
-      "review": "真开源了，但吊了两年胃口，生态位还抢得回来吗？",
-      "title_hash": "9549aa07",
-      "scored_at": "2026-08-18T22:47:52.969810Z"
-    },
-    "story_7b5d73500e30|paper-police|966065bf": {
-      "score": 25,
-      "review": "博客只说开源，未见代码仓库和评测，等链接验证。",
-      "title_hash": "9549aa07",
-      "scored_at": "2026-08-18T22:47:58.316172Z"
-    },
-    "story_423313afb312|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "官方案例，没有新接口或降价，对企业选型有参考，开发者不用动。",
-      "title_hash": "70aded30",
-      "scored_at": "2026-08-18T23:41:50.066395Z"
-    },
     "story_57fc147b8fa7|pragmatic|0a5c5b24": {
       "score": 65,
       "review": "企业管理员可统一管控 Copilot 设置，个人开发者无感。",
@@ -5892,6 +5850,30 @@
       "review": "官方博客宣称助力量子实验，无论文无代码无第三方验证，仅凭描述难信服。",
       "title_hash": "e447520d",
       "scored_at": "2026-09-08T22:24:19.551499Z"
+    },
+    "story_cca71c225d5c|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "企业版大版本更新，自托管用户升级前先看变更日志，云用户不受影响。",
+      "title_hash": "31314ffb",
+      "scored_at": "2026-09-09T00:10:22.493558Z"
+    },
+    "story_76849f67b060|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "视频工作流里能直接调生成模型，剪片的人省了切换工具的时间。",
+      "title_hash": "0566a0e1",
+      "scored_at": "2026-09-09T00:10:23.601187Z"
+    },
+    "story_cca71c225d5c|cynic|f4237a62": {
+      "score": 70,
+      "review": "版本号更新照例挤牙膏，亮点得翻半天 changelog 才找得到。",
+      "title_hash": "31314ffb",
+      "scored_at": "2026-09-09T00:10:24.882732Z"
+    },
+    "story_cca71c225d5c|paper-police|966065bf": {
+      "score": 70,
+      "review": "官方发布有文档，但无独立评测或复现，功能细节待查。",
+      "title_hash": "31314ffb",
+      "scored_at": "2026-09-09T00:10:26.037881Z"
     }
   }
 }
