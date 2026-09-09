@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T20:26:37.198572Z",
+  "generated_at": "2026-09-09T22:14:22.851492Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_fee049a1c565",
-      "title": "用智能体自动修复代码质量问题 / Remediate Code Quality findings with agentic autofix",
-      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "story_id": "story_b361718ee020",
+      "title": "企业可为GitHub Copilot的agent操作管理权限 / Enterprise managed permissions for GitHub Copilot agent operations",
+      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "自动修代码是好事，但别吹成万能，复杂逻辑还得人盯。"
+          "review": "权限管理总算跟上，但别吹成安全革命，默认配置下agent照样能闯祸。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称功能，无论文代码评测，仅 changelog 难证实效。"
+          "score": 45,
+          "review": "官方更新给了细节，但无代码无benchmark，等实际验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "GitHub 官方功能，能自动修代码质量，CI 流程可省人工，值得试。"
+          "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。"
         }
       }
     }

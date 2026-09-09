@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_be580d9263f2|cynic|f4237a62": {
-      "score": 55,
-      "review": "97%恢复精度？怕是跟全精度比，量化损失本来就没多少。",
-      "title_hash": "6b6ba3f7",
-      "scored_at": "2026-08-19T20:49:22.012250Z"
-    },
-    "story_be580d9263f2|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客给出97%精度恢复的数字，缺少论文和第三方复现，权重开源情况待查。",
-      "title_hash": "6b6ba3f7",
-      "scored_at": "2026-08-19T20:49:25.331045Z"
-    },
-    "story_5eb7373b87f5|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "数据合规需求直接可满足，企业客户可立刻评估接入。",
-      "title_hash": "37a163a4",
-      "scored_at": "2026-08-19T21:46:07.400128Z"
-    },
-    "story_c2a932b4c177|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "小版本更新，Actions 和 JS 查询更准，用 CodeQL 的可以顺手升级。",
-      "title_hash": "da52a273",
-      "scored_at": "2026-08-19T21:46:09.388915Z"
-    },
-    "story_cf8446af2124|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "Mac 本地 30 秒出视频，免云免 CUDA，想玩生成视频的今天就能试。",
-      "title_hash": "87409c65",
-      "scored_at": "2026-08-19T21:46:11.370379Z"
-    },
-    "story_5eb7373b87f5|cynic|f4237a62": {
-      "score": 68,
-      "review": "零保留算实在，但条款细则没晒全，先别急着鼓掌。",
-      "title_hash": "37a163a4",
-      "scored_at": "2026-08-19T21:46:13.512666Z"
-    },
-    "story_5eb7373b87f5|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方说零保留，无技术报告无第三方核验，等独立验证再提级。",
-      "title_hash": "37a163a4",
-      "scored_at": "2026-08-19T21:46:15.369110Z"
-    },
     "story_ad1cf550f418|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "模型迭代节奏放缓，短期不影响现有 API，选型可继续观望。",
@@ -5862,6 +5820,24 @@
       "review": "硬件发布对AI从业者无直接API影响，除非有本地模型部署细节，否则看看就好。",
       "title_hash": "abd140f0",
       "scored_at": "2026-09-09T20:26:37.198461Z"
+    },
+    "story_b361718ee020|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。",
+      "title_hash": "81d15fa1",
+      "scored_at": "2026-09-09T22:14:20.351141Z"
+    },
+    "story_b361718ee020|cynic|f4237a62": {
+      "score": 72,
+      "review": "权限管理总算跟上，但别吹成安全革命，默认配置下agent照样能闯祸。",
+      "title_hash": "81d15fa1",
+      "scored_at": "2026-09-09T22:14:21.451699Z"
+    },
+    "story_b361718ee020|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方更新给了细节，但无代码无benchmark，等实际验证。",
+      "title_hash": "81d15fa1",
+      "scored_at": "2026-09-09T22:14:22.851438Z"
     }
   }
 }
