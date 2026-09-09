@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:37:25.189553Z",
+  "generated_at": "2026-09-09T01:56:40.694642Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_95e46fc5b77c",
+      "title": "DeepSeek 宣布 Flash 系列模型降价：输出降至每百万 Token 4 元",
+      "url": "https://www.aibase.com/news/30913",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "降价是实在的，但别指望这能改变什么，先看看性能再说。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方宣布降价，无论文无代码无评测，价格调整本身可查但缺技术细节。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "输出价砍半，批量推理和长文本任务今天就能换，省成本立竿见影。"
+        }
+      }
+    },
+    {
       "story_id": "story_16900b8aedbb",
       "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
       "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_6c71d9371c7c",
       "title": "GPT-5.6 Sol 如何助力量子计算实验 / How GPT-5.6 Sol helps run quantum computing experiments",
       "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "量子计算实验门槛高，若真能简化流程，搞科研的可以试试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_cca71c225d5c",
-      "title": "GitHub Enterprise Server 3.22 正式发布 / GitHub Enterprise Server 3.22 is now generally available",
-      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "版本号更新照例挤牙膏，亮点得翻半天 changelog 才找得到。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "官方发布有文档，但无独立评测或复现，功能细节待查。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业版大版本更新，自托管用户升级前先看变更日志，云用户不受影响。"
         }
       }
     }
