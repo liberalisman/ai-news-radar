@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T22:14:22.851492Z",
+  "generated_at": "2026-09-09T23:14:02.473773Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_7909c6cf5087",
+      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "专业场景的定位比全能吹嘘务实，但没给基准数据，先信一半。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "仅官网公告，无论文无代码无评测，GPT-6名号难证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "新模型发布即用，专业场景API已开放，今天就能测效果。"
+        }
+      }
+    },
+    {
       "story_id": "story_ea4f77cf3524",
       "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_0251a274feda",
       "title": "阻止包含泄露敏感信息的拉取请求被合并 / Block pull requests with exposed secrets from merging",
       "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "GitHub 原生拦截密钥泄露，CI 里少写一道检查，今天就能配。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b361718ee020",
-      "title": "企业可为GitHub Copilot的agent操作管理权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "权限管理总算跟上，但别吹成安全革命，默认配置下agent照样能闯祸。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方更新给了细节，但无代码无benchmark，等实际验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。"
         }
       }
     }
