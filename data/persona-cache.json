@@ -1,59 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_dddc776b066d|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "更新细节未披露，点开链接看是否影响现有接口。",
-      "title_hash": "0e2da5f0",
-      "scored_at": "2026-08-20T19:50:30.354070Z"
-    },
-    "story_13b553da3c26|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "arm64 开发环境镜像已就绪，Windows 用户今天就能用上 VS2026。",
-      "title_hash": "f5f32181",
-      "scored_at": "2026-08-20T19:06:19.768934Z"
-    },
-    "story_3416d3016502|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "讲教学理念和方法论，有参考但无直接可用的工具，看看即可。",
-      "title_hash": "59525210",
-      "scored_at": "2026-08-20T19:06:21.901423Z"
-    },
-    "story_13b553da3c26|cynic|f4237a62": {
-      "score": 65,
-      "review": "镜像上线是例行公事，但至少比某些PPT强，有本事跑个真实负载？",
-      "title_hash": "f5f32181",
-      "scored_at": "2026-08-20T19:06:24.025359Z"
-    },
-    "story_13b553da3c26|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方公告可用，但无代码无评测，实机验证前只能算声称。",
-      "title_hash": "f5f32181",
-      "scored_at": "2026-08-20T19:06:26.082839Z"
-    },
     "story_4a9843552c46|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "没看到可用的 API 或工具，纯战略官宣，等有产品再关注。",
       "title_hash": "efe95178",
       "scored_at": "2026-08-21T04:10:11.002479Z"
-    },
-    "story_997206e2df36|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "直接可用的新 API，agent 开发能上手试了，浏览器操作开箱即用。",
-      "title_hash": "23ac0a75",
-      "scored_at": "2026-08-20T20:50:24.607389Z"
-    },
-    "story_997206e2df36|cynic|f4237a62": {
-      "score": 80,
-      "review": "API 全家桶诚意足，但'正式上线'和'稳定好用'隔着一堆坑。",
-      "title_hash": "23ac0a75",
-      "scored_at": "2026-08-20T20:50:26.903181Z"
-    },
-    "story_997206e2df36|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方博客说上线新API，没论文没代码没benchmark，等实测再信。",
-      "title_hash": "23ac0a75",
-      "scored_at": "2026-08-20T20:50:28.689565Z"
     },
     "story_f63621e00664|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5790,6 +5742,66 @@
       "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。",
       "title_hash": "9d73a18c",
       "scored_at": "2026-09-10T18:45:39.363489Z"
+    },
+    "story_353d7797f4fb|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "PR 里能直接跑 AI 扫描了，公开预览可申请，CI 流程可以试接。",
+      "title_hash": "1082762e",
+      "scored_at": "2026-09-10T21:31:08.322772Z"
+    },
+    "story_18c966d78324|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "Cygwin 构建输入和源码，Windows 上折腾 Codex CLI 的少数人用得上，多数人跳过。",
+      "title_hash": "8b36e303",
+      "scored_at": "2026-09-10T21:31:09.136217Z"
+    },
+    "story_f77d111a864e|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "口水仗，不改变任何接口和价格，该调谁调谁。",
+      "title_hash": "d230d441",
+      "scored_at": "2026-09-10T21:31:10.580925Z"
+    },
+    "story_cb7d0c198e24|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "全双工语音 API 已开放，做实时对话的今天就能接，延迟和打断体验值得实测。",
+      "title_hash": "d637ce93",
+      "scored_at": "2026-09-10T21:31:11.772788Z"
+    },
+    "story_66723f7214d7|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Python SDK 小版本更新，用 Codex CLI 的可以顺手升，没用的不用看。",
+      "title_hash": "ebfb047b",
+      "scored_at": "2026-09-10T21:31:12.700283Z"
+    },
+    "story_ee45c8b26d46|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "金融垂直版，多数人用不上；做金融AI的可以看接口和合规限制。",
+      "title_hash": "34b786f1",
+      "scored_at": "2026-09-10T21:31:13.867533Z"
+    },
+    "story_cb7d0c198e24|cynic|f4237a62": {
+      "score": 72,
+      "review": "全双工是真本事，但延迟、打断率和每千token价格一个没提，发布会式官宣。",
+      "title_hash": "d637ce93",
+      "scored_at": "2026-09-10T21:31:14.647565Z"
+    },
+    "story_cb7d0c198e24|paper-police|966065bf": {
+      "score": 38,
+      "review": "官网发布属实，但无论文、无开源、无第三方评测，全双工性能无从复现。",
+      "title_hash": "d637ce93",
+      "scored_at": "2026-09-10T21:31:15.659750Z"
+    },
+    "story_353d7797f4fb|cynic|f4237a62": {
+      "score": 72,
+      "review": "GitHub 官方功能，公开预览算实在，但 changelog 通篇没给误报率和定价，先别急着吹。",
+      "title_hash": "1082762e",
+      "scored_at": "2026-09-10T21:31:16.576905Z"
+    },
+    "story_353d7797f4fb|paper-police|966065bf": {
+      "score": 40,
+      "review": "官方changelog只说公开预览，无论文无benchmark，效果全靠自证。",
+      "title_hash": "1082762e",
+      "scored_at": "2026-09-10T21:31:17.386425Z"
     }
   }
 }

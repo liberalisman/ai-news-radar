@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:45:39.363547Z",
+  "generated_at": "2026-09-10T21:31:17.386478Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_b2726331d325",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
+      "story_id": "story_cb7d0c198e24",
+      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。"
+          "score": 72,
+          "review": "全双工是真本事，但延迟、打断率和每千token价格一个没提，发布会式官宣。"
         },
         "paper-police": {
           "score": 38,
-          "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。"
+          "review": "官网发布属实，但无论文、无开源、无第三方评测，全双工性能无从复现。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。"
+          "score": 88,
+          "review": "全双工语音 API 已开放，做实时对话的今天就能接，延迟和打断体验值得实测。"
         }
       }
     },
     {
-      "story_id": "story_d376123c7d4c",
-      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "story_id": "story_353d7797f4fb",
+      "title": "AI Scan 面向 pull request API 进入公开预览 / AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
+          "score": 72,
+          "review": "GitHub 官方功能，公开预览算实在，但 changelog 通篇没给误报率和定价，先别急着吹。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
+          "score": 40,
+          "review": "官方changelog只说公开预览，无论文无benchmark，效果全靠自证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
+          "review": "PR 里能直接跑 AI 扫描了，公开预览可申请，CI 流程可以试接。"
         }
       }
     }
