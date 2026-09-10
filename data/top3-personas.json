@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:25:34.628513Z",
+  "generated_at": "2026-09-10T15:04:58.093456Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_7909c6cf5087",
-      "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "专业场景的定位比全能吹嘘务实，但没给基准数据，先信一半。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅官网公告，无论文无代码无评测，GPT-6名号难证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "新模型发布即用，专业场景API已开放，今天就能测效果。"
-        }
-      }
-    },
-    {
       "story_id": "story_ea4f77cf3524",
       "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。"
+        }
+      }
+    },
+    {
+      "story_id": "story_0251a274feda",
+      "title": "阻止包含泄露敏感信息的拉取请求被合并 / Block pull requests with exposed secrets from merging",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "GitHub 终于补上这个洞，但早干嘛去了？默认开启才算诚意。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方更新有细节但无代码无复现，需等实际验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "GitHub 原生拦截密钥泄露，CI 里少写一道检查，今天就能配。"
         }
       }
     }
