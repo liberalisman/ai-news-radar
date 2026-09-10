@@ -1,65 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_185e96d8c2f8|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "扫描告警多了个关闭理由，审计记录更清楚，日常用得上。",
-      "title_hash": "98274b66",
-      "scored_at": "2026-08-20T15:54:29.898513Z"
-    },
-    "story_e9f43080b634|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "客户案例，无新工具，参考其工作流可，但不必行动。",
-      "title_hash": "3d5f6aa3",
-      "scored_at": "2026-08-20T15:54:32.033657Z"
-    },
-    "story_c5030fa07ae8|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "代码质量检查可独立配置，用 Actions 的可以优化工作流，但要改配置。",
-      "title_hash": "f9f0db06",
-      "scored_at": "2026-08-20T15:54:34.607250Z"
-    },
-    "story_6bffb665747e|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "审计日志能查谁开了 Code Quality，团队合规排查有用，配好告警就行。",
-      "title_hash": "a527ad75",
-      "scored_at": "2026-08-20T15:54:36.241001Z"
-    },
-    "story_a4fea9f5c87a|pragmatic|0a5c5b24": {
-      "score": 78,
-      "review": "复杂文档查询有救了，做 RAG 的可以上手试，没开源但 API 能用。",
-      "title_hash": "4e22f2c7",
-      "scored_at": "2026-08-20T16:56:50.376461Z"
-    },
-    "story_a623b326864e|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "AlloyDB 用户可参考其索引调优，非用户无需关注。",
-      "title_hash": "124af008",
-      "scored_at": "2026-08-20T16:56:56.112192Z"
-    },
-    "story_666a236350be|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "草稿模型提速 3 倍，跑生成任务可试，但需确认兼容性。",
-      "title_hash": "739e1bc2",
-      "scored_at": "2026-08-20T17:53:57.764861Z"
-    },
     "story_dddc776b066d|pragmatic|0a5c5b24": {
       "score": 50,
       "review": "更新细节未披露，点开链接看是否影响现有接口。",
       "title_hash": "0e2da5f0",
       "scored_at": "2026-08-20T19:50:30.354070Z"
-    },
-    "story_666a236350be|cynic|f4237a62": {
-      "score": 65,
-      "review": "提速3.18倍是配合投机解码的极限甜点，单拎草稿模型出来说就是耍流氓。",
-      "title_hash": "739e1bc2",
-      "scored_at": "2026-08-20T17:54:03.303189Z"
-    },
-    "story_666a236350be|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客给了推理速度数字，但无论文和无第三方复现，待验证。",
-      "title_hash": "739e1bc2",
-      "scored_at": "2026-08-20T17:54:10.703190Z"
     },
     "story_13b553da3c26|pragmatic|0a5c5b24": {
       "score": 90,
@@ -5730,6 +5676,102 @@
       "review": "大会观察稿，没有可用的产品、价格或接口，扫一眼标题就够了。",
       "title_hash": "3d272e24",
       "scored_at": "2026-09-10T15:04:58.093345Z"
+    },
+    "story_5719390a8fd1|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "科研案例，方法可借鉴但无工具开放，普通开发者看完就忘。",
+      "title_hash": "b9f3167f",
+      "scored_at": "2026-09-10T18:13:37.398069Z"
+    },
+    "story_8435ae56fbea|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "模型下线，用它的项目得赶紧换模型，查下迁移建议。",
+      "title_hash": "da404098",
+      "scored_at": "2026-09-10T18:13:38.148874Z"
+    },
+    "story_d977d81c5d9f|pragmatic|0a5c5b24": {
+      "score": 12,
+      "review": "Google 教你用搜索查跑步训练，跟开发者没半点关系。",
+      "title_hash": "e70e438f",
+      "scored_at": "2026-09-10T18:13:39.073022Z"
+    },
+    "story_b2726331d325|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。",
+      "title_hash": "4f9b2c7c",
+      "scored_at": "2026-09-10T18:13:40.102588Z"
+    },
+    "story_b31c189fce1b|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "安全圈动向，没工具没补丁，知道有这回事就行。",
+      "title_hash": "17a650a3",
+      "scored_at": "2026-09-10T18:13:41.043552Z"
+    },
+    "story_3c58fa4bee9b|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CI 跑 iOS 构建的可以升了，但先确认依赖工具链兼容性。",
+      "title_hash": "9a4bd40a",
+      "scored_at": "2026-09-10T18:13:41.979434Z"
+    },
+    "story_92e4d9f147fc|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "跨端选型的反面教材，用 RN 的团队该读读他们的迁移成本清单。",
+      "title_hash": "906e2430",
+      "scored_at": "2026-09-10T18:13:43.136987Z"
+    },
+    "story_86ba7807178e|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "安全评估报告，不改变你今天的代码和选型，知道有这回事就行。",
+      "title_hash": "8d6ee78a",
+      "scored_at": "2026-09-10T18:13:44.105619Z"
+    },
+    "story_e3a5af60314a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "政府采购通道，跟个人开发者没关系，等具体API条款再说。",
+      "title_hash": "0188ae19",
+      "scored_at": "2026-09-10T18:13:45.637617Z"
+    },
+    "story_b9e3da285041|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "对齐评估报告，读不读都不影响你今天写代码，等 METR 结论再说。",
+      "title_hash": "4a68a46e",
+      "scored_at": "2026-09-10T18:13:46.639920Z"
+    },
+    "story_56692de3b9bc|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "Nano Banana 图像编辑能力不错，但 Pics 还没开放入口，先记着别急着换工作流。",
+      "title_hash": "5bbf973a",
+      "scored_at": "2026-09-10T18:13:47.774414Z"
+    },
+    "story_93498211a2a0|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "npm 账号安全策略收紧，CI 里用恢复码登录的流水线可能被冻结，先检查发布脚本。",
+      "title_hash": "8fba55ef",
+      "scored_at": "2026-09-10T18:13:48.778851Z"
+    },
+    "story_b2726331d325|cynic|f4237a62": {
+      "score": 62,
+      "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。",
+      "title_hash": "4f9b2c7c",
+      "scored_at": "2026-09-10T18:13:49.937054Z"
+    },
+    "story_b2726331d325|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。",
+      "title_hash": "4f9b2c7c",
+      "scored_at": "2026-09-10T18:13:51.005645Z"
+    },
+    "story_6c68adbdb622|cynic|f4237a62": {
+      "score": 62,
+      "review": "降 KV cache 是真需求，但'大幅'是多少？没给基线对比和实测吞吐，先别急着鼓掌。",
+      "title_hash": "5bb29f06",
+      "scored_at": "2026-09-10T18:13:51.925124Z"
+    },
+    "story_6c68adbdb622|paper-police|966065bf": {
+      "score": 38,
+      "review": "仅媒体报道，无论文、无代码、无第三方复现，内存降幅数字待验证。",
+      "title_hash": "5bb29f06",
+      "scored_at": "2026-09-10T18:13:52.872303Z"
     }
   }
 }

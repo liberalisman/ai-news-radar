@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:04:58.093456Z",
+  "generated_at": "2026-09-10T18:13:52.872352Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_ea4f77cf3524",
-      "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "story_id": "story_b2726331d325",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "SOTA自封，商用许可倒是实在，但时间序列模型还得看真实场景跑分。"
+          "score": 62,
+          "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客宣称SOTA，但缺论文和代码链接，无法独立验证。"
+          "score": 38,
+          "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。"
+          "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。"
         }
       }
     },
     {
-      "story_id": "story_0251a274feda",
-      "title": "阻止包含泄露敏感信息的拉取请求被合并 / Block pull requests with exposed secrets from merging",
-      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "story_id": "story_6c68adbdb622",
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "GitHub 终于补上这个洞，但早干嘛去了？默认开启才算诚意。"
+          "score": 62,
+          "review": "降 KV cache 是真需求，但'大幅'是多少？没给基线对比和实测吞吐，先别急着鼓掌。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方更新有细节但无代码无复现，需等实际验证。"
+          "score": 38,
+          "review": "仅媒体报道，无论文、无代码、无第三方复现，内存降幅数字待验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "GitHub 原生拦截密钥泄露，CI 里少写一道检查，今天就能配。"
+          "review": "KV cache 降内存直接省显存，长上下文 Agent 部署成本能砍一截，等权重和 API 开放就试。"
         }
       }
     }
