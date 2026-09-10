@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T21:56:05.042287Z",
+  "generated_at": "2026-09-10T23:41:57.647960Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_353d7797f4fb",
-      "title": "AI Scan 面向 pull request API 进入公开预览 / AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "story_id": "story_d376123c7d4c",
+      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "GitHub 官方功能，公开预览算实在，但 changelog 通篇没给误报率和定价，先别急着吹。"
+          "score": 78,
+          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
         },
         "paper-police": {
-          "score": 40,
-          "review": "官方changelog只说公开预览，无论文无benchmark，效果全靠自证。"
+          "score": 55,
+          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "PR 里能直接跑 AI 扫描了，公开预览可申请，CI 流程可以试接。"
+          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
         }
       }
     }
