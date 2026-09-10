@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T05:32:07.899748Z",
+  "generated_at": "2026-09-10T10:25:34.628513Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_34ddc4e3132d",
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1M上下文配FP4 KV缓存是真省显存，但Flash后缀通常意味着能力缩水，等实测再吹。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方日志加媒体报道，参数亮眼但无论文无开源无第三方复现，先观望。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "1M上下文加FP4 KV缓存，长文档和Agent场景直接省显存，API能调就换。"
+        }
+      }
+    },
+    {
       "story_id": "story_7909c6cf5087",
       "title": "OpenAI 发布 GPT-6 Astra，面向专业工作场景 / GPT-6 Astra: The next generation in intelligence for work",
       "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -40,7 +60,7 @@
       "story_id": "story_ea4f77cf3524",
       "title": "IBM发布SOTA级Granite Time Series PatchTST-FM-r2模型，采用商用友好许可 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b361718ee020",
-      "title": "企业可为GitHub Copilot的agent操作管理权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "权限管理总算跟上，但别吹成安全革命，默认配置下agent照样能闯祸。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方更新给了细节，但无代码无benchmark，等实际验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。"
         }
       }
     }
