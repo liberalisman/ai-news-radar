@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:13:52.872352Z",
+  "generated_at": "2026-09-10T18:45:39.363547Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_6c68adbdb622",
-      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求 / New Deepseek model V4.1-Flash cuts memory needs for AI agents",
-      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents",
+      "story_id": "story_d376123c7d4c",
+      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "降 KV cache 是真需求，但'大幅'是多少？没给基线对比和实测吞吐，先别急着鼓掌。"
+          "score": 78,
+          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "仅媒体报道，无论文、无代码、无第三方复现，内存降幅数字待验证。"
+          "score": 55,
+          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "KV cache 降内存直接省显存，长上下文 Agent 部署成本能砍一截，等权重和 API 开放就试。"
+          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
         }
       }
     }
