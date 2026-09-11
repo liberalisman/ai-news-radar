@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:45:15.534196Z",
+  "generated_at": "2026-09-11T17:08:13.199101Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -18,21 +18,21 @@
   "items": [
     {
       "story_id": "story_9cc4559ef9f0",
-      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-      "url": "https://www.aibase.com/news/30995",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "限时免费是钩子，模型参数、上下文、定价全没影，先试用再谈超越。"
+          "score": 72,
+          "review": "降价加视觉是真动作，但游戏和城市生成这种demo挑得太顺手，缺硬基准。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有上线和限免消息，无论文、无开源、无第三方评测，性能数字一个没有。"
+          "score": 42,
+          "review": "自媒体实测有任务和数字，但无论文无开源无第三方复现，先当博客看。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "限时免费能白嫖，先跑几个任务测效果，别急着迁生产。"
+          "review": "降价加原生视觉，做多模态和批量推理的今天就能换模型试。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_b2726331d325",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
+      "story_id": "story_d376123c7d4c",
+      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。"
+          "score": 78,
+          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。"
+          "score": 55,
+          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。"
+          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
         }
       }
     }
