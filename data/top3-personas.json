@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:08:13.199101Z",
+  "generated_at": "2026-09-11T18:52:34.916386Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_d376123c7d4c",
-      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "story_id": "story_34d4cb4529b2",
+      "title": "GitHub Copilot 每周发布 — 9月7日 / GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
+          "score": 72,
+          "review": "官方 changelog 有据可查，但周更里塞的多是小修小补，凑数感明显。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
+          "score": 42,
+          "review": "官方 changelog 有功能细节但无评测数据，效果无法复现，等第三方跑分。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
+          "score": 72,
+          "review": "Copilot 周更日志，扫一眼有没有改你常用功能，没有就跳过。"
         }
       }
     }
