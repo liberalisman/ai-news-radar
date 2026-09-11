@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:41:57.647960Z",
+  "generated_at": "2026-09-11T00:29:22.150676Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_cb7d0c198e24",
-      "title": "OpenAI 在 API 中推出全双工语音模型 GPT-Live-1 / Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "story_id": "story_b2726331d325",
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "全双工是真本事，但延迟、打断率和每千token价格一个没提，发布会式官宣。"
+          "score": 62,
+          "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。"
         },
         "paper-police": {
           "score": 38,
-          "review": "官网发布属实，但无论文、无开源、无第三方评测，全双工性能无从复现。"
+          "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "全双工语音 API 已开放，做实时对话的今天就能接，延迟和打断体验值得实测。"
+          "score": 82,
+          "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。"
         }
       }
     },
