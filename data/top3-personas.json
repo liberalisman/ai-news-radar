@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:52:25.162492Z",
+  "generated_at": "2026-09-11T10:03:07.187590Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_4f6a9ae0c6f7",
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "1M上下文配FP4 KV缓存是真省显存，但跨层注意力复用这词儿，论文里敢不敢给消融实验？"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "1M上下文和FP4缓存只有媒体转述，无论文、无开源、无第三方复现，先等实测。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "1M上下文加FP4 KV缓存，长文档和Agent场景今天就能试，先测显存和成本。"
-        }
-      }
-    },
-    {
       "story_id": "story_9e333bae70b0",
       "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
       "url": "https://www.aibase.com/news/30977",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 88,
           "review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_ec5771586f98",
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "两周免费试用，说明连自家都不敢先收费；V4.1-Flash 的参数、价格、跑分一个没提。"
+        },
+        "paper-police": {
+          "score": 22,
+          "review": "只有上线推文和免费试用，无论文、无代码、无第三方跑分，模型规格全凭自称。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "新模型能白嫖两周，先拿自己业务跑一轮再决定要不要迁。"
         }
       }
     },
