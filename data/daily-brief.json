@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:40:57.420332Z",
+  "generated_at": "2026-09-11T11:49:07.753944Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7746,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8389,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,208 +170,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
-      "story_id": "story_ec5771586f98",
-      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-      "primary_url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-      "source_name": "AI HOT",
+      "story_id": "story_14d6cd6ca7bd",
+      "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+      "url": "https://www.aibase.com/news/30999",
+      "primary_url": "https://www.aibase.com/news/30999",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
-          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-          "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-          "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
-          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:49:16Z"
-        },
-        {
-          "id": "4616964730be3e9fdbfe927a43d04f86d8a81d50",
-          "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "title_zh": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-          "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "title_original": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
-          "recommend_reason_zh": "这篇文章详解 DeepSeek-V4.1-Flash 在 SiliconFlow 首日上线：552B MoE，prefill 约 8B、decode 约 16B 激活，推理更快、吞吐更高，支持原生视觉和 1M 上下文，KV cache 比 V4 Flash 小约 4 倍，且为 MIT 许可。",
-          "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T14:21:06Z"
-        },
-        {
-          "id": "1365350cff0f3e699ceb805f28c8a350c26b446a",
-          "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
-          "title_zh": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 作为新系列中最小模型，原生支持多模态视觉理解，采用 552B MoE 与 Causal-Encoder-Decoder 结构，输入激活 8B、输出 16B，基准测试超越 DeepSeek V4 Pro，KV Cache 仅为原模型 1/437，并大幅降低 HBM 与 SSD 需求。",
-          "url": "https://www.aibase.com/news/30957",
+          "recommend_reason_zh": "Financial Times 报道，Anthropic 披露今年阻止多起可能协助开发生物武器的尝试，并列出 5 起案例，其中一名来自未支持地区的研究者用 Claude 数周规划禽流感实验，被安全过滤器限制在性能最弱模型。",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
+          "published_at": "2026-09-11T09:40:57.420332Z"
         },
         {
-          "id": "5f28ca395cd2f2624bb7bac7385ce833a6f2c0e8",
-          "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "title_zh": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
+          "id": "ffc5d8c7e3fe40c2303394a0b7d07ea183b75c8e",
+          "title": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
+          "title_zh": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1Flash发布：新架构系列最小成员，这款轻量模型采用552B参数MoE与Causal-Encoder-Decoder，输入激活8B、输出16B，原生多模态视觉理解在基准测试中全面超越DeepSeek V4Pro，并显著缩小KV Cache。",
-          "url": "https://www.aibase.com/news/30955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
-        },
-        {
-          "id": "f7bbac8cb5a9b21b70a4a58287413e76475a0bac",
-          "title": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
-          "title_zh": null,
-          "title_en": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
-          "title_original": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
+          "title_original": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260910/p12",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-10T09:55:07Z"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFBYenhmYWFTeTROX08yWWpYb1dDLUQyQXd4NEE2LUsyWEwweElUbnU2RkpMaEFrTTR4S3l1WmdwU2NkSU9aejZlUDl3LUN2WE1NMTZ1ajBLbXNPLVczNjlndXZhVlJ3YnRUanFkX2poblBFV1JlRzdOMUJfZnJTXzV2OWdHbEFoOTlYd0E4UmpKbWN5b0MxdG9wMG9RQ2xERUhvNmFpUmdtcmd6alRZQzJJZHFaLWd6SnZ5LTduUVVCQW1femdsTl9sWXI0UEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T09:53:53.461000Z"
         },
         {
-          "id": "98fd1629d8ab8de6598b6c4a530a09d61ac40a92",
-          "title": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
-          "title_zh": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+          "id": "94a5864cc4c6aba6a38c4e61bb874dc0a50b58e1",
+          "title": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
+          "title_zh": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+          "title_original": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 计划9月10日前后发布，当天中午12点起高峰缓存命中降至0.04元，V4 Pro请求将路由到Flash并按Flash计费。",
-          "url": "https://juejin.cn/post/7683375934587502643",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-10T09:52:28.072000Z"
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T09:33:56.233000Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
         "AIbase",
-        "Techmeme",
-        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-        "juejin"
+        "news.google.com"
       ],
       "items": [
         {
-          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
-          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-          "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-          "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-          "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
-          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:49:16Z"
-        },
-        {
-          "id": "4616964730be3e9fdbfe927a43d04f86d8a81d50",
-          "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "title_zh": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
-          "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "title_original": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
-          "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
-          "recommend_reason_zh": "这篇文章详解 DeepSeek-V4.1-Flash 在 SiliconFlow 首日上线：552B MoE，prefill 约 8B、decode 约 16B 激活，推理更快、吞吐更高，支持原生视觉和 1M 上下文，KV cache 比 V4 Flash 小约 4 倍，且为 MIT 许可。",
-          "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
-          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T14:21:06Z"
-        },
-        {
-          "id": "1365350cff0f3e699ceb805f28c8a350c26b446a",
-          "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
-          "title_zh": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+          "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+          "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+          "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
+          "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 作为新系列中最小模型，原生支持多模态视觉理解，采用 552B MoE 与 Causal-Encoder-Decoder 结构，输入激活 8B、输出 16B，基准测试超越 DeepSeek V4 Pro，KV Cache 仅为原模型 1/437，并大幅降低 HBM 与 SSD 需求。",
-          "url": "https://www.aibase.com/news/30957",
+          "recommend_reason_zh": "Financial Times 报道，Anthropic 披露今年阻止多起可能协助开发生物武器的尝试，并列出 5 起案例，其中一名来自未支持地区的研究者用 Claude 数周规划禽流感实验，被安全过滤器限制在性能最弱模型。",
+          "url": "https://www.aibase.com/news/30999",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
+          "published_at": "2026-09-11T09:40:57.420332Z"
         },
         {
-          "id": "5f28ca395cd2f2624bb7bac7385ce833a6f2c0e8",
-          "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "title_zh": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
+          "id": "ffc5d8c7e3fe40c2303394a0b7d07ea183b75c8e",
+          "title": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
+          "title_zh": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1Flash发布：新架构系列最小成员，这款轻量模型采用552B参数MoE与Causal-Encoder-Decoder，输入激活8B、输出16B，原生多模态视觉理解在基准测试中全面超越DeepSeek V4Pro，并显著缩小KV Cache。",
-          "url": "https://www.aibase.com/news/30955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
-        },
-        {
-          "id": "f7bbac8cb5a9b21b70a4a58287413e76475a0bac",
-          "title": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
-          "title_zh": null,
-          "title_en": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
-          "title_original": "DeepSeek debuts DeepSeek-V4.1-Flash, its smallest model built on a new Causal Encoder-Decoder architecture, with 552B backbone parameters and 1M-token context (Reuters)",
+          "title_original": "Anthropic表示，该公司已阻止了利用人工智能开发生物武器的潜在企图，以及与伊朗有关的案件 - Fox Business",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260910/p12",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-10T09:55:07Z"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFBYenhmYWFTeTROX08yWWpYb1dDLUQyQXd4NEE2LUsyWEwweElUbnU2RkpMaEFrTTR4S3l1WmdwU2NkSU9aejZlUDl3LUN2WE1NMTZ1ajBLbXNPLVczNjlndXZhVlJ3YnRUanFkX2poblBFV1JlRzdOMUJfZnJTXzV2OWdHbEFoOTlYd0E4UmpKbWN5b0MxdG9wMG9RQ2xERUhvNmFpUmdtcmd6alRZQzJJZHFaLWd6SnZ5LTduUVVCQW1femdsTl9sWXI0UEU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T09:53:53.461000Z"
         },
         {
-          "id": "98fd1629d8ab8de6598b6c4a530a09d61ac40a92",
-          "title": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
-          "title_zh": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+          "id": "94a5864cc4c6aba6a38c4e61bb874dc0a50b58e1",
+          "title": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
+          "title_zh": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
           "title_en": null,
-          "title_original": "DeepSeek V4.1 Flash 来了，明天中午 Flash 降价 60%",
+          "title_original": "Anthropic详细披露了恶意行为者试图滥用其人工智能开发生物武器的行径 - The Guardian",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 计划9月10日前后发布，当天中午12点起高峰缓存命中降至0.04元，V4 Pro请求将路由到Flash并按Flash计费。",
-          "url": "https://juejin.cn/post/7683375934587502643",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-10T09:52:28.072000Z"
+          "recommend_reason_zh": null,
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T09:33:56.233000Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7726,
-        "story_heat": 1.0
+        "recency": 0.9696,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -379,27 +292,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T09:52:28.072000Z",
-      "latest_at": "2026-09-10T15:49:16Z",
+      "earliest_at": "2026-09-11T09:33:56.233000Z",
+      "latest_at": "2026-09-11T09:53:53.461000Z",
       "primary_item": {
-        "id": "37075f1db40b91c96d53783998fe88076f5f141d",
-        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-        "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
-        "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-        "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
-        "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
-        "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
-        "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
-        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
-        "source_name": "AI HOT"
+        "id": "ddddf1337ac515a43634ab46bc1dbd7ae392136b",
+        "title": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_zh": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "title_en": null,
+        "title_original": "Anthropic 披露：今年已阻止多起利用 AI 研发生物武器的尝试",
+        "summary": null,
+        "recommend_reason_zh": "Financial Times 报道，Anthropic 披露今年阻止多起可能协助开发生物武器的尝试，并列出 5 起案例，其中一名来自未支持地区的研究者用 Claude 数周规划禽流感实验，被安全过滤器限制在性能最弱模型。",
+        "url": "https://www.aibase.com/news/30999",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "新模型能白嫖两周，先拿自己业务跑一轮再决定要不要迁。",
+      "persona_score": 35,
+      "persona_review": "安全公关稿，没给检测接口也没改调用条款，开发者今天不用动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -447,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8381,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,7 +397,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -532,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7746,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,120 +482,179 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
-      "story_id": "story_fd9bbbe7cdf6",
-      "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-      "url": "https://www.aibase.com/news/30997",
-      "primary_url": "https://www.aibase.com/news/30997",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_50c616482f18",
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "primary_url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": "In the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nExplore AI Fronti",
-          "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T09:40:57.420332Z"
+          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+          "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
+          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:49:16Z"
         },
         {
-          "id": "076574fe36a35c5d8a79de6da61882c620370a1a",
-          "title": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
-          "title_zh": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "id": "4616964730be3e9fdbfe927a43d04f86d8a81d50",
+          "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "title_zh": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+          "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "title_original": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+          "recommend_reason_zh": "这篇文章详解 DeepSeek-V4.1-Flash 在 SiliconFlow 首日上线：552B MoE，prefill 约 8B、decode 约 16B 激活，推理更快、吞吐更高，支持原生视觉和 1M 上下文，KV cache 比 V4 Flash 小约 4 倍，且为 MIT 许可。",
+          "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T14:21:06Z"
+        },
+        {
+          "id": "69d8c72a385f4eedd09752d3e13c8434bcf9b96d",
+          "title": "DeepSeek V4.1 Flash 开源：全新架构",
+          "title_zh": "DeepSeek V4.1 Flash 开源：全新架构",
           "title_en": null,
-          "title_original": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_original": "DeepSeek V4.1 Flash 开源：全新架构",
+          "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/UagowlyXcitnpqk1CKOcOxeznzb?from=from_copylink",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-10T17:52:41.945760Z"
+        },
+        {
+          "id": "c909df5dcba4291783a6e01092cf309b5b1b7af7",
+          "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+          "title_zh": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+          "title_en": null,
+          "title_original": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
           "summary": null,
-          "recommend_reason_zh": "Ant Group CEO Zhao Xin Yi 在 2026 Inclusion · Bund Conference 称智能体商业的 ChatGPT 时刻已到，核心是从能力展示转向真实交易；AI Alipay 的 Abao 今年6月公测，用户一句话可下单，如200元五人吃饭。",
-          "url": "https://www.aibase.com/news/30987",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T04:39:56.445212Z"
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7683722642071470130",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-10T17:35:55.329000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "AIbase"
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "juejin",
+        "社区更新 · 2026-09-10"
       ],
       "items": [
         {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "title_en": null,
-          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "summary": "In the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nExplore AI Fronti",
-          "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T09:40:57.420332Z"
+          "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+          "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+          "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+          "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+          "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
+          "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T15:49:16Z"
         },
         {
-          "id": "076574fe36a35c5d8a79de6da61882c620370a1a",
-          "title": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
-          "title_zh": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "id": "4616964730be3e9fdbfe927a43d04f86d8a81d50",
+          "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文 / @deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "title_zh": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+          "title_en": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "title_original": "@deepseek_ai just made Flash the new Pro. 🤯 DeepSeek-V4.1-Flash is live on SiliconFlow - Day 0. 55…",
+          "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+          "recommend_reason_zh": "这篇文章详解 DeepSeek-V4.1-Flash 在 SiliconFlow 首日上线：552B MoE，prefill 约 8B、decode 约 16B 激活，推理更快、吞吐更高，支持原生视觉和 1M 上下文，KV cache 比 V4 Flash 小约 4 倍，且为 MIT 许可。",
+          "url": "https://x.com/SiliconFlowAI/status/2098054160176545821",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T14:21:06Z"
+        },
+        {
+          "id": "69d8c72a385f4eedd09752d3e13c8434bcf9b96d",
+          "title": "DeepSeek V4.1 Flash 开源：全新架构",
+          "title_zh": "DeepSeek V4.1 Flash 开源：全新架构",
           "title_en": null,
-          "title_original": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_original": "DeepSeek V4.1 Flash 开源：全新架构",
+          "summary": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
+          "recommend_reason_zh": null,
+          "url": "https://waytoagi.feishu.cn/wiki/UagowlyXcitnpqk1CKOcOxeznzb?from=from_copylink",
+          "source": "社区更新 · 2026-09-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-10T17:52:41.945760Z"
+        },
+        {
+          "id": "c909df5dcba4291783a6e01092cf309b5b1b7af7",
+          "title": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+          "title_zh": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
+          "title_en": null,
+          "title_original": "DeepSeek V4.1 Flash：一次把自家旗舰送走的发布",
           "summary": null,
-          "recommend_reason_zh": "Ant Group CEO Zhao Xin Yi 在 2026 Inclusion · Bund Conference 称智能体商业的 ChatGPT 时刻已到，核心是从能力展示转向真实交易；AI Alipay 的 Abao 今年6月公测，用户一句话可下单，如200元五人吃饭。",
-          "url": "https://www.aibase.com/news/30987",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T04:39:56.445212Z"
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7683722642071470130",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-10T17:35:55.329000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.7492,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T04:39:56.445212Z",
-      "latest_at": "2026-09-11T09:40:57.420332Z",
+      "earliest_at": "2026-09-10T14:21:06Z",
+      "latest_at": "2026-09-10T17:52:41.945760Z",
       "primary_item": {
-        "id": "055f63e0db2587418529124abc009ae1b04238f7",
-        "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "title_en": null,
-        "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "summary": "In the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nIn the keynote speech at the 2026 Inclusion·Bund Conference, Ma Huateng, CEO of Ant Group, clearly stated that the \"ChatGPT moment\" of the intelligent agent bus\nExplore AI Fronti",
-        "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
-        "url": "https://www.aibase.com/news/30997",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "37075f1db40b91c96d53783998fe88076f5f141d",
+        "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周 / Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+        "title_zh": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+        "title_en": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+        "title_original": "Now live on WorkBuddy ⚡ DeepSeek V4.1-Flash， free to try for 2 weeks.",
+        "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+        "recommend_reason_zh": "WorkBuddy 宣布 DeepSeek V4.1-Flash 正式上线，并提供两周免费试用，想第一时间体验新模型、了解社区讨论动态的读者可关注这条消息。",
+        "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "高管喊口号，没模型没API，开发者今天无事可做。",
+      "persona_score": 82,
+      "persona_review": "两周免费窗口，想试 V4.1-Flash 的现在就能跑，别等收费再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -759,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8069,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -796,7 +768,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -844,15 +816,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7635,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -881,7 +853,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -958,15 +930,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.781,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,7 +967,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -1043,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.791,
+        "recency": 0.767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,7 +1052,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
+      }
+    },
+    {
+      "story_id": "story_fd9bbbe7cdf6",
+      "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+      "url": "https://www.aibase.com/news/30997",
+      "primary_url": "https://www.aibase.com/news/30997",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "055f63e0db2587418529124abc009ae1b04238f7",
+          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "title_en": null,
+          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "summary": null,
+          "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
+          "url": "https://www.aibase.com/news/30997",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T09:40:57.420332Z"
+        },
+        {
+          "id": "076574fe36a35c5d8a79de6da61882c620370a1a",
+          "title": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_zh": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_en": null,
+          "title_original": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "summary": null,
+          "recommend_reason_zh": "Ant Group CEO Zhao Xin Yi 在 2026 Inclusion · Bund Conference 称智能体商业的 ChatGPT 时刻已到，核心是从能力展示转向真实交易；AI Alipay 的 Abao 今年6月公测，用户一句话可下单，如200元五人吃饭。",
+          "url": "https://www.aibase.com/news/30987",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:39:56.445212Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "055f63e0db2587418529124abc009ae1b04238f7",
+          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "title_en": null,
+          "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+          "summary": null,
+          "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
+          "url": "https://www.aibase.com/news/30997",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T09:40:57.420332Z"
+        },
+        {
+          "id": "076574fe36a35c5d8a79de6da61882c620370a1a",
+          "title": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_zh": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "title_en": null,
+          "title_original": "蚂蚁集团CEO韩歆毅:智能体商业的“ChatGPT”时刻已经到来",
+          "summary": null,
+          "recommend_reason_zh": "Ant Group CEO Zhao Xin Yi 在 2026 Inclusion · Bund Conference 称智能体商业的 ChatGPT 时刻已到，核心是从能力展示转向真实交易；AI Alipay 的 Abao 今年6月公测，用户一句话可下单，如200元五人吃饭。",
+          "url": "https://www.aibase.com/news/30987",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T04:39:56.445212Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T04:39:56.445212Z",
+      "latest_at": "2026-09-11T09:40:57.420332Z",
+      "primary_item": {
+        "id": "055f63e0db2587418529124abc009ae1b04238f7",
+        "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+        "title_zh": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+        "title_en": null,
+        "title_original": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
+        "summary": null,
+        "recommend_reason_zh": "Ant Group 在 2026 Inclusion·Bund Conference 宣告智能体业务 ChatGPT 时刻已至，文章称智能体已能深度参与真实交易，成为连接用户需求与真实供给的核心商业入口，并回顾 2022 年底 ChatGPT 带来的自然语言交互跃迁。",
+        "url": "https://www.aibase.com/news/30997",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "高管喊口号，没模型没API，开发者今天无事可做。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -1128,21 +1213,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7644,
+        "recency": 0.7412,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T15:04:41.487000Z",
       "latest_at": "2026-09-10T15:04:41.487000Z",
@@ -1164,7 +1248,341 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
+      }
+    },
+    {
+      "story_id": "story_8435ae56fbea",
+      "title": "MAI-Code-1-Flash deprecated",
+      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "title_zh": null,
+          "title_en": "MAI-Code-1-Flash deprecated",
+          "title_original": "MAI-Code-1-Flash deprecated",
+          "summary": null,
+          "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+          "title": "MAI-Code-1-Flash deprecated",
+          "title_zh": null,
+          "title_en": "MAI-Code-1-Flash deprecated",
+          "title_original": "MAI-Code-1-Flash deprecated",
+          "summary": null,
+          "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
+          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:54:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7609,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T16:54:01Z",
+      "latest_at": "2026-09-10T16:54:01Z",
+      "primary_item": {
+        "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
+        "title": "MAI-Code-1-Flash deprecated",
+        "title_zh": null,
+        "title_en": "MAI-Code-1-Flash deprecated",
+        "title_original": "MAI-Code-1-Flash deprecated",
+        "summary": null,
+        "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
+        "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "模型下线，用它的项目得赶紧换模型，查下迁移建议。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T12:08:36.517792Z"
+      }
+    },
+    {
+      "story_id": "story_86ba7807178e",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7674,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T17:28:52.100000Z",
+      "latest_at": "2026-09-10T17:28:52.100000Z",
+      "primary_item": {
+        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+        "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
+        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "安全评估报告，不改变你今天的代码和选型，知道有这回事就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T12:08:36.517792Z"
+      }
+    },
+    {
+      "story_id": "story_70812b09fc4a",
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+      "url": "https://cursor.com/blog/projects",
+      "primary_url": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "title_en": "Introducing Projects",
+          "title_original": "Introducing Projects",
+          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cursor Blog"
+      ],
+      "items": [
+        {
+          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+          "title_en": "Introducing Projects",
+          "title_original": "Introducing Projects",
+          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+          "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
+          "url": "https://cursor.com/blog/projects",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.709,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T12:00:00Z",
+      "latest_at": "2026-09-10T12:00:00Z",
+      "primary_item": {
+        "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
+        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
+        "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+        "title_en": "Introducing Projects",
+        "title_original": "Introducing Projects",
+        "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+        "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
+        "url": "https://cursor.com/blog/projects",
+        "source": "Cursor Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Cursor 多智能体编排上线，大型重构可试；先小项目验证稳定性。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T12:08:36.517792Z"
+      }
+    },
+    {
+      "story_id": "story_5026558c852c",
+      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+      "url": "https://x.com/elonmusk/status/2098217236771295567",
+      "primary_url": "https://x.com/elonmusk/status/2098217236771295567",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "f9183098768f67ec68f0e13db499958386d6c247",
+          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+          "title_en": "Grok @Bot summary of SpaceX CFO talk",
+          "title_original": "Grok @Bot summary of SpaceX CFO talk",
+          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+          "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
+          "url": "https://x.com/elonmusk/status/2098217236771295567",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T01:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8572,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T01:09:06Z",
+      "latest_at": "2026-09-11T01:09:06Z",
+      "primary_item": {
+        "id": "f9183098768f67ec68f0e13db499958386d6c247",
+        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
+        "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
+        "title_en": "Grok @Bot summary of SpaceX CFO talk",
+        "title_original": "Grok @Bot summary of SpaceX CFO talk",
+        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
+        "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
+        "url": "https://x.com/elonmusk/status/2098217236771295567",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "CFO 演讲要点加个 AI 摘要，跟写代码没关系，扫一眼就过。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -1240,15 +1658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.9019,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1277,454 +1695,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
-      }
-    },
-    {
-      "story_id": "story_8435ae56fbea",
-      "title": "MAI-Code-1-Flash deprecated",
-      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-          "title": "MAI-Code-1-Flash deprecated",
-          "title_zh": null,
-          "title_en": "MAI-Code-1-Flash deprecated",
-          "title_original": "MAI-Code-1-Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
-          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:54:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-          "title": "MAI-Code-1-Flash deprecated",
-          "title_zh": null,
-          "title_en": "MAI-Code-1-Flash deprecated",
-          "title_original": "MAI-Code-1-Flash deprecated",
-          "summary": null,
-          "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
-          "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T16:54:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7848,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T16:54:01Z",
-      "latest_at": "2026-09-10T16:54:01Z",
-      "primary_item": {
-        "id": "49996d91daf133b08baf8b309cf10c513bf5c54c",
-        "title": "MAI-Code-1-Flash deprecated",
-        "title_zh": null,
-        "title_en": "MAI-Code-1-Flash deprecated",
-        "title_original": "MAI-Code-1-Flash deprecated",
-        "summary": null,
-        "recommend_reason_zh": "2026年9月10日，GitHub弃用MAI-Code-1-Flash，影响Copilot Chat、inline edits、agent模式，管理员启用替代模型。",
-        "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "模型下线，用它的项目得赶紧换模型，查下迁移建议。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
-      }
-    },
-    {
-      "story_id": "story_86ba7807178e",
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-          "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-          "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7914,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T17:28:52.100000Z",
-      "latest_at": "2026-09-10T17:28:52.100000Z",
-      "primary_item": {
-        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-        "recommend_reason_zh": "Anthropic’s Frontier Red Team 开发新评估，测量 AI 在战术情报定位（如靠碎片信息找人）和常规武器开发（如设计无人机打击移动目标）上的能力，并称测试中开放权重模型落后于前沿，性能通常介于 Sonnet 与 Mythos-class 之间，仍具令人担忧水平。",
-        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "安全评估报告，不改变你今天的代码和选型，知道有这回事就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
-      }
-    },
-    {
-      "story_id": "story_70812b09fc4a",
-      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-      "url": "https://cursor.com/blog/projects",
-      "primary_url": "https://cursor.com/blog/projects",
-      "source": "Cursor Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-          "title_en": "Introducing Projects",
-          "title_original": "Introducing Projects",
-          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-          "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
-          "url": "https://cursor.com/blog/projects",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cursor Blog"
-      ],
-      "items": [
-        {
-          "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-          "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-          "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-          "title_en": "Introducing Projects",
-          "title_original": "Introducing Projects",
-          "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-          "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
-          "url": "https://cursor.com/blog/projects",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T12:00:00Z",
-      "latest_at": "2026-09-10T12:00:00Z",
-      "primary_item": {
-        "id": "8ec9b3812a8146933a1db2cb12577e46772a3dcb",
-        "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务 / Introducing Projects",
-        "title_zh": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
-        "title_en": "Introducing Projects",
-        "title_original": "Introducing Projects",
-        "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
-        "recommend_reason_zh": "Cursor 推出 Projects：协调智能体向成千上万个子智能体委派任务，在数月工作中维持上下文；官方称新用户合并 PR 提升 30%，主要使用者合并量达六倍。",
-        "url": "https://cursor.com/blog/projects",
-        "source": "Cursor Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Cursor 多智能体编排上线，大型重构可试；先小项目验证稳定性。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
-      }
-    },
-    {
-      "story_id": "story_5026558c852c",
-      "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-      "url": "https://x.com/elonmusk/status/2098217236771295567",
-      "primary_url": "https://x.com/elonmusk/status/2098217236771295567",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f9183098768f67ec68f0e13db499958386d6c247",
-          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-          "title_en": "Grok @Bot summary of SpaceX CFO talk",
-          "title_original": "Grok @Bot summary of SpaceX CFO talk",
-          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
-          "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
-          "url": "https://x.com/elonmusk/status/2098217236771295567",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T01:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "f9183098768f67ec68f0e13db499958386d6c247",
-          "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-          "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-          "title_en": "Grok @Bot summary of SpaceX CFO talk",
-          "title_original": "Grok @Bot summary of SpaceX CFO talk",
-          "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
-          "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
-          "url": "https://x.com/elonmusk/status/2098217236771295567",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T01:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8841,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T01:09:06Z",
-      "latest_at": "2026-09-11T01:09:06Z",
-      "primary_item": {
-        "id": "f9183098768f67ec68f0e13db499958386d6c247",
-        "title": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点 / Grok @Bot summary of SpaceX CFO talk",
-        "title_zh": "Grok Bot 摘要 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 的演讲要点",
-        "title_en": "Grok @Bot summary of SpaceX CFO talk",
-        "title_original": "Grok @Bot summary of SpaceX CFO talk",
-        "summary": "Elon Musk 转发 Grok Bot 对 SpaceX CFO Bret Johnsen 在 Goldman Sachs Communacopia 演讲的摘要。",
-        "recommend_reason_zh": "标题Grok @Bot summary of SpaceX CFO talk在正文被重复三次，末尾一句招呼读者参与讨论，全文并无CFO谈话的任何具体内容或数字。",
-        "url": "https://x.com/elonmusk/status/2098217236771295567",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "CFO 演讲要点加个 AI 摘要，跟写代码没关系，扫一眼就过。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
-      }
-    },
-    {
-      "story_id": "story_9e333bae70b0",
-      "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-      "url": "https://www.aibase.com/news/30977",
-      "primary_url": "https://www.aibase.com/news/30977",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2a9e57dfb5f813c9f8bf6c9bd9987c12a53b3371",
-          "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "title_zh": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "title_en": null,
-          "title_original": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 将 GPT-Live-1 引入 API，支持全双工语音、边听边说、处理打断和背景噪音，可用于电话预订与客服，并连接企业系统或转人工，值得关注。",
-          "url": "https://www.aibase.com/news/30977",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T01:28:52.019550Z"
-        },
-        {
-          "id": "8692d836f0d5f218f0885c54181def4acee2c38a",
-          "title": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "title_zh": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "title_en": null,
-          "title_original": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI上线GPT-Live-1 API，支持全双工实时语音，把语音理解与输出整合进同一模型，减少“语音转文本、大语言模型推理、文本转语音”延迟，并处理打断、停顿和背景噪声。",
-          "url": "https://www.aibase.com/news/30973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T01:28:52.019550Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2a9e57dfb5f813c9f8bf6c9bd9987c12a53b3371",
-          "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "title_zh": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "title_en": null,
-          "title_original": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 将 GPT-Live-1 引入 API，支持全双工语音、边听边说、处理打断和背景噪音，可用于电话预订与客服，并连接企业系统或转人工，值得关注。",
-          "url": "https://www.aibase.com/news/30977",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T01:28:52.019550Z"
-        },
-        {
-          "id": "8692d836f0d5f218f0885c54181def4acee2c38a",
-          "title": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "title_zh": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "title_en": null,
-          "title_original": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI上线GPT-Live-1 API，支持全双工实时语音，把语音理解与输出整合进同一模型，减少“语音转文本、大语言模型推理、文本转语音”延迟，并处理打断、停顿和背景噪声。",
-          "url": "https://www.aibase.com/news/30973",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T01:28:52.019550Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8883,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T01:28:52.019550Z",
-      "latest_at": "2026-09-11T01:28:52.019550Z",
-      "primary_item": {
-        "id": "2a9e57dfb5f813c9f8bf6c9bd9987c12a53b3371",
-        "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-        "title_zh": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-        "title_en": null,
-        "title_original": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI 将 GPT-Live-1 引入 API，支持全双工语音、边听边说、处理打断和背景噪音，可用于电话预订与客服，并连接企业系统或转人工，值得关注。",
-        "url": "https://www.aibase.com/news/30977",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -1772,15 +1743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7664,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1809,7 +1780,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
@@ -1857,15 +1828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7384,
+        "recency": 0.716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1892,90 +1863,178 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     },
     {
-      "story_id": "story_ce9846509246",
-      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "primary_url": "https://cognition.com/blog/factoring-rsa-260",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_2f0462069815",
+      "title": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+      "url": "https://x.com/claudeai/status/2098138736642933143",
+      "primary_url": "https://x.com/claudeai/status/2098138736642933143",
+      "source": "Follow Builders · X · Claude",
+      "source_name": "Follow Builders",
       "sources": [
         {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "id": "2c4ff65bff4f9b5a1a65d883654c7bffcd870438",
+          "title": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "title_zh": null,
+          "title_en": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "title_original": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "summary": null,
+          "recommend_reason_zh": "Claude 社区将于 9 月 11 日至 25 日在全球多座城市举办 Fable 5.1 Build Days buildathon，带上一个问题或点子即可参与。",
+          "url": "https://x.com/claudeai/status/2098138736642933143",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-10T19:57:11Z"
+        },
+        {
+          "id": "77c3fe5027c7744680cf87f6d8eca13106e068bc",
+          "title": "Claude Fable 5.1 的语言“承重”能力不如前代 / Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "title_zh": "Claude Fable 5.1 的语言“承重”能力不如前代",
+          "title_en": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "title_original": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "summary": null,
+          "recommend_reason_zh": "Arena.ai分析数万条高推理Text Arena输出发现，Claude Fable 5.1比Fable 5更平实却更啰嗦，中位回复从319词增至414词、涨30%，但比Opus 5的525词短21%，套话load-bearing每千词降20%。",
+          "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T15:26:58Z"
+        },
+        {
+          "id": "188f61c192a18fdd9c4ec28327ac55253c69a170",
+          "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "title_zh": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
           "title_en": null,
-          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-          "recommend_reason_zh": "这篇内容值得读，它记录 Cognition 研究者用 Devin 改造 CADO-NFS、构建 GPU lattice siever，以约 4,900 GPU-days 和 40 万美元完成 RSA-260 因式分解，刷新 RSA-250 在 2020 年的纪录，并估 RSA-1024 需约 78 倍计算量。",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
+          "title_original": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "summary": null,
+          "recommend_reason_zh": "Cognition发布SWE-2，在FrontierCode 1.1 Main上得50.0%，距Fable 5.1仅1分且便宜64%；它基于Kimi K3后训练，首次把RL扩到多万亿参数，medium版本比SWE-1.7少58%轮次、平均省81%。",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "cognition.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-10T17:27:36.339000Z"
+        },
+        {
+          "id": "d8717d7197b1c2434441f1afed9bd28ad065c44e",
+          "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下 / Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "title_zh": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "title_en": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "title_original": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "summary": null,
+          "recommend_reason_zh": "Cognition发布SWE-2，首次把RL扩展到数万亿参数，FrontierCode 1.1 Main得50.0%，距Fable 5.1仅1分且便宜64%。",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-10T15:29:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Follow Builders · X · Claude",
+        "Hacker News (黑客新闻)",
+        "The Decoder AI News",
+        "cognition.com"
       ],
       "items": [
         {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+          "id": "2c4ff65bff4f9b5a1a65d883654c7bffcd870438",
+          "title": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "title_zh": null,
+          "title_en": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "title_original": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+          "summary": null,
+          "recommend_reason_zh": "Claude 社区将于 9 月 11 日至 25 日在全球多座城市举办 Fable 5.1 Build Days buildathon，带上一个问题或点子即可参与。",
+          "url": "https://x.com/claudeai/status/2098138736642933143",
+          "source": "Follow Builders · X · Claude",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-10T19:57:11Z"
+        },
+        {
+          "id": "77c3fe5027c7744680cf87f6d8eca13106e068bc",
+          "title": "Claude Fable 5.1 的语言“承重”能力不如前代 / Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "title_zh": "Claude Fable 5.1 的语言“承重”能力不如前代",
+          "title_en": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "title_original": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+          "summary": null,
+          "recommend_reason_zh": "Arena.ai分析数万条高推理Text Arena输出发现，Claude Fable 5.1比Fable 5更平实却更啰嗦，中位回复从319词增至414词、涨30%，但比Opus 5的525词短21%，套话load-bearing每千词降20%。",
+          "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-10T15:26:58Z"
+        },
+        {
+          "id": "188f61c192a18fdd9c4ec28327ac55253c69a170",
+          "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "title_zh": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
           "title_en": null,
-          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-          "recommend_reason_zh": "这篇内容值得读，它记录 Cognition 研究者用 Devin 改造 CADO-NFS、构建 GPU lattice siever，以约 4,900 GPU-days 和 40 万美元完成 RSA-260 因式分解，刷新 RSA-250 在 2020 年的纪录，并估 RSA-1024 需约 78 倍计算量。",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
+          "title_original": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "summary": null,
+          "recommend_reason_zh": "Cognition发布SWE-2，在FrontierCode 1.1 Main上得50.0%，距Fable 5.1仅1分且便宜64%；它基于Kimi K3后训练，首次把RL扩到多万亿参数，medium版本比SWE-1.7少58%轮次、平均省81%。",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "cognition.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-10T17:27:36.339000Z"
+        },
+        {
+          "id": "d8717d7197b1c2434441f1afed9bd28ad065c44e",
+          "title": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下 / Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "title_zh": "Cognition推出新款SWE-2模型，可与Fable 5.1和GPT-Astra一较高下",
+          "title_en": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "title_original": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "summary": null,
+          "recommend_reason_zh": "Cognition发布SWE-2，首次把RL扩展到数万亿参数，FrontierCode 1.1 Main得50.0%，距Fable 5.1仅1分且便宜64%。",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-10T15:29:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6915,
+      "importance": 0.6915,
+      "importance_score": 0.6915,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7191,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.62,
+        "ai_relevance": 0.81,
+        "recency": 0.7952,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T10:50:45.032000Z",
-      "latest_at": "2026-09-10T10:50:45.032000Z",
+      "earliest_at": "2026-09-10T15:26:58Z",
+      "latest_at": "2026-09-10T19:57:11Z",
       "primary_item": {
-        "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "title_en": null,
-        "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
-        "recommend_reason_zh": "这篇内容值得读，它记录 Cognition 研究者用 Devin 改造 CADO-NFS、构建 GPU lattice siever，以约 4,900 GPU-days 和 40 万美元完成 RSA-260 因式分解，刷新 RSA-250 在 2020 年的纪录，并估 RSA-1024 需约 78 倍计算量。",
-        "url": "https://cognition.com/blog/factoring-rsa-260",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "2c4ff65bff4f9b5a1a65d883654c7bffcd870438",
+        "title": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+        "title_zh": null,
+        "title_en": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+        "title_original": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible. RSVP at https:/...",
+        "summary": null,
+        "recommend_reason_zh": "Claude 社区将于 9 月 11 日至 25 日在全球多座城市举办 Fable 5.1 Build Days buildathon，带上一个问题或点子即可参与。",
+        "url": "https://x.com/claudeai/status/2098138736642933143",
+        "source": "Follow Builders · X · Claude",
+        "source_name": "Follow Builders"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "算力炫技，Devin 日常写业务代码还是另一回事，看看就好。",
+      "persona_score": 30,
+      "persona_review": "线下聚会活动，不写代码的开发者用不上，等有回放或工具发布再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T10:03:02.975220Z"
+        "scored_at": "2026-09-11T12:08:36.517792Z"
       }
     }
   ]
