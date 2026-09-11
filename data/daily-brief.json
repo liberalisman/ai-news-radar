@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-11T04:39:56.445212Z",
+  "generated_at": "2026-09-11T06:38:02.283759Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_34ddc4e3132d",
+      "story_id": "story_4f6a9ae0c6f7",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
       "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
       "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
@@ -12,20 +12,6 @@
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6aaf035dd9b0a6feba2b52b76f8c732d94b2520b",
-          "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "title_zh": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "title_en": null,
-          "title_original": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek Harness v0.1.5 发布，专为 DeepSeek V4.1 Flash 训练优化，覆盖标准、PTC 与 minimal 模式，支持更新 system prompt 时保留 KV Cache；Web 端可上传图片、PDF，右侧 Sidebar 能浏览工作区文件树并预览 Markdown、HTML、PDF、代码和图片。",
-          "url": "https://www.aibase.com/news/30969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
-        },
-        {
           "id": "1365350cff0f3e699ceb805f28c8a350c26b446a",
           "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
           "title_zh": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
@@ -54,34 +40,6 @@
           "published_at": "2026-09-10T10:03:46.457285Z"
         },
         {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-          "recommend_reason_zh": "DeepSeek 4.1 Flash 在 DeepSWE 等编程与 agent 基准上据自测追平或超过 GPT-5.6 Sol，token 价格低 94%。",
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        },
-        {
-          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
-          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-          "recommend_reason_zh": "DeepSeek 在七月 V4-Flash 更新仅六周后发布 V4.1-Flash；与七月版本相比，V4.1 改用 Causal Encoder–Decoder 新架构并原生支持视觉理解，而七月版只改进 post-training，架构未变。",
-          "url": "https://x.com/kimmonismus/status/2097962333767102665",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:16:13Z"
-        },
-        {
           "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
           "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
           "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
@@ -94,34 +52,6 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-10T07:31:01Z"
-        },
-        {
-          "id": "09e02b519b59037c4409e618dca34e880d033e48",
-          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "title_en": null,
-          "title_original": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-          "recommend_reason_zh": "DeepSeek 发布最小尺寸新模型 DeepSeek-V4.1-Flash，原生多模态，API 名改为 deepseek-flash，价格同步下调；它性能、费用、速度全面超越 DeepSeek V4 Pro，9月14日后 deepseek-v4-pro 请求将路由至 V4.1 Flash 并按新价计费。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T05:58:04.695000Z"
-        },
-        {
-          "id": "c1dbac69d6b39c0f68dea899dde3752d92cbb090",
-          "title": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "title_zh": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "title_en": null,
-          "title_original": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "summary": null,
-          "recommend_reason_zh": "本文说明 DeepSeek 把 fast mode、expert mode、image recognition mode 合并为统一智能模式，可自动识别查询复杂度和图像输入，并披露 V4.1 Flash 计划 2026 年 9 月 10 日前后发布、在性能、成本、速度上全面超越 V4 Pro，后者于 2026 年 9 月 14 日 12:00 下线并路由至 V4.1 Flash。",
-          "url": "https://www.aibase.com/news/30949",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T04:46:02.351072Z"
         },
         {
           "id": "64b76fff2e1c0e6ff65e8b28bc54bec7772d9d94",
@@ -178,64 +108,19 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-09-10T07:39:52.730000Z"
-        },
-        {
-          "id": "610fef4778740e51d0e253986e11c00fb4128685",
-          "title": "DeepSeek v4.1 闪电版 / DeepSeek v4.1 Flash",
-          "title_zh": "DeepSeek v4.1 闪电版",
-          "title_en": "DeepSeek v4.1 Flash",
-          "title_original": "DeepSeek v4.1 Flash",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek 推出新架构家族中最小模型 DeepSeek-V4.1-Flash，原生支持视觉理解，官方称其能力更强、推理更快、吞吐更高，并可扩展至更大模型。",
-          "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T06:11:05Z"
-        },
-        {
-          "id": "2bcf4097cf44ad45bb414025b20330cb24b482a5",
-          "title": "DeepSeek-V4.1-Flash发布 552B参数多模态MoE支持百万token上下文",
-          "title_zh": "DeepSeek-V4.1-Flash发布 552B参数多模态MoE支持百万token上下文",
-          "title_en": "DeepSeek-v4.1-Exp",
-          "title_original": "DeepSeek-v4.1-Exp",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash是552B参数混合专家多模态模型，支持百万词元上下文，预填充仅激活8B，解码仅激活16B，KV缓存降至890字节每词元。",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T05:57:51Z"
         }
       ],
-      "source_count": 14,
+      "source_count": 7,
       "source_names": [
         "AIbase",
-        "DeepSeek：API 更新日志",
-        "Hacker News · 24h最热",
         "InfoQ CN",
         "MarkTechPost（RSS）",
         "Techmeme",
-        "X：Kim (@kimmonismus)",
         "juejin",
         "twitter.com"
       ],
       "items": [
         {
-          "id": "6aaf035dd9b0a6feba2b52b76f8c732d94b2520b",
-          "title": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "title_zh": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "title_en": null,
-          "title_original": "DeepSeek Harness 0.1.5 更新：适配 V4.1 Flash，新增文件上传与侧边栏预览",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek Harness v0.1.5 发布，专为 DeepSeek V4.1 Flash 训练优化，覆盖标准、PTC 与 minimal 模式，支持更新 system prompt 时保留 KV Cache；Web 端可上传图片、PDF，右侧 Sidebar 能浏览工作区文件树并预览 Markdown、HTML、PDF、代码和图片。",
-          "url": "https://www.aibase.com/news/30969",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T10:03:46.457285Z"
-        },
-        {
           "id": "1365350cff0f3e699ceb805f28c8a350c26b446a",
           "title": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
           "title_zh": "DeepSeek V4.1 Flash 正式发布：552B MoE 新架构，全面超越 V4 Pro",
@@ -264,34 +149,6 @@
           "published_at": "2026-09-10T10:03:46.457285Z"
         },
         {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价 / Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "title_en": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "title_original": "Whats really exciting about DeepSeek 4.1 Flash its insane efficiency and pricing. It matches or be…",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
-          "recommend_reason_zh": "DeepSeek 4.1 Flash 在 DeepSWE 等编程与 agent 基准上据自测追平或超过 GPT-5.6 Sol，token 价格低 94%。",
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        },
-        {
-          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
-          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
-          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
-          "recommend_reason_zh": "DeepSeek 在七月 V4-Flash 更新仅六周后发布 V4.1-Flash；与七月版本相比，V4.1 改用 Causal Encoder–Decoder 新架构并原生支持视觉理解，而七月版只改进 post-training，架构未变。",
-          "url": "https://x.com/kimmonismus/status/2097962333767102665",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:16:13Z"
-        },
-        {
           "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
           "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
           "title_zh": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
@@ -304,34 +161,6 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-10T07:31:01Z"
-        },
-        {
-          "id": "09e02b519b59037c4409e618dca34e880d033e48",
-          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "title_zh": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "title_en": null,
-          "title_original": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
-          "recommend_reason_zh": "DeepSeek 发布最小尺寸新模型 DeepSeek-V4.1-Flash，原生多模态，API 名改为 deepseek-flash，价格同步下调；它性能、费用、速度全面超越 DeepSeek V4 Pro，9月14日后 deepseek-v4-pro 请求将路由至 V4.1 Flash 并按新价计费。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T05:58:04.695000Z"
-        },
-        {
-          "id": "c1dbac69d6b39c0f68dea899dde3752d92cbb090",
-          "title": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "title_zh": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "title_en": null,
-          "title_original": "DeepSeek 三种模式合一：V4.1 Flash 最快今日发布，V4 Pro 将下线",
-          "summary": null,
-          "recommend_reason_zh": "本文说明 DeepSeek 把 fast mode、expert mode、image recognition mode 合并为统一智能模式，可自动识别查询复杂度和图像输入，并披露 V4.1 Flash 计划 2026 年 9 月 10 日前后发布、在性能、成本、速度上全面超越 V4 Pro，后者于 2026 年 9 月 14 日 12:00 下线并路由至 V4.1 Flash。",
-          "url": "https://www.aibase.com/news/30949",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T04:46:02.351072Z"
         },
         {
           "id": "64b76fff2e1c0e6ff65e8b28bc54bec7772d9d94",
@@ -388,47 +217,19 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-09-10T07:39:52.730000Z"
-        },
-        {
-          "id": "610fef4778740e51d0e253986e11c00fb4128685",
-          "title": "DeepSeek v4.1 闪电版 / DeepSeek v4.1 Flash",
-          "title_zh": "DeepSeek v4.1 闪电版",
-          "title_en": "DeepSeek v4.1 Flash",
-          "title_original": "DeepSeek v4.1 Flash",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek 推出新架构家族中最小模型 DeepSeek-V4.1-Flash，原生支持视觉理解，官方称其能力更强、推理更快、吞吐更高，并可扩展至更大模型。",
-          "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T06:11:05Z"
-        },
-        {
-          "id": "2bcf4097cf44ad45bb414025b20330cb24b482a5",
-          "title": "DeepSeek-V4.1-Flash发布 552B参数多模态MoE支持百万token上下文",
-          "title_zh": "DeepSeek-V4.1-Flash发布 552B参数多模态MoE支持百万token上下文",
-          "title_en": "DeepSeek-v4.1-Exp",
-          "title_original": "DeepSeek-v4.1-Exp",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash是552B参数混合专家多模态模型，支持百万词元上下文，预填充仅激活8B，解码仅激活16B，KV缓存降至890字节每词元。",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-10T05:57:51Z"
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.8615,
+      "importance": 0.8615,
+      "importance_score": 0.8615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7368,
+        "recency": 0.7162,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -437,7 +238,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T04:46:02.351072Z",
+      "earliest_at": "2026-09-10T07:31:01Z",
       "latest_at": "2026-09-10T10:03:46.457285Z",
       "primary_item": {
         "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
@@ -453,11 +254,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 88,
-      "persona_review": "1M上下文加FP4 KV缓存，长文档和Agent场景直接省显存，API能调就换。",
+      "persona_review": "1M上下文加FP4 KV缓存，长文档和Agent场景今天就能试，先测显存和成本。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -505,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8329,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -542,7 +343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -590,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.902,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,7 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -675,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9011,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -712,7 +513,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -760,15 +561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8329,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -797,7 +598,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -874,15 +675,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8947,
+        "recency": 0.8696,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -911,7 +712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -928,7 +729,7 @@
           "title_zh": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
           "title_en": null,
           "title_original": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
-          "summary": "Traditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "9月10日，UMG 与 ElevenLabs 宣布达成授权协议及战略合作，将共建基于授权音乐和艺人参与的AI音乐平台，支持混音、串烧、新演绎和个性化声音体验，这是后者与主流唱片公司的首份正式协议。",
           "url": "https://www.aibase.com/news/30984",
           "source": "AIbase",
@@ -962,7 +763,7 @@
           "title_zh": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
           "title_en": null,
           "title_original": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
-          "summary": "Traditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "9月10日，UMG 与 ElevenLabs 宣布达成授权协议及战略合作，将共建基于授权音乐和艺人参与的AI音乐平台，支持混音、串烧、新演绎和个性化声音体验，这是后者与主流唱片公司的首份正式协议。",
           "url": "https://www.aibase.com/news/30984",
           "source": "AIbase",
@@ -987,15 +788,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,7 +813,7 @@
         "title_zh": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
         "title_en": null,
         "title_original": "环球音乐携手ElevenLabs达成重磅合作，共建正版授权AI音乐平台",
-        "summary": "Traditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nTraditional music giants and leading companies in the artificial intelligence audio field have officially launched a deep collaboration. On September 10th, loca\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "9月10日，UMG 与 ElevenLabs 宣布达成授权协议及战略合作，将共建基于授权音乐和艺人参与的AI音乐平台，支持混音、串烧、新演绎和个性化声音体验，这是后者与主流唱片公司的首份正式协议。",
         "url": "https://www.aibase.com/news/30984",
         "source": "AIbase",
@@ -1024,7 +825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1072,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8209,
+        "recency": 0.7979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1109,7 +910,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1186,15 +987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8396,
+        "recency": 0.8161,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1223,7 +1024,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1271,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8505,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1308,7 +1109,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1356,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8218,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1392,7 +1193,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1440,15 +1241,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8437,
+        "recency": 0.8201,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1477,7 +1278,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1525,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8509,
+        "recency": 0.827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1561,7 +1362,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1637,15 +1438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1674,7 +1475,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1722,15 +1523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7313,
+        "recency": 0.7109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1759,7 +1560,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1807,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7861,
+        "recency": 0.7641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1842,7 +1643,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
+      }
+    },
+    {
+      "story_id": "story_5da02e9477c9",
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "primary_url": "https://x.com/kimmonismus/status/2097962333767102665",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+          "recommend_reason_zh": "DeepSeek 在七月 V4-Flash 更新仅六周后发布 V4.1-Flash；与七月版本相比，V4.1 改用 Causal Encoder–Decoder 新架构并原生支持视觉理解，而七月版只改进 post-training，架构未变。",
+          "url": "https://x.com/kimmonismus/status/2097962333767102665",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:16:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+          "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+          "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+          "recommend_reason_zh": "DeepSeek 在七月 V4-Flash 更新仅六周后发布 V4.1-Flash；与七月版本相比，V4.1 改用 Causal Encoder–Decoder 新架构并原生支持视觉理解，而七月版只改进 post-training，架构未变。",
+          "url": "https://x.com/kimmonismus/status/2097962333767102665",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T08:16:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.724,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T08:16:13Z",
+      "latest_at": "2026-09-10T08:16:13Z",
+      "primary_item": {
+        "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
+        "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解 / DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "title_zh": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+        "title_en": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "title_original": "DeepSeek just released V4.1-Flash with a new architecture， six weeks after its July V4-Flash update….",
+        "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+        "recommend_reason_zh": "DeepSeek 在七月 V4-Flash 更新仅六周后发布 V4.1-Flash；与七月版本相比，V4.1 改用 Causal Encoder–Decoder 新架构并原生支持视觉理解，而七月版只改进 post-training，架构未变。",
+        "url": "https://x.com/kimmonismus/status/2097962333767102665",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "六周就迭代，新架构加原生视觉，等 API 开放和价格出来再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -1890,15 +1774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1925,7 +1809,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -2001,15 +1885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9551,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -2038,7 +1922,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     },
     {
@@ -2086,15 +1970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.824,
+        "recency": 0.8009,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2123,90 +2007,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
-      }
-    },
-    {
-      "story_id": "story_56692de3b9bc",
-      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-      "url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "primary_url": "https://x.com/GoogleAI/status/2098072879480947085",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-          "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-          "recommend_reason_zh": "Google Pics 由 Nano Banana 构建，可生成、精修和协作创建图像，能单独隔离并编辑特定对象而不改动其余画面，还能直接在图中修改或翻译文字。",
-          "url": "https://x.com/GoogleAI/status/2098072879480947085",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:35:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-          "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-          "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-          "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-          "recommend_reason_zh": "Google Pics 由 Nano Banana 构建，可生成、精修和协作创建图像，能单独隔离并编辑特定对象而不改动其余画面，还能直接在图中修改或翻译文字。",
-          "url": "https://x.com/GoogleAI/status/2098072879480947085",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:35:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.828,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T15:35:29Z",
-      "latest_at": "2026-09-10T15:35:29Z",
-      "primary_item": {
-        "id": "69b006d874e21229a70780aecccc9d837c74fe04",
-        "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作 / Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "title_zh": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
-        "title_en": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "title_original": "Bring your imagination to life with Google Pics. Built with Nano Banana， Pics makes it easy to gene…",
-        "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
-        "recommend_reason_zh": "Google Pics 由 Nano Banana 构建，可生成、精修和协作创建图像，能单独隔离并编辑特定对象而不改动其余画面，还能直接在图中修改或翻译文字。",
-        "url": "https://x.com/GoogleAI/status/2098072879480947085",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "Nano Banana 图像编辑能力不错，但 Pics 还没开放入口，先记着别急着换工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-11T04:56:45.045048Z"
+        "scored_at": "2026-09-11T06:52:19.433325Z"
       }
     }
   ]

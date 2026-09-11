@@ -1,18 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_ec9db99faa5b|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "观点文，对动手没直接帮助。真要扫描珍本是个人选择，别被带节奏。",
-      "title_hash": "98e333e4",
-      "scored_at": "2026-08-21T05:01:27.302522Z"
-    },
-    "story_2f5672e7bb6d|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "豆包从聊天转平台，接外部工具和技能，做办公流水的可以盯下接口。",
-      "title_hash": "20aad83e",
-      "scored_at": "2026-08-21T05:57:43.762167Z"
-    },
     "story_15ad92659081|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "推理速度提升明显，但草稿模型慎用，等稳定版再上生产。",
@@ -5742,6 +5730,30 @@
       "review": "版权方和AI音频工具牵手，做音乐生成的要开始考虑授权成本了。",
       "title_hash": "c5170af5",
       "scored_at": "2026-09-11T04:56:46.461901Z"
+    },
+    "story_4f6a9ae0c6f7|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "1M上下文加FP4 KV缓存，长文档和Agent场景今天就能试，先测显存和成本。",
+      "title_hash": "87e71a7c",
+      "scored_at": "2026-09-11T06:52:21.072761Z"
+    },
+    "story_5da02e9477c9|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "六周就迭代，新架构加原生视觉，等 API 开放和价格出来再决定换不换。",
+      "title_hash": "e61a469f",
+      "scored_at": "2026-09-11T06:52:22.775326Z"
+    },
+    "story_4f6a9ae0c6f7|cynic|f4237a62": {
+      "score": 72,
+      "review": "1M上下文配FP4 KV缓存是真省显存，但跨层注意力复用这词儿，论文里敢不敢给消融实验？",
+      "title_hash": "87e71a7c",
+      "scored_at": "2026-09-11T06:52:24.042985Z"
+    },
+    "story_4f6a9ae0c6f7|paper-police|966065bf": {
+      "score": 38,
+      "review": "1M上下文和FP4缓存只有媒体转述，无论文、无开源、无第三方复现，先等实测。",
+      "title_hash": "87e71a7c",
+      "scored_at": "2026-09-11T06:52:25.162394Z"
     }
   }
 }

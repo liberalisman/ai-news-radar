@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:56:46.462169Z",
+  "generated_at": "2026-09-11T06:52:25.162492Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_34ddc4e3132d",
+      "story_id": "story_4f6a9ae0c6f7",
       "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用 / DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context， FP4 KV Cache， and Cross-Layer Attention Reuse",
       "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "1M上下文配FP4 KV缓存是真省显存，但Flash后缀通常意味着能力缩水，等实测再吹。"
+          "review": "1M上下文配FP4 KV缓存是真省显存，但跨层注意力复用这词儿，论文里敢不敢给消融实验？"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方日志加媒体报道，参数亮眼但无论文无开源无第三方复现，先观望。"
+          "score": 38,
+          "review": "1M上下文和FP4缓存只有媒体转述，无论文、无开源、无第三方复现，先等实测。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "1M上下文加FP4 KV缓存，长文档和Agent场景直接省显存，API能调就换。"
+          "review": "1M上下文加FP4 KV缓存，长文档和Agent场景今天就能试，先测显存和成本。"
         }
       }
     },
