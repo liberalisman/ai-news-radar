@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:29:22.150676Z",
+  "generated_at": "2026-09-11T01:43:57.845568Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_9e333bae70b0",
+      "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
+      "url": "https://www.aibase.com/news/30977",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "全双工加打断是真本事，但客服场景的延迟和并发成本，PR稿一个字没提。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "只有媒体转述，无论文、无代码、无第三方延迟与打断评测，全双工指标待验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。"
+        }
+      }
+    },
+    {
       "story_id": "story_b2726331d325",
       "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
       "url": "https://openai.com/index/put-data-to-work",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。"
-        }
-      }
-    },
-    {
-      "story_id": "story_d376123c7d4c",
-      "title": "通过 cache-mode 控制 GitHub Actions 缓存访问 / Control GitHub Actions cache access with cache-mode",
-      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。"
         }
       }
     }
