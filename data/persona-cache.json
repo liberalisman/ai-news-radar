@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_a1a025194e2c|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "崩溃恢复从分钟级降到亚秒级，生产环境直接受益。",
-      "title_hash": "30c571cc",
-      "scored_at": "2026-08-21T19:11:31.548562Z"
-    },
-    "story_23e3c927edf2|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "批处理1延迟降54%，用SGLang做低延迟推理的可以照着调参落地。",
-      "title_hash": "aa2a8ae0",
-      "scored_at": "2026-08-21T19:11:39.699455Z"
-    },
-    "story_6330aea85a01|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "安全能力扩展可能涉及权限开放，先查自己的 API 版本是否可用。",
-      "title_hash": "42daabd4",
-      "scored_at": "2026-08-21T19:11:42.668546Z"
-    },
-    "story_cb8188eda400|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "自托管 Agent 流水线有实操参考，想搭私有化 CI/Agent 的可以看。",
-      "title_hash": "b44c4c10",
-      "scored_at": "2026-08-21T19:11:45.587825Z"
-    },
-    "story_a1a025194e2c|cynic|f4237a62": {
-      "score": 68,
-      "review": "重启快是快，可常驻显存的缓存成本，宣传稿里一个字没提。",
-      "title_hash": "30c571cc",
-      "scored_at": "2026-08-21T19:11:47.927454Z"
-    },
-    "story_a1a025194e2c|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客给细节数字但无代码复现，等开源或第三方验证。",
-      "title_hash": "30c571cc",
-      "scored_at": "2026-08-21T19:11:51.097482Z"
-    },
     "story_63e008230e15|pragmatic|0a5c5b24": {
       "score": 62,
       "review": "深入硬件底层，写GPU优化时能少踩坑，但非刚需。",
@@ -5667,9 +5631,9 @@
     },
     "story_d30641cfac8b|pragmatic|0a5c5b24": {
       "score": 62,
-      "review": "用 GitHub Actions 跑营销流程，思路可抄，但非通用刚需，看看即可。",
-      "title_hash": "f0c3884f",
-      "scored_at": "2026-09-11T18:52:29.538968Z"
+      "review": "营销自动化案例，思路可抄但非通用工具，工程团队用不上。",
+      "title_hash": "986d4f05",
+      "scored_at": "2026-09-11T19:33:52.725408Z"
     },
     "story_e0d5d5d34cc3|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5700,6 +5664,18 @@
       "review": "官方 changelog 有功能细节但无评测数据，效果无法复现，等第三方跑分。",
       "title_hash": "127c4365",
       "scored_at": "2026-09-11T18:52:34.916328Z"
+    },
+    "story_e4952151ab1e|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "陶哲轩的观察值得读，但没工具没代码，看完继续写你的 prompt。",
+      "title_hash": "b394ecb3",
+      "scored_at": "2026-09-11T19:33:54.014699Z"
+    },
+    "story_94d7dab25647|pragmatic|0a5c5b24": {
+      "score": 32,
+      "review": "数学家吵架不影响你调 API，除非你在做形式化证明，否则跳过。",
+      "title_hash": "64c6e9c2",
+      "scored_at": "2026-09-11T19:33:54.900870Z"
     }
   }
 }
