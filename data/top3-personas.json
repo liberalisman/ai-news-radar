@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:33:54.901013Z",
+  "generated_at": "2026-09-11T22:13:40.558519Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_9e333bae70b0",
-      "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-      "url": "https://www.aibase.com/news/30977",
+      "story_id": "story_824896a7381c",
+      "title": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
+      "url": "https://www.aibase.com/news/30973",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "全双工加打断是真本事，但客服场景的延迟和并发成本，PR稿一个字没提。"
+          "review": "打断处理和工具调用是真需求，但电话智能体延迟和计费口径一个字没提，发布会老规矩。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有媒体转述，无论文、无代码、无第三方延迟与打断评测，全双工指标待验证。"
+          "score": 40,
+          "review": "官方API文档可查，但无论文、无开源、无第三方评测，仅算有迹可循。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。"
+          "review": "语音智能体API已开放，打断处理和工具调用直接可用，做电话客服的今天就能接。"
         }
       }
     },
     {
-      "story_id": "story_34d4cb4529b2",
-      "title": "GitHub Copilot 每周发布 — 9月7日 / GitHub Copilot weekly releases — September 7",
-      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "story_id": "story_bbf03c6dd45c",
+      "title": "Copilot 代码审查新增自动解决与分析功能更新 / Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "官方 changelog 有据可查，但周更里塞的多是小修小补，凑数感明显。"
+          "score": 62,
+          "review": "自动解决听着唬人，但changelog没给误报率和回滚机制，先看它敢不敢在自家仓库跑。"
         },
         "paper-police": {
           "score": 42,
-          "review": "官方 changelog 有功能细节但无评测数据，效果无法复现，等第三方跑分。"
+          "review": "官方 changelog 只讲功能，无评测数字、无复现方法，等实测报告。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "Copilot 周更日志，扫一眼有没有改你常用功能，没有就跳过。"
+          "score": 82,
+          "review": "Copilot 审查能自动改代码了，团队今天就能开开关试，省一轮来回。"
         }
       }
     }
