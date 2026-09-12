@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:31:41.616082Z",
+  "generated_at": "2026-09-12T00:53:04.653909Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_824896a7381c",
-      "title": "OpenAI正式上线GPT-Live-1 API：支持打断处理、工具调用与电话智能体",
-      "url": "https://www.aibase.com/news/30973",
+      "story_id": "story_9e333bae70b0",
+      "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
+      "url": "https://www.aibase.com/news/30977",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "打断处理和工具调用是真需求，但电话智能体延迟和计费口径一个字没提，发布会老规矩。"
+          "review": "全双工加打断是真本事，但客服场景的延迟和并发成本，PR稿一个字没提。"
         },
         "paper-police": {
-          "score": 40,
-          "review": "官方API文档可查，但无论文、无开源、无第三方评测，仅算有迹可循。"
+          "score": 30,
+          "review": "只有媒体转述，无论文、无代码、无第三方延迟与打断评测，全双工指标待验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "语音智能体API已开放，打断处理和工具调用直接可用，做电话客服的今天就能接。"
+          "review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。"
         }
       }
     },
