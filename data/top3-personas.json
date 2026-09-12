@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:06:43.091417Z",
+  "generated_at": "2026-09-12T22:25:28.091167Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_13a866b96783",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "CED 降 prefill 是真需求，但只给 Baseten 一家跑分，权重和配方呢？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "Baseten博客给了CED架构和prefill数字，但无论文无开源仓库，复现不了。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源可 clone，专治编码 Agent 长上下文 prefill 慢，今天就能拉下来试。"
-        }
-      }
-    },
-    {
       "story_id": "story_462f3ecf41bf",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
       "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -60,7 +40,7 @@
       "story_id": "story_2cae03eec67b",
       "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
       "url": "https://www.rubyhack.ai",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 42,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
+        }
+      }
+    },
+    {
+      "story_id": "story_30eddadc9249",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
+      "url": "https://suno.com/blog/introducing-v6",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "三个版本号听着热闹，但博客里没给音质指标和版权方案，先别急着叫v6。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方博客宣称三版本，无论文无开源无第三方评测，仅厂商自述。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。"
         }
       }
     }
