@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:23:02.683046Z",
+  "generated_at": "2026-09-12T21:06:43.091417Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Copilot 代码审查新增自动解决与分析功能更新 / Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "自动解决听着唬人，但changelog没给误报率和回滚机制，先看它敢不敢在自家仓库跑。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只讲功能，无评测数字、无复现方法，等实测报告。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 审查能自动改代码了，团队今天就能开开关试，省一轮来回。"
-        }
-      }
-    },
-    {
       "story_id": "story_462f3ecf41bf",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
       "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "先确认 API 是否开放、定价和上下文窗口，别急着迁移。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2cae03eec67b",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "取证分析听着唬人，但攻击归因到'OpenAI智能体集群'的证据链呢？域名先亮出来。"
+        },
+        "paper-police": {
+          "score": 22,
+          "review": "取证分析发在自家网站，无独立验证、无第三方复现，指控再详细也只是单方说法。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
         }
       }
     }
