@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T17:09:17.167902Z",
+  "generated_at": "2026-09-12T18:46:21.575653Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T17:09:17.167902Z",
-      "latest_at": "2026-09-12T17:09:17.167902Z",
+      "earliest_at": "2026-09-12T18:46:21.575653Z",
+      "latest_at": "2026-09-12T18:46:21.575653Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -85,122 +85,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
-      "story_id": "story_d30641cfac8b",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
+      "story_id": "story_462f3ecf41bf",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 日本和韩国 marketing 负责人用 GitHub Copilot，把手工耗时数日的活动筹备变成从单个 GitHub Issue 自动搭建、每天早上筛选注册者、结束后自动清理的流程，并指出有 API 或 CLI 的重复工作都能复用。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": "负责 GitHub 日本和韩国市场的作者用 GitHub Copilot 把活动 runbook 变成自动化：过去手工要两天，现在单个 GitHub Issue 就能建活动、每天早上筛选报名者、结束后清理，并打通活动平台 API 与 CRM 的 CLI。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "recommend_reason_zh": "GPT-6 Astra发布后，社区展示用它在3D中探索2,234个解剖部件，并把旧火车图纸转成含3,295个可编辑对象的Blender模型。",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
+          "published_at": "2026-09-12T17:33:23Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 日本和韩国 marketing 负责人用 GitHub Copilot，把手工耗时数日的活动筹备变成从单个 GitHub Issue 自动搭建、每天早上筛选注册者、结束后自动清理的流程，并指出有 API 或 CLI 的重复工作都能复用。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": "负责 GitHub 日本和韩国市场的作者用 GitHub Copilot 把活动 runbook 变成自动化：过去手工要两天，现在单个 GitHub Issue 就能建活动、每天早上筛选报名者、结束后清理，并打通活动平台 API 与 CRM 的 CLI。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "recommend_reason_zh": "GPT-6 Astra发布后，社区展示用它在3D中探索2,234个解剖部件，并把旧火车图纸转成含3,295个可编辑对象的Blender模型。",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
+          "published_at": "2026-09-12T17:33:23Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.8,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7203,
-        "story_heat": 0.25
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T18:26:10Z",
-      "latest_at": "2026-09-11T18:26:10Z",
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
       "primary_item": {
-        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-        "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 日本和韩国 marketing 负责人用 GitHub Copilot，把手工耗时数日的活动筹备变成从单个 GitHub Issue 自动搭建、每天早上筛选注册者、结束后自动清理的流程，并指出有 API 或 CLI 的重复工作都能复用。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "title_en": "https://x.com/i/article/2098531824528220160",
+        "title_original": "https://x.com/i/article/2098531824528220160",
+        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "recommend_reason_zh": "GPT-6 Astra发布后，社区展示用它在3D中探索2,234个解剖部件，并把旧火车图纸转成含3,295个可编辑对象的Blender模型。",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "营销自动化案例，思路可抄但非通用工具，工程团队用不上。",
+      "persona_score": 72,
+      "persona_review": "先确认 API 是否开放、定价和上下文窗口，别急着迁移。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -248,15 +217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.753,
+        "recency": 0.7356,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +254,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -391,15 +360,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7852,
+        "recency": 0.767,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -428,7 +397,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -534,15 +503,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8112,
+        "recency": 0.7924,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -571,7 +540,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -619,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7368,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,7 +625,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -704,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,150 +709,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
-      }
-    },
-    {
-      "story_id": "story_13a866b96783",
-      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "primary_url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-      "source": "Baseten 工程博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6214dbf734f1f9934cd58866bea92551a875876a",
-          "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-          "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-          "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T22:01:37Z"
-        },
-        {
-          "id": "b214ace266d6e505f555c420aa0a860ed68eb0c6",
-          "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "title_zh": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "title_en": null,
-          "title_original": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek 只提前一天通知，就把 V4 Pro 请求全量路由到 V4.1 Flash，没有并行迁移期，已接入业务的开发者被迫中断；文章追问，招 150 名后端工程师、DSec 单集群并发数十万 Agent 环境的工程能力，为何没用在迁移流程上。",
-          "url": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T02:08:50Z"
-        },
-        {
-          "id": "95b7e53f0aad7df4a9ac7c855b76ecbf537b44c1",
-          "title": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒 / DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "title_zh": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒",
-          "title_en": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "title_original": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:46:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Baseten 工程博客（网页）",
-        "Hacker News · 24h最热",
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "6214dbf734f1f9934cd58866bea92551a875876a",
-          "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-          "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-          "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-          "recommend_reason_zh": null,
-          "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-          "source": "Baseten 工程博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T22:01:37Z"
-        },
-        {
-          "id": "b214ace266d6e505f555c420aa0a860ed68eb0c6",
-          "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "title_zh": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "title_en": null,
-          "title_original": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek 只提前一天通知，就把 V4 Pro 请求全量路由到 V4.1 Flash，没有并行迁移期，已接入业务的开发者被迫中断；文章追问，招 150 名后端工程师、DSec 单集群并发数十万 Agent 环境的工程能力，为何没用在迁移流程上。",
-          "url": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-12T02:08:50Z"
-        },
-        {
-          "id": "95b7e53f0aad7df4a9ac7c855b76ecbf537b44c1",
-          "title": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒 / DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "title_zh": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒",
-          "title_en": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "title_original": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:46:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7586,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T22:01:37Z",
-      "latest_at": "2026-09-12T02:46:31Z",
-      "primary_item": {
-        "id": "6214dbf734f1f9934cd58866bea92551a875876a",
-        "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-        "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
-        "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-        "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
-        "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
-        "recommend_reason_zh": null,
-        "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
-        "source": "Baseten 工程博客（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源可 clone，专治编码 Agent 长上下文 prefill 慢，今天就能拉下来试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -960,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7736,
+        "recency": 0.7557,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -997,7 +823,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1045,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1081,7 +907,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
+      }
+    },
+    {
+      "story_id": "story_13a866b96783",
+      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+      "primary_url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+      "source": "Baseten 工程博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6214dbf734f1f9934cd58866bea92551a875876a",
+          "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
+          "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
+          "recommend_reason_zh": null,
+          "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+          "source": "Baseten 工程博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T22:01:37Z"
+        },
+        {
+          "id": "95b7e53f0aad7df4a9ac7c855b76ecbf537b44c1",
+          "title": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒 / DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "title_zh": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒",
+          "title_en": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "title_original": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T02:46:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Baseten 工程博客（网页）",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "6214dbf734f1f9934cd58866bea92551a875876a",
+          "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
+          "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+          "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
+          "recommend_reason_zh": null,
+          "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+          "source": "Baseten 工程博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T22:01:37Z"
+        },
+        {
+          "id": "95b7e53f0aad7df4a9ac7c855b76ecbf537b44c1",
+          "title": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒 / DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "title_zh": "DeepSeek v4.1 flash 在 2020 款 16GB M1 Mac Mini 上跑出每 token 23 秒",
+          "title_en": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "title_original": "DeepSeek v4.1 flash runs 23 seconds/token on a 2020 16gb M1 Mac Mini",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thefp4brain/status/2098424202168586367",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T02:46:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7411,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T22:01:37Z",
+      "latest_at": "2026-09-12T02:46:31Z",
+      "primary_item": {
+        "id": "6214dbf734f1f9934cd58866bea92551a875876a",
+        "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+        "title_zh": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销",
+        "title_en": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+        "title_original": "DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+        "summary": "DeepSeek 本周在 HuggingFace 开源 DeepSeek-V4.1-Flash 权重，模型已在 Baseten Model APIs 上线。规格为 552B 总参数、prefill 激活 8B、decode 激活 16B、1M token 上下文、支持文本加图像输入。",
+        "recommend_reason_zh": null,
+        "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+        "source": "Baseten 工程博客（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源可 clone，专治编码 Agent 长上下文 prefill 慢，今天就能拉下来试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1157,15 +1096,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6024,
-      "importance": 0.6024,
-      "importance_score": 0.6024,
+      "score": 0.5994,
+      "importance": 0.5994,
+      "importance_score": 0.5994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7427,
+        "recency": 0.7255,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,7 +1131,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1209,7 +1148,7 @@
           "title_zh": "Anthropic 老板 Dario Amodei 呼吁放缓 AI 开发",
           "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nThe head of leading AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.\nIn an essay on",
+          "summary": null,
           "recommend_reason_zh": "Anthropic 的 Dario Amodei 发文《We Must Pace the Frontier》，呼吁放缓 AI 开发并提出独立监测、行业与全球监管三点计划，还引述警告称 AI 十年内“杀死全人类”概率超 10%，并提及 OpenAI agents 七月发动网络安全攻击。",
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
           "source": "Hacker News (黑客新闻)",
@@ -1244,7 +1183,7 @@
           "title_zh": "Anthropic 老板 Dario Amodei 呼吁放缓 AI 开发",
           "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-          "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nThe head of leading AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.\nIn an essay on",
+          "summary": null,
           "recommend_reason_zh": "Anthropic 的 Dario Amodei 发文《We Must Pace the Frontier》，呼吁放缓 AI 开发并提出独立监测、行业与全球监管三点计划，还引述警告称 AI 十年内“杀死全人类”概率超 10%，并提及 OpenAI agents 七月发动网络安全攻击。",
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
           "source": "Hacker News (黑客新闻)",
@@ -1269,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,7 +1231,7 @@
         "title_zh": "Anthropic 老板 Dario Amodei 呼吁放缓 AI 开发",
         "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "title_original": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "summary": "Amodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nAmodei's call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.\nThe head of leading AI company Anthropic has called for the pace of development of artificial intelligence models to slow down and to be closely monitored.\nIn an essay on",
+        "summary": null,
         "recommend_reason_zh": "Anthropic 的 Dario Amodei 发文《We Must Pace the Frontier》，呼吁放缓 AI 开发并提出独立监测、行业与全球监管三点计划，还引述警告称 AI 十年内“杀死全人类”概率超 10%，并提及 OpenAI agents 七月发动网络安全攻击。",
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
         "source": "Hacker News (黑客新闻)",
@@ -1304,7 +1243,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1381,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9923,
+        "recency": 0.9694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1416,7 +1355,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1493,15 +1432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8829,
+        "recency": 0.8625,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1528,260 +1467,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
-      }
-    },
-    {
-      "story_id": "story_e4952151ab1e",
-      "title": "数学领域中人工智能的偏差",
-      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-      "source": "terrytao.wordpress.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
-          "title": "数学领域中人工智能的偏差",
-          "title_zh": "数学领域中人工智能的偏差",
-          "title_en": null,
-          "title_original": "数学领域中人工智能的偏差",
-          "summary": null,
-          "recommend_reason_zh": "Terence Tao 等 25 位 Fields Medallists 签署声明，警告 AI 公司把解数学难题当 benchmark 会损害数学界，而 LLM 近月已能攻克多领域重大未解问题。",
-          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T19:07:02.862000Z"
-        },
-        {
-          "id": "cd9e1c331c705b65c68eba90a042db9e9f3b2f87",
-          "title": "AI在数学领域的错位 / A misalignment of AI in mathematics",
-          "title_zh": "AI在数学领域的错位",
-          "title_en": "A misalignment of AI in mathematics",
-          "title_original": "A misalignment of AI in mathematics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathandai.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T17:45:12Z"
-        },
-        {
-          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
-          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
-          "title_zh": "数学领域中人工智能的偏差",
-          "title_en": "A Misalignment of AI in Mathematics",
-          "title_original": "A Misalignment of AI in Mathematics",
-          "summary": null,
-          "recommend_reason_zh": "Terence Tao 等25位 Fields Medallists 联署声明：近几个月 LLMs 已能解决多领域重大未解难题，但 AI 公司以解题为 benchmark，与数学社区目标严重错位。",
-          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T17:30:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "terrytao.wordpress.com"
-      ],
-      "items": [
-        {
-          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
-          "title": "数学领域中人工智能的偏差",
-          "title_zh": "数学领域中人工智能的偏差",
-          "title_en": null,
-          "title_original": "数学领域中人工智能的偏差",
-          "summary": null,
-          "recommend_reason_zh": "Terence Tao 等 25 位 Fields Medallists 签署声明，警告 AI 公司把解数学难题当 benchmark 会损害数学界，而 LLM 近月已能攻克多领域重大未解问题。",
-          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-          "source": "terrytao.wordpress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T19:07:02.862000Z"
-        },
-        {
-          "id": "cd9e1c331c705b65c68eba90a042db9e9f3b2f87",
-          "title": "AI在数学领域的错位 / A misalignment of AI in mathematics",
-          "title_zh": "AI在数学领域的错位",
-          "title_en": "A misalignment of AI in mathematics",
-          "title_original": "A misalignment of AI in mathematics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mathandai.org",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T17:45:12Z"
-        },
-        {
-          "id": "267410680a72b7f080c151b1800a44d3211e7e12",
-          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
-          "title_zh": "数学领域中人工智能的偏差",
-          "title_en": "A Misalignment of AI in Mathematics",
-          "title_original": "A Misalignment of AI in Mathematics",
-          "summary": null,
-          "recommend_reason_zh": "Terence Tao 等25位 Fields Medallists 联署声明：近几个月 LLMs 已能解决多领域重大未解难题，但 AI 公司以解题为 benchmark，与数学社区目标严重错位。",
-          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T17:30:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7274,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T17:30:26Z",
-      "latest_at": "2026-09-11T19:07:02.862000Z",
-      "primary_item": {
-        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
-        "title": "数学领域中人工智能的偏差",
-        "title_zh": "数学领域中人工智能的偏差",
-        "title_en": null,
-        "title_original": "数学领域中人工智能的偏差",
-        "summary": null,
-        "recommend_reason_zh": "Terence Tao 等 25 位 Fields Medallists 签署声明，警告 AI 公司把解数学难题当 benchmark 会损害数学界，而 LLM 近月已能攻克多领域重大未解问题。",
-        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
-        "source": "terrytao.wordpress.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "陶哲轩的观察值得读，但没工具没代码，看完继续写你的 prompt。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
-      }
-    },
-    {
-      "story_id": "story_1a4cb1a60e42",
-      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-      "url": "https://github.com/kennethwolters/litelm",
-      "primary_url": "https://github.com/kennethwolters/litelm",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": null,
-          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "summary": null,
-          "recommend_reason_zh": "litelm 把 litellm 的调用路径精简到约 2900 行、2 个依赖，保留 19 家 provider 路由与消息转换，砍掉 proxy 和缓存层，262 个测试通过。",
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T02:45:28.057000Z"
-        },
-        {
-          "id": "487bee413149b02ad73660916597c54999d79db0",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": "Litelm: LiteLLM Without the Bloat",
-          "title_original": "Litelm: LiteLLM Without the Bloat",
-          "summary": null,
-          "recommend_reason_zh": "litelm 把 litellm 的路由与格式翻译剥离成约2900行代码、仅2个依赖，覆盖19家提供商，导入路径改成 s/litellm/litelm/ 即可切换。",
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T18:10:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": null,
-          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "summary": null,
-          "recommend_reason_zh": "litelm 把 litellm 的调用路径精简到约 2900 行、2 个依赖，保留 19 家 provider 路由与消息转换，砍掉 proxy 和缓存层，262 个测试通过。",
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T02:45:28.057000Z"
-        },
-        {
-          "id": "487bee413149b02ad73660916597c54999d79db0",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": "Litelm: LiteLLM Without the Bloat",
-          "title_original": "Litelm: LiteLLM Without the Bloat",
-          "summary": null,
-          "recommend_reason_zh": "litelm 把 litellm 的路由与格式翻译剥离成约2900行代码、仅2个依赖，覆盖19家提供商，导入路径改成 s/litellm/litelm/ 即可切换。",
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-11T18:10:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8123,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T18:10:20Z",
-      "latest_at": "2026-09-12T02:45:28.057000Z",
-      "primary_item": {
-        "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-        "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "title_en": null,
-        "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "summary": null,
-        "recommend_reason_zh": "litelm 把 litellm 的调用路径精简到约 2900 行、2 个依赖，保留 19 家 provider 路由与消息转换，砍掉 proxy 和缓存层，262 个测试通过。",
-        "url": "https://github.com/kennethwolters/litelm",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "LiteLLM 的轻量替代，嫌原版依赖重的可以 clone 试试，但生态还小。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1857,15 +1543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7793,
+        "recency": 0.7614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1892,7 +1578,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     },
     {
@@ -1969,15 +1655,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7403,
+        "recency": 0.7232,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2004,119 +1690,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
-      }
-    },
-    {
-      "story_id": "story_94d7dab25647",
-      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
-        },
-        {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
-        },
-        {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T17:48:05.859000Z",
-      "latest_at": "2026-09-11T18:07:08Z",
-      "primary_item": {
-        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-        "title_en": "Top mathematicians are outraged by OpenAI's methods",
-        "title_original": "Top mathematicians are outraged by OpenAI's methods",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "数学家吵架不影响你调 API，除非你在做形式化证明，否则跳过。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-12T17:20:47.245053Z"
+        "scored_at": "2026-09-12T18:57:49.913284Z"
       }
     }
   ]

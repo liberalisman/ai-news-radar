@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_e106ae18d313|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "MCP规范方向定了，SDK和工具链会跟进，但今天没新东西可用，先关注别急着改。",
-      "title_hash": "c00551f3",
-      "scored_at": "2026-08-22T17:44:01.510635Z"
-    },
-    "story_a2591c776bef|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "IPO风险披露而已，不影响API使用，开发者不用行动。",
-      "title_hash": "dceb7b6f",
-      "scored_at": "2026-08-22T17:44:03.070878Z"
-    },
-    "story_e106ae18d313|cynic|f4237a62": {
-      "score": 35,
-      "review": "路线图画得圆，规范落地前都是纸上谈兵。",
-      "title_hash": "c00551f3",
-      "scored_at": "2026-08-22T17:44:12.564707Z"
-    },
-    "story_e106ae18d313|paper-police|966065bf": {
-      "score": 20,
-      "review": "路线图只算规划声明，无代码无评测，等发布规范再验证。",
-      "title_hash": "c00551f3",
-      "scored_at": "2026-08-22T17:44:14.259244Z"
-    },
     "story_ede39af7c879|pragmatic|0a5c5b24": {
       "score": 70,
       "review": "规范方向明确但暂无新版本可上手，集成方先观望。",
@@ -5790,6 +5766,24 @@
       "review": "Baseten博客给了CED架构和prefill数字，但无论文无开源仓库，复现不了。",
       "title_hash": "7e67a706",
       "scored_at": "2026-09-12T17:20:53.262866Z"
+    },
+    "story_462f3ecf41bf|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "先确认 API 是否开放、定价和上下文窗口，别急着迁移。",
+      "title_hash": "1287fe8b",
+      "scored_at": "2026-09-12T18:57:51.411278Z"
+    },
+    "story_462f3ecf41bf|cynic|f4237a62": {
+      "score": 55,
+      "review": "又是\"社区案例\"撑场面，跑分、定价、上下文长度一个没提，先看真机再说。",
+      "title_hash": "1287fe8b",
+      "scored_at": "2026-09-12T18:57:52.206776Z"
+    },
+    "story_462f3ecf41bf|paper-police|966065bf": {
+      "score": 30,
+      "review": "仅一条官方推文，无论文、无代码、无第三方跑分，社区案例不算证据。",
+      "title_hash": "1287fe8b",
+      "scored_at": "2026-09-12T18:57:53.236360Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:20:53.262971Z",
+  "generated_at": "2026-09-12T18:57:53.236412Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_2cae03eec67b",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
+      "story_id": "story_462f3ecf41bf",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "取证分析听着唬人，但攻击归因到'OpenAI智能体集群'的证据链呢？域名先亮出来。"
+          "score": 55,
+          "review": "又是\"社区案例\"撑场面，跑分、定价、上下文长度一个没提，先看真机再说。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "取证分析发在自家网站，无独立验证、无第三方复现，指控再详细也只是单方说法。"
+          "score": 30,
+          "review": "仅一条官方推文，无论文、无代码、无第三方跑分，社区案例不算证据。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
+          "review": "先确认 API 是否开放、定价和上下文窗口，别急着迁移。"
         }
       }
     }
