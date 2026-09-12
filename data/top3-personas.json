@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:53:04.653909Z",
+  "generated_at": "2026-09-12T05:16:57.341216Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_9cc4559ef9f0",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "story_id": "story_918720d3acdd",
+      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
+      "url": "https://www.aibase.com/news/30994",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "降价加视觉是真动作，但游戏和城市生成这种demo挑得太顺手，缺硬基准。"
+          "review": "每分钟五分钱听着便宜，但语音这玩意儿一开口就是分钟计费，账单跑起来比你想的快。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "自媒体实测有任务和数字，但无论文无开源无第三方复现，先当博客看。"
+          "score": 38,
+          "review": "只有媒体转述定价，无官方文档、无API实测、无延迟与并发数据，先等开发者跑通再说。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "降价加原生视觉，做多模态和批量推理的今天就能换模型试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_9e333bae70b0",
-      "title": "OpenAI 将 GPT-Live-1 引入 API：全双工语音、支持打断，可接电话做客服",
-      "url": "https://www.aibase.com/news/30977",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "全双工加打断是真本事，但客服场景的延迟和并发成本，PR稿一个字没提。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "只有媒体转述，无论文、无代码、无第三方延迟与打断评测，全双工指标待验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "全双工语音API能直接接电话做客服，今天就能试，做语音Agent的赶紧上手。"
+          "review": "语音能力按分钟计价，实时对话类产品今天就能接，成本先算清。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_bbf03c6dd45c",
       "title": "Copilot 代码审查新增自动解决与分析功能更新 / Auto-resolution and analysis updates in Copilot code review",
       "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "Copilot 审查能自动改代码了，团队今天就能开开关试，省一轮来回。"
+        }
+      }
+    },
+    {
+      "story_id": "story_d3a6917624b3",
+      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
+      "url": "https://www.aibase.com/news/30995",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "限时免费四个字最诚实——价格才是这版Flash唯一敢公开的参数。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅限时免费试用通告，无论文、无代码、无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "限时免费，想试新模型的今天就能上手，注意别把生产流量压上去。"
         }
       }
     }
