@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:25:28.091167Z",
+  "generated_at": "2026-09-12T23:30:53.490017Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_2cae03eec67b",
-      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
-      "url": "https://www.rubyhack.ai",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 42,
-          "review": "取证分析听着唬人，但攻击归因到'OpenAI智能体集群'的证据链呢？域名先亮出来。"
-        },
-        "paper-police": {
-          "score": 22,
-          "review": "取证分析发在自家网站，无独立验证、无第三方复现，指控再详细也只是单方说法。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
-        }
-      }
-    },
-    {
       "story_id": "story_30eddadc9249",
       "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
       "url": "https://suno.com/blog/introducing-v6",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。"
+        }
+      }
+    },
+    {
+      "story_id": "story_86ff3d2b9b70",
+      "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "把搜索命脉交给别家模型，准确率涨没涨不知道，议价权先没了。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方博客宣称而已，无论文无代码无第三方评测，端到端效果拿什么复现？"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "官方博客讲集成效果，没给API细节和价格，等能实测再说。"
         }
       }
     }
