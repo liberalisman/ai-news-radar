@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:43:32.285355Z",
+  "generated_at": "2026-09-12T17:20:53.262971Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_13a866b96783",
+      "title": "DeepSeek 开源 V4.1-Flash：CED 架构降低编码 Agent 的 prefill 开销 / DeepSeek-V4.1-Flash： more efficient prefill for coding agents",
+      "url": "https://www.baseten.co/blog/deepseek-v41-flash-more-efficient-prefill-for-coding-agents",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "CED 降 prefill 是真需求，但只给 Baseten 一家跑分，权重和配方呢？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "Baseten博客给了CED架构和prefill数字，但无论文无开源仓库，复现不了。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源可 clone，专治编码 Agent 长上下文 prefill 慢，今天就能拉下来试。"
+        }
+      }
+    },
+    {
       "story_id": "story_bbf03c6dd45c",
       "title": "Copilot 代码审查新增自动解决与分析功能更新 / Auto-resolution and analysis updates in Copilot code review",
       "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -40,7 +60,7 @@
       "story_id": "story_2cae03eec67b",
       "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
       "url": "https://www.rubyhack.ai",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 42,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
-        }
-      }
-    },
-    {
-      "story_id": "story_1a4cb1a60e42",
-      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-      "url": "https://github.com/kennethwolters/litelm",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "精简掉的是功能还是维护者的耐心？fork 一时爽，上游合并火葬场。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "有开源仓库可查，但无论文无公开benchmark，性能宣称待验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "LiteLLM 的轻量替代，嫌原版依赖重的可以 clone 试试，但生态还小。"
         }
       }
     }
