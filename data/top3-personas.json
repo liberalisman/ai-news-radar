@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:57:00.872337Z",
+  "generated_at": "2026-09-12T09:51:36.887796Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_918720d3acdd",
-      "title": "OpenAI 开放 GPT-Live-1 API：每分钟 0.05 美元，把 ChatGPT 同款语音能力交给开发者",
-      "url": "https://www.aibase.com/news/30994",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "每分钟五分钱听着便宜，但语音这玩意儿一开口就是分钟计费，账单跑起来比你想的快。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "只有媒体转述定价，无官方文档、无API实测、无延迟与并发数据，先等开发者跑通再说。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "语音能力按分钟计价，实时对话类产品今天就能接，成本先算清。"
-        }
-      }
-    },
-    {
       "story_id": "story_bbf03c6dd45c",
       "title": "Copilot 代码审查新增自动解决与分析功能更新 / Auto-resolution and analysis updates in Copilot code review",
       "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_d3a6917624b3",
-      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-      "url": "https://www.aibase.com/news/30995",
+      "story_id": "story_2cae03eec67b",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "取证分析听着唬人，但攻击归因到'OpenAI智能体集群'的证据链呢？域名先亮出来。"
+        },
+        "paper-police": {
+          "score": 22,
+          "review": "取证分析发在自家网站，无独立验证、无第三方复现，指控再详细也只是单方说法。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1a4cb1a60e42",
+      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+      "url": "https://github.com/kennethwolters/litelm",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 58,
-          "review": "限时免费四个字最诚实——价格才是这版Flash唯一敢公开的参数。"
+          "review": "精简掉的是功能还是维护者的耐心？fork 一时爽，上游合并火葬场。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅限时免费试用通告，无论文、无代码、无第三方评测，证据不足。"
+          "score": 55,
+          "review": "有开源仓库可查，但无论文无公开benchmark，性能宣称待验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "限时免费，想试新模型的今天就能上手，注意别把生产流量压上去。"
+          "score": 72,
+          "review": "LiteLLM 的轻量替代，嫌原版依赖重的可以 clone 试试，但生态还小。"
         }
       }
     }
