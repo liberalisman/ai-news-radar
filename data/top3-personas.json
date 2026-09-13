@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:52:01.449934Z",
+  "generated_at": "2026-09-13T06:51:17.373310Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_30eddadc9249",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-      "url": "https://suno.com/blog/introducing-v6",
+      "story_id": "story_1ab0f86554fa",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 58,
-          "review": "三个版本号听着热闹，但博客里没给音质指标和版权方案，先别急着叫v6。"
+          "review": "四个机制听着齐全，可预算怎么定、压缩丢多少信息，全文一个数都没有。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称三版本，无论文无开源无第三方评测，仅厂商自述。"
+          "score": 38,
+          "review": "只有博客讲四种机制，无论文无代码无跑分，机制描述不等于可复现证据。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。"
+          "review": "四种上下文管理机制可直接抄进 Agent 项目，长任务翻车时先照这个改。"
         }
       }
     }
