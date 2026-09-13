@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T23:09:54.560460Z",
+  "generated_at": "2026-09-13T23:31:25.344520Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T23:09:54.560460Z",
-      "latest_at": "2026-09-13T23:09:54.560460Z",
+      "earliest_at": "2026-09-13T23:31:25.344520Z",
+      "latest_at": "2026-09-13T23:31:25.344520Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8793,
+        "recency": 0.8748,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -199,91 +199,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
-      }
-    },
-    {
-      "story_id": "story_b025ab79dc77",
-      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
-          "recommend_reason_zh": "标题借用 1-800-ChatGPT 这一美式免费电话号码格式，暗示 ChatGPT 或将开通电话接入；正文则把同一标题连排三遍，只留一句 See what's happening and join the conversation 收尾，信息极少却吊足胃口。",
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-          "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-          "title_en": "📞 1-800-ChatGPT",
-          "title_original": "📞 1-800-ChatGPT",
-          "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
-          "recommend_reason_zh": "标题借用 1-800-ChatGPT 这一美式免费电话号码格式，暗示 ChatGPT 或将开通电话接入；正文则把同一标题连排三遍，只留一句 See what's happening and join the conversation 收尾，信息极少却吊足胃口。",
-          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T23:16:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T23:16:27Z",
-      "latest_at": "2026-09-12T23:16:27Z",
-      "primary_item": {
-        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
-        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
-        "title_zh": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
-        "title_en": "📞 1-800-ChatGPT",
-        "title_original": "📞 1-800-ChatGPT",
-        "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
-        "recommend_reason_zh": "标题借用 1-800-ChatGPT 这一美式免费电话号码格式，暗示 ChatGPT 或将开通电话接入；正文则把同一标题连排三遍，只留一句 See what's happening and join the conversation 收尾，信息极少却吊足胃口。",
-        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "语音模型开 API，实时语音应用今天就能接，先测延迟和价格。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -331,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7797,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -366,7 +282,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -414,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -449,7 +365,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -466,7 +382,7 @@
           "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "title_en": null,
           "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "summary": "Private, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nWe gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day.\nWe gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. It appears to have actually solved it, and the solution is quite embarrassing for humans in hindsight.\nAt the end of Ur",
+          "summary": null,
           "recommend_reason_zh": "文章记录 Claude Fable 5.1 在 44 分钟、176k tokens 内破解 Sir Thomas Urquhart 的 Cyphral Distich：这组 64 个数字的密码已 370 年未解，关键线索是 32 个 Proquiritations，最终得出祈求 Charles II 统治的句子，并继续破译 285 个数字的 Cyphral Octastich。",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "www.vals.ai",
@@ -494,7 +410,7 @@
           "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
           "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "summary": "Private, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nWe gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day.\nWe gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. It appears to have actually solved it, and the solution is quite embarrassing for humans in hindsight.\nAt the end of Ur",
+          "summary": null,
           "recommend_reason_zh": "Fable 5.1 用44分钟、176k tokens解开悬置370年的 Sir Thomas Urquhart 的 Cyphral Distich，发现密钥是书本身：以32篇 Proquiritations 作词索引，从64个数字还原出祈求 Charles II 统治的诗句，还破译 The Jewel 中285个数字的 Cyphral Octastich。",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "Hacker News (黑客新闻)",
@@ -516,7 +432,7 @@
           "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "title_en": null,
           "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-          "summary": "Private, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nWe gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day.\nWe gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. It appears to have actually solved it, and the solution is quite embarrassing for humans in hindsight.\nAt the end of Ur",
+          "summary": null,
           "recommend_reason_zh": "文章记录 Claude Fable 5.1 在 44 分钟、176k tokens 内破解 Sir Thomas Urquhart 的 Cyphral Distich：这组 64 个数字的密码已 370 年未解，关键线索是 32 个 Proquiritations，最终得出祈求 Charles II 统治的句子，并继续破译 285 个数字的 Cyphral Octastich。",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "www.vals.ai",
@@ -544,7 +460,7 @@
           "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
           "title_en": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
           "title_original": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "summary": "Private, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nWe gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day.\nWe gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. It appears to have actually solved it, and the solution is quite embarrassing for humans in hindsight.\nAt the end of Ur",
+          "summary": null,
           "recommend_reason_zh": "Fable 5.1 用44分钟、176k tokens解开悬置370年的 Sir Thomas Urquhart 的 Cyphral Distich，发现密钥是书本身：以32篇 Proquiritations 作词索引，从64个数字还原出祈求 Charles II 统治的诗句，还破译 The Jewel 中285个数字的 Cyphral Octastich。",
           "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
           "source": "Hacker News (黑客新闻)",
@@ -555,15 +471,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.568,
+      "importance": 0.568,
+      "importance_score": 0.568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -578,7 +494,7 @@
         "title_zh": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
         "title_en": null,
         "title_original": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-        "summary": "Private, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nPrivate, domain-specific benchmarks in legal, tax, and finance.\nWe gave Claude Fable 5.1 an open task: solve an unsolved 370-year-old cipher. It solved it within a day.\nWe gave Claude Fable 5.1 an open task: solve Sir Thomas Urquhart’s Cyphral Distich. It appears to have actually solved it, and the solution is quite embarrassing for humans in hindsight.\nAt the end of Ur",
+        "summary": null,
         "recommend_reason_zh": "文章记录 Claude Fable 5.1 在 44 分钟、176k tokens 内破解 Sir Thomas Urquhart 的 Cyphral Distich：这组 64 个数字的密码已 370 年未解，关键线索是 32 个 Proquiritations，最终得出祈求 Charles II 统治的句子，并继续破译 285 个数字的 Cyphral Octastich。",
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
         "source": "www.vals.ai",
@@ -590,7 +506,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -607,7 +523,7 @@
           "title_zh": "AI 的递归自我改进或许终究不会来得那么快",
           "title_en": "AI recursive self-improvement might not come so quickly after all",
           "title_original": "AI recursive self-improvement might not come so quickly after all",
-          "summary": "AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\nThe AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …\nAI agents are not yet creative enough to c",
+          "summary": null,
           "recommend_reason_zh": "新研究让 Claude Opus 4.8 在六天和 3000 美元 API 额度内做开放式 AI 研究，结果它仍缺判断力与创造力，写不出 NeurIPS 2026 级别的原创论文，recursive self-improvement 可能不会很快到来。",
           "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
           "source": "Hacker News · 24h最热",
@@ -642,7 +558,7 @@
           "title_zh": "AI 的递归自我改进或许终究不会来得那么快",
           "title_en": "AI recursive self-improvement might not come so quickly after all",
           "title_original": "AI recursive self-improvement might not come so quickly after all",
-          "summary": "AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\nThe AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …\nAI agents are not yet creative enough to c",
+          "summary": null,
           "recommend_reason_zh": "新研究让 Claude Opus 4.8 在六天和 3000 美元 API 额度内做开放式 AI 研究，结果它仍缺判断力与创造力，写不出 NeurIPS 2026 级别的原创论文，recursive self-improvement 可能不会很快到来。",
           "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
           "source": "Hacker News · 24h最热",
@@ -667,15 +583,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9393,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,7 +606,7 @@
         "title_zh": "AI 的递归自我改进或许终究不会来得那么快",
         "title_en": "AI recursive self-improvement might not come so quickly after all",
         "title_original": "AI recursive self-improvement might not come so quickly after all",
-        "summary": "AI agents are not yet creative enough to carry out genuinely innovative open-ended AI research, it seems.\nThe AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. …\nAI agents are not yet creative enough to c",
+        "summary": null,
         "recommend_reason_zh": "新研究让 Claude Opus 4.8 在六天和 3000 美元 API 额度内做开放式 AI 研究，结果它仍缺判断力与创造力，写不出 NeurIPS 2026 级别的原创论文，recursive self-improvement 可能不会很快到来。",
         "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
         "source": "Hacker News · 24h最热",
@@ -702,7 +618,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -779,15 +695,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
+        "recency": 0.9335,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,7 +730,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -891,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9243,
+        "recency": 0.9195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,7 +842,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -1003,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5082,
+      "importance": 0.5082,
+      "importance_score": 0.5082,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7951,
+        "recency": 0.791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1038,7 +954,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     },
     {
@@ -1115,15 +1031,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4986,
-      "importance": 0.4986,
-      "importance_score": 0.4986,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7376,
+        "recency": 0.7337,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,7 +1066,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T23:18:24.355608Z"
+        "scored_at": "2026-09-13T23:38:28.673800Z"
       }
     }
   ]
