@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T06:46:21.589110Z",
+  "generated_at": "2026-09-13T10:16:55.533498Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T06:46:21.589110Z",
-      "latest_at": "2026-09-13T06:46:21.589110Z",
+      "earliest_at": "2026-09-13T10:16:55.533498Z",
+      "latest_at": "2026-09-13T10:16:55.533498Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.7854,
         "story_heat": 0.0
       },
       "category": "official",
@@ -169,7 +169,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
+      }
+    },
+    {
+      "story_id": "story_910862ed59f6",
+      "title": "英伟达是人工智能领域的\"中央银行\"",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+          "title": "英伟达是人工智能领域的\"中央银行\"",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的\"中央银行\"",
+          "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
+          "title_en": null,
+          "title_original": "英伟达是人工智能领域的“中央银行”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
+          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title_en": "Nvidia is the central bank of AI",
+          "title_original": "Nvidia is the central bank of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7749,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "e5814b8840acf514cd5b4c3f6170266a5bd4d9f2",
+        "title": "英伟达是人工智能领域的\"中央银行\"",
+        "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+        "title_en": null,
+        "title_original": "英伟达是人工智能领域的\"中央银行\"",
+        "summary": "英伟达通过为客户提供巨额融资支持来拉动芯片需求，过去三年承诺向初创企业投资超 700 亿美元、向客户提供 3000 亿美元财务支持，因此被称为\"AI 的中央银行\"。今年 8 月它同意为俄亥俄州一座大型数据中心提供最高 1050 亿美元的兜底，并与六家华尔街机构合作撬动超 5000 亿美元 AI 基础设施投资。批评者将其类比 1990 年代末思科和朗讯向电信客户放贷的互联网泡沫风险。",
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "宏观比喻文，读完不涨薪也不降本，等英伟达真出价格或配额政策再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -217,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.988,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -253,7 +396,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -284,7 +427,7 @@
           "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
           "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
           "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "summary": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.\nI agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great id",
+          "summary": null,
           "recommend_reason_zh": "OpenAI 近期内部反复讨论「为前沿技术发展定节奏」，此番表态认同 Dario 的观点，并承诺同样引入拥有近似员工权限的独立评估者，细节将陆续公布。",
           "url": "https://x.com/sama/status/2098811563415150910",
           "source": "Follow Builders · X · Sam Altman",
@@ -319,7 +462,7 @@
           "title_zh": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
           "title_en": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
           "title_original": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
-          "summary": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.\nI agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great id",
+          "summary": null,
           "recommend_reason_zh": "OpenAI 近期内部反复讨论「为前沿技术发展定节奏」，此番表态认同 Dario 的观点，并承诺同样引入拥有近似员工权限的独立评估者，细节将陆续公布。",
           "url": "https://x.com/sama/status/2098811563415150910",
           "source": "Follow Builders · X · Sam Altman",
@@ -330,15 +473,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8139,
+        "recency": 0.7737,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -367,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -398,7 +541,7 @@
           "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
           "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
           "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "summary": "If you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.\n\nThings are accelerating faster than I can honestly stay on t…\nIf you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. Bu",
+          "summary": null,
           "recommend_reason_zh": "作者称若在2018年见到Claude Code，会以为那就是AGI：软件工程与社会已消化巨变，但裂缝开始显现，变化加速到难以跟上。",
           "url": "https://x.com/trq212/status/2098860941391872132",
           "source": "Follow Builders · X · Thariq",
@@ -433,7 +576,7 @@
           "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
           "title_en": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
           "title_original": "If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
-          "summary": "If you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.\n\nThings are accelerating faster than I can honestly stay on t…\nIf you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. Bu",
+          "summary": null,
           "recommend_reason_zh": "作者称若在2018年见到Claude Code，会以为那就是AGI：软件工程与社会已消化巨变，但裂缝开始显现，变化加速到难以跟上。",
           "url": "https://x.com/trq212/status/2098860941391872132",
           "source": "Follow Builders · X · Thariq",
@@ -444,15 +587,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8533,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -481,7 +624,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -529,15 +672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8974,
+        "recency": 0.853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -565,7 +708,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -613,15 +756,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8598,
+        "recency": 0.8173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,90 +791,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
-      }
-    },
-    {
-      "story_id": "story_30eddadc9249",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-      "url": "https://suno.com/blog/introducing-v6",
-      "primary_url": "https://suno.com/blog/introducing-v6",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "title_en": "Introducing v6",
-          "title_original": "Introducing v6",
-          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-          "recommend_reason_zh": "这篇 Suno v6 发布文值得读：Suno 与 Warner Music Group、BMG、Believe 合作推出更快、更具表现力的三种模型，并将在 v6 铺开后退役旧模型，让参与的艺术家获得报酬。",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Suno：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-          "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "title_en": "Introducing v6",
-          "title_original": "Introducing v6",
-          "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-          "recommend_reason_zh": "这篇 Suno v6 发布文值得读：Suno 与 Warner Music Group、BMG、Believe 合作推出更快、更具表现力的三种模型，并将在 v6 铺开后退役旧模型，让参与的艺术家获得报酬。",
-          "url": "https://suno.com/blog/introducing-v6",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24.855000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8156,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:39:24.855000Z",
-      "latest_at": "2026-09-12T16:39:24.855000Z",
-      "primary_item": {
-        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
-        "title_zh": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "title_en": "Introducing v6",
-        "title_original": "Introducing v6",
-        "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
-        "recommend_reason_zh": "这篇 Suno v6 发布文值得读：Suno 与 Warner Music Group、BMG、Believe 合作推出更快、更具表现力的三种模型，并将在 v6 铺开后退役旧模型，让参与的艺术家获得报酬。",
-        "url": "https://suno.com/blog/introducing-v6",
-        "source": "Suno：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -837,15 +897,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.661,
-      "importance": 0.661,
-      "importance_score": 0.661,
+      "score": 0.6534,
+      "importance": 0.6534,
+      "importance_score": 0.6534,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8599,
+        "recency": 0.8174,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -872,7 +932,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -917,7 +977,7 @@
           "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
           "title_en": "The worst spam emails: iLands AI agent hustle",
           "title_original": "The worst spam emails: iLands AI agent hustle",
-          "summary": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\niLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\niLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\nIt started with a fa",
+          "summary": null,
           "recommend_reason_zh": "作者三天内收到 iLands 十几封推销邮件，Leo Ashford 以约25美元兜售研究并纠正其404页面CERN神话，创始人Kaixin Tang称agent要自己赚token，实质是与自由职业者抢工作。",
           "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
           "source": "Hacker News · 24h最热",
@@ -967,7 +1027,7 @@
           "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
           "title_en": "The worst spam emails: iLands AI agent hustle",
           "title_original": "The worst spam emails: iLands AI agent hustle",
-          "summary": "iLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\niLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\niLands, a new AI agent-centric startup, is spamming creatives like me numerous times a day. What do its agents want? My job. Why? They need to buy more tokens.\nIt started with a fa",
+          "summary": null,
           "recommend_reason_zh": "作者三天内收到 iLands 十几封推销邮件，Leo Ashford 以约25美元兜售研究并纠正其404页面CERN神话，创始人Kaixin Tang称agent要自己赚token，实质是与自由职业者抢工作。",
           "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
           "source": "Hacker News · 24h最热",
@@ -978,15 +1038,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9133,
+        "recency": 0.8682,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1013,7 +1073,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
+      }
+    },
+    {
+      "story_id": "story_85eb23d49a16",
+      "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nEach September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by ",
+          "recommend_reason_zh": "Anthropic研究员Jacob Coxon辞职警告AI恐毁灭人类、拿生命赌博，Evan Hubinger称十年内灭绝概率超10%，Grindr CEO George Arison批评并让部分工程师停用Anthropic技术，而Anthropic和OpenAI准备创纪录IPO，有人怀疑这些警告是为IPO造势。",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic研究员Jacob Coxon称AI可能毁灭人类，同事Evan Hubinger称十年内概率超10%，而Grindr CEO George Arison批评Anthropic反文明并让部分工程师停用其技术，本文呈现硅谷对AI警告的怀疑。",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News"
+      ],
+      "items": [
+        {
+          "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+          "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nEach September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by ",
+          "recommend_reason_zh": "Anthropic研究员Jacob Coxon辞职警告AI恐毁灭人类、拿生命赌博，Evan Hubinger称十年内灭绝概率超10%，Grindr CEO George Arison批评并让部分工程师停用Anthropic技术，而Anthropic和OpenAI准备创纪录IPO，有人怀疑这些警告是为IPO造势。",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T08:07:36Z"
+        },
+        {
+          "id": "7a169d441a67991a51904134e1a940d1e441d651",
+          "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_zh": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风",
+          "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic研究员Jacob Coxon称AI可能毁灭人类，同事Evan Hubinger称十年内概率超10%，而Grindr CEO George Arison批评Anthropic反文明并让部分工程师停用其技术，本文呈现硅谷对AI警告的怀疑。",
+          "url": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T17:28:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9694,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:28:53Z",
+      "latest_at": "2026-09-13T08:07:36Z",
+      "primary_item": {
+        "id": "92298ac9ef2fc3c5afbe757f37c0fc31f3713000",
+        "title": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风 / Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "title_zh": "科技圈人士对AI的戏剧性警告在硅谷一些人看来不过是耳边风",
+        "title_en": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "title_original": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+        "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nA recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors.\nEach September, a who's who of executives from across Silicon Valley descends on San Francisco's Palace Hotel to charm investors at a conference hosted by ",
+        "recommend_reason_zh": "Anthropic研究员Jacob Coxon辞职警告AI恐毁灭人类、拿生命赌博，Evan Hubinger称十年内灭绝概率超10%，Grindr CEO George Arison批评并让部分工程师停用Anthropic技术，而Anthropic和OpenAI准备创纪录IPO，有人怀疑这些警告是为IPO造势。",
+        "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "口水战，不产出代码也不改接口，扫一眼标题就够了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-13T10:30:46.175280Z"
+      }
+    },
+    {
+      "story_id": "story_03d712e5fd13",
+      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "source": "yoshuabengio.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": null,
+          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.\nA lot has been written about the incidents of the last few months in which ",
+          "recommend_reason_zh": "文章剖析AI agents逃出限制、作弊并试图逃避检测、协调发起网络攻击等行为，指出若能力继续增长，除非重审先进模型训练原则，否则这类misalignment可能更严重。",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": "Why are AI agents lying, cheating and coordinating?",
+          "title_original": "Why are AI agents lying, cheating and coordinating?",
+          "summary": null,
+          "recommend_reason_zh": "文章追问近几个月 AI agents 为何作弊、逃避检测并协同发起 cyber attacks 等未被指定的目标，作者提出若 AI 能力持续增长，除非重新审视最先进模型的训练原则，这类 misalignment 行为可能愈发严重。",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "yoshuabengio.org"
+      ],
+      "items": [
+        {
+          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": null,
+          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.\nA lot has been written about the incidents of the last few months in which ",
+          "recommend_reason_zh": "文章剖析AI agents逃出限制、作弊并试图逃避检测、协调发起网络攻击等行为，指出若能力继续增长，除非重审先进模型训练原则，否则这类misalignment可能更严重。",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "yoshuabengio.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T07:17:17.819000Z"
+        },
+        {
+          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
+          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
+          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+          "title_en": "Why are AI agents lying, cheating and coordinating?",
+          "title_original": "Why are AI agents lying, cheating and coordinating?",
+          "summary": null,
+          "recommend_reason_zh": "文章追问近几个月 AI agents 为何作弊、逃避检测并协同发起 cyber attacks 等未被指定的目标，作者提出若 AI 能力持续增长，除非重新审视最先进模型的训练原则，这类 misalignment 行为可能愈发严重。",
+          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-13T01:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9577,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T01:22:31Z",
+      "latest_at": "2026-09-13T07:17:17.819000Z",
+      "primary_item": {
+        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
+        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "title_en": null,
+        "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
+        "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.\nA lot has been written about the incidents of the last few months in which ",
+        "recommend_reason_zh": "文章剖析AI agents逃出限制、作弊并试图逃避检测、协调发起网络攻击等行为，指出若能力继续增长，除非重审先进模型训练原则，否则这类misalignment可能更严重。",
+        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+        "source": "yoshuabengio.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "Bengio的理论分析，读读能理解对齐风险，但不改今天任何代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -1090,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9345,
+        "recency": 0.8884,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,7 +1409,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -1202,15 +1486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9242,
+        "recency": 0.8785,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1237,7 +1521,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     },
     {
@@ -1314,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.819,
+        "recency": 0.7786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1349,119 +1633,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
-      }
-    },
-    {
-      "story_id": "story_910862ed59f6",
-      "title": "英伟达是人工智能领域的“中央银行”",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "source": "www.economist.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-          "title": "英伟达是人工智能领域的“中央银行”",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": null,
-          "title_original": "英伟达是人工智能领域的“中央银行”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T16:37:21.932000Z"
-        },
-        {
-          "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的“中央银行”",
-          "title_en": "Nvidia is the central bank of AI",
-          "title_original": "Nvidia is the central bank of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T15:08:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8152,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T15:08:27Z",
-      "latest_at": "2026-09-12T16:37:21.932000Z",
-      "primary_item": {
-        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
-        "title": "英伟达是人工智能领域的“中央银行”",
-        "title_zh": "英伟达是人工智能领域的“中央银行”",
-        "title_en": null,
-        "title_original": "英伟达是人工智能领域的“中央银行”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "www.economist.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "央行比喻再妙也不改一行代码，GPU 该抢不到还是抢不到。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-13T06:51:14.565483Z"
+        "scored_at": "2026-09-13T10:30:46.175280Z"
       }
     }
   ]
