@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T23:30:53.490017Z",
+  "generated_at": "2026-09-13T00:10:51.378557Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_b025ab79dc77",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API / 📞 1-800-ChatGPT",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "语音模型上 API 是真进展，但 1-800 这号码更像营销彩蛋，延迟和定价一个字没提。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方推文宣称开放API，无论文、无代码、无第三方评测，只有说法。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "语音模型开 API，实时语音应用今天就能接，先测延迟和价格。"
+        }
+      }
+    },
+    {
       "story_id": "story_462f3ecf41bf",
       "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
       "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -40,7 +60,7 @@
       "story_id": "story_30eddadc9249",
       "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本 / Introducing v6",
       "url": "https://suno.com/blog/introducing-v6",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。"
-        }
-      }
-    },
-    {
-      "story_id": "story_86ff3d2b9b70",
-      "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "把搜索命脉交给别家模型，准确率涨没涨不知道，议价权先没了。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称而已，无论文无代码无第三方评测，端到端效果拿什么复现？"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "官方博客讲集成效果，没给API细节和价格，等能实测再说。"
         }
       }
     }
