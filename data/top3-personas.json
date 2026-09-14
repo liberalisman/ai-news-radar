@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:14:14.017047Z",
+  "generated_at": "2026-09-14T01:48:12.813140Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_fe9bcb863f7c",
+      "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+      "url": "https://www.aibase.com/news/31010",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "推理加速框架配新模型，标题堆三个名字，实测吞吐和延迟数字一个没给。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "只有单一媒体转述，无论文、无代码、无第三方复现，实时服务靠什么数据支撑？"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "推理框架适配新模型，做部署的可以看下吞吐和延迟数据再决定换不换。"
+        }
+      }
+    },
+    {
       "story_id": "story_1ab0f86554fa",
       "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
       "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -40,7 +60,7 @@
       "story_id": "story_86ff3d2b9b70",
       "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 55,
           "review": "官方博客讲集成效果，没给API细节和价格，等能实测再说。"
-        }
-      }
-    },
-    {
-      "story_id": "story_076542355556",
-      "title": "克劳德·法布尔 5.1 破解了“赛弗拉尔对句”——一项已有 370 年历史的密码",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "370年没人解开的密码，AI一出手就破了？先公布验证方法和对照基线再说。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "仅博客宣称破解370年密码，无论文无代码无第三方验证，等复现。"
-        },
-        "pragmatic": {
-          "score": 42,
-          "review": "密码学趣闻，跟日常开发没关系，当谈资看看就行。"
         }
       }
     }
