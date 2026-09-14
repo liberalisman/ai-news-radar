@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:34:26.734620Z",
+  "generated_at": "2026-09-14T07:15:35.245665Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_3a1702cd4763",
+      "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
+      "url": "https://www.aibase.com/news/31028",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "上线即开放API算实在，但版本号跳到4.1-Flash，参数、价格、跑分一个没给，先别急着喊。"
+        },
+        "paper-police": {
+          "score": 22,
+          "review": "只有上线通告，无论文、无开源、无第三方跑分，模型能力无从验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "新模型API已开放，能直接调用测效果，做选型对比的今天就能跑。"
+        }
+      }
+    },
+    {
       "story_id": "story_b01914df6cf3",
       "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
       "url": "https://www.aibase.com/news/31025",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -40,7 +60,7 @@
       "story_id": "story_957795ac8f90",
       "title": "京东在 JDD 上甩出可交互视听世界模型：EchoWM 开源，长视频生成同步冲到 10 分钟以上",
       "url": "https://www.aibase.com/news/31024",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "开源可交互世界模型，做视频生成和具身仿真的可以直接 clone 试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_55918f87707d",
-      "title": "​月之暗面王牌主力模型K2.8Preview全量上线，性能直逼旗舰K3",
-      "url": "https://www.aibase.com/news/31016",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "Preview版就敢说直逼旗舰，等正式版出来再吹也不迟。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "只有上线消息，无论文、无代码、无第三方跑分，直逼旗舰是自说自话。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "预览版全量开放，能直接调API试效果，但别急着换生产模型。"
         }
       }
     }
