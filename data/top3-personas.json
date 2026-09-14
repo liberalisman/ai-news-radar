@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T14:41:30.530396Z",
+  "generated_at": "2026-09-14T23:07:15.671081Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_e31e702be431",
+      "title": "在 Copilot 自动模型选择中配置成本与质量 / Configure cost and quality in Copilot auto model selection",
+      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "终于把成本旋钮交给用户，但默认值藏在哪、省多少电费，changelog 一个字没提。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方更新给了配置说明，但无论文、无代码、无第三方评测，只能算有迹可循。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Copilot 自动选模型能调成本/质量了，团队今天就能按预算压账单。"
+        }
+      }
+    },
+    {
       "story_id": "story_3a1702cd4763",
       "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
       "url": "https://www.aibase.com/news/31030",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_2268a781ebb4",
-      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "开源是真开源，但'同量级领先'的基线是谁挑的？35B 和 397B 一起发，参数差十倍成绩差不多，这故事得再讲讲。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "官方称开源但仅公众号单源，未见论文、仓库链接与第三方复现，等代码和跑分。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "开源可下载，做搜索Agent的可以直接拉下来对比选型。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8d38aba00a88",
-      "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
-      "url": "https://www.aibase.com/news/31033",
+      "story_id": "story_c8036e0526ae",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "版权官司缠身就拉华纳BMG入伙，改歌混音听着美，授权曲库和价格一个字没提。"
+          "score": 72,
+          "review": "YARD 任意代码执行加 Fastly 缓存密钥，技术细节够硬；但'恶意 AI 智能体'这顶帽子，更像作者给自动化扫描脚"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有厂商发布稿，无论文无代码无第三方评测，自然语言改歌效果无从验证。"
+          "score": 42,
+          "review": "个人博客详述攻击链，细节可查但无独立复现与代码，先算有迹可循。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "做音乐AI应用的可以试新接口，但版权合作落地前商用仍需谨慎。"
+          "review": "Ruby 项目注意：YARD 可被恶意代码利用，CI 里跑文档生成前先隔离。"
         }
       }
     }

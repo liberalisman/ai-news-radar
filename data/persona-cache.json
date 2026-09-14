@@ -1,149 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_a31e711ee9db|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CLI 小版本更新，看 changelog 再决定要不要升，影响不大。",
-      "title_hash": "302f69f1",
-      "scored_at": "2026-08-24T15:18:26.424665Z"
-    },
-    "story_a31e711ee9db|cynic|f4237a62": {
-      "score": 70,
-      "review": "版本号刷得勤，但 changelog 里没提具体改了什么，水分不小。",
-      "title_hash": "302f69f1",
-      "scored_at": "2026-08-24T15:18:27.653591Z"
-    },
-    "story_a31e711ee9db|paper-police|966065bf": {
-      "score": 35,
-      "review": "仅官方更新日志，无论文代码评测，版本号而已，证据不足。",
-      "title_hash": "302f69f1",
-      "scored_at": "2026-08-24T15:18:28.788276Z"
-    },
-    "story_0c44db5345da|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "个人项目，思路可参考，但无现成方案，动手前先看代码。",
-      "title_hash": "4202952b",
-      "scored_at": "2026-08-24T20:02:17.891534Z"
-    },
-    "story_013a5db6bd34|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开源OCR工具，能直接接LLM管道，处理扫描件可省预处理时间。",
-      "title_hash": "62010d12",
-      "scored_at": "2026-08-24T20:02:16.451434Z"
-    },
-    "story_929ed190248c|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "方向对但没干货，等具体产品出来再评估。",
-      "title_hash": "dad8bccf",
-      "scored_at": "2026-08-24T16:13:17.437670Z"
-    },
-    "story_63639453173d|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "硬件效率数据看看就好，没货没价，选型还早。",
-      "title_hash": "cae2e32d",
-      "scored_at": "2026-08-24T16:13:18.591637Z"
-    },
-    "story_85b41d51c03a|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "API 直接降价，跑批量任务今天就能换，省下的都是利润。",
-      "title_hash": "80813e82",
-      "scored_at": "2026-08-24T19:17:26.650527Z"
-    },
-    "story_85b41d51c03a|cynic|f4237a62": {
-      "score": 70,
-      "review": "降价是实在的，但'至少'二字透着精明，先别急着感恩。",
-      "title_hash": "80813e82",
-      "scored_at": "2026-08-24T19:17:33.257354Z"
-    },
-    "story_85b41d51c03a|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方定价页降价，无评测无代码，仅商业调整，证据单薄。",
-      "title_hash": "80813e82",
-      "scored_at": "2026-08-24T19:17:34.730835Z"
-    },
-    "story_35aa593beb9e|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Codex 命令弃用，脚本和 CI 里用到的得赶紧换新接口。",
-      "title_hash": "bb22e7e3",
-      "scored_at": "2026-08-24T17:10:39.291153Z"
-    },
-    "story_5c02918da695|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "老生常谈的担忧，不解决今天写代码的问题，等真崩了再说。",
-      "title_hash": "31931eaf",
-      "scored_at": "2026-08-24T19:17:27.977488Z"
-    },
-    "story_35aa593beb9e|cynic|f4237a62": {
-      "score": 70,
-      "review": "弃用命令是常态，但没给替代方案细节，先观望。",
-      "title_hash": "bb22e7e3",
-      "scored_at": "2026-08-24T17:10:41.606310Z"
-    },
-    "story_35aa593beb9e|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方更新日志提及弃用，但无技术细节或迁移指南，证据不足。",
-      "title_hash": "bb22e7e3",
-      "scored_at": "2026-08-24T17:10:42.784284Z"
-    },
-    "story_48d321793dad|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "侧面反映LLM滥用问题，做公共服务相关应用的得考虑风控。",
-      "title_hash": "f332aa51",
-      "scored_at": "2026-08-24T18:02:43.049017Z"
-    },
-    "story_6c76364efb57|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "价格战信号，选型时多对比性价比，别盲目追最强。",
-      "title_hash": "15bd7f73",
-      "scored_at": "2026-08-24T19:17:29.348926Z"
-    },
-    "story_014379ecbab9|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "名人建议，无实操内容，学习路线不如直接看开源项目。",
-      "title_hash": "0fd37b42",
-      "scored_at": "2026-08-24T19:17:30.648460Z"
-    },
-    "story_77c848bd2367|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "招聘帖不是产品，等有东西可用了再看。",
-      "title_hash": "0dfbb67e",
-      "scored_at": "2026-08-24T20:02:20.414236Z"
-    },
     "story_a382eafa5b52|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "理论攻击面分析，离实际利用还远，做安全的可以留意。",
       "title_hash": "5be61865",
       "scored_at": "2026-08-25T03:25:41.351888Z"
-    },
-    "story_23b9168d3a9a|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "GPT-5.6 进 Kiro，性价比提升，跑任务的今天就能试。",
-      "title_hash": "488b69eb",
-      "scored_at": "2026-08-24T21:05:07.116157Z"
-    },
-    "story_c305b02382f1|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "协议细节未开源，短期难上手；搞网络底层的人可留意后续实现。",
-      "title_hash": "0b2f16a0",
-      "scored_at": "2026-08-24T21:05:08.914046Z"
-    },
-    "story_5ee230c688f3|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "能救回 Kindle 高亮，有具体需求的可抄，但受众窄，非通用工具。",
-      "title_hash": "fe2b4a04",
-      "scored_at": "2026-08-24T21:05:10.503531Z"
-    },
-    "story_23b9168d3a9a|cynic|f4237a62": {
-      "score": 72,
-      "review": "价格性能比提升是好事，但'开发者性价比'这种话术，先拿基准测试说话。",
-      "title_hash": "488b69eb",
-      "scored_at": "2026-08-24T21:05:12.094991Z"
-    },
-    "story_23b9168d3a9a|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方博客宣称性能提升，无论文无代码无基准，价格性能比无从验证。",
-      "title_hash": "488b69eb",
-      "scored_at": "2026-08-24T21:05:13.894528Z"
     },
     "story_974793f4f4f9|pragmatic|0a5c5b24": {
       "score": 25,
@@ -5700,6 +5562,96 @@
       "review": "代码里留了接口而已，没开放也没文档，开发者现在动不了手。",
       "title_hash": "18bf8694",
       "scored_at": "2026-09-14T14:41:30.530221Z"
+    },
+    "story_c8036e0526ae|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Ruby 项目注意：YARD 可被恶意代码利用，CI 里跑文档生成前先隔离。",
+      "title_hash": "1dc5f1e5",
+      "scored_at": "2026-09-14T23:07:03.370582Z"
+    },
+    "story_e31e702be431|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Copilot 自动选模型能调成本/质量了，团队今天就能按预算压账单。",
+      "title_hash": "8dff4803",
+      "scored_at": "2026-09-14T23:07:04.465328Z"
+    },
+    "story_9c9f79ea9dc9|pragmatic|0a5c5b24": {
+      "score": 18,
+      "review": "对谈视频，没新工具没接口，看完也写不出一行代码。",
+      "title_hash": "11f8b6e1",
+      "scored_at": "2026-09-14T23:07:05.465833Z"
+    },
+    "story_6d1f643d12b4|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "开发者大会官宣，没议程没产品，等有具体工具或API再花时间。",
+      "title_hash": "8d95a7a2",
+      "scored_at": "2026-09-14T23:07:06.377707Z"
+    },
+    "story_0eee8b8050f5|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "有具体价格和代码评审场景对比，选型时能参考；但先确认这俩模型是否真存在。",
+      "title_hash": "f747bb91",
+      "scored_at": "2026-09-14T23:07:07.188863Z"
+    },
+    "story_e8006455a1d2|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "Siri 换脑但只给测试版，开发者拿不到 API，先看别人踩坑。",
+      "title_hash": "0e485fd8",
+      "scored_at": "2026-09-14T23:07:08.063079Z"
+    },
+    "story_a5cc1961a5e8|pragmatic|0a5c5b24": {
+      "score": 32,
+      "review": "IPO 和估值跟你今天的代码没关系，等它真上市看招股书里的 API 定价再说。",
+      "title_hash": "a537b199",
+      "scored_at": "2026-09-14T23:07:08.870467Z"
+    },
+    "story_098c8c345e0d|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "榜单位置而已，没开放权重和API细节，先记着别急着换模型。",
+      "title_hash": "8ced4230",
+      "scored_at": "2026-09-14T23:07:09.938184Z"
+    },
+    "story_82be3d3bc673|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "智能体写代码把 CI 压垮是真痛点，Anthropic 的测试影响分析方案值得抄思路。",
+      "title_hash": "494f1dfb",
+      "scored_at": "2026-09-14T23:07:10.638343Z"
+    },
+    "story_82847db2812b|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "大会分论坛预告，没产品没代码，等真有发布会内容再说。",
+      "title_hash": "f601bb4f",
+      "scored_at": "2026-09-14T23:07:11.349851Z"
+    },
+    "story_17aae6f468b9|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资新闻，产品没开放，做网络互联的可以记个名字，其他人不用管。",
+      "title_hash": "54c628a4",
+      "scored_at": "2026-09-14T23:07:12.057700Z"
+    },
+    "story_e31e702be431|cynic|f4237a62": {
+      "score": 72,
+      "review": "终于把成本旋钮交给用户，但默认值藏在哪、省多少电费，changelog 一个字没提。",
+      "title_hash": "8dff4803",
+      "scored_at": "2026-09-14T23:07:13.095259Z"
+    },
+    "story_e31e702be431|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方更新给了配置说明，但无论文、无代码、无第三方评测，只能算有迹可循。",
+      "title_hash": "8dff4803",
+      "scored_at": "2026-09-14T23:07:13.874191Z"
+    },
+    "story_c8036e0526ae|cynic|f4237a62": {
+      "score": 72,
+      "review": "YARD 任意代码执行加 Fastly 缓存密钥，技术细节够硬；但'恶意 AI 智能体'这顶帽子，更像作者给自动化扫描脚",
+      "title_hash": "1dc5f1e5",
+      "scored_at": "2026-09-14T23:07:14.733842Z"
+    },
+    "story_c8036e0526ae|paper-police|966065bf": {
+      "score": 42,
+      "review": "个人博客详述攻击链，细节可查但无独立复现与代码，先算有迹可循。",
+      "title_hash": "1dc5f1e5",
+      "scored_at": "2026-09-14T23:07:15.671017Z"
     }
   }
 }
