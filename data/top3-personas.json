@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:15:35.245665Z",
+  "generated_at": "2026-09-14T13:17:46.696534Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -18,61 +18,61 @@
   "items": [
     {
       "story_id": "story_3a1702cd4763",
-      "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
-      "url": "https://www.aibase.com/news/31028",
+      "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
+      "url": "https://www.aibase.com/news/31030",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "上线即开放API算实在，但版本号跳到4.1-Flash，参数、价格、跑分一个没给，先别急着喊。"
+          "score": 62,
+          "review": "版本号从v2跳到v2.5，更新日志敢不敢列全？API和APP齐上算实在，但音质对比别只放自家demo。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "只有上线通告，无论文、无开源、无第三方跑分，模型能力无从验证。"
+          "score": 38,
+          "review": "只有发布通告，无论文、无开源、无第三方评测，API可用不等于可复现。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "新模型API已开放，能直接调用测效果，做选型对比的今天就能跑。"
+          "score": 82,
+          "review": "音频模型开放API，做配音和音乐生成的今天就能接进去试。"
         }
       }
     },
     {
-      "story_id": "story_b01914df6cf3",
-      "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
-      "url": "https://www.aibase.com/news/31025",
+      "story_id": "story_2268a781ebb4",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "把 Codex 包装成 API 再卖一遍，定价和限流只字未提，先看账单再说。"
+          "review": "开源是真开源，但'同量级领先'的基线是谁挑的？35B 和 397B 一起发，参数差十倍成绩差不多，这故事得再讲讲。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有单一媒体转述，无官方文档、无代码、无评测，API 发布也得看接口和跑分。"
+          "score": 55,
+          "review": "官方称开源但仅公众号单源，未见论文、仓库链接与第三方复现，等代码和跑分。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "Agent 从搭框架变成调接口，今天就能试，省掉一堆编排代码。"
+          "score": 82,
+          "review": "开源可下载，做搜索Agent的可以直接拉下来对比选型。"
         }
       }
     },
     {
-      "story_id": "story_957795ac8f90",
-      "title": "京东在 JDD 上甩出可交互视听世界模型：EchoWM 开源，长视频生成同步冲到 10 分钟以上",
-      "url": "https://www.aibase.com/news/31024",
+      "story_id": "story_8d38aba00a88",
+      "title": "Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样",
+      "url": "https://www.aibase.com/news/31033",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "开源是真，但10分钟长视频的算力账单和交互延迟，PR稿里一个字没提。"
+          "review": "版权官司缠身就拉华纳BMG入伙，改歌混音听着美，授权曲库和价格一个字没提。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "宣称开源且10分钟长视频，但仅单一媒体报道，未见论文、仓库链接与benchmark，待核实。"
+          "score": 30,
+          "review": "只有厂商发布稿，无论文无代码无第三方评测，自然语言改歌效果无从验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可交互世界模型，做视频生成和具身仿真的可以直接 clone 试。"
+          "score": 72,
+          "review": "做音乐AI应用的可以试新接口，但版权合作落地前商用仍需谨慎。"
         }
       }
     }
