@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:48:12.813140Z",
+  "generated_at": "2026-09-14T06:34:26.734620Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_fe9bcb863f7c",
-      "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
-      "url": "https://www.aibase.com/news/31010",
+      "story_id": "story_b01914df6cf3",
+      "title": "OpenAI 推出 Agents API：把 Codex 拆成云端服务，\"造 Agent\" 变成一次 API 调用",
+      "url": "https://www.aibase.com/news/31025",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "推理加速框架配新模型，标题堆三个名字，实测吞吐和延迟数字一个没给。"
+          "score": 62,
+          "review": "把 Codex 包装成 API 再卖一遍，定价和限流只字未提，先看账单再说。"
         },
         "paper-police": {
           "score": 30,
-          "review": "只有单一媒体转述，无论文、无代码、无第三方复现，实时服务靠什么数据支撑？"
+          "review": "只有单一媒体转述，无官方文档、无代码、无评测，API 发布也得看接口和跑分。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "推理框架适配新模型，做部署的可以看下吞吐和延迟数据再决定换不换。"
+          "score": 88,
+          "review": "Agent 从搭框架变成调接口，今天就能试，省掉一堆编排代码。"
         }
       }
     },
     {
-      "story_id": "story_1ab0f86554fa",
-      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失 / Context Engineering Inside the Harness： 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
-      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "story_id": "story_957795ac8f90",
+      "title": "京东在 JDD 上甩出可交互视听世界模型：EchoWM 开源，长视频生成同步冲到 10 分钟以上",
+      "url": "https://www.aibase.com/news/31024",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "四个机制听着齐全，可预算怎么定、压缩丢多少信息，全文一个数都没有。"
+          "score": 62,
+          "review": "开源是真，但10分钟长视频的算力账单和交互延迟，PR稿里一个字没提。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "只有博客讲四种机制，无论文无代码无跑分，机制描述不等于可复现证据。"
+          "score": 55,
+          "review": "宣称开源且10分钟长视频，但仅单一媒体报道，未见论文、仓库链接与benchmark，待核实。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "四种上下文管理机制可直接抄进 Agent 项目，长任务翻车时先照这个改。"
+          "score": 82,
+          "review": "开源可交互世界模型，做视频生成和具身仿真的可以直接 clone 试。"
         }
       }
     },
     {
-      "story_id": "story_86ff3d2b9b70",
-      "title": "Perplexity 将端到端系统托付给 GPT-6 Astra / Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "story_id": "story_55918f87707d",
+      "title": "​月之暗面王牌主力模型K2.8Preview全量上线，性能直逼旗舰K3",
+      "url": "https://www.aibase.com/news/31016",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "把搜索命脉交给别家模型，准确率涨没涨不知道，议价权先没了。"
+          "score": 45,
+          "review": "Preview版就敢说直逼旗舰，等正式版出来再吹也不迟。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称而已，无论文无代码无第三方评测，端到端效果拿什么复现？"
+          "score": 25,
+          "review": "只有上线消息，无论文、无代码、无第三方跑分，直逼旗舰是自说自话。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "官方博客讲集成效果，没给API细节和价格，等能实测再说。"
+          "score": 72,
+          "review": "预览版全量开放，能直接调API试效果，但别急着换生产模型。"
         }
       }
     }
