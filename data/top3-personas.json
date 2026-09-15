@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:45:35.834726Z",
+  "generated_at": "2026-09-15T07:00:26.937836Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_e73a75567feb",
+      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
+      "url": "https://www.aibase.com/news/31056",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源权重是真，但\"对标顶尖闭源\"的榜单一换就露馅，插拔记忆的实测成本也没提。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "开源是真，但报道未给论文与benchmark细节，长程任务对标闭源需实测。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "开源可 clone，插拔记忆模块值得拆开看，长程任务选型多一个候选。"
+        }
+      }
+    },
+    {
       "story_id": "story_592b799d103e",
       "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
       "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "编码能力追平顶级、成本砍到1/15，跑代码任务的今天就能换模型试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b4863055bc83",
-      "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
-      "url": "https://www.aibase.com/news/31042",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "0.5%开销听着漂亮，可拦截率和误杀率一个数没给，探针再轻也得看漏不漏。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "开源是加分项，但仅一条新闻源，无论文与第三方复现，0.5%开销待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "开源可 clone，0.5% 开销做实时拦截，做内容安全的今天就能试。"
         }
       }
     }
