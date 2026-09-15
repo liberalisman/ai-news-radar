@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:11:12.224952Z",
+  "generated_at": "2026-09-15T01:45:35.834726Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_3a1702cd4763",
-      "title": "ElevenLabs发布Music v2.5音频模型，同步开放APP与API访问",
-      "url": "https://www.aibase.com/news/31030",
+      "story_id": "story_b4863055bc83",
+      "title": "蚂蚁开源 SingProbe：以轻量探针实现大模型生成风险实时拦截，计算开销不足 0.5%",
+      "url": "https://www.aibase.com/news/31042",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "版本号从v2跳到v2.5，更新日志敢不敢列全？API和APP齐上算实在，但音质对比别只放自家demo。"
+          "review": "0.5%开销听着漂亮，可拦截率和误杀率一个数没给，探针再轻也得看漏不漏。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "只有发布通告，无论文、无开源、无第三方评测，API可用不等于可复现。"
+          "score": 55,
+          "review": "开源是加分项，但仅一条新闻源，无论文与第三方复现，0.5%开销待验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "音频模型开放API，做配音和音乐生成的今天就能接进去试。"
+          "review": "开源可 clone，0.5% 开销做实时拦截，做内容安全的今天就能试。"
         }
       }
     }
