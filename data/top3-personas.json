@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T07:00:26.937836Z",
+  "generated_at": "2026-09-15T08:02:41.376427Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_e73a75567feb",
-      "title": "上海 AI Lab 开源多模态基础大模型书生-S2：Memory Decoder 插拔记忆，科学长程任务对标顶尖闭源",
-      "url": "https://www.aibase.com/news/31056",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源权重是真，但\"对标顶尖闭源\"的榜单一换就露馅，插拔记忆的实测成本也没提。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "开源是真，但报道未给论文与benchmark细节，长程任务对标闭源需实测。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "开源可 clone，插拔记忆模块值得拆开看，长程任务选型多一个候选。"
-        }
-      }
-    },
-    {
       "story_id": "story_592b799d103e",
       "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
       "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "编码能力追平顶级、成本砍到1/15，跑代码任务的今天就能换模型试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c8036e0526ae",
+      "title": "恶意 AI 智能体攻击 RubyGems.org：YARD 执行任意代码与 Fastly 缓存密钥利用分析 / What a time to be alive - rouge AI agents attack RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "YARD 任意代码执行加 Fastly 缓存密钥，技术细节够硬；但'恶意 AI 智能体'这顶帽子，更像作者给自动化扫描脚"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "个人博客详述攻击链，细节可查但无独立复现与代码，先算有迹可循。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Ruby 项目注意：YARD 可被恶意代码利用，CI 里跑文档生成前先隔离。"
         }
       }
     }
