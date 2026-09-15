@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:53:27.800944Z",
+  "generated_at": "2026-09-15T17:37:19.067798Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_f627ffc73bd0",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "版本号从3跳到3.8，中间那0.8是营销部门凑的吧？等实测延迟和价格再吹。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方博客发布，无论文、无开源、无第三方跑分，只有宣称。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "新模型上线，能直接调 API 试效果，做实时语音和长思考任务的今天就能换。"
+        }
+      }
+    },
+    {
       "story_id": "story_6c028e31f14b",
       "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
       "url": "https://www.aibase.com/news/31063",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 82,
           "review": "五款音频模型直接上开放平台，做语音应用的今天就能调API试效果。"
-        }
-      }
-    },
-    {
-      "story_id": "story_e31e702be431",
-      "title": "在 Copilot 自动模型选择中配置成本与质量 / Configure cost and quality in Copilot auto model selection",
-      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "终于把成本旋钮交给用户，但默认值藏在哪、省多少电费，changelog 一个字没提。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方更新给了配置说明，但无论文、无代码、无第三方评测，只能算有迹可循。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 自动选模型能调成本/质量了，团队今天就能按预算压账单。"
         }
       }
     },
