@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:08:21.992077Z",
+  "generated_at": "2026-09-16T16:54:42.812451Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.9087,
-      "importance": 0.9087,
-      "importance_score": 0.9087,
+      "score": 0.8996,
+      "importance": 0.8996,
+      "importance_score": 0.8996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7596,
+        "recency": 0.709,
         "story_heat": 1.0
       },
       "category": "official",
@@ -231,115 +231,174 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_3a48419d9a0c",
-      "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
+      "story_id": "story_2b45947d7367",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": "你的 Agent 漂亮地完成了任务，还能再来一次吗？",
-          "title_en": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_original": "Your Agent Aced the Task. Will It Do It Again?",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research 博客指出，AppWorld 上 ReAct agent 用 GPT-4.1 五次运行平均成功 77.4%，但五项全成任务仅 53.0%，一致性差 24.4 点；文章提出的 consistency guidelines 正试图缩小这个稳定性差距。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+          "recommend_reason_zh": "OpenAI测试Sponsored Agents，用户点击ChatGPT广告可与商家赞助代理对话，集成首个CRM伙伴HubSpot和首个电商伙伴Shopify。",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
+          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "title_zh": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "title_en": null,
+          "title_original": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T16:06:24.581000Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog"
+        "Hacker News",
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
-          "title_zh": "你的 Agent 漂亮地完成了任务，还能再来一次吗？",
-          "title_en": "Your Agent Aced the Task. Will It Do It Again?",
-          "title_original": "Your Agent Aced the Task. Will It Do It Again?",
-          "summary": null,
-          "recommend_reason_zh": "IBM Research 博客指出，AppWorld 上 ReAct agent 用 GPT-4.1 五次运行平均成功 77.4%，但五项全成任务仅 53.0%，一致性差 24.4 点；文章提出的 consistency guidelines 正试图缩小这个稳定性差距。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+          "recommend_reason_zh": "OpenAI测试Sponsored Agents，用户点击ChatGPT广告可与商家赞助代理对话，集成首个CRM伙伴HubSpot和首个电商伙伴Shopify。",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
+          "published_at": "2026-09-16T13:00:00Z"
+        },
+        {
+          "id": "a4d2c1667014a737766721c70d32e2515d30a289",
+          "title": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "title_zh": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "title_en": null,
+          "title_original": "OpenAI 通过“赞助代理”扩展 ChatGPT 广告业务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T16:06:24.581000Z"
+        },
+        {
+          "id": "f8008f4078dcfae8553880f8d47c537c4f1159f1",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "title_original": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T13:51:15Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8921,
+      "importance": 0.8921,
+      "importance_score": 0.8921,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7478,
-        "story_heat": 0.0
+        "ai_relevance": 0.91,
+        "recency": 0.9451,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:00:44Z",
-      "latest_at": "2026-09-15T16:00:44Z",
+      "earliest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T16:06:24.581000Z",
       "primary_item": {
-        "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-        "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
-        "title_zh": "你的 Agent 漂亮地完成了任务，还能再来一次吗？",
-        "title_en": "Your Agent Aced the Task. Will It Do It Again?",
-        "title_original": "Your Agent Aced the Task. Will It Do It Again?",
-        "summary": null,
-        "recommend_reason_zh": "IBM Research 博客指出，AppWorld 上 ReAct agent 用 GPT-4.1 五次运行平均成功 77.4%，但五项全成任务仅 53.0%，一致性差 24.4 点；文章提出的 consistency guidelines 正试图缩小这个稳定性差距。",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-        "source": "Hugging Face Blog",
+        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+        "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+        "title_en": "Reimagining advertising with AI",
+        "title_original": "Reimagining advertising with AI",
+        "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nExplore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.\nSeptember 16, 2026\nIntroducing new AI-powere",
+        "recommend_reason_zh": "OpenAI测试Sponsored Agents，用户点击ChatGPT广告可与商家赞助代理对话，集成首个CRM伙伴HubSpot和首个电商伙伴Shopify。",
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "IBM 开源了 Agent 一致性评测工具，跑一遍就知道你的 Agent 是不是靠运气。",
+      "persona_score": 62,
+      "persona_review": "广告位进 ChatGPT，做电商和 HubSpot 集成的可以盯测试资格，其他人先观望。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_47bd15dd2064",
-      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "story_id": "story_b7506bc123b9",
+      "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
+          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "source_count": 1,
@@ -348,31 +407,31 @@
       ],
       "items": [
         {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-          "title_zh": "GitHub Copilot 建议自定义属性定义",
-          "title_en": "GitHub Copilot suggests custom properties definitions",
-          "title_original": "GitHub Copilot suggests custom properties definitions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
+          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7822,
+        "ai_relevance": 0.87,
+        "recency": 0.951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,27 +440,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
       "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
-        "title_zh": "GitHub Copilot 建议自定义属性定义",
-        "title_en": "GitHub Copilot suggests custom properties definitions",
-        "title_original": "GitHub Copilot suggests custom properties definitions",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nYou can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only ran on repositories where CodeQL default setup was configured.\nCode scanning and AI Scan for pull requests must still be enabled at the r",
+        "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "Copilot 补全扩展到自定义属性定义，写配置少查文档，但得先升级插件。",
+      "persona_review": "GitHub 代码扫描少一道配置门槛，已用 AI Scan 的团队可以简化流水线了。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
+      }
+    },
+    {
+      "story_id": "story_8ce36e5af566",
+      "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人将 AI 融入日常生活",
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
+          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人将 AI 融入日常生活",
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
+          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8496,
+      "importance": 0.8496,
+      "importance_score": 0.8496,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
+      "primary_item": {
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+        "title_zh": "帮助老年人将 AI 融入日常生活",
+        "title_en": "Helping older adults use AI in everyday life",
+        "title_original": "Helping older adults use AI in everyday life",
+        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nOpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.\nSeptember 16, 2026\nIn collaboration with OATS, bringing free, hands-on ",
+        "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "公益向内容，没有新接口或工具，开发者今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -506,15 +650,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9253,
+        "recency": 0.8637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -543,115 +687,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_e1c18e045b84",
-      "title": "AI 助力社会公益 / AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI 助力社会公益 / AI for Societal Impact",
-          "title_zh": "AI 助力社会公益",
-          "title_en": "AI for Societal Impact",
-          "title_original": "AI for Societal Impact",
-          "summary": null,
-          "recommend_reason_zh": "AI for Societal Impact 合集展示专家和本地领导者用 AI 让疾病可检测可治疗可预防、预测自然灾害并扩展学习，如每 20 分钟用卫星扫描汽车大小野火。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI 助力社会公益 / AI for Societal Impact",
-          "title_zh": "AI 助力社会公益",
-          "title_en": "AI for Societal Impact",
-          "title_original": "AI for Societal Impact",
-          "summary": null,
-          "recommend_reason_zh": "AI for Societal Impact 合集展示专家和本地领导者用 AI 让疾病可检测可治疗可预防、预测自然灾害并扩展学习，如每 20 分钟用卫星扫描汽车大小野火。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7476,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-        "title": "AI 助力社会公益 / AI for Societal Impact",
-        "title_zh": "AI 助力社会公益",
-        "title_en": "AI for Societal Impact",
-        "title_original": "AI for Societal Impact",
-        "summary": null,
-        "recommend_reason_zh": "AI for Societal Impact 合集展示专家和本地领导者用 AI 让疾病可检测可治疗可预防、预测自然灾害并扩展学习，如每 20 分钟用卫星扫描汽车大小野火。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "公益叙事，没有可调用的API或工具，看完不改变今天写什么代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
-      }
-    },
-    {
-      "story_id": "story_9d2155aa5b6f",
-      "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "story_id": "story_47bd15dd2064",
+      "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub Advanced Security 配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
+          "title_en": "GitHub Copilot suggests custom properties definitions",
+          "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
-          "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "source_count": 1,
@@ -660,31 +719,31 @@
       ],
       "items": [
         {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
-          "title_zh": "强制执行 GitHub Advanced Security 配置",
-          "title_en": "Enforce GitHub Advanced Security configurations",
-          "title_original": "Enforce GitHub Advanced Security configurations",
+          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+          "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+          "title_zh": "GitHub Copilot 建议自定义属性定义",
+          "title_en": "GitHub Copilot suggests custom properties definitions",
+          "title_original": "GitHub Copilot suggests custom properties definitions",
           "summary": null,
-          "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
+          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
+          "published_at": "2026-09-15T19:07:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7868,
+        "ai_relevance": 0.91,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -693,83 +752,83 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
+      "earliest_at": "2026-09-15T19:07:47Z",
+      "latest_at": "2026-09-15T19:07:47Z",
       "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
-        "title_zh": "强制执行 GitHub Advanced Security 配置",
-        "title_en": "Enforce GitHub Advanced Security configurations",
-        "title_original": "Enforce GitHub Advanced Security configurations",
+        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
+        "title": "GitHub Copilot 建议自定义属性定义 / GitHub Copilot suggests custom properties definitions",
+        "title_zh": "GitHub Copilot 建议自定义属性定义",
+        "title_en": "GitHub Copilot suggests custom properties definitions",
+        "title_original": "GitHub Copilot suggests custom properties definitions",
         "summary": null,
-        "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+        "recommend_reason_zh": "GitHub Copilot 现可在企业或组织创建 custom property 时，根据所定义属性建议 allowed values 并支持一键采纳；该 public preview 功能面向 Copilot Business 和 Copilot Enterprise，帮管理员更快建立治理元数据分类以用于 rulesets。",
+        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "企业仓库管理员得注意，安全策略可强制下发，合规团队会先找上门。",
+      "persona_review": "Copilot 补全扩展到自定义属性定义，写配置少查文档，但得先升级插件。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_24b1574f3701",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google AI Blog",
+      "story_id": "story_20d27da6a9f4",
+      "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "title_en": "AI for everyone in every language",
-          "title_original": "AI for everyone in every language",
-          "summary": null,
-          "recommend_reason_zh": "Google 正用 AI 让技术覆盖 300 多种语言、服务 70 多亿人（占全球 86%），并训练 Gemini 直接理解音频中的情绪、语气和俚语，而非只做文本翻译。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "员工如何解锁全新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
+          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T09:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "title_en": "AI for everyone in every language",
-          "title_original": "AI for everyone in every language",
-          "summary": null,
-          "recommend_reason_zh": "Google 正用 AI 让技术覆盖 300 多种语言、服务 70 多亿人（占全球 86%），并训练 Gemini 直接理解音频中的情绪、语气和俚语，而非只做文本翻译。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "员工如何解锁全新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
+          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-16T09:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7476,
+        "ai_relevance": 0.91,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -778,27 +837,195 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
       "primary_item": {
-        "id": "14060c2571c717161b27bfaa69b30841c601742d",
-        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-        "title_zh": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-        "title_en": "AI for everyone in every language",
-        "title_original": "AI for everyone in every language",
-        "summary": null,
-        "recommend_reason_zh": "Google 正用 AI 让技术覆盖 300 多种语言、服务 70 多亿人（占全球 86%），并训练 Gemini 直接理解音频中的情绪、语气和俚语，而非只做文本翻译。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-        "source": "Google AI Blog",
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+        "title_zh": "员工如何解锁全新的工作方式",
+        "title_en": "How workers are unlocking new ways of working",
+        "title_original": "How workers are unlocking new ways of working",
+        "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nNew OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.\nSeptember 16, 2026\nNew OpenAI Economic Research shows how workers use AI t",
+        "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "300 种语言覆盖听着大，但没提模型权重和 API 开放情况，先看能不能真调再说。",
+      "persona_score": 25,
+      "persona_review": "OpenAI 的软文，没产品没接口，看完不写一行代码。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
+      }
+    },
+    {
+      "story_id": "story_1615464a9e77",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": "本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯梳理一周内的重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W37 • 2026/09/13\n本周关键词 : 智能体平台化 / 数学证明争议 / 算力资本化\n主编寄语 : 本周的 AI 行业不再只是比较模型分数，而是在争夺三件更难的东西：谁能托管真实行动，谁能定义科学信用，谁能控制算力与能源的长期账本。\n本周「Agent」从实验室概念快速进入平台、桌面、浏览器和企业工作流。OpenAI 将 Codex Harness 产品化为「Agents API」，允许开发者创建可连续运行数天的云端 Agent；Meta 推出个人代理「Muse」，试图让购物、邮件和旅行规划等网页操作自动化；Cursor 的「Projects」则把软件开发从写代码推进到任务拆解、子 A",
+          "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": "本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯梳理一周内的重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W37 • 2026/09/13\n本周关键词 : 智能体平台化 / 数学证明争议 / 算力资本化\n主编寄语 : 本周的 AI 行业不再只是比较模型分数，而是在争夺三件更难的东西：谁能托管真实行动，谁能定义科学信用，谁能控制算力与能源的长期账本。\n本周「Agent」从实验室概念快速进入平台、桌面、浏览器和企业工作流。OpenAI 将 Codex Harness 产品化为「Agents API」，允许开发者创建可连续运行数天的云端 Agent；Meta 推出个人代理「Muse」，试图让购物、邮件和旅行规划等网页操作自动化；Cursor 的「Projects」则把软件开发从写代码推进到任务拆解、子 A",
+          "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9519,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+        "summary": "本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯周报：2026 年第 37 周 AI 深度信号周报：智能体平台化、数学证明争议、算力资本化。\n本期AI资讯梳理一周内的重要产品进展、行业趋势与风险信号。\n期刊. 2026年 W37 • 2026/09/13\n本周关键词 : 智能体平台化 / 数学证明争议 / 算力资本化\n主编寄语 : 本周的 AI 行业不再只是比较模型分数，而是在争夺三件更难的东西：谁能托管真实行动，谁能定义科学信用，谁能控制算力与能源的长期账本。\n本周「Agent」从实验室概念快速进入平台、桌面、浏览器和企业工作流。OpenAI 将 Codex Harness 产品化为「Agents API」，允许开发者创建可连续运行数天的云端 Agent；Meta 推出个人代理「Muse」，试图让购物、邮件和旅行规划等网页操作自动化；Cursor 的「Projects」则把软件开发从写代码推进到任务拆解、子 A",
+        "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "周报类汇总，扫一眼知道本周发生了啥就行，别指望有能直接抄的方案。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T17:06:04.532122Z"
+      }
+    },
+    {
+      "story_id": "story_180d89046d07",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9937,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -875,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,113 +1139,113 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_54562408732c",
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory",
-      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "primary_url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "source": "Pragmatic Engineer（RSS）",
+      "story_id": "story_0155d9a74bfb",
+      "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory",
-          "title_zh": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "title_en": "Inside OpenAI's agentic software factory",
-          "title_original": "Inside OpenAI's agentic software factory",
-          "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
-          "recommend_reason_zh": "探访 OpenAI 总部：Codex 已从去年的可选工具变成公司几乎所有工作的骨干，非工程岗也自发迁移；文中还披露 Perf Factory 等 agent 闭环如何自动修复性能问题。",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+          "title_en": "https://x.com/i/article/2100222503125917696",
+          "title_original": "https://x.com/i/article/2100222503125917696",
+          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+          "recommend_reason_zh": "Mustafa Suleyman 发文警告 model welfare 思潮：Anthropic 一月为 Claude 发布 constitution，称其道德地位值得考虑、必要时可做 conscientious objector，还为停用的 Opus 3 办了退休访谈；他认为这会让人更难对齐并控制 AI。",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
+          "published_at": "2026-09-16T14:01:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Pragmatic Engineer（RSS）"
+        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
       ],
       "items": [
         {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory",
-          "title_zh": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "title_en": "Inside OpenAI's agentic software factory",
-          "title_original": "Inside OpenAI's agentic software factory",
-          "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
-          "recommend_reason_zh": "探访 OpenAI 总部：Codex 已从去年的可选工具变成公司几乎所有工作的骨干，非工程岗也自发迁移；文中还披露 Perf Factory 等 agent 闭环如何自动修复性能问题。",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
+          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+          "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+          "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+          "title_en": "https://x.com/i/article/2100222503125917696",
+          "title_original": "https://x.com/i/article/2100222503125917696",
+          "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+          "recommend_reason_zh": "Mustafa Suleyman 发文警告 model welfare 思潮：Anthropic 一月为 Claude 发布 constitution，称其道德地位值得考虑、必要时可做 conscientious objector，还为停用的 Opus 3 办了退休访谈；他认为这会让人更难对齐并控制 AI。",
+          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
+          "published_at": "2026-09-16T14:01:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.9592,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T15:41:25Z",
-      "latest_at": "2026-09-15T15:41:25Z",
+      "earliest_at": "2026-09-16T14:01:39Z",
+      "latest_at": "2026-09-16T14:01:39Z",
       "primary_item": {
-        "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-        "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂 / Inside OpenAI's agentic software factory",
-        "title_zh": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-        "title_en": "Inside OpenAI's agentic software factory",
-        "title_original": "Inside OpenAI's agentic software factory",
-        "summary": "Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。",
-        "recommend_reason_zh": "探访 OpenAI 总部：Codex 已从去年的可选工具变成公司几乎所有工作的骨干，非工程岗也自发迁移；文中还披露 Perf Factory 等 agent 闭环如何自动修复性能问题。",
-        "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-        "source": "Pragmatic Engineer（RSS）",
+        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
+        "title": "微软 AI CEO 警告\"模型福利\"论调 / https://x.com/i/article/2100222503125917696",
+        "title_zh": "微软 AI CEO 警告\"模型福利\"论调",
+        "title_en": "https://x.com/i/article/2100222503125917696",
+        "title_original": "https://x.com/i/article/2100222503125917696",
+        "summary": "微软 AI CEO Mustafa Suleyman 发文反对\"模型福利\"理念，认为 AI 并无意识、不会感受或痛苦，赋予其受照料权会让对齐与管控更难甚至不可能。",
+        "recommend_reason_zh": "Mustafa Suleyman 发文警告 model welfare 思潮：Anthropic 一月为 Claude 发布 constitution，称其道德地位值得考虑、必要时可做 conscientious objector，还为停用的 Opus 3 办了退休访谈；他认为这会让人更难对齐并控制 AI。",
+        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
+        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "探访报道，看个热闹；Codex 内部怎么用没给可复制的方案。",
+      "persona_score": 25,
+      "persona_review": "高管口水战，不产出代码也不改接口，扫一眼标题就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_e9723634bac0",
-      "title": "GitHub 在 HTTPS 中弃用 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+      "story_id": "story_9d2155aa5b6f",
+      "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
+      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "GitHub 在 HTTPS 中弃用 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-          "title_zh": "GitHub 在 HTTPS 中弃用 SHA-1",
-          "title_en": "SHA-1 in HTTPS on GitHub sunset",
-          "title_original": "SHA-1 in HTTPS on GitHub sunset",
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub Advanced Security 配置",
+          "title_en": "Enforce GitHub Advanced Security configurations",
+          "title_original": "Enforce GitHub Advanced Security configurations",
           "summary": null,
-          "recommend_reason_zh": "GitHub已禁用github.com及合作CDN的HTTPS SHA-1，原定2026年9月15日，GitHub Enterprise Server不受影响。",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
       "source_count": 1,
@@ -1027,31 +1254,31 @@
       ],
       "items": [
         {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "GitHub 在 HTTPS 中弃用 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-          "title_zh": "GitHub 在 HTTPS 中弃用 SHA-1",
-          "title_en": "SHA-1 in HTTPS on GitHub sunset",
-          "title_original": "SHA-1 in HTTPS on GitHub sunset",
+          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+          "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
+          "title_zh": "强制执行 GitHub Advanced Security 配置",
+          "title_en": "Enforce GitHub Advanced Security configurations",
+          "title_original": "Enforce GitHub Advanced Security configurations",
           "summary": null,
-          "recommend_reason_zh": "GitHub已禁用github.com及合作CDN的HTTPS SHA-1，原定2026年9月15日，GitHub Enterprise Server不受影响。",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
+          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
+          "published_at": "2026-09-15T19:31:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7562,
+        "recency": 0.7344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1060,112 +1287,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
+      "earliest_at": "2026-09-15T19:31:58Z",
+      "latest_at": "2026-09-15T19:31:58Z",
       "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "GitHub 在 HTTPS 中弃用 SHA-1 / SHA-1 in HTTPS on GitHub sunset",
-        "title_zh": "GitHub 在 HTTPS 中弃用 SHA-1",
-        "title_en": "SHA-1 in HTTPS on GitHub sunset",
-        "title_original": "SHA-1 in HTTPS on GitHub sunset",
+        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
+        "title": "强制执行 GitHub Advanced Security 配置 / Enforce GitHub Advanced Security configurations",
+        "title_zh": "强制执行 GitHub Advanced Security 配置",
+        "title_en": "Enforce GitHub Advanced Security configurations",
+        "title_original": "Enforce GitHub Advanced Security configurations",
         "summary": null,
-        "recommend_reason_zh": "GitHub已禁用github.com及合作CDN的HTTPS SHA-1，原定2026年9月15日，GitHub Enterprise Server不受影响。",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+        "recommend_reason_zh": "GitHub 允许 Enterprise administrators 在组织间强制实施 GitHub Advanced Security 配置，阻止 organization 和 repository administrators 覆盖企业级设置；此前仅能限制 repository owners，Enforcement 下拉菜单有三档选项。",
+        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "老 CI 和 git 客户端可能连不上，先查 TLS 配置再升级。",
+      "persona_review": "企业仓库管理员得注意，安全策略可强制下发，合规团队会先找上门。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
-      }
-    },
-    {
-      "story_id": "story_800598bf50d8",
-      "title": "构建 AI，加速科学发展，改善人类生活 / Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "构建 AI，加速科学发展，改善人类生活 / Building AI to accelerate science and improve lives",
-          "title_zh": "构建 AI，加速科学发展，改善人类生活",
-          "title_en": "Building AI to accelerate science and improve lives",
-          "title_original": "Building AI to accelerate science and improve lives",
-          "summary": null,
-          "recommend_reason_zh": "Google称其AI已支持超300种语言、覆盖70亿人，并发布AI & Economy ATLAS，展示疾病早筛、洪水野火预测、学习与经济机会等进展。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "构建 AI，加速科学发展，改善人类生活 / Building AI to accelerate science and improve lives",
-          "title_zh": "构建 AI，加速科学发展，改善人类生活",
-          "title_en": "Building AI to accelerate science and improve lives",
-          "title_original": "Building AI to accelerate science and improve lives",
-          "summary": null,
-          "recommend_reason_zh": "Google称其AI已支持超300种语言、覆盖70亿人，并发布AI & Economy ATLAS，展示疾病早筛、洪水野火预测、学习与经济机会等进展。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7476,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-        "title": "构建 AI，加速科学发展，改善人类生活 / Building AI to accelerate science and improve lives",
-        "title_zh": "构建 AI，加速科学发展，改善人类生活",
-        "title_en": "Building AI to accelerate science and improve lives",
-        "title_original": "Building AI to accelerate science and improve lives",
-        "summary": null,
-        "recommend_reason_zh": "Google称其AI已支持超300种语言、覆盖70亿人，并发布AI & Economy ATLAS，展示疾病早筛、洪水野火预测、学习与经济机会等进展。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "谷歌的愿景软文，没有新模型、新API或开源代码，看完不改变今天任何一行代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -1241,15 +1383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1278,175 +1420,147 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_357c98674764",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_e1485837ac92",
+      "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+      "primary_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-          "recommend_reason_zh": "这份 Image-to-WebDev Arena 更新值得读：它列出四个新评估模型的名次与分数，并给出具体差距：GPT-6 Astra (Max) 以1733分登顶，比 GPT-5.6 Sol (xHigh) 高129分，比第二名 Claude Fable 5.1 (Max) 的1710分高23分。",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
+          "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
+          "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
+          "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "summary": "Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nNvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Heal",
+          "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
+          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T15:00:00Z"
+        },
+        {
+          "id": "00d6cf9904fd664deeb66357946981e630d67aea",
+          "title": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单 / Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "title_zh": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单",
+          "title_en": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "title_original": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "summary": "Meet the next batch of VCs judging Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.\nMeet the next batch of VCs judging Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Com",
+          "recommend_reason_zh": "这篇报道值得读，因为它介绍了 TechCrunch Disrupt 2026 上评审 Startup Battlefield 200 的新一批 VC，提到 9 月 25 日前注册最多可省 $200，并列出 OpenAI、Anthropic、Replit 等将覆盖 6 个行业舞台，以及 25% 折扣票价和最多省 $300 的优惠。",
+          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:15:00Z"
+        },
+        {
+          "id": "462a70eaa0904322400601aed93a5334d357cc12",
+          "title": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户 / 3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "title_zh": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户",
+          "title_en": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "title_original": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "summary": "Last day to book your exhibit table at TechCrunch Disrupt 2026 is Sept 18. 3 days left to get your startup in front of 10,000+ founders, investors, operators, and tech leaders on the Expo Hall floor.\n3 days left to exhibit at TechCrunch Disrupt 2026. Book by Sept. 18 at 11:59 p.m. PT to showcase your startup and meet 10,000+ tech leaders.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI",
+          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订只剩 3 天，9 月 18 日 11:59 p.m. PT 截止；文中说可在 Expo Hall 接触 10,000+ 创始人、投资者和科技领袖，OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，适合想曝光或接触 VCs 的初创团队参考。",
+          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：Arena (@arena)"
+        "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-          "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-          "recommend_reason_zh": "这份 Image-to-WebDev Arena 更新值得读：它列出四个新评估模型的名次与分数，并给出具体差距：GPT-6 Astra (Max) 以1733分登顶，比 GPT-5.6 Sol (xHigh) 高129分，比第二名 Claude Fable 5.1 (Max) 的1710分高23分。",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
+          "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
+          "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
+          "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "summary": "Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nNvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Heal",
+          "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
+          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T15:00:00Z"
+        },
+        {
+          "id": "00d6cf9904fd664deeb66357946981e630d67aea",
+          "title": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单 / Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "title_zh": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单",
+          "title_en": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "title_original": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "summary": "Meet the next batch of VCs judging Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.\nMeet the next batch of VCs judging Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Com",
+          "recommend_reason_zh": "这篇报道值得读，因为它介绍了 TechCrunch Disrupt 2026 上评审 Startup Battlefield 200 的新一批 VC，提到 9 月 25 日前注册最多可省 $200，并列出 OpenAI、Anthropic、Replit 等将覆盖 6 个行业舞台，以及 25% 折扣票价和最多省 $300 的优惠。",
+          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:15:00Z"
+        },
+        {
+          "id": "462a70eaa0904322400601aed93a5334d357cc12",
+          "title": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户 / 3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "title_zh": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户",
+          "title_en": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "title_original": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+          "summary": "Last day to book your exhibit table at TechCrunch Disrupt 2026 is Sept 18. 3 days left to get your startup in front of 10,000+ founders, investors, operators, and tech leaders on the Expo Hall floor.\n3 days left to exhibit at TechCrunch Disrupt 2026. Book by Sept. 18 at 11:59 p.m. PT to showcase your startup and meet 10,000+ tech leaders.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI",
+          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订只剩 3 天，9 月 18 日 11:59 p.m. PT 截止；文中说可在 Expo Hall 接触 10,000+ 创始人、投资者和科技领袖，OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，适合想曝光或接触 VCs 的初创团队参考。",
+          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T14:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6897,
+      "importance": 0.6897,
+      "importance_score": 0.6897,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8077,
-        "story_heat": 0.0
+        "editorial": 0.5832,
+        "source_tier": 0.58,
+        "ai_relevance": 0.81,
+        "recency": 0.9728,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-15T21:20:53Z",
-      "latest_at": "2026-09-15T21:20:53Z",
+      "earliest_at": "2026-09-16T14:00:00Z",
+      "latest_at": "2026-09-16T15:00:00Z",
       "primary_item": {
-        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶 / Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "title_zh": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-        "title_en": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "title_original": "Image-to-WebDev Arena update： four newly evaluated model releases have landed！ - #1 GPT-6 Astra （Ma…",
-        "summary": "Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。",
-        "recommend_reason_zh": "这份 Image-to-WebDev Arena 更新值得读：它列出四个新评估模型的名次与分数，并给出具体差距：GPT-6 Astra (Max) 以1733分登顶，比 GPT-5.6 Sol (xHigh) 高129分，比第二名 Claude Fable 5.1 (Max) 的1710分高23分。",
-        "url": "https://x.com/arena/status/2099971741993050236",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "榜单换榜首而已，模型没开放就跟你无关，等能调 API 再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
-      }
-    },
-    {
-      "story_id": "story_b933e12f991b",
-      "title": "Google AI & Economy ATLAS 带来新洞察 / New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "Google AI & Economy ATLAS 带来新洞察 / New insights from Google’s AI & Economy ATLAS",
-          "title_zh": "Google AI & Economy ATLAS 带来新洞察",
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": "Google’s AI & Economy ATLAS 推出开放交互体验，并联合 Google DeepMind、MIT FutureTech 分析 2600 个专业 AI 模型、调查 600 多名美英科学家，发现近半每天用 AI、每周省近 7 小时，但验证输出与实验瓶颈拖慢发现。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "Google AI & Economy ATLAS 带来新洞察 / New insights from Google’s AI & Economy ATLAS",
-          "title_zh": "Google AI & Economy ATLAS 带来新洞察",
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": "Google’s AI & Economy ATLAS 推出开放交互体验，并联合 Google DeepMind、MIT FutureTech 分析 2600 个专业 AI 模型、调查 600 多名美英科学家，发现近半每天用 AI、每周省近 7 小时，但验证输出与实验瓶颈拖慢发现。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7159,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T13:00:00Z",
-      "latest_at": "2026-09-15T13:00:00Z",
-      "primary_item": {
-        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "Google AI & Economy ATLAS 带来新洞察 / New insights from Google’s AI & Economy ATLAS",
-        "title_zh": "Google AI & Economy ATLAS 带来新洞察",
-        "title_en": "New insights from Google’s AI & Economy ATLAS",
-        "title_original": "New insights from Google’s AI & Economy ATLAS",
-        "summary": null,
-        "recommend_reason_zh": "Google’s AI & Economy ATLAS 推出开放交互体验，并联合 Google DeepMind、MIT FutureTech 分析 2600 个专业 AI 模型、调查 600 多名美英科学家，发现近半每天用 AI、每周省近 7 小时，但验证输出与实验瓶颈拖慢发现。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
+        "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
+        "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "summary": "Nvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nNvidia's Les Karpas explains how robots are waiting for their ChatGPT moment, only at TechCrunch Disrupt 2026. Register now to save up to $200 on your pass.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Heal",
+        "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
+        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
       "persona_score": 25,
-      "persona_review": "经济影响研究报告，不产出工具或接口，扫一眼标题即可。",
+      "persona_review": "又是'等待时刻'的愿景演讲，没模型没API，做机器人的继续调自己的仿真。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -1494,15 +1608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1530,7 +1644,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -1578,15 +1692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,7 +1728,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -1662,15 +1776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1698,119 +1812,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
-      }
-    },
-    {
-      "story_id": "story_dfe32b66fa7e",
-      "title": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资 / AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-      "primary_url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3e59374881e2dc6e16adb0b08384131796fccb4b",
-          "title": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资 / AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "title_zh": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资",
-          "title_en": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "title_original": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "summary": null,
-          "recommend_reason_zh": "AEO初创公司Profound完成1.8亿美元Series D，估值18亿美元并跻身独角兽，距上轮9600万美元Series C不到七个月，这轮融资速度值得关注。",
-          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T15:22:48Z"
-        },
-        {
-          "id": "3d591fe95e6d3bc0660cb894ad09e9c195fdc16d",
-          "title": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "title_zh": null,
-          "title_en": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "title_original": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260915/p17",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T12:10:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "3e59374881e2dc6e16adb0b08384131796fccb4b",
-          "title": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资 / AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "title_zh": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资",
-          "title_en": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "title_original": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-          "summary": null,
-          "recommend_reason_zh": "AEO初创公司Profound完成1.8亿美元Series D，估值18亿美元并跻身独角兽，距上轮9600万美元Series C不到七个月，这轮融资速度值得关注。",
-          "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T15:22:48Z"
-        },
-        {
-          "id": "3d591fe95e6d3bc0660cb894ad09e9c195fdc16d",
-          "title": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "title_zh": null,
-          "title_en": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "title_original": "New York-based AI marketing startup Profound raised a $180M Series D led by Sequoia and Kleiner Perkins at a $1.8B valuation, taking its total funding to $335M+ (Rebecca Torrence/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260915/p17",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T12:10:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6021,
-      "importance": 0.6021,
-      "importance_score": 0.6021,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.741,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-15T12:10:02Z",
-      "latest_at": "2026-09-15T15:22:48Z",
-      "primary_item": {
-        "id": "3e59374881e2dc6e16adb0b08384131796fccb4b",
-        "title": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资 / AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "title_zh": "AEO 初创公司 Profound 估值达独角兽级别，距上轮融资仅 7 个月再获 1.8 亿美元 D 轮融资",
-        "title_en": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "title_original": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "summary": null,
-        "recommend_reason_zh": "AEO初创公司Profound完成1.8亿美元Series D，估值18亿美元并跻身独角兽，距上轮9600万美元Series C不到七个月，这轮融资速度值得关注。",
-        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "融资新闻，产品没变化，做AEO的可以留意赛道，其他人不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
@@ -1858,15 +1860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1894,118 +1896,289 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     },
     {
-      "story_id": "story_23661cfadd84",
-      "title": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化 / Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-      "primary_url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_c8a4ea21195d",
+      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+      "source": "frvr.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "24ede53274b9e84f0f59e1215954e16db9cb3573",
-          "title": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化 / Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-          "title_zh": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化",
-          "title_en": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-          "title_original": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": null,
+          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
           "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026值得读，OpenAI等将登上6个行业舞台，这场活动教你把创业项目从原型推进到量产，购票可享25%折扣最高省$300",
-          "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T14:30:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.606000Z"
         },
         {
-          "id": "189bb706d4d5cfd77979a5b484fabb9caf7e8dce",
-          "title": "距离在 TechCrunch Disrupt 2026 参展还剩 4 天 / 4 days left to exhibit at TechCrunch Disrupt 2026",
-          "title_zh": "距离在 TechCrunch Disrupt 2026 参展还剩 4 天",
-          "title_en": "4 days left to exhibit at TechCrunch Disrupt 2026",
-          "title_original": "4 days left to exhibit at TechCrunch Disrupt 2026",
+          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
           "summary": null,
-          "recommend_reason_zh": "距离 TechCrunch Disrupt 2026 参展申请截止只剩 4 天，需在 Sept. 18 11:59 p.m. PT 前预订，才能展示创业项目并接触 10,000+ 科技领袖；OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，门票有 25% 折扣，最高可省 $300。",
-          "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T14:00:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T14:30:36Z"
+        },
+        {
+          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
+          "title": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49727627",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T14:30:36Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch AI"
+        "Hacker News",
+        "frvr.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "24ede53274b9e84f0f59e1215954e16db9cb3573",
-          "title": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化 / Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-          "title_zh": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化",
-          "title_en": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-          "title_original": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": null,
+          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
           "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026值得读，OpenAI等将登上6个行业舞台，这场活动教你把创业项目从原型推进到量产，购票可享25%折扣最高省$300",
-          "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T14:30:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "frvr.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T15:19:20.606000Z"
         },
         {
-          "id": "189bb706d4d5cfd77979a5b484fabb9caf7e8dce",
-          "title": "距离在 TechCrunch Disrupt 2026 参展还剩 4 天 / 4 days left to exhibit at TechCrunch Disrupt 2026",
-          "title_zh": "距离在 TechCrunch Disrupt 2026 参展还剩 4 天",
-          "title_en": "4 days left to exhibit at TechCrunch Disrupt 2026",
-          "title_original": "4 days left to exhibit at TechCrunch Disrupt 2026",
+          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
+          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
           "summary": null,
-          "recommend_reason_zh": "距离 TechCrunch Disrupt 2026 参展申请截止只剩 4 天，需在 Sept. 18 11:59 p.m. PT 前预订，才能展示创业项目并接触 10,000+ 科技领袖；OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，门票有 25% 折扣，最高可省 $300。",
-          "url": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T14:00:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T14:30:36Z"
+        },
+        {
+          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
+          "title": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_zh": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM",
+          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49727627",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T14:30:36Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6005,
-      "importance": 0.6005,
-      "importance_score": 0.6005,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7316,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9773,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-15T14:00:00Z",
-      "latest_at": "2026-09-15T14:30:00Z",
+      "earliest_at": "2026-09-16T14:30:36Z",
+      "latest_at": "2026-09-16T15:19:20.606000Z",
       "primary_item": {
-        "id": "24ede53274b9e84f0f59e1215954e16db9cb3573",
-        "title": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化 / Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "title_zh": "在 TechCrunch Disrupt 2026 上，了解如何让你的初创公司从原型走向产品化",
-        "title_en": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "title_original": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
+        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+        "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
+        "title_en": null,
+        "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
         "summary": null,
-        "recommend_reason_zh": "TechCrunch Disrupt 2026值得读，OpenAI等将登上6个行业舞台，这场活动教你把创业项目从原型推进到量产，购票可享25%折扣最高省$300",
-        "url": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "recommend_reason_zh": null,
+        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
+        "source": "frvr.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "会议预告，没有可用的工具或方案，等有回放再说。",
+      "persona_score": 32,
+      "persona_review": "开源圈吐槽贴，不产出代码也不改工具，看完继续干活。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T12:31:50.768192Z"
+        "scored_at": "2026-09-16T17:06:04.532122Z"
+      }
+    },
+    {
+      "story_id": "story_e505711c206e",
+      "title": "在大语言模型时代学习编程",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "source": "blog.ploeh.dk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "读者来信：无CS背景，借LLMs搭出TypeScript/JavaScript系统，却在转生产产品时发现超出自身理解；经济学家追问AI时代学编程与知识工作者失业风险。",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "LLMs时代学习编程：AI加速开发，但需自律学习",
+          "title_zh": "LLMs时代学习编程：AI加速开发，但需自律学习",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "LLM时代学编程：如今善用LLM可快速做出超出自身理解的MVP，而五年前做项目仍需懂TCP、HTTP、关系数据库和Linux；作者强调要边做边有意识构建理解。",
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "blog.ploeh.dk",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "d415ffe6ac8db10d6bcce3967f3711877c3c04a7",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "读者来信：无CS背景，借LLMs搭出TypeScript/JavaScript系统，却在转生产产品时发现超出自身理解；经济学家追问AI时代学编程与知识工作者失业风险。",
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "LLMs时代学习编程：AI加速开发，但需自律学习",
+          "title_zh": "LLMs时代学习编程：AI加速开发，但需自律学习",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "LLM时代学编程：如今善用LLM可快速做出超出自身理解的MVP，而五年前做项目仍需懂TCP、HTTP、关系数据库和Linux；作者强调要边做边有意识构建理解。",
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9445,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T12:57:28.012000Z",
+      "primary_item": {
+        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+        "title": "在大语言模型时代学习编程",
+        "title_zh": "在大语言模型时代学习编程",
+        "title_en": null,
+        "title_original": "在大语言模型时代学习编程",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+        "source": "blog.ploeh.dk",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "观点文，读完不改变你今天写什么代码，扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T17:06:04.532122Z"
       }
     }
   ]

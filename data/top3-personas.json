@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:31:52.696479Z",
+  "generated_at": "2026-09-16T17:06:14.093032Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_3a48419d9a0c",
-      "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "story_id": "story_b7506bc123b9",
+      "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "一致性评测是真问题，但博客只给自家框架的漂亮曲线，跨模型复现数据呢？"
+          "review": "解绑默认配置是真便利，但 changelog 通篇没提误报率和扫描耗时，AI 那部分靠什么撑？"
         },
         "paper-police": {
           "score": 42,
-          "review": "博客给了方法和数字，但无代码无第三方复现，一致性结论待验证。"
+          "review": "官方 changelog 只说了功能变更，无评测数据、无对比基准，效果无从验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "IBM 开源了 Agent 一致性评测工具，跑一遍就知道你的 Agent 是不是靠运气。"
+          "review": "GitHub 代码扫描少一道配置门槛，已用 AI Scan 的团队可以简化流水线了。"
         }
       }
     }
