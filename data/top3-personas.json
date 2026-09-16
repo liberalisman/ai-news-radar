@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T00:36:33.177014Z",
+  "generated_at": "2026-09-16T01:58:13.359285Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_592b799d103e",
-      "title": "Fireworks 评测 DeepSeek-V4.1-Flash：DeepSWE 达 GPT-6 Astra 水准、成本仅 1/15 / DeepSeek-V4.1-Flash on Fireworks： Astra-level DeepSWE at 1/15th the cost",
-      "url": "https://fireworks.ai/blog/DeepSeek-V4.1-Flash-Astra",
+      "story_id": "story_3a48419d9a0c",
+      "title": "你的 Agent 漂亮地完成了任务，还能再来一次吗？ / Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "1/15 成本听着香，可基准是自家挑的 DeepSWE，Astra 的完整跑分和延迟数据呢？"
+          "score": 72,
+          "review": "一致性评测是真问题，但博客只给自家框架的漂亮曲线，跨模型复现数据呢？"
         },
         "paper-police": {
-          "score": 38,
-          "review": "厂商自家博客宣称性能与成本，无论文无开源无第三方复现，数字待验证。"
+          "score": 42,
+          "review": "博客给了方法和数字，但无代码无第三方复现，一致性结论待验证。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "编码能力追平顶级、成本砍到1/15，跑代码任务的今天就能换模型试。"
+          "score": 72,
+          "review": "IBM 开源了 Agent 一致性评测工具，跑一遍就知道你的 Agent 是不是靠运气。"
         }
       }
     }
