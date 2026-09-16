@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_93586c9b901c|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "新语音转文本模型已发布，做实时交互的今天就能接 API 试效果。",
-      "title_hash": "d74d210b",
-      "scored_at": "2026-08-26T19:50:54.359382Z"
-    },
-    "story_6b30649509f4|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "教育场景扩展，非开发者直接可用，等API或案例再动手。",
-      "title_hash": "d1181528",
-      "scored_at": "2026-08-26T19:50:55.439419Z"
-    },
-    "story_716a4067630f|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "OpenAI 官宣软文，无具体产品，等有 API 或工具再看。",
-      "title_hash": "0626ec50",
-      "scored_at": "2026-08-26T19:50:56.543844Z"
-    },
-    "story_a3eb56560645|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Chrome 里直接用 Claude，省去切窗口，日常查询和写代码能提速。",
-      "title_hash": "1ce83a4a",
-      "scored_at": "2026-08-26T19:50:57.955943Z"
-    },
-    "story_809ef9d986bc|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数据开放对研究有用，但开发者今天拿不到可用的接口或工具。",
-      "title_hash": "b09f5fb3",
-      "scored_at": "2026-08-26T19:50:59.359612Z"
-    },
-    "story_93586c9b901c|cynic|f4237a62": {
-      "score": 72,
-      "review": "实时语音转写确实硬，但“高精度”对比基线没给，水分得自己挤。",
-      "title_hash": "d74d210b",
-      "scored_at": "2026-08-26T19:51:00.827055Z"
-    },
-    "story_93586c9b901c|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客有细节数字，但无论文无代码，等第三方复现再定论。",
-      "title_hash": "d74d210b",
-      "scored_at": "2026-08-26T19:51:02.162019Z"
-    },
     "story_719767637d52|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "官方教程，能直接抄来给 Dependabot 分类，省点手动活。",
@@ -5406,6 +5364,60 @@
       "review": "官方博客宣称低成本对标，无论文无开源无第三方跑分，成本数字待验证。",
       "title_hash": "bbb672a9",
       "scored_at": "2026-09-16T17:41:48.572551Z"
+    },
+    "story_37963f2af389|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Claude 把协作和聊天合并还加了 Docs/Slides，重度用户今天就能试新工作流。",
+      "title_hash": "4e3f185f",
+      "scored_at": "2026-09-16T20:48:36.734758Z"
+    },
+    "story_d7a7e4dc883d|pragmatic|0a5c5b24": {
+      "score": 18,
+      "review": "估值数字再大也不影响你今天的API账单，融资消息看完就忘。",
+      "title_hash": "297a99ab",
+      "scored_at": "2026-09-16T20:48:37.631761Z"
+    },
+    "story_8c35cf0772a6|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "OpenAI 的软文，讲怎么算 ROI，没有可抄的指标或工具，看完还是不知道怎么落地。",
+      "title_hash": "944ecca9",
+      "scored_at": "2026-09-16T20:48:38.698807Z"
+    },
+    "story_0170c995a4dd|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "权重已开源可下载，本地部署和微调的直接换模型试跑。",
+      "title_hash": "ecf3b0a7",
+      "scored_at": "2026-09-16T20:48:39.466031Z"
+    },
+    "story_6781aac070ee|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "官宣而已，没开放接口也没价格，等能调用再说。",
+      "title_hash": "00a70dba",
+      "scored_at": "2026-09-16T20:48:40.396742Z"
+    },
+    "story_37963f2af389|cynic|f4237a62": {
+      "score": 58,
+      "review": "把两个入口合并再塞进Docs和Slides，功能清单挺长，就是没提价格和上下文上限。",
+      "title_hash": "4e3f185f",
+      "scored_at": "2026-09-16T20:48:41.464111Z"
+    },
+    "story_37963f2af389|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方博客宣称功能合并，无论文无开源无第三方评测，只有说法。",
+      "title_hash": "4e3f185f",
+      "scored_at": "2026-09-16T20:48:42.516435Z"
+    },
+    "story_0170c995a4dd|cynic|f4237a62": {
+      "score": 72,
+      "review": "下载量第一不等于最强，但开源权重和榜单都摆着，这次水分不算多。",
+      "title_hash": "ecf3b0a7",
+      "scored_at": "2026-09-16T20:48:43.718688Z"
+    },
+    "story_0170c995a4dd|paper-police|966065bf": {
+      "score": 42,
+      "review": "登顶榜单是平台热度，非技术评测；权重未开源、无复现数据，等第三方跑分。",
+      "title_hash": "ecf3b0a7",
+      "scored_at": "2026-09-16T20:48:44.653124Z"
     }
   }
 }

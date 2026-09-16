@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:41:48.572667Z",
+  "generated_at": "2026-09-16T20:48:44.653198Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_69fdb83d066d",
-      "title": "Google 推出 Gemini 3.8 Live，以低得多的成本对标 OpenAI 的 GPT-Live-1 / Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
-      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost",
+      "story_id": "story_37963f2af389",
+      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "成本对比只算推理单价，训练和延迟账单呢？先等第三方复现再喊便宜。"
+          "score": 58,
+          "review": "把两个入口合并再塞进Docs和Slides，功能清单挺长，就是没提价格和上下文上限。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客宣称低成本对标，无论文无开源无第三方跑分，成本数字待验证。"
+          "score": 38,
+          "review": "官方博客宣称功能合并，无论文无开源无第三方评测，只有说法。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "实时API成本大降，语音/直播类应用今天就能换供应商比价。"
+          "score": 82,
+          "review": "Claude 把协作和聊天合并还加了 Docs/Slides，重度用户今天就能试新工作流。"
         }
       }
     },
     {
-      "story_id": "story_13603bf46f67",
-      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-      "url": "https://www.aibase.com/news/31098",
+      "story_id": "story_0170c995a4dd",
+      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+      "url": "https://www.aibase.com/news/31101",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "robots.txt 分不出爬虫是来索引还是来喂模型的，这开关更像给站长一个心理安慰。"
+          "review": "下载量第一不等于最强，但开源权重和榜单都摆着，这次水分不算多。"
         },
         "paper-police": {
           "score": 42,
-          "review": "功能上线可查，但无技术文档与实测数据，区分效果待验证。"
+          "review": "登顶榜单是平台热度，非技术评测；权重未开源、无复现数据，等第三方跑分。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "爬虫策略终于能分开配了，站长今天就能去后台勾一下，不用再二选一。"
+          "review": "权重已开源可下载，本地部署和微调的直接换模型试跑。"
         }
       }
     },
