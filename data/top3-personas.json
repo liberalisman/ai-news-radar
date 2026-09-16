@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T17:06:14.093032Z",
+  "generated_at": "2026-09-16T17:41:48.572667Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_f627ffc73bd0",
-      "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking",
+      "story_id": "story_69fdb83d066d",
+      "title": "Google 推出 Gemini 3.8 Live，以低得多的成本对标 OpenAI 的 GPT-Live-1 / Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+      "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 68,
-          "review": "版本号从3跳到3.8，中间那0.8是营销部门贡献的吧？Extended Thinking听着像把思考时间当卖点。"
+          "score": 55,
+          "review": "成本对比只算推理单价，训练和延迟账单呢？先等第三方复现再喊便宜。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方博客发布，仅此而已；无论文、无开源、无第三方评测，数字待验。"
+          "score": 42,
+          "review": "官方博客宣称低成本对标，无论文无开源无第三方跑分，成本数字待验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "新模型上线先看API价格和限流，能调就今天试，别等评测。"
+          "review": "实时API成本大降，语音/直播类应用今天就能换供应商比价。"
         }
       }
     },
