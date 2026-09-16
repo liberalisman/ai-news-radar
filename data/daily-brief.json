@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:26:09.541108Z",
+  "generated_at": "2026-09-16T22:55:47.927972Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8837,
-      "importance": 0.8837,
-      "importance_score": 0.8837,
+      "score": 0.878,
+      "importance": 0.878,
+      "importance_score": 0.878,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8982,
+        "recency": 0.8664,
         "story_heat": 0.5
       },
       "category": "official",
@@ -144,7 +144,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_6210c4b108ab",
+      "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot 预算上调申请现已正式可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot 预算上调申请现已正式可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9626,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:17:18Z",
+      "latest_at": "2026-09-16T20:17:18Z",
+      "primary_item": {
+        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+        "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+        "title_zh": "Copilot 预算上调申请现已正式可用",
+        "title_en": "Copilot budget increase requests are generally available",
+        "title_original": "Copilot budget increase requests are generally available",
+        "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nPreviously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to request more budget the moment they hit the limit. You can approve, adjust, or deny that request without leaving your settings.\nRequests automatica",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "企业管理员现在能自助提额，不用再走工单；个人开发者无感。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -175,7 +260,7 @@
           "title_zh": "Claude Cowork 和聊天现已合为一体",
           "title_en": "Claude Cowork and chat are now one Claude",
           "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. …\n16th September 2026 - Link Blog\nClaude Cowork and chat are now one Claude ( via ) In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:\nStarting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at",
+          "summary": null,
           "recommend_reason_zh": "这则消息说Claude Cowork与chat即日起合并成一个Claude，先向Pro和Max方案现有及新用户开放，并在Web、桌面和移动端分几周推送。",
           "url": "https://simonwillison.net/2026/Sep/16/one-claude",
           "source": "Simon Willison",
@@ -189,7 +274,7 @@
           "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
           "title_en": null,
           "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "summary": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nStarting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nStarting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nYou don’t have to choose w",
+          "summary": null,
           "recommend_reason_zh": "Claude Cowork 与 chat 合并成一个 Claude，未来几周先向 Pro 和 Max plans 推送；同时上线 Claude Docs、Claude Slides，并让 Claude Design 融入对话，原文示例中周报可生成文档和 5 页幻灯片，还能下载为 PowerPoint 或 PDF。",
           "url": "https://claude.com/blog/cowork-is-now-claude",
           "source": "claude.com",
@@ -240,7 +325,7 @@
           "title_zh": "Claude Cowork 和聊天现已合为一体",
           "title_en": "Claude Cowork and chat are now one Claude",
           "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code: Starting today, Claude Cowork and chat are merging into one Claude. …\n16th September 2026 - Link Blog\nClaude Cowork and chat are now one Claude ( via ) In hopefully good news for anyone who, like me, was increasingly confused at Cowork v.s. Claude v.s. Claude Code:\nStarting today, Claude Cowork and chat are merging into one Claude. Bring a quick question, or hand over a report due at",
+          "summary": null,
           "recommend_reason_zh": "这则消息说Claude Cowork与chat即日起合并成一个Claude，先向Pro和Max方案现有及新用户开放，并在Web、桌面和移动端分几周推送。",
           "url": "https://simonwillison.net/2026/Sep/16/one-claude",
           "source": "Simon Willison",
@@ -254,7 +339,7 @@
           "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
           "title_en": null,
           "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "summary": "Starting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nStarting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nStarting today, Claude Cowork and chat are one Claude, rolling out on Pro and Max plans. Hand over the task and Claude does the work. You keep the final say.\nYou don’t have to choose w",
+          "summary": null,
           "recommend_reason_zh": "Claude Cowork 与 chat 合并成一个 Claude，未来几周先向 Pro 和 Max plans 推送；同时上线 Claude Docs、Claude Slides，并让 Claude Design 融入对话，原文示例中周报可生成文档和 5 页幻灯片，还能下载为 PowerPoint 或 PDF。",
           "url": "https://claude.com/blog/cowork-is-now-claude",
           "source": "claude.com",
@@ -279,15 +364,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8425,
+      "importance": 0.8425,
+      "importance_score": 0.8425,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9161,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -316,30 +401,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
-      "story_id": "story_b7506bc123b9",
-      "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "story_id": "story_4b28983f879b",
+      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
+          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:19:58Z"
         }
       ],
       "source_count": 1,
@@ -348,31 +433,31 @@
       ],
       "items": [
         {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
-          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
+          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
+          "published_at": "2026-09-16T20:19:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9038,
+        "recency": 0.9632,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,27 +466,339 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
       "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
-        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+        "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+        "title_en": "SCIM user responses now include a profileUrl attribute",
+        "title_original": "SCIM user responses now include a profileUrl attribute",
+        "summary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nSCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity.\nPreviously, matching a SCIM record to the corresponding GitHub account required extra lookups or inference. Identi",
+        "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "GitHub 代码扫描少一道配置门槛，已用 AI Scan 的团队可以简化流水线了。",
+      "persona_score": 62,
+      "persona_review": "做企业 SSO 对接的可以顺手取用户头像链接，其他人不用管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
+          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
+          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9179,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-16T17:00:00Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
+        "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全披露框架，不改变接口和价格，今天写代码用不上，知道有这回事就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_ade770d3a355",
+      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+      "url": "https://www.aibase.com/news/31086",
+      "primary_url": "https://www.aibase.com/news/31086",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
+          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "summary": null,
+          "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
+          "url": "https://www.aibase.com/news/31086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:45:53.883142Z"
+        },
+        {
+          "id": "7b28536877bcf957069a6c123003a12aa9c407c2",
+          "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_zh": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_en": null,
+          "title_original": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 正以 1.2 万亿美元估值进行新私募融资，较 3 月 852 亿美元估值大涨，但因 CEO Sam Altman 称 1 万亿美元是 IPO 最低门槛，公司拟推迟至 2027 年。",
+          "url": "https://www.aibase.com/news/31069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T01:40:34.057069Z"
+        },
+        {
+          "id": "07d13441f7893cb16531b24f1402d7b59f50db45",
+          "title": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "title_zh": null,
+          "title_en": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "title_original": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260916/p2",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T05:00:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "Techmeme"
+      ],
+      "items": [
+        {
+          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
+          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "summary": null,
+          "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
+          "url": "https://www.aibase.com/news/31086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T06:45:53.883142Z"
+        },
+        {
+          "id": "7b28536877bcf957069a6c123003a12aa9c407c2",
+          "title": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_zh": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "title_en": null,
+          "title_original": "估值冲刺 1.2 万亿美元！OpenAI 欲将 IPO 推迟至 2027 年",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 正以 1.2 万亿美元估值进行新私募融资，较 3 月 852 亿美元估值大涨，但因 CEO Sam Altman 称 1 万亿美元是 IPO 最低门槛，公司拟推迟至 2027 年。",
+          "url": "https://www.aibase.com/news/31069",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T01:40:34.057069Z"
+        },
+        {
+          "id": "07d13441f7893cb16531b24f1402d7b59f50db45",
+          "title": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "title_zh": null,
+          "title_en": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "title_original": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260916/p2",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T05:00:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7918,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T01:40:34.057069Z",
+      "latest_at": "2026-09-16T06:45:53.883142Z",
+      "primary_item": {
+        "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
+        "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "title_en": null,
+        "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "summary": null,
+        "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
+        "url": "https://www.aibase.com/news/31086",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "估值数字跟你的代码没关系，API 价格和额度才是该盯的。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_d6e73104d607",
+      "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
+          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
+          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9633,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
+      "primary_item": {
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+        "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+        "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nEnterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.\nIf your enterprise has multiple SSO-p",
+        "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "企业 SSO 用户终于能自动授权 PAT 和 SSH key，CI 脚本少一步手动点。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -449,15 +846,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.938,
+        "recency": 0.9048,
         "story_heat": 0.0
       },
       "category": "official",
@@ -486,263 +883,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_d7a7e4dc883d",
-      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-      "url": "https://www.aibase.com/news/31086",
-      "primary_url": "https://www.aibase.com/news/31086",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "summary": null,
-          "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
-          "url": "https://www.aibase.com/news/31086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T06:45:53.883142Z"
-        },
-        {
-          "id": "51ff329663c0ae3a76b2802b7f0d631a659745bb",
-          "title": "字节跳动旗下AI药物部门Anew Labs以15亿美元估值融资2.9亿美元，路透社报道 / ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "title_zh": "字节跳动旗下AI药物部门Anew Labs以15亿美元估值融资2.9亿美元，路透社报道",
-          "title_en": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "title_original": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "summary": null,
-          "recommend_reason_zh": "Reuters报道，ByteDance将AI药物发现部门Anew Labs拆分，后者以$1.5B估值融资$290M，HSG、IDG和Hillhouse领投，ByteDance保留56%股份，团队由Liu Kai带领，并在上海、新加坡和San Jose运营，已推进Protenix、PXDesign及IL-17抑制剂等4个候选药物。",
-          "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T08:10:25Z"
-        },
-        {
-          "id": "30739cb4e7552001a0464521c450ae893f14d095",
-          "title": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "title_zh": null,
-          "title_en": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "title_original": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260916/p7",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T06:30:00Z"
-        },
-        {
-          "id": "07d13441f7893cb16531b24f1402d7b59f50db45",
-          "title": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "title_zh": null,
-          "title_en": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "title_original": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260916/p2",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T05:00:59Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "AIbase",
-        "Techmeme",
-        "The Next Web"
-      ],
-      "items": [
-        {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "summary": null,
-          "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
-          "url": "https://www.aibase.com/news/31086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T06:45:53.883142Z"
-        },
-        {
-          "id": "51ff329663c0ae3a76b2802b7f0d631a659745bb",
-          "title": "字节跳动旗下AI药物部门Anew Labs以15亿美元估值融资2.9亿美元，路透社报道 / ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "title_zh": "字节跳动旗下AI药物部门Anew Labs以15亿美元估值融资2.9亿美元，路透社报道",
-          "title_en": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "title_original": "ByteDance’s AI drug unit Anew Labs raises $290M at $1.5B valuation, Reuters reports",
-          "summary": null,
-          "recommend_reason_zh": "Reuters报道，ByteDance将AI药物发现部门Anew Labs拆分，后者以$1.5B估值融资$290M，HSG、IDG和Hillhouse领投，ByteDance保留56%股份，团队由Liu Kai带领，并在上海、新加坡和San Jose运营，已推进Protenix、PXDesign及IL-17抑制剂等4个候选药物。",
-          "url": "https://thenextweb.com/news/bytedance-anew-labs-290m-ai-drug-discovery",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T08:10:25Z"
-        },
-        {
-          "id": "30739cb4e7552001a0464521c450ae893f14d095",
-          "title": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "title_zh": null,
-          "title_en": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "title_original": "Sources: Shanghai-based Anew Labs, a ByteDance spinoff using AI for drug discovery, raised $290M from HSG, IDG Capital, and others at a $1.5B valuation (Kane Wu/Reuters)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260916/p7",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T06:30:00Z"
-        },
-        {
-          "id": "07d13441f7893cb16531b24f1402d7b59f50db45",
-          "title": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "title_zh": null,
-          "title_en": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "title_original": "Sources: investors recently approached OpenAI with a proposal to invest at a $1.2T valuation, but OpenAI believes its value should be at least $1.5T (Sri Muppidi/New York Times)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260916/p2",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T05:00:59Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8208,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T05:00:59Z",
-      "latest_at": "2026-09-16T08:10:25Z",
-      "primary_item": {
-        "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-        "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_en": null,
-        "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "summary": null,
-        "recommend_reason_zh": "报道称 OpenAI 正初步谈判新一轮融资，估值 $120 billion（约8070亿人民币），由投资者发起；其3月以 $82.5 billion 投后估值融资 $12.2 billion，8月年化收入破 $40 billion，活跃用户超10亿。",
-        "url": "https://www.aibase.com/news/31086",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "估值数字再大也不影响你今天的API账单，融资消息看完就忘。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_8c35cf0772a6",
-      "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-          "title_zh": "如何将AI使用与业务价值挂钩",
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-          "title_zh": "如何将AI使用与业务价值挂钩",
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8853,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-        "title_zh": "如何将AI使用与业务价值挂钩",
-        "title_en": "How to connect AI usage to business value",
-        "title_original": "How to connect AI usage to business value",
-        "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nLearn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.\nSeptember 16, 2026\nUnderstand how teams u",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "OpenAI 的软文，讲怎么算 ROI，没有可抄的指标或工具，看完还是不知道怎么落地。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -790,21 +931,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9047,
+        "recency": 0.8727,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-16T13:29:54Z",
       "latest_at": "2026-09-16T13:29:54Z",
@@ -826,7 +966,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -874,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9444,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -909,7 +1049,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_8c35cf0772a6",
+      "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
+          "title_zh": "如何将AI使用与业务价值挂钩",
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
+          "title_zh": "如何将AI使用与业务价值挂钩",
+          "title_en": "How to connect AI usage to business value",
+          "title_original": "How to connect AI usage to business value",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.854,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T12:00:00Z",
+      "latest_at": "2026-09-16T12:00:00Z",
+      "primary_item": {
+        "id": "240870ecd56cd902b085ad5440133358690656e0",
+        "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
+        "title_zh": "如何将AI使用与业务价值挂钩",
+        "title_en": "How to connect AI usage to business value",
+        "title_original": "How to connect AI usage to business value",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "OpenAI 的软文，讲怎么算 ROI，没有可抄的指标或工具，看完还是不知道怎么落地。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -986,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1023,7 +1248,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -1071,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9116,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,63 +1331,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
-      "story_id": "story_20d27da6a9f4",
-      "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
+      "story_id": "story_b7506bc123b9",
+      "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "员工如何解锁全新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
           "summary": null,
-          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "员工如何解锁全新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+          "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
           "summary": null,
-          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
+          "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
+          "published_at": "2026-09-16T13:26:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8478,
+        "ai_relevance": 0.87,
+        "recency": 0.8719,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1171,27 +1396,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
       "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-        "title_zh": "员工如何解锁全新的工作方式",
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置 / Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_zh": "代码扫描 AI Scan 不再依赖 CodeQL 默认配置",
+        "title_en": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "title_original": "Code scanning AI Scan no longer requires CodeQL default setup",
         "summary": null,
-        "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
+        "recommend_reason_zh": "GitHub 的 AI Scan for pull requests 现在无需 CodeQL default setup 也能在 PR 中查找安全漏洞，已启用该功能的组织无需新增配置；该功能面向 GitHub Advanced Security 客户在 github.com 公开预览，暂不支持 GitHub Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "OpenAI 的软文，没产品没接口，看完不写一行代码。",
+      "persona_score": 72,
+      "persona_review": "GitHub 代码扫描少一道配置门槛，已用 AI Scan 的团队可以简化流水线了。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -1267,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8485,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1304,7 +1529,206 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_20d27da6a9f4",
+      "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "员工如何解锁全新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+          "title_zh": "员工如何解锁全新的工作方式",
+          "title_en": "How workers are unlocking new ways of working",
+          "title_original": "How workers are unlocking new ways of working",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8178,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
+      "primary_item": {
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
+        "title_zh": "员工如何解锁全新的工作方式",
+        "title_en": "How workers are unlocking new ways of working",
+        "title_original": "How workers are unlocking new ways of working",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "OpenAI 的软文，没产品没接口，看完不写一行代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
+      }
+    },
+    {
+      "story_id": "story_0170c995a4dd",
+      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+      "url": "https://www.aibase.com/news/31101",
+      "primary_url": "https://www.aibase.com/news/31101",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_en": null,
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "summary": null,
+          "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
+          "url": "https://www.aibase.com/news/31101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T11:33:05.580162Z"
+        },
+        {
+          "id": "2fdc006cf017aeafb888d2daa4cb97f75505e1c2",
+          "title": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平 / Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "title_zh": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平",
+          "title_en": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "title_original": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-16T14:24:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_en": null,
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "summary": null,
+          "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
+          "url": "https://www.aibase.com/news/31101",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T11:33:05.580162Z"
+        },
+        {
+          "id": "2fdc006cf017aeafb888d2daa4cb97f75505e1c2",
+          "title": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平 / Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "title_zh": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平",
+          "title_en": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "title_original": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-16T14:24:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8485,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T11:33:05.580162Z",
+      "latest_at": "2026-09-16T14:24:05Z",
+      "primary_item": {
+        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_en": null,
+        "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "summary": null,
+        "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
+        "url": "https://www.aibase.com/news/31101",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "权重已开源可下载，本地部署和微调的直接换模型试跑。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -1408,15 +1832,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.681,
-      "importance": 0.681,
-      "importance_score": 0.681,
+      "score": 0.6751,
+      "importance": 0.6751,
+      "importance_score": 0.6751,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.9245,
+        "recency": 0.8918,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1444,121 +1868,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_0170c995a4dd",
-      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-      "url": "https://www.aibase.com/news/31101",
-      "primary_url": "https://www.aibase.com/news/31101",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_en": null,
-          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "summary": null,
-          "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
-          "url": "https://www.aibase.com/news/31101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:33:05.580162Z"
-        },
-        {
-          "id": "2fdc006cf017aeafb888d2daa4cb97f75505e1c2",
-          "title": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平 / Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "title_zh": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平",
-          "title_en": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "title_original": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:24:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "title_en": null,
-          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "summary": null,
-          "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
-          "url": "https://www.aibase.com/news/31101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:33:05.580162Z"
-        },
-        {
-          "id": "2fdc006cf017aeafb888d2daa4cb97f75505e1c2",
-          "title": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平 / Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "title_zh": "Show HN：Swift-Qwen3.8-27B，thinking 减少 58.3%，速度提升 1.95 倍，准确率达 xhigh 水平",
-          "title_en": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "title_original": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T14:24:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8796,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T11:33:05.580162Z",
-      "latest_at": "2026-09-16T14:24:05Z",
-      "primary_item": {
-        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-        "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-        "title_en": null,
-        "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-        "summary": null,
-        "recommend_reason_zh": "9月16日Hugging Face更新Most Likes榜，Alibaba's Tongyi Lab的Qwen3.8-27B超越FLUX.1、DeepSeek-R1、Kimi-K3和Meta-Llama-3，成为平台史上最受欢迎开源模型，本文解读开发者点赞为何比benchmark分数或参数规模更有分量。",
-        "url": "https://www.aibase.com/news/31101",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "权重已开源可下载，本地部署和微调的直接换模型试跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -1635,15 +1945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8121,
+        "recency": 0.7834,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1672,7 +1982,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     },
     {
@@ -1720,15 +2030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1755,513 +2065,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_c040e7b4b4c9",
-      "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-      "url": "https://www.aibase.com/news/31092",
-      "primary_url": "https://www.aibase.com/news/31092",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在2026年9月15日升级Claude中小企业版，一次推出43项工作流，并与Shopify、Salesforce等27个商业平台深度集成。",
-          "url": "https://www.aibase.com/news/31092",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:33:05.580162Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic在2026年9月15日升级Claude中小企业版，一次推出43项工作流，并与Shopify、Salesforce等27个商业平台深度集成。",
-          "url": "https://www.aibase.com/news/31092",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T11:33:05.580162Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8796,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T11:33:05.580162Z",
-      "latest_at": "2026-09-16T11:33:05.580162Z",
-      "primary_item": {
-        "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-        "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "title_en": null,
-        "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic在2026年9月15日升级Claude中小企业版，一次推出43项工作流，并与Shopify、Salesforce等27个商业平台深度集成。",
-        "url": "https://www.aibase.com/news/31092",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "先看具体是哪些集成和 API 变化，能省自建胶水代码就值得试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_0fde9b3c225c",
-      "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "primary_url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "source": "enclave.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash在AI hacking benchmark中攻破全部11个vulnerable targets，4个fixed targets保持安全，accepted runs仅花$4.65，审计确认6条计划路径和5条意外路径，并动用2,349条Bash命令，值得细读。",
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "2ebbbe172ee3b75c9591babb9b7a38994b80626e",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T12:19:55Z"
-        },
-        {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最好的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最好的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "enclave.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": null,
-          "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash在AI hacking benchmark中攻破全部11个vulnerable targets，4个fixed targets保持安全，accepted runs仅花$4.65，审计确认6条计划路径和5条意外路径，并动用2,349条Bash命令，值得细读。",
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "enclave.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T16:53:38.011000Z"
-        },
-        {
-          "id": "2ebbbe172ee3b75c9591babb9b7a38994b80626e",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T12:19:55Z"
-        },
-        {
-          "id": "f6850e6d171b5eab4d58a46f382718e53ba50e97",
-          "title": "DeepSeek v4.1 Flash 现已成为我们最好的黑客模型 / DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_zh": "DeepSeek v4.1 Flash 现已成为我们最好的黑客模型",
-          "title_en": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "title_original": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49725800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T12:19:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9501,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T12:19:55Z",
-      "latest_at": "2026-09-16T16:53:38.011000Z",
-      "primary_item": {
-        "id": "1885a860c6e7852e617b9481d525cbc4f5ca07ad",
-        "title": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_zh": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "title_en": null,
-        "title_original": "DeepSeek v4.1 Flash 现已成为我们最优秀的黑客模型",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek V4.1 Flash在AI hacking benchmark中攻破全部11个vulnerable targets，4个fixed targets保持安全，accepted runs仅花$4.65，审计确认6条计划路径和5条意外路径，并动用2,349条Bash命令，值得细读。",
-        "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "source": "enclave.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "安全团队可测的模型选型参考，但普通开发者用不上，先看榜单再决定。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_c8a4ea21195d",
-      "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "primary_url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-      "source": "frvr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": "PS5 Linux负责人Andy ‘TheFlow0’ Nguyen因新手滥用LLMs写不懂的hack并报漏洞给Sony，放弃原定2027年PS5 Pro支持。",
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        },
-        {
-          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": "PS5 Linux项目负责人Andy ‘TheFlow0’ Nguyen宣布退出，原定2027年完成PS5 Pro支持的计划泡汤，他痛批开源社区的“vibe-coders”用LLM提交自己都看不懂的代码，更有人用AI找到他早先发现的hypervisor漏洞并向Sony报告换赏金，破坏了Linux在较新固件上的进展，最后版本停留在支持3.00-7.61固件的2.5版。",
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T14:30:36Z"
-        },
-        {
-          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
-          "title": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49727627",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T14:30:36Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "frvr.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": null,
-          "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "summary": null,
-          "recommend_reason_zh": "PS5 Linux负责人Andy ‘TheFlow0’ Nguyen因新手滥用LLMs写不懂的hack并报漏洞给Sony，放弃原定2027年PS5 Pro支持。",
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "frvr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T15:19:20.606000Z"
-        },
-        {
-          "id": "a055410cbd0092d0d8c4930d1a2261db386e08a8",
-          "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂” / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": "PS5 Linux项目负责人Andy ‘TheFlow0’ Nguyen宣布退出，原定2027年完成PS5 Pro支持的计划泡汤，他痛批开源社区的“vibe-coders”用LLM提交自己都看不懂的代码，更有人用AI找到他早先发现的hypervisor漏洞并向Sony报告换赏金，破坏了Linux在较新固件上的进展，最后版本停留在支持3.00-7.61固件的2.5版。",
-          "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T14:30:36Z"
-        },
-        {
-          "id": "73df57ac7d54fca53c3683227f68731bd958f449",
-          "title": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM / PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_zh": "PS5 Linux 负责人辞职：“一群啥也不懂的小白在用 LLM",
-          "title_en": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "title_original": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49727627",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T14:30:36Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9288,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T14:30:36Z",
-      "latest_at": "2026-09-16T15:19:20.606000Z",
-      "primary_item": {
-        "id": "27a790a93cf09f27184a7cb7cb028ca80e3918a3",
-        "title": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "title_zh": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "title_en": null,
-        "title_original": "PS5 Linux项目负责人离职：称“一群新手在滥用大语言模型（LLMs）”，而“他们根本不懂”",
-        "summary": null,
-        "recommend_reason_zh": "PS5 Linux负责人Andy ‘TheFlow0’ Nguyen因新手滥用LLMs写不懂的hack并报漏洞给Sony，放弃原定2027年PS5 Pro支持。",
-        "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand",
-        "source": "frvr.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "开源圈吐槽贴，不产出代码也不改工具，看完继续干活。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
-      }
-    },
-    {
-      "story_id": "story_e505711c206e",
-      "title": "在大语言模型时代学习编程",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-      "source": "blog.ploeh.dk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-          "title": "在大语言模型时代学习编程",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": null,
-          "title_original": "在大语言模型时代学习编程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "blog.ploeh.dk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T12:57:28.012000Z"
-        },
-        {
-          "id": "720847508944015f438096814c5bee1f4507a961",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "读者来信：无CS背景，借LLMs搭出TypeScript/JavaScript系统，却在转生产产品时发现超出自身理解；经济学家追问AI时代学编程与知识工作者失业风险。",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "LLMs时代学习编程：AI加速开发，但需自律学习",
-          "title_zh": "LLMs时代学习编程：AI加速开发，但需自律学习",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "LLM时代学编程：如今善用LLM可快速做出超出自身理解的MVP，而五年前做项目仍需懂TCP、HTTP、关系数据库和Linux；作者强调要边做边有意识构建理解。",
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "blog.ploeh.dk",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-          "title": "在大语言模型时代学习编程",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": null,
-          "title_original": "在大语言模型时代学习编程",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "blog.ploeh.dk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T12:57:28.012000Z"
-        },
-        {
-          "id": "720847508944015f438096814c5bee1f4507a961",
-          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
-          "title_zh": "在大语言模型时代学习编程",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "读者来信：无CS背景，借LLMs搭出TypeScript/JavaScript系统，却在转生产产品时发现超出自身理解；经济学家追问AI时代学编程与知识工作者失业风险。",
-          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-16T09:12:34Z"
-        },
-        {
-          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
-          "title": "LLMs时代学习编程：AI加速开发，但需自律学习",
-          "title_zh": "LLMs时代学习编程：AI加速开发，但需自律学习",
-          "title_en": "Learning Programming in an Age of LLMs",
-          "title_original": "Learning Programming in an Age of LLMs",
-          "summary": null,
-          "recommend_reason_zh": "LLM时代学编程：如今善用LLM可快速做出超出自身理解的MVP，而五年前做项目仍需懂TCP、HTTP、关系数据库和Linux；作者强调要边做边有意识构建理解。",
-          "url": "https://news.ycombinator.com/item?id=49723873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T09:12:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8976,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T09:12:34Z",
-      "latest_at": "2026-09-16T12:57:28.012000Z",
-      "primary_item": {
-        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
-        "title": "在大语言模型时代学习编程",
-        "title_zh": "在大语言模型时代学习编程",
-        "title_en": null,
-        "title_original": "在大语言模型时代学习编程",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
-        "source": "blog.ploeh.dk",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "观点文，读完不改变你今天写什么代码，扫一眼即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-16T20:48:35.737432Z"
+        "scored_at": "2026-09-16T23:14:27.444551Z"
       }
     }
   ]
