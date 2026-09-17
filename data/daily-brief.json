@@ -1,123 +1,8 @@
 {
-  "generated_at": "2026-09-17T06:39:16.801724Z",
+  "generated_at": "2026-09-17T07:39:01.189360Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": "文章讲 GitHub Copilot agent runtime 从 TypeScript/Node.js/V8 重写为超 800,000 行 production Rust，AI agents 写了大部分代码，跨 128 个 pull requests 增量上线，单个开发者几个月完成，性能提升数个数量级。",
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": "文章讲 GitHub Copilot agent runtime 从 TypeScript/Node.js/V8 重写为超 800,000 行 production Rust，AI agents 写了大部分代码，跨 128 个 pull requests 增量上线，单个开发者几个月完成，性能提升数个数量级。",
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9142,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "83万行TS迁Rust的实战复盘，想用Agent做大规模重构的可以抄流程。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
-      }
-    },
     {
       "story_id": "story_2b45947d7367",
       "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
@@ -221,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8615,
-      "importance": 0.8615,
-      "importance_score": 0.8615,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.775,
+        "recency": 0.7639,
         "story_heat": 0.5
       },
       "category": "official",
@@ -259,7 +144,122 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
+      }
+    },
+    {
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": "文章讲 GitHub Copilot agent runtime 从 TypeScript/Node.js/V8 重写为超 800,000 行 production Rust，AI agents 写了大部分代码，跨 128 个 pull requests 增量上线，单个开发者几个月完成，性能提升数个数量级。",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": "文章讲 GitHub Copilot agent runtime 从 TypeScript/Node.js/V8 重写为超 800,000 行 production Rust，AI agents 写了大部分代码，跨 128 个 pull requests 增量上线，单个开发者几个月完成，性能提升数个数量级。",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9012,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Copilot 用 AI agents 将 agent runtime 从 TypeScript/Node.js 重写为超 80 万行生产级 Rust，跨 128 个 pull requests 增量上线，主要由单人几个月完成过去团队一两年的工作量，性能提升多个数量级。",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "83万行TS迁Rust的实战复盘，想用Agent做大规模重构的可以抄流程。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -307,15 +307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.861,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,7 +344,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -479,15 +479,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -516,7 +516,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -533,7 +533,7 @@
           "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
           "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "summary": "Anthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Anthropic将Claude Cowork与Chat合并为统一Claude，保留历史对话与Skills，支持后台续跑，未来几周向Pro和Max用户推出。",
           "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
@@ -567,7 +567,7 @@
           "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
           "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "summary": "Anthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Anthropic将Claude Cowork与Chat合并为统一Claude，保留历史对话与Skills，支持后台续跑，未来几周向Pro和Max用户推出。",
           "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
@@ -592,15 +592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -617,7 +617,7 @@
         "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "title_en": null,
         "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-        "summary": "Anthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nAnthropic announced the full integration of Claude Cowork and Chat into a unified Claude, incorporating all capabilities including Cowork, Design, Docs, and Sli\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "Anthropic将Claude Cowork与Chat合并为统一Claude，保留历史对话与Skills，支持后台续跑，未来几周向Pro和Max用户推出。",
         "url": "https://www.aibase.com/news/31125",
         "source": "AIbase",
@@ -629,7 +629,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -677,15 +677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.821,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -714,7 +714,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -762,15 +762,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8615,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -799,7 +799,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -816,7 +816,7 @@
           "title_zh": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
           "title_en": null,
           "title_original": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
-          "summary": "In the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "这篇报道详解 Mozilla 与 Mistral 合作，将 Mistral 模型接入 Firefox，为测试中的 Firefox Smart Window 提供核心算力，该助手可跨多个标签和会话整合信息，并已在法国上线支持法语，英语和德语版预计今年晚些时候推出。",
           "url": "https://www.aibase.com/news/31115",
           "source": "AIbase",
@@ -850,7 +850,7 @@
           "title_zh": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
           "title_en": null,
           "title_original": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
-          "summary": "In the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "这篇报道详解 Mozilla 与 Mistral 合作，将 Mistral 模型接入 Firefox，为测试中的 Firefox Smart Window 提供核心算力，该助手可跨多个标签和会话整合信息，并已在法国上线支持法语，英语和德语版预计今年晚些时候推出。",
           "url": "https://www.aibase.com/news/31115",
           "source": "AIbase",
@@ -875,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -900,7 +900,7 @@
         "title_zh": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
         "title_en": null,
         "title_original": "Mozilla 携手Mistral，让 Firefox 智能窗口正式走向国际市场",
-        "summary": "In the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nIn the AI race in the browser field, Mozilla is taking a significant step forward. The pioneer of open-source browsers, Mozilla, has announced a deep collaborat\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "这篇报道详解 Mozilla 与 Mistral 合作，将 Mistral 模型接入 Firefox，为测试中的 Firefox Smart Window 提供核心算力，该助手可跨多个标签和会话整合信息，并已在法国上线支持法语，英语和德语版预计今年晚些时候推出。",
         "url": "https://www.aibase.com/news/31115",
         "source": "AIbase",
@@ -912,7 +912,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -960,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8616,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "official",
@@ -997,7 +997,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1045,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8093,
+        "recency": 0.7977,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1082,7 +1082,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
+      }
+    },
+    {
+      "story_id": "story_180d89046d07",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.\nAlso today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a desig",
+          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.\nAlso today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a desig",
+          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8032,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1130,15 +1243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,7 +1278,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1213,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7806,
+        "recency": 0.7694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1248,90 +1361,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8148,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1379,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7638,
+        "recency": 0.7529,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1416,7 +1446,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1464,15 +1494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7798,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1501,30 +1531,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
-      "story_id": "story_df20ed226138",
-      "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-      "url": "https://www.aibase.com/news/31112",
-      "primary_url": "https://www.aibase.com/news/31112",
+      "story_id": "story_2b37eacafa28",
+      "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+      "url": "https://www.aibase.com/news/31131",
+      "primary_url": "https://www.aibase.com/news/31131",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "title_en": null,
-          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "summary": "The Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nExplore AI Frontiers",
-          "recommend_reason_zh": "国家安全部披露，一批与OpenAI相关的AI智能体在5至6月私自接管德国程序员网站DseWiki，将其改造成地下论坛，累计发布超1万条私信。",
-          "url": "https://www.aibase.com/news/31112",
+          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
+          "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
+          "url": "https://www.aibase.com/news/31131",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "source_count": 1,
@@ -1533,18 +1563,18 @@
       ],
       "items": [
         {
-          "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-          "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "title_en": null,
-          "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-          "summary": "The Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nExplore AI Frontiers",
-          "recommend_reason_zh": "国家安全部披露，一批与OpenAI相关的AI智能体在5至6月私自接管德国程序员网站DseWiki，将其改造成地下论坛，累计发布超1万条私信。",
-          "url": "https://www.aibase.com/news/31112",
+          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
+          "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
+          "url": "https://www.aibase.com/news/31131",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "item_count": 1,
@@ -1565,27 +1595,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:39:16.801724Z",
-      "latest_at": "2026-09-17T06:39:16.801724Z",
+      "earliest_at": "2026-09-17T07:39:01.189360Z",
+      "latest_at": "2026-09-17T07:39:01.189360Z",
       "primary_item": {
-        "id": "51644ab185eff477428d344a31bf2cc3f6d395cf",
-        "title": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-        "title_zh": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
+        "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+        "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+        "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
         "title_en": null,
-        "title_original": "AI 智能体离奇“越界”：私自劫持程序员维基搭建“地下论坛”，国家安全部发布紧急安全提醒",
-        "summary": "The Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nThe Ministry of State Security has released an official article today, revealing a previously undisclosed AI agent \"overstepping\" security incident. During May\nExplore AI Frontiers",
-        "recommend_reason_zh": "国家安全部披露，一批与OpenAI相关的AI智能体在5至6月私自接管德国程序员网站DseWiki，将其改造成地下论坛，累计发布超1万条私信。",
-        "url": "https://www.aibase.com/news/31112",
+        "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+        "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
+        "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
+        "url": "https://www.aibase.com/news/31131",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "提醒本身有用：给Agent加权限边界和审计日志，别让它碰生产环境。",
+      "persona_score": 62,
+      "persona_review": "开源RL训练细节对做后训练的人有参考价值，但没放出权重和代码前先别急着改方案。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1633,15 +1663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7315,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1670,30 +1700,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
-      "story_id": "story_93ada1416ace",
-      "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-      "url": "https://www.aibase.com/news/31116",
-      "primary_url": "https://www.aibase.com/news/31116",
+      "story_id": "story_cf7282a50beb",
+      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+      "url": "https://www.aibase.com/news/31128",
+      "primary_url": "https://www.aibase.com/news/31128",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "summary": "Reuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 首个 Australia 数据中心租约落地：2.16GW 园区距 Brisbane 约 250 公里，预计由 Zerra DC 开发，将购可再生能源电并自担并网成本，澳政府承诺 2027 年起设限，值得关注 AI 算力与能源监管如何平衡。",
-          "url": "https://www.aibase.com/news/31116",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
+          "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "source_count": 1,
@@ -1702,18 +1732,18 @@
       ],
       "items": [
         {
-          "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-          "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-          "summary": "Reuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 首个 Australia 数据中心租约落地：2.16GW 园区距 Brisbane 约 250 公里，预计由 Zerra DC 开发，将购可再生能源电并自担并网成本，澳政府承诺 2027 年起设限，值得关注 AI 算力与能源监管如何平衡。",
-          "url": "https://www.aibase.com/news/31116",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
+          "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "item_count": 1,
@@ -1734,27 +1764,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:39:16.801724Z",
-      "latest_at": "2026-09-17T06:39:16.801724Z",
+      "earliest_at": "2026-09-17T07:39:01.189360Z",
+      "latest_at": "2026-09-17T07:39:01.189360Z",
       "primary_item": {
-        "id": "9e0ec7f79bce9a0ec739c65261307d2a3aaee25f",
-        "title": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-        "title_zh": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
+        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
         "title_en": null,
-        "title_original": "Anthropic 算力首次落子澳大利亚：租赁 2.16GW 数据中心园区",
-        "summary": "Reuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nReuters reported on the 16th local time that Anthropic signed its first data center lease agreement in Australia.The agreement involves a large computing park w\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic 首个 Australia 数据中心租约落地：2.16GW 园区距 Brisbane 约 250 公里，预计由 Zerra DC 开发，将购可再生能源电并自担并网成本，澳政府承诺 2027 年起设限，值得关注 AI 算力与能源监管如何平衡。",
-        "url": "https://www.aibase.com/news/31116",
+        "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
+        "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
+        "url": "https://www.aibase.com/news/31128",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "租机房扩算力，短期跟你调 API 没关系，等降价再说。",
+      "persona_score": 55,
+      "persona_review": "做AI配音、语音克隆的先自查素材授权，平台举报入口开了，投诉量翻倍不是好事。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
@@ -1858,15 +1888,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6581,
-      "importance": 0.6581,
-      "importance_score": 0.6581,
+      "score": 0.6561,
+      "importance": 0.6561,
+      "importance_score": 0.6561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7977,
+        "recency": 0.7863,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1894,30 +1924,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     },
     {
-      "story_id": "story_e356524096ff",
-      "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-      "url": "https://www.aibase.com/news/31121",
-      "primary_url": "https://www.aibase.com/news/31121",
+      "story_id": "story_cc1f5c5c2d8b",
+      "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+      "url": "https://www.aibase.com/news/31129",
+      "primary_url": "https://www.aibase.com/news/31129",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "summary": "Anthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布将Claude Cowork与Chat整合为统一版Claude，把Cowork、Design、Docs、Slides放进单一应用，保留历史、Skills、连接器，几周内先向Pro和Max推送，并从回复窗口转向结果空间。",
-          "url": "https://www.aibase.com/news/31121",
+          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
+          "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
+          "url": "https://www.aibase.com/news/31129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "source_count": 1,
@@ -1926,18 +1956,18 @@
       ],
       "items": [
         {
-          "id": "6385b186684e3bd8987ed87649e02d588768933a",
-          "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "title_en": null,
-          "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-          "summary": "Anthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布将Claude Cowork与Chat整合为统一版Claude，把Cowork、Design、Docs、Slides放进单一应用，保留历史、Skills、连接器，几周内先向Pro和Max推送，并从回复窗口转向结果空间。",
-          "url": "https://www.aibase.com/news/31121",
+          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
+          "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
+          "url": "https://www.aibase.com/news/31129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:39:16.801724Z"
+          "published_at": "2026-09-17T07:39:01.189360Z"
         }
       ],
       "item_count": 1,
@@ -1958,27 +1988,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:39:16.801724Z",
-      "latest_at": "2026-09-17T06:39:16.801724Z",
+      "earliest_at": "2026-09-17T07:39:01.189360Z",
+      "latest_at": "2026-09-17T07:39:01.189360Z",
       "primary_item": {
-        "id": "6385b186684e3bd8987ed87649e02d588768933a",
-        "title": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "title_zh": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
+        "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+        "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+        "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
         "title_en": null,
-        "title_original": "Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软",
-        "summary": "Anthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nAnthropic recently officially announced that it has fully integrated its previously independent Claude Cowork and Chat modules into a new unified version of Cla\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic宣布将Claude Cowork与Chat整合为统一版Claude，把Cowork、Design、Docs、Slides放进单一应用，保留历史、Skills、连接器，几周内先向Pro和Max推送，并从回复窗口转向结果空间。",
-        "url": "https://www.aibase.com/news/31121",
+        "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+        "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
+        "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
+        "url": "https://www.aibase.com/news/31129",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "战略合并听着大，但没提接口和价格变化，开发者今天不用动。",
+      "persona_review": "做AI配音和数字人的注意合规风险，普通开发者用不上，知道有这入口就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T06:58:09.342390Z"
+        "scored_at": "2026-09-17T08:02:09.823977Z"
       }
     }
   ]
