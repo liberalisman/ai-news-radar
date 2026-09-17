@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:39:01.189360Z",
+  "generated_at": "2026-09-17T12:05:34.367726Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8595,
-      "importance": 0.8595,
-      "importance_score": 0.8595,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7639,
+        "recency": 0.7164,
         "story_heat": 0.5
       },
       "category": "official",
@@ -144,7 +144,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -221,15 +221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8592,
-      "importance": 0.8592,
-      "importance_score": 0.8592,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9012,
+        "recency": 0.8452,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,7 +259,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -307,15 +307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8487,
+        "recency": 0.7959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,7 +344,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -479,15 +479,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.823,
-      "importance": 0.823,
-      "importance_score": 0.823,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7575,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -516,7 +516,320 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_76db13fd8fea",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "Our framework for reporting model misalignment",
+          "title_original": "Our framework for reporting model misalignment",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
+          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "title_en": "OpenAI Model Misalignment Report",
+          "title_original": "OpenAI Model Misalignment Report",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T07:21:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.759,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-17T07:21:19Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+        "title_en": "Our framework for reporting model misalignment",
+        "title_original": "Our framework for reporting model misalignment",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全披露框架，不改变接口和价格，今天写代码用不上，知道有这回事就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_ba9824b26604",
+      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+      "url": "https://www.aibase.com/news/31138",
+      "primary_url": "https://www.aibase.com/news/31138",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+          "recommend_reason_zh": "英国AI初创Emulate目标最高募资7亿美元、估值37亿美元，创始团队来自Google DeepMind并打造过Genie，值得关注这家新实验室的动向。",
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        },
+        {
+          "id": "ed850726229a30cdee40097fb59005f4c4bdca0b",
+          "title": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "title_zh": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "title_en": null,
+          "title_original": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Bloomberg报道Manus拟融资约5亿美元、目标估值40亿美元，这是其与Meta完成业务分离后的首次融资。",
+          "url": "https://www.aibase.com/news/31120",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:39:16.801724Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+          "recommend_reason_zh": "英国AI初创Emulate目标最高募资7亿美元、估值37亿美元，创始团队来自Google DeepMind并打造过Genie，值得关注这家新实验室的动向。",
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        },
+        {
+          "id": "ed850726229a30cdee40097fb59005f4c4bdca0b",
+          "title": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "title_zh": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "title_en": null,
+          "title_original": "消息称Manus 拟融资约5亿美元，目标估值40亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Bloomberg报道Manus拟融资约5亿美元、目标估值40亿美元，这是其与Meta完成业务分离后的首次融资。",
+          "url": "https://www.aibase.com/news/31120",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T06:39:16.801724Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T06:39:16.801724Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
+      "primary_item": {
+        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_en": null,
+        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "summary": "On Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nOn Wednesday (September 16), the UK AI startup Emulate launched a new round of funding, aiming to raise up to $700 million, with a post-money valuation of aroun\nExplore AI Fronti",
+        "recommend_reason_zh": "英国AI初创Emulate目标最高募资7亿美元、估值37亿美元，创始团队来自Google DeepMind并打造过Genie，值得关注这家新实验室的动向。",
+        "url": "https://www.aibase.com/news/31138",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "融资估值数字，跟写代码的没关系，等它开源或出API再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_4b28983f879b",
+      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": null,
+          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+          "title_en": "SCIM user responses now include a profileUrl attribute",
+          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "summary": null,
+          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7965,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
+      "primary_item": {
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+        "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
+        "title_en": "SCIM user responses now include a profileUrl attribute",
+        "title_original": "SCIM user responses now include a profileUrl attribute",
+        "summary": null,
+        "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "做企业 SSO 对接的可以顺手取用户头像链接，其他人不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -592,15 +905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -629,115 +942,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
-      "story_id": "story_76db13fd8fea",
-      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-16T17:00:00Z",
-      "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "title_en": "Our framework for reporting model misalignment",
-        "title_original": "Our framework for reporting model misalignment",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全披露框架，不改变接口和价格，今天写代码用不上，知道有这回事就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_4b28983f879b",
-      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "story_id": "story_d6e73104d607",
+      "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
-          "title_en": "SCIM user responses now include a profileUrl attribute",
-          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
           "summary": null,
-          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
+          "published_at": "2026-09-16T20:20:16Z"
         }
       ],
       "source_count": 1,
@@ -746,31 +974,31 @@
       ],
       "items": [
         {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
-          "title_en": "SCIM user responses now include a profileUrl attribute",
-          "title_original": "SCIM user responses now include a profileUrl attribute",
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
           "summary": null,
-          "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
+          "published_at": "2026-09-16T20:20:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8492,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -779,27 +1007,225 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T20:19:58Z",
-      "latest_at": "2026-09-16T20:19:58Z",
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
       "primary_item": {
-        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-        "title_zh": "SCIM 用户响应现在包含 profileUrl 属性",
-        "title_en": "SCIM user responses now include a profileUrl attribute",
-        "title_original": "SCIM user responses now include a profileUrl attribute",
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+        "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
         "summary": null,
-        "recommend_reason_zh": "GitHub SCIM 用户响应新增 RFC 7643 定义的 profileUrl，直接包含关联 GitHub 账户的绝对 URL，省去此前额外查询或推断。",
-        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "做企业 SSO 对接的可以顺手取用户头像链接，其他人不用管。",
+      "persona_score": 82,
+      "persona_review": "企业 SSO 用户终于能自动授权 PAT 和 SSH key，CI 脚本少一步手动点。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_8ce36e5af566",
+      "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人将 AI 融入日常生活",
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+          "title_zh": "帮助老年人将 AI 融入日常生活",
+          "title_en": "Helping older adults use AI in everyday life",
+          "title_original": "Helping older adults use AI in everyday life",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7481,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
+      "primary_item": {
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
+        "title_zh": "帮助老年人将 AI 融入日常生活",
+        "title_en": "Helping older adults use AI in everyday life",
+        "title_original": "Helping older adults use AI in everyday life",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "公益向内容，没有新接口或工具，开发者今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_180d89046d07",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "summary": null,
+          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7533,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
+        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
+        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -875,15 +1301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9245,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,541 +1338,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_d6e73104d607",
-      "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8493,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:20:16Z",
-      "latest_at": "2026-09-16T20:20:16Z",
-      "primary_item": {
-        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-        "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-        "title_zh": "为 classic PATs 和 SSH keys 自动化 SSO 授权",
-        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Enterprise Cloud 企业管理员现在可开启新设置，让具备 enterprise_credentials:write 权限的 GitHub Apps 调用 API，单次为 classic PAT 或 SSH key 批量授权最多 50 个组织的 SSO，免去逐一手动授权。",
-        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "企业 SSO 用户终于能自动授权 PAT 和 SSH key，CI 脚本少一步手动点。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_8ce36e5af566",
-      "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人将 AI 融入日常生活",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人将 AI 融入日常生活",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7977,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-        "title_zh": "帮助老年人将 AI 融入日常生活",
-        "title_en": "Helping older adults use AI in everyday life",
-        "title_original": "Helping older adults use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "公益向内容，没有新接口或工具，开发者今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.\nAlso today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a desig",
-          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design. There's no separate tool to navigate to. They're just in the chat.\nAlso today: Claude Docs, Claude Slides, and Claude Design are in every conversation.\n\nAsk Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a desig",
-          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8032,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_bb49b6e3b62b",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_en": null,
-          "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "title_en": null,
-          "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8974,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T00:09:06Z",
-      "latest_at": "2026-09-17T00:09:06Z",
-      "primary_item": {
-        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "title_zh": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "title_en": null,
-        "title_original": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "summary": "自媒体作者分享一套节省 Codex 额度的工作流：让 Codex 把自己的服务器封装成只读、最小权限、飞书 OAuth 鉴权的 MCP Server，作为插件供 ChatGPT 网页版的 GPT-6 Pro 调用，读取真实生产数据和 GitHub PR 记录做分析与规划。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "省额度的小技巧，重度 Codex 用户可抄，但方案依赖具体会员规则，未必通用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_1615464a9e77",
-      "title": "何夕2077 AI 深度信号周报 2026 W37",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-          "summary": null,
-          "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7694,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T13:29:54Z",
-      "latest_at": "2026-09-16T13:29:54Z",
-      "primary_item": {
-        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-        "title": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
-        "summary": null,
-        "recommend_reason_zh": "本期周报以2026 W37智能体平台化、数学证明争议与算力资本化为轴，梳理OpenAI把Codex Harness产品化为可连续运行数天的Agents API、Anthropic长期算力合同和Mistral 30亿欧元融资等具体信号。",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "周报类汇总，扫一眼知道本周发生了啥就行，别指望有能直接抄的方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_8c35cf0772a6",
-      "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-          "title_zh": "如何将AI使用与业务价值挂钩",
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-          "title_zh": "如何将AI使用与业务价值挂钩",
-          "title_en": "How to connect AI usage to business value",
-          "title_original": "How to connect AI usage to business value",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7529,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "如何将AI使用与业务价值挂钩 / How to connect AI usage to business value",
-        "title_zh": "如何将AI使用与业务价值挂钩",
-        "title_en": "How to connect AI usage to business value",
-        "title_original": "How to connect AI usage to business value",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "OpenAI 的软文，讲怎么算 ROI，没有可抄的指标或工具，看完还是不知道怎么落地。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -1494,15 +1386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7687,
+        "recency": 0.7209,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1531,30 +1423,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
-      "story_id": "story_2b37eacafa28",
-      "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-      "url": "https://www.aibase.com/news/31131",
-      "primary_url": "https://www.aibase.com/news/31131",
+      "story_id": "story_8bf736325a82",
+      "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+      "url": "https://www.aibase.com/news/31132",
+      "primary_url": "https://www.aibase.com/news/31132",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
-          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
           "title_en": null,
-          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-          "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
-          "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
-          "url": "https://www.aibase.com/news/31131",
+          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "summary": "Moonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nExplore AI Fronti",
+          "recommend_reason_zh": "Moonshot 发布 Kimi 金融行业解决方案，一站式接入 10 余个数据源，含 9 项金融技能与 5 项安全合规措施，覆盖晨报、财报评论、项目筛选等场景，资料处理从天级压到小时级。",
+          "url": "https://www.aibase.com/news/31132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
+          "published_at": "2026-09-17T12:05:34.367726Z"
         }
       ],
       "source_count": 1,
@@ -1563,18 +1455,18 @@
       ],
       "items": [
         {
-          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
-          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
           "title_en": null,
-          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-          "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
-          "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
-          "url": "https://www.aibase.com/news/31131",
+          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+          "summary": "Moonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nExplore AI Fronti",
+          "recommend_reason_zh": "Moonshot 发布 Kimi 金融行业解决方案，一站式接入 10 余个数据源，含 9 项金融技能与 5 项安全合规措施，覆盖晨报、财报评论、项目筛选等场景，资料处理从天级压到小时级。",
+          "url": "https://www.aibase.com/news/31132",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
+          "published_at": "2026-09-17T12:05:34.367726Z"
         }
       ],
       "item_count": 1,
@@ -1595,196 +1487,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T07:39:01.189360Z",
-      "latest_at": "2026-09-17T07:39:01.189360Z",
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
       "primary_item": {
-        "id": "52162fab7d11502d179948c6ca22d131b6a68926",
-        "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-        "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+        "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
+        "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+        "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
         "title_en": null,
-        "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
-        "summary": "At 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nAt 12:00 AM on September 17, Luo Fuli, head of the Xiaomi MiMo large model team and former DeepSeek researcher, posted on the X platform, publicly revealing for\nExplore AI Fronti",
-        "recommend_reason_zh": "Luo Fuli在9月17日于X首次公开Xiaomi MiMo-V2.6的RL训练进展，并直播整个RL阶段：每步约2 billion tokens、1568 prompts×16 rollouts全异步并行，技术细节将逐步开源。",
-        "url": "https://www.aibase.com/news/31131",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "开源RL训练细节对做后训练的人有参考价值，但没放出权重和代码前先别急着改方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_20d27da6a9f4",
-      "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "员工如何解锁全新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-          "title_zh": "员工如何解锁全新的工作方式",
-          "title_en": "How workers are unlocking new ways of working",
-          "title_original": "How workers are unlocking new ways of working",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.721,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
-      "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "员工如何解锁全新的工作方式 / How workers are unlocking new ways of working",
-        "title_zh": "员工如何解锁全新的工作方式",
-        "title_en": "How workers are unlocking new ways of working",
-        "title_original": "How workers are unlocking new ways of working",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI Economic Research 分析2026年4至7月超150万条工作相关 ChatGPT 消息，发现约6200名员工跨职业任务占职业专用AI活动比例从13.1%升至25.9%，显示AI正帮人借用其他领域知识并融入日常流程。",
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "OpenAI 的软文，没产品没接口，看完不写一行代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
-      }
-    },
-    {
-      "story_id": "story_cf7282a50beb",
-      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-      "url": "https://www.aibase.com/news/31128",
-      "primary_url": "https://www.aibase.com/news/31128",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_en": null,
-          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
-          "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
-          "url": "https://www.aibase.com/news/31128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "title_en": null,
-          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-          "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
-          "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
-          "url": "https://www.aibase.com/news/31128",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T07:39:01.189360Z",
-      "latest_at": "2026-09-17T07:39:01.189360Z",
-      "primary_item": {
-        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
-        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-        "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-        "title_en": null,
-        "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
-        "summary": "TikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nTikTok has launched a reporting channel for voice-related intellectual property infringement and upgraded its related rights protection mechanisms. TikTok state\nExplore AI Fronti",
-        "recommend_reason_zh": "TikTok上线声音相关知识产权侵权举报入口并升级维权机制，称AI合成模仿声音门槛降低，过去一个月相关举报量同比翻倍，并推出可验证证据提交与申诉通道。",
-        "url": "https://www.aibase.com/news/31128",
+        "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
+        "summary": "Moonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nMoonshot released the Kimi Financial Industry Solution. This solution provides one-stop access to more than 10 data sources, and includes 9 financial profession\nExplore AI Fronti",
+        "recommend_reason_zh": "Moonshot 发布 Kimi 金融行业解决方案，一站式接入 10 余个数据源，含 9 项金融技能与 5 项安全合规措施，覆盖晨报、财报评论、项目筛选等场景，资料处理从天级压到小时级。",
+        "url": "https://www.aibase.com/news/31132",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "做AI配音、语音克隆的先自查素材授权，平台举报入口开了，投诉量翻倍不是好事。",
+      "persona_review": "金融垂直方案，非金融开发者用不上，等有公开API或价格再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_f02090a46c9c",
+      "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+      "url": "https://www.aibase.com/news/31133",
+      "primary_url": "https://www.aibase.com/news/31133",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_en": null,
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
+          "recommend_reason_zh": "冰岛初创公司Treble获Paladin Capital Group领投的1800万美元A轮扩展融资，声音技术仿真平台服务大模型厂商、机器人公司与消费硬件制造商。",
+          "url": "https://www.aibase.com/news/31133",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+          "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "title_en": null,
+          "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+          "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
+          "recommend_reason_zh": "冰岛初创公司Treble获Paladin Capital Group领投的1800万美元A轮扩展融资，声音技术仿真平台服务大模型厂商、机器人公司与消费硬件制造商。",
+          "url": "https://www.aibase.com/news/31133",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
+      "primary_item": {
+        "id": "ed0dc5b6bd8a3ccfa031bdf778b4aa5888641505",
+        "title": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "title_zh": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "title_en": null,
+        "title_original": "冰岛初创公司 Treble 斩获 1800 万美元 A 轮扩展融资",
+        "summary": "Billions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nBillions of dollars are pouring into this field, from automated customer service and sales call transcription to the proliferation of meeting recorders, and eve\nExplore AI Fronti",
+        "recommend_reason_zh": "冰岛初创公司Treble获Paladin Capital Group领投的1800万美元A轮扩展融资，声音技术仿真平台服务大模型厂商、机器人公司与消费硬件制造商。",
+        "url": "https://www.aibase.com/news/31133",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "融资新闻，没产品没接口，跟你的代码没关系。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
@@ -1888,15 +1695,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6561,
-      "importance": 0.6561,
-      "importance_score": 0.6561,
+      "score": 0.6473,
+      "importance": 0.6473,
+      "importance_score": 0.6473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5832,
         "source_tier": 0.58,
         "ai_relevance": 0.81,
-        "recency": 0.7863,
+        "recency": 0.7374,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1924,30 +1731,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     },
     {
-      "story_id": "story_cc1f5c5c2d8b",
-      "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-      "url": "https://www.aibase.com/news/31129",
-      "primary_url": "https://www.aibase.com/news/31129",
+      "story_id": "story_a366f16e4864",
+      "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+      "url": "https://www.aibase.com/news/31139",
+      "primary_url": "https://www.aibase.com/news/31139",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
-          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
           "title_en": null,
-          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-          "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
-          "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
-          "url": "https://www.aibase.com/news/31129",
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+          "recommend_reason_zh": "Qwen APP升级未成年人保护模式，保留拍照答疑、AI写作、翻译、深度研究四项功能，家长可设独立密码、隔离对话记录并限制第三方链接，还会软拒绝虚拟伴侣等请求。",
+          "url": "https://www.aibase.com/news/31139",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
+          "published_at": "2026-09-17T12:05:34.367726Z"
         }
       ],
       "source_count": 1,
@@ -1956,18 +1763,18 @@
       ],
       "items": [
         {
-          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
-          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+          "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
           "title_en": null,
-          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-          "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
-          "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
-          "url": "https://www.aibase.com/news/31129",
+          "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+          "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+          "recommend_reason_zh": "Qwen APP升级未成年人保护模式，保留拍照答疑、AI写作、翻译、深度研究四项功能，家长可设独立密码、隔离对话记录并限制第三方链接，还会软拒绝虚拟伴侣等请求。",
+          "url": "https://www.aibase.com/news/31139",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T07:39:01.189360Z"
+          "published_at": "2026-09-17T12:05:34.367726Z"
         }
       ],
       "item_count": 1,
@@ -1988,27 +1795,307 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T07:39:01.189360Z",
-      "latest_at": "2026-09-17T07:39:01.189360Z",
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
       "primary_item": {
-        "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
-        "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-        "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+        "id": "a5296ab9106f703c143754e3d28afe4ee121a77f",
+        "title": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "title_zh": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
         "title_en": null,
-        "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
-        "summary": "On September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nOn September 17, Douyin officially launched a dedicated reporting channel for \"voice impersonation\" and upgraded related rights protection mechanisms, fully res\nExplore AI Fronti",
-        "recommend_reason_zh": "9月17日，Douyin上线冒用声音专属举报入口，并在侵权类目下新增该通道，引入可核验举证与双向申诉机制，以应对AI语音侵权举报较上月同期翻倍的治理需求。",
-        "url": "https://www.aibase.com/news/31129",
+        "title_original": "千问APP升级未成年人保护模式，让青少年安全地用好AI",
+        "summary": "Recently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nRecently, the Qwen APP upgraded its minor protection mode. While retaining learning functions such as photo-based Q&A, AI writing, translation, and in-depth res\nExplore AI Fronti",
+        "recommend_reason_zh": "Qwen APP升级未成年人保护模式，保留拍照答疑、AI写作、翻译、深度研究四项功能，家长可设独立密码、隔离对话记录并限制第三方链接，还会软拒绝虚拟伴侣等请求。",
+        "url": "https://www.aibase.com/news/31139",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "做AI配音和数字人的注意合规风险，普通开发者用不上，知道有这入口就行。",
+      "persona_score": 35,
+      "persona_review": "合规功能，开发者不用动代码，除非你做教育类产品要对接。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T08:02:09.823977Z"
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_95328d431ac8",
+      "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "primary_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
+          "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
+          "title_en": "Al Gore says the real AI risk isn’t data centers",
+          "title_original": "Al Gore says the real AI risk isn’t data centers",
+          "summary": null,
+          "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法 / Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_zh": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法",
+          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "summary": null,
+          "recommend_reason_zh": "Al Gore 在 TechCrunch 采访中表示并不为 AI 数据中心的排放问题失眠，他更担心的是 AI 行业自身发出的警告：这项技术究竟会把人类带向何方。",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+          "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
+          "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
+          "title_en": "Al Gore says the real AI risk isn’t data centers",
+          "title_original": "Al Gore says the real AI risk isn’t data centers",
+          "summary": null,
+          "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-16T23:43:09Z"
+        },
+        {
+          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
+          "title": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法 / Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_zh": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法",
+          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
+          "summary": null,
+          "recommend_reason_zh": "Al Gore 在 TechCrunch 采访中表示并不为 AI 数据中心的排放问题失眠，他更担心的是 AI 行业自身发出的警告：这项技术究竟会把人类带向何方。",
+          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-16T23:43:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6193,
+      "importance": 0.6193,
+      "importance_score": 0.6193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8364,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T23:43:09Z",
+      "latest_at": "2026-09-16T23:43:09Z",
+      "primary_item": {
+        "id": "e2205118655d631738ba15442ea29f3f1b26e044",
+        "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
+        "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
+        "title_en": "Al Gore says the real AI risk isn’t data centers",
+        "title_original": "Al Gore says the real AI risk isn’t data centers",
+        "summary": null,
+        "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
+        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "政客谈 AI 风险，不涉及任何工具、接口或价格，看完继续写代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_73894b80d769",
+      "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+      "url": "https://www.aibase.com/news/31137",
+      "primary_url": "https://www.aibase.com/news/31137",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_en": null,
+          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+          "recommend_reason_zh": "Sharp联手Foxconn进军AI服务器，2027年开卖，企业级机型最高8块NVIDIA RTX PRO 6000，同时有液冷大模型训练机型，面向企业与日本政府等。",
+          "url": "https://www.aibase.com/news/31137",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+          "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "title_en": null,
+          "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+          "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+          "recommend_reason_zh": "Sharp联手Foxconn进军AI服务器，2027年开卖，企业级机型最高8块NVIDIA RTX PRO 6000，同时有液冷大模型训练机型，面向企业与日本政府等。",
+          "url": "https://www.aibase.com/news/31137",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
+      "primary_item": {
+        "id": "5d6cf78fe79d164f744c32d05e5e0919b56ff62c",
+        "title": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "title_zh": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "title_en": null,
+        "title_original": "夏普联手富士康进军 AI 服务器：最高 8 卡 RTX PRO 6000，2027 年开卖",
+        "summary": "Sharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nSharp announced two days ago its entry into the AI server market, with new products planned to be sold starting in 2027, targeting customers such as enterprises\nExplore AI Fronti",
+        "recommend_reason_zh": "Sharp联手Foxconn进军AI服务器，2027年开卖，企业级机型最高8块NVIDIA RTX PRO 6000，同时有液冷大模型训练机型，面向企业与日本政府等。",
+        "url": "https://www.aibase.com/news/31137",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "2027年才开卖，现在选型完全用不上，知道夏普也做AI服务器就够了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
+      }
+    },
+    {
+      "story_id": "story_c9bc9fd808a8",
+      "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+      "url": "https://www.aibase.com/news/31135",
+      "primary_url": "https://www.aibase.com/news/31135",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
+          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "title_en": null,
+          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "summary": "ING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nExplore AI Fronti",
+          "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
+          "url": "https://www.aibase.com/news/31135",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
+          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "title_en": null,
+          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+          "summary": "ING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nExplore AI Fronti",
+          "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
+          "url": "https://www.aibase.com/news/31135",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
+      "primary_item": {
+        "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
+        "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+        "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+        "title_en": null,
+        "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
+        "summary": "ING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nING Bank NV stated that as India moves up the value chain and gradually expands into more complex service businesses that are less susceptible to automation, th\nExplore AI Fronti",
+        "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
+        "url": "https://www.aibase.com/news/31135",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "宏观数据，不改变你今天的选型或报价，知道就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T12:29:19.682827Z"
       }
     }
   ]
