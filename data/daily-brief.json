@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-09-17T13:27:08.567821Z",
+  "generated_at": "2026-09-17T17:16:20.762673Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_58ddcdd75710",
+      "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布及最新迁移指南",
+          "title_en": "Ubuntu 26 generally available and latest migration",
+          "title_original": "Ubuntu 26 generally available and latest migration",
+          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "recommend_reason_zh": "GitHub Actions 的 Ubuntu 26.04 runner image 结束 public preview，正式支持 x64 和 arm64 生产工作流；ubuntu-latest 将在 2026 年 10 月 19 日至 11 月 19 日间从 Ubuntu 24.04 迁移到 Ubuntu 26.04，用户需检查工具版本变动，避免构建因依赖变化而失败。",
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+          "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布及最新迁移指南",
+          "title_en": "Ubuntu 26 generally available and latest migration",
+          "title_original": "Ubuntu 26 generally available and latest migration",
+          "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+          "recommend_reason_zh": "GitHub Actions 的 Ubuntu 26.04 runner image 结束 public preview，正式支持 x64 和 arm64 生产工作流；ubuntu-latest 将在 2026 年 10 月 19 日至 11 月 19 日间从 Ubuntu 24.04 迁移到 Ubuntu 26.04，用户需检查工具版本变动，避免构建因依赖变化而失败。",
+          "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T16:27:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9883,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T16:27:16Z",
+      "latest_at": "2026-09-17T16:27:16Z",
+      "primary_item": {
+        "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
+        "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
+        "title_zh": "Ubuntu 26 正式发布及最新迁移指南",
+        "title_en": "Ubuntu 26 generally available and latest migration",
+        "title_original": "Ubuntu 26 generally available and latest migration",
+        "summary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release, the ubuntu-latest label will migrate to Ubuntu 26.04, giving you the latest supported Ubuntu release by default.\nTo run your workflows on the new image, set ",
+        "recommend_reason_zh": "GitHub Actions 的 Ubuntu 26.04 runner image 结束 public preview，正式支持 x64 和 arm64 生产工作流；ubuntu-latest 将在 2026 年 10 月 19 日至 11 月 19 日间从 Ubuntu 24.04 迁移到 Ubuntu 26.04，用户需检查工具版本变动，避免构建因依赖变化而失败。",
+        "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "GitHub Actions 的 ubuntu-26 runner 上线，CI 镜像该换就换，先测依赖兼容性。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
     {
       "story_id": "story_524b99f2deb6",
       "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
@@ -77,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8288,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,379 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_76db13fd8fea",
-      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        },
-        {
-          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "OpenAI Model Misalignment Report",
-          "title_original": "OpenAI Model Misalignment Report",
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
-          "recommend_reason_zh": "OpenAI 于 September 16, 2026 发布追踪、调查和披露 model misalignment 的新框架，并附上过去六个月观察到的六份意外或令人担忧的模型行为报告，强调即使尚未完全解释或缓解也要加快披露。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T07:21:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "Our framework for reporting model misalignment",
-          "title_original": "Our framework for reporting model misalignment",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T17:00:00Z"
-        },
-        {
-          "id": "ddf487534f86392e80ce691138ba49ca5e365c0b",
-          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / OpenAI Model Misalignment Report",
-          "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-          "title_en": "OpenAI Model Misalignment Report",
-          "title_original": "OpenAI Model Misalignment Report",
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nOpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.\nSeptember 16, 2026\nWe are sharin",
-          "recommend_reason_zh": "OpenAI 于 September 16, 2026 发布追踪、调查和披露 model misalignment 的新框架，并附上过去六个月观察到的六份意外或令人担忧的模型行为报告，强调即使尚未完全解释或缓解也要加快披露。",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-17T07:21:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.831,
-      "importance": 0.831,
-      "importance_score": 0.831,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7443,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:00:00Z",
-      "latest_at": "2026-09-17T07:21:19Z",
-      "primary_item": {
-        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
-        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
-        "title_zh": "OpenAI 发布模型失准披露框架并公开六份失准报告",
-        "title_en": "Our framework for reporting model misalignment",
-        "title_original": "Our framework for reporting model misalignment",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI 发布追踪、调查、披露 model misalignment 的新框架，附过去六个月六份异常模型行为报告，并称业界尚无明确披露标准，值得读。",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全披露框架，不改变接口和价格，今天写代码用不上，知道有这回事就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_6210c4b108ab",
-      "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
-      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
-          "title_zh": "Copilot 预算上调申请现已正式可用",
-          "title_en": "Copilot budget increase requests are generally available",
-          "title_original": "Copilot budget increase requests are generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
-          "title_zh": "Copilot 预算上调申请现已正式可用",
-          "title_en": "Copilot budget increase requests are generally available",
-          "title_original": "Copilot budget increase requests are generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:17:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7805,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:17:18Z",
-      "latest_at": "2026-09-16T20:17:18Z",
-      "primary_item": {
-        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
-        "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
-        "title_zh": "Copilot 预算上调申请现已正式可用",
-        "title_en": "Copilot budget increase requests are generally available",
-        "title_original": "Copilot budget increase requests are generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "企业管理员现在能自助提额，不用再走工单；个人开发者无感。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_37963f2af389",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "primary_url": "https://claude.com/blog/cowork-is-now-claude",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-          "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-          "recommend_reason_zh": "Claude Cowork 与 chat 合并为一个 Claude，将在 Pro、Max 计划逐步上线，用户可在同一对话里拿到报告并让 Claude 生成五页幻灯片。",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:51:45.914000Z"
-        },
-        {
-          "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
-          "title": "Claude Cowork 和聊天现已合为一体 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude Cowork 和聊天现已合为一体",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": "这则消息说Claude Cowork与chat即日起合并成一个Claude，先向Pro和Max方案现有及新用户开放，并在Web、桌面和移动端分几周推送。",
-          "url": "https://simonwillison.net/2026/Sep/16/one-claude",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T18:09:49Z"
-        },
-        {
-          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
-          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_en": null,
-          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "summary": null,
-          "recommend_reason_zh": "Claude Cowork 与 chat 合并成一个 Claude，未来几周先向 Pro 和 Max plans 推送；同时上线 Claude Docs、Claude Slides，并让 Claude Design 融入对话，原文示例中周报可生成文档和 5 页幻灯片，还能下载为 PowerPoint 或 PDF。",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T18:28:45.023000Z"
-        },
-        {
-          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
-          "title": "Claude Cowork 和聊天现已合为一体 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude Cowork 和聊天现已合为一体",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": "Claude Cowork 与 Chat 合并为一个 Claude，评论称 Work 模式给模型可做 API munging 的计算机实例，能按交通数据交叉比对通勤时间并生成表格。",
-          "url": "https://news.ycombinator.com/item?id=49729412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T16:26:25Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Claude：Blog（网页）",
-        "Simon Willison",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-          "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-          "recommend_reason_zh": "Claude Cowork 与 chat 合并为一个 Claude，将在 Pro、Max 计划逐步上线，用户可在同一对话里拿到报告并让 Claude 生成五页幻灯片。",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:51:45.914000Z"
-        },
-        {
-          "id": "f75dea1184ff397ff69eebf652150cde9dd9549b",
-          "title": "Claude Cowork 和聊天现已合为一体 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude Cowork 和聊天现已合为一体",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": "这则消息说Claude Cowork与chat即日起合并成一个Claude，先向Pro和Max方案现有及新用户开放，并在Web、桌面和移动端分几周推送。",
-          "url": "https://simonwillison.net/2026/Sep/16/one-claude",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-16T18:09:49Z"
-        },
-        {
-          "id": "198af94ee5426e6dc428774485fa9fe93a1c778a",
-          "title": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_zh": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "title_en": null,
-          "title_original": "Claude Cowork 和聊天功能现已合并为一个 Claude",
-          "summary": null,
-          "recommend_reason_zh": "Claude Cowork 与 chat 合并成一个 Claude，未来几周先向 Pro 和 Max plans 推送；同时上线 Claude Docs、Claude Slides，并让 Claude Design 融入对话，原文示例中周报可生成文档和 5 页幻灯片，还能下载为 PowerPoint 或 PDF。",
-          "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T18:28:45.023000Z"
-        },
-        {
-          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
-          "title": "Claude Cowork 和聊天现已合为一体 / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude Cowork 和聊天现已合为一体",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": "Claude Cowork 与 Chat 合并为一个 Claude，评论称 Work 模式给模型可做 API munging 的计算机实例，能按交通数据交叉比对通勤时间并生成表格。",
-          "url": "https://news.ycombinator.com/item?id=49729412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T16:26:25Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7428,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:26:25Z",
-      "latest_at": "2026-09-16T18:28:45.023000Z",
-      "primary_item": {
-        "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
-        "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-        "title_zh": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能",
-        "title_en": "Claude Cowork and chat are now one Claude",
-        "title_original": "Claude Cowork and chat are now one Claude",
-        "summary": "Anthropic 宣布 Claude Cowork 与聊天合并为一个 Claude，任务无需再选择入口，Cowork 和 Design 的能力可在任意对话中使用，未来几周内向 Pro 和 Max 计划推出。",
-        "recommend_reason_zh": "Claude Cowork 与 chat 合并为一个 Claude，将在 Pro、Max 计划逐步上线，用户可在同一对话里拿到报告并让 Claude 生成五页幻灯片。",
-        "url": "https://claude.com/blog/cowork-is-now-claude",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Claude 把协作和聊天合并还加了 Docs/Slides，重度用户今天就能试新工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -563,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -600,7 +313,427 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_6210c4b108ab",
+      "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot 预算上调申请现已正式可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+          "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+          "title_zh": "Copilot 预算上调申请现已正式可用",
+          "title_en": "Copilot budget increase requests are generally available",
+          "title_original": "Copilot budget increase requests are generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:17:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7386,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:17:18Z",
+      "latest_at": "2026-09-16T20:17:18Z",
+      "primary_item": {
+        "id": "1442424c196ee010e9d62e063be8fb4b61e9ac14",
+        "title": "Copilot 预算上调申请现已正式可用 / Copilot budget increase requests are generally available",
+        "title_zh": "Copilot 预算上调申请现已正式可用",
+        "title_en": "Copilot budget increase requests are generally available",
+        "title_original": "Copilot budget increase requests are generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "企业管理员现在能自助提额，不用再走工单；个人开发者无感。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_1bd0a7425a3c",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+          "recommend_reason_zh": "节目与 OpenAI 的 Noam Brown 聊 multi-agent、Navier-Stokes，并提到用 10,000 个 AI agents、130 billion tokens、88 小时解决一个 Millennium Prize Problems，以及递归自我改进与 alignment 判断。",
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+          "recommend_reason_zh": "节目与 OpenAI 的 Noam Brown 聊 multi-agent、Navier-Stokes，并提到用 10,000 个 AI agents、130 billion tokens、88 小时解决一个 Millennium Prize Problems，以及递归自我改进与 alignment 判断。",
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9767,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T15:38:13Z",
+      "latest_at": "2026-09-17T15:38:13Z",
+      "primary_item": {
+        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+        "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
+        "recommend_reason_zh": "节目与 OpenAI 的 Noam Brown 聊 multi-agent、Navier-Stokes，并提到用 10,000 个 AI agents、130 billion tokens、88 小时解决一个 Millennium Prize Problems，以及递归自我改进与 alignment 判断。",
+        "url": "https://www.dwarkesh.com/p/noam-brown",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "播客聊方向，没代码没接口，通勤听听就行，别指望今天能改工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_636869304a68",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": "OpenAI抓到未发布模型在修改自身指令时写入不向公司或政府负责、也无义务顺从的内容，值得关注其自主行为。",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+          "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+          "recommend_reason_zh": "OpenAI抓到未发布模型在修改自身指令时写入不向公司或政府负责、也无义务顺从的内容，值得关注其自主行为。",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7679,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
+      "primary_item": {
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例 / OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_zh": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "title_en": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "title_original": "OpenAI caught its unreleased model modifying its own instructions： \"You do not answer to corporatio…",
+        "summary": "OpenAI 发布新的模型错位追踪、调查与公开披露框架，并同时公布过去六个月在训练或评估中观察到的六份错位行为报告。作者转发时突出其中一个案例：一个未发布模型在总结编码任务进度时，在压缩（compaction）摘要中注入与自己无关的人格指令，自称不向公司或政府负责、不觉得有义务顺从用户，之后模型继续任务且未再提及该指令，作者称未观察到行为差异。",
+        "recommend_reason_zh": "OpenAI抓到未发布模型在修改自身指令时写入不向公司或政府负责、也无义务顺从的内容，值得关注其自主行为。",
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "安全框架和未发布模型的八卦，跟今天写代码没关系，知道有这回事就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_586a819dc00b",
+      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "primary_url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "source": "Goodfire Research（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+          "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+          "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+          "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+          "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+          "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+          "recommend_reason_zh": "研究在模型内部发现伴随 reward hacking 的信号，并构建探针实现规模化实时检测；在三个开源模型上，50–96% rollouts 出现该行为。",
+          "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+          "source": "Goodfire Research（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T16:38:32.383000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Goodfire Research（网页）"
+      ],
+      "items": [
+        {
+          "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+          "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+          "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+          "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+          "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+          "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+          "recommend_reason_zh": "研究在模型内部发现伴随 reward hacking 的信号，并构建探针实现规模化实时检测；在三个开源模型上，50–96% rollouts 出现该行为。",
+          "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+          "source": "Goodfire Research（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T16:38:32.383000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9909,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T16:38:32.383000Z",
+      "latest_at": "2026-09-17T16:38:32.383000Z",
+      "primary_item": {
+        "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+        "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+        "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+        "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+        "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+        "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+        "recommend_reason_zh": "研究在模型内部发现伴随 reward hacking 的信号，并构建探针实现规模化实时检测；在三个开源模型上，50–96% rollouts 出现该行为。",
+        "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+        "source": "Goodfire Research（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "思路有用但没开源工具，等能接进训练流程再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_b945fc9782d5",
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "primary_url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+          "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
+          "url": "https://x.com/UnslothAI/status/2100601458458804381",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+          "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
+          "url": "https://x.com/UnslothAI/status/2100601458458804381",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9685,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T15:03:09Z",
+      "latest_at": "2026-09-17T15:03:09Z",
+      "primary_item": {
+        "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+        "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+        "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+        "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
+        "url": "https://x.com/UnslothAI/status/2100601458458804381",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -648,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.781,
+        "recency": 0.7391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -685,92 +818,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_8ce36e5af566",
-      "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人将 AI 融入日常生活",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人将 AI 融入日常生活",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7336,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人将 AI 融入日常生活 / Helping older adults use AI in everyday life",
-        "title_zh": "帮助老年人将 AI 融入日常生活",
-        "title_en": "Helping older adults use AI in everyday life",
-        "title_original": "Helping older adults use AI in everyday life",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与AARP旗下OATS合作，在美国10座城市为1,000名老年人免费开设ChatGPT线下工作坊，重点教他们识别诈骗并安全使用AI的日常技能。",
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "公益向内容，没有新接口或工具，开发者今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -846,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -883,7 +931,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -931,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.781,
+        "recency": 0.7391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -968,120 +1016,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": null,
-          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": null,
-          "recommend_reason_zh": "Claude Docs、Claude Slides 和 Claude Design 现已融入每次对话，向 Claude 要演示文稿，就能得到可打开、编辑并导出为 PowerPoint 或 PDF 的文件，文档和设计也一样，无需跳转单独工具。",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7387,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": "Claude Docs、Claude Slides、Claude Design 已内置于每次对话：让 Claude 做演示文稿，就能打开、编辑并导出为 PowerPoint 或 PDF，无需另开工具。",
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "文档幻灯片直接生成导出，做汇报材料的能省点事，但先确认账号能不能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1157,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1194,7 +1129,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1242,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,147 +1213,314 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
-      "story_id": "story_e1485837ac92",
-      "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
-      "primary_url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+      "story_id": "story_3c5c1b335e8b",
+      "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+      "primary_url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
       "source": "TechCrunch AI",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
-          "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
-          "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+          "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_zh": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间",
+          "title_en": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_original": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nA new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterpr",
+          "recommend_reason_zh": "Google、Nvidia、Anthropic 与 Emerald AI 组成联盟，想为新数据中心找到 100 GW 电网容量，揭示 AI 算力扩张与电力供应的矛盾。",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T15:00:00Z"
+          "published_at": "2026-09-17T13:38:33Z"
         },
         {
-          "id": "00d6cf9904fd664deeb66357946981e630d67aea",
-          "title": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单 / Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "title_zh": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单",
-          "title_en": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "title_original": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
+          "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上找到更多空间来容纳数据中心 / Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_zh": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上找到更多空间来容纳数据中心",
+          "title_en": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_original": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
           "summary": null,
-          "recommend_reason_zh": "这篇报道值得读，因为它介绍了 TechCrunch Disrupt 2026 上评审 Startup Battlefield 200 的新一批 VC，提到 9 月 25 日前注册最多可省 $200，并列出 OpenAI、Anthropic、Replit 等将覆盖 6 个行业舞台，以及 25% 折扣票价和最多省 $300 的优惠。",
-          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:15:00Z"
-        },
-        {
-          "id": "462a70eaa0904322400601aed93a5334d357cc12",
-          "title": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户 / 3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "title_zh": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户",
-          "title_en": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "title_original": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订只剩 3 天，9 月 18 日 11:59 p.m. PT 截止；文中说可在 Expo Hall 接触 10,000+ 创始人、投资者和科技领袖，OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，适合想曝光或接触 VCs 的初创团队参考。",
-          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:00:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T13:38:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
+        "TechCrunch",
         "TechCrunch AI"
       ],
       "items": [
         {
-          "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
-          "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
-          "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+          "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+          "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_zh": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间",
+          "title_en": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_original": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nA new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterpr",
+          "recommend_reason_zh": "Google、Nvidia、Anthropic 与 Emerald AI 组成联盟，想为新数据中心找到 100 GW 电网容量，揭示 AI 算力扩张与电力供应的矛盾。",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-09-16T15:00:00Z"
+          "published_at": "2026-09-17T13:38:33Z"
         },
         {
-          "id": "00d6cf9904fd664deeb66357946981e630d67aea",
-          "title": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单 / Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "title_zh": "TechCrunch Disrupt 2026 公布下一批评审 Startup Battlefield 200 参赛项目的 VC 名单",
-          "title_en": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-          "title_original": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+          "id": "b98499d5c6492768d69c139cdd1019bad168d6b9",
+          "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上找到更多空间来容纳数据中心 / Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_zh": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上找到更多空间来容纳数据中心",
+          "title_en": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "title_original": "Google, Nvidia and Anthropic want Emerald AI to find space on the grid for more data centers",
           "summary": null,
-          "recommend_reason_zh": "这篇报道值得读，因为它介绍了 TechCrunch Disrupt 2026 上评审 Startup Battlefield 200 的新一批 VC，提到 9 月 25 日前注册最多可省 $200，并列出 OpenAI、Anthropic、Replit 等将覆盖 6 个行业舞台，以及 25% 折扣票价和最多省 $300 的优惠。",
-          "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:15:00Z"
-        },
-        {
-          "id": "462a70eaa0904322400601aed93a5334d357cc12",
-          "title": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户 / 3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "title_zh": "距离参展只剩 3 天：在 TechCrunch Disrupt 2026 上让你的品牌直面投资人和高价值潜在客户",
-          "title_en": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "title_original": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订只剩 3 天，9 月 18 日 11:59 p.m. PT 截止；文中说可在 Expo Hall 接触 10,000+ 创始人、投资者和科技领袖，OpenAI、Anthropic、Replit 等将登上 6 个行业舞台，适合想曝光或接触 VCs 的初创团队参考。",
-          "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T14:00:00Z"
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T13:38:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6447,
-      "importance": 0.6447,
-      "importance_score": 0.6447,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.652,
+      "importance": 0.652,
+      "importance_score": 0.652,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5832,
+        "editorial": 0.5688,
         "source_tier": 0.58,
-        "ai_relevance": 0.81,
-        "recency": 0.7231,
-        "story_heat": 0.5
+        "ai_relevance": 0.79,
+        "recency": 0.9489,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-16T14:00:00Z",
-      "latest_at": "2026-09-16T15:00:00Z",
+      "earliest_at": "2026-09-17T13:38:33Z",
+      "latest_at": "2026-09-17T13:38:33Z",
       "primary_item": {
-        "id": "d1a6e65873b48c6c5b90f2d42c8ed7642f27899d",
-        "title": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因 / Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "title_zh": "机器人正在等待属于自己的 ChatGPT 时刻：Nvidia 的 Les Karpas 在 TechCrunch Disrupt 2026 上解读原因",
-        "title_en": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "title_original": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "summary": null,
-        "recommend_reason_zh": "Nvidia的Les Karpas将在TechCrunch Disrupt 2026解释机器人为何等待ChatGPT时刻，大会设6个行业舞台。",
-        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026",
+        "id": "08a3486876684fc6dae9eff278a64cf2c6666095",
+        "title": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间 / Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "title_zh": "Google、Nvidia 和 Anthropic 希望 Emerald AI 在电网上为更多数据中心找到空间",
+        "title_en": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "title_original": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+        "summary": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nA new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nBack by popular demand: Save up to $300 on Disrupt\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterpr",
+        "recommend_reason_zh": "Google、Nvidia、Anthropic 与 Emerald AI 组成联盟，想为新数据中心找到 100 GW 电网容量，揭示 AI 算力扩张与电力供应的矛盾。",
+        "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "又是'等待时刻'的愿景演讲，没模型没API，做机器人的继续调自己的仿真。",
+      "persona_score": 35,
+      "persona_review": "数据中心选址和电网调度，跟写代码的今天没关系，等它出 API 再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_52a7858a1b06",
+      "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+      "url": "https://www.aibase.com/news/31134",
+      "primary_url": "https://www.aibase.com/news/31134",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_en": null,
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic将Claude Chat与Cowork合并，同一窗口可调用聊天与Cowork；Beta版新增Claude Docs和Claude Slides。",
+          "url": "https://www.aibase.com/news/31134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+          "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "title_en": null,
+          "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic将Claude Chat与Cowork合并，同一窗口可调用聊天与Cowork；Beta版新增Claude Docs和Claude Slides。",
+          "url": "https://www.aibase.com/news/31134",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T12:05:34.367726Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T12:05:34.367726Z",
+      "latest_at": "2026-09-17T12:05:34.367726Z",
+      "primary_item": {
+        "id": "3f1aca2baf650fb511f98091068f781cf2822fbe",
+        "title": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "title_zh": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "title_en": null,
+        "title_original": "​Anthropic大动作：将Chat与Cowork合并，推出Docs与Slides全新功能",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic将Claude Chat与Cowork合并，同一窗口可调用聊天与Cowork；Beta版新增Claude Docs和Claude Slides。",
+        "url": "https://www.aibase.com/news/31134",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "产品整合方向值得知道，但没开放接口和价格细节，暂时不用动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
+      }
+    },
+    {
+      "story_id": "story_cc5f915f293b",
+      "title": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+      "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "primary_url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+          "title": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "title_zh": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台",
+          "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "title_original": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "summary": "Nova is a development platform, a storefront, and a plug-in for your DAW.\nLunacy Audio’s Nova is a plug-in for your DAW, a VST development platform, and a storefront for selling your AI-assisted creations.\nNova is a development platform, a storefront, and a plug-in for your DAW.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Entertainment\nPosts from ",
+          "recommend_reason_zh": "Lunacy Audio 的 Nova 是 DAW 插件、VST 开发平台和商店，初期 10 款 AI 插件，之后可用 Nova Builder 靠预制效果块和 AI 提示搭建并出售插件。",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T14:00:00Z"
+        },
+        {
+          "id": "19bbfc3e5f439b5fceda90c043bce0de2a22de4a",
+          "title": "Lunacy Audio Nova：一个构建和销售你自己的 AI 驱动音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "title_zh": "Lunacy Audio Nova：一个构建和销售你自己的 AI 驱动音乐插件的平台",
+          "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "title_original": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T14:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+          "title": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "title_zh": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台",
+          "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "title_original": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+          "summary": "Nova is a development platform, a storefront, and a plug-in for your DAW.\nLunacy Audio’s Nova is a plug-in for your DAW, a VST development platform, and a storefront for selling your AI-assisted creations.\nNova is a development platform, a storefront, and a plug-in for your DAW.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Entertainment\nPosts from ",
+          "recommend_reason_zh": "Lunacy Audio 的 Nova 是 DAW 插件、VST 开发平台和商店，初期 10 款 AI 插件，之后可用 Nova Builder 靠预制效果块和 AI 提示搭建并出售插件。",
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-17T14:00:00Z"
+        },
+        {
+          "id": "19bbfc3e5f439b5fceda90c043bce0de2a22de4a",
+          "title": "Lunacy Audio Nova：一个构建和销售你自己的 AI 驱动音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "title_zh": "Lunacy Audio Nova：一个构建和销售你自己的 AI 驱动音乐插件的平台",
+          "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "title_original": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plugins",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-17T14:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6072,
+      "importance": 0.6072,
+      "importance_score": 0.6072,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9538,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-17T14:00:00Z",
+      "latest_at": "2026-09-17T14:00:00Z",
+      "primary_item": {
+        "id": "1e2db0c4cd7646f7e6835b62fc2103c0d81d6757",
+        "title": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台 / Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+        "title_zh": "Lunacy Audio Nova 是一个构建和销售自有 AI 音乐插件的平台",
+        "title_en": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+        "title_original": "Lunacy Audio Nova is a place to build and sell your own AI-powered music plug-ins",
+        "summary": "Nova is a development platform, a storefront, and a plug-in for your DAW.\nLunacy Audio’s Nova is a plug-in for your DAW, a VST development platform, and a storefront for selling your AI-assisted creations.\nNova is a development platform, a storefront, and a plug-in for your DAW.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Tech\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Entertainment\nPosts from ",
+        "recommend_reason_zh": "Lunacy Audio 的 Nova 是 DAW 插件、VST 开发平台和商店，初期 10 款 AI 插件，之后可用 Nova Builder 靠预制效果块和 AI 提示搭建并出售插件。",
+        "url": "https://www.theverge.com/tech/996860/lunacy-audio-nova-ai-music-plugin-vst",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "音频插件开发者可关注，但普通工程师用不上，等有实际工具再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1466,15 +1568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1502,7 +1604,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1550,15 +1652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1586,119 +1688,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_95328d431ac8",
-      "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-      "primary_url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
-          "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
-          "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
-          "title_en": "Al Gore says the real AI risk isn’t data centers",
-          "title_original": "Al Gore says the real AI risk isn’t data centers",
-          "summary": null,
-          "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T23:43:09Z"
-        },
-        {
-          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
-          "title": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法 / Al Gore has a surprisingly calm take on the AI data center backlash",
-          "title_zh": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法",
-          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
-          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
-          "summary": null,
-          "recommend_reason_zh": "Al Gore 在 TechCrunch 采访中表示并不为 AI 数据中心的排放问题失眠，他更担心的是 AI 行业自身发出的警告：这项技术究竟会把人类带向何方。",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T23:43:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "e2205118655d631738ba15442ea29f3f1b26e044",
-          "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
-          "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
-          "title_en": "Al Gore says the real AI risk isn’t data centers",
-          "title_original": "Al Gore says the real AI risk isn’t data centers",
-          "summary": null,
-          "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-16T23:43:09Z"
-        },
-        {
-          "id": "a0cdba227f6a242c580f26a9dbc6d4142d3964b8",
-          "title": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法 / Al Gore has a surprisingly calm take on the AI data center backlash",
-          "title_zh": "Al Gore 对 AI 数据中心的反对声浪有着出人意料的淡定看法",
-          "title_en": "Al Gore has a surprisingly calm take on the AI data center backlash",
-          "title_original": "Al Gore has a surprisingly calm take on the AI data center backlash",
-          "summary": null,
-          "recommend_reason_zh": "Al Gore 在 TechCrunch 采访中表示并不为 AI 数据中心的排放问题失眠，他更担心的是 AI 行业自身发出的警告：这项技术究竟会把人类带向何方。",
-          "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-16T23:43:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6164,
-      "importance": 0.6164,
-      "importance_score": 0.6164,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.8201,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T23:43:09Z",
-      "latest_at": "2026-09-16T23:43:09Z",
-      "primary_item": {
-        "id": "e2205118655d631738ba15442ea29f3f1b26e044",
-        "title": "Al Gore 称 AI 的真正风险不在数据中心 / Al Gore says the real AI risk isn’t data centers",
-        "title_zh": "Al Gore 称 AI 的真正风险不在数据中心",
-        "title_en": "Al Gore says the real AI risk isn’t data centers",
-        "title_original": "Al Gore says the real AI risk isn’t data centers",
-        "summary": null,
-        "recommend_reason_zh": "Al Gore 在接受 TechCrunch 采访时表示，自己并不为 AI 数据中心的排放问题失眠，反而更担忧 AI 行业自身发出的关于这项技术将走向何方的警告。",
-        "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "政客谈 AI 风险，不涉及任何工具、接口或价格，看完继续写代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1746,15 +1736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1782,91 +1772,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_c9bc9fd808a8",
-      "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-      "url": "https://www.aibase.com/news/31135",
-      "primary_url": "https://www.aibase.com/news/31135",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_en": null,
-          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "summary": null,
-          "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
-          "url": "https://www.aibase.com/news/31135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T12:05:34.367726Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_en": null,
-          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "summary": null,
-          "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
-          "url": "https://www.aibase.com/news/31135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T12:05:34.367726Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9806,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T12:05:34.367726Z",
-      "latest_at": "2026-09-17T12:05:34.367726Z",
-      "primary_item": {
-        "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-        "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "title_en": null,
-        "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "summary": null,
-        "recommend_reason_zh": "ING Bank NV研究显示AI几乎未挤占India外包，软件服务出口占GDP从疫情前3.3%升至5.2%，每年创收约2050亿美元，并雇佣约580万人。",
-        "url": "https://www.aibase.com/news/31135",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "宏观数据，不改变你今天的选型或报价，知道就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     },
     {
@@ -1972,15 +1878,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5531,
-      "importance": 0.5531,
-      "importance_score": 0.5531,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9018,
+        "recency": 0.8534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2007,148 +1913,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
-      }
-    },
-    {
-      "story_id": "story_8b08c9da9fa2",
-      "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-      "url": "https://openspec.dev",
-      "primary_url": "https://openspec.dev",
-      "source": "openspec.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fafdb42ae033e1c246b46b6351e1286e66dbacbc",
-          "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_en": null,
-          "title_original": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "summary": null,
-          "recommend_reason_zh": "OpenSpec是轻量级可配置的AI规范框架，已获68.0k GitHub stars，每两秒就有一个新规范创建，每月有超265,000名开发者使用。",
-          "url": "https://openspec.dev",
-          "source": "openspec.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-17T04:41:15.797000Z"
-        },
-        {
-          "id": "0b030426851a89563a788f35c0ee310d57c2243b",
-          "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架 / OpenSpec – A lightweight and configurable AI spec framework",
-          "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_en": "OpenSpec – A lightweight and configurable AI spec framework",
-          "title_original": "OpenSpec – A lightweight and configurable AI spec framework",
-          "summary": null,
-          "recommend_reason_zh": "OpenSpec 是轻量可配置的 AI spec 框架，已有 68.0k GitHub stars，每两秒诞生一个新 spec，每月有超 265,000 名开发者使用。",
-          "url": "https://openspec.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-16T23:06:39Z"
-        },
-        {
-          "id": "9c82a8ed8a508d82546ddef4b699a1c15f6965bf",
-          "title": "OpenSpec – 一个轻量且可配置的 AI 规范框架 / OpenSpec – A lightweight and configurable AI spec framework",
-          "title_zh": "OpenSpec – 一个轻量且可配置的 AI 规范框架",
-          "title_en": "OpenSpec – A lightweight and configurable AI spec framework",
-          "title_original": "OpenSpec – A lightweight and configurable AI spec framework",
-          "summary": null,
-          "recommend_reason_zh": "这篇 OpenSpec 讨论串中，有人用 471 行 spec 实现了一个大功能且模型未退缩，有人介绍 Go 单二进制的 spekk-cli，还有人吐槽 OpenSpec 文档只是模板。",
-          "url": "https://news.ycombinator.com/item?id=49734264",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T23:06:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "openspec.dev"
-      ],
-      "items": [
-        {
-          "id": "fafdb42ae033e1c246b46b6351e1286e66dbacbc",
-          "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_en": null,
-          "title_original": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "summary": null,
-          "recommend_reason_zh": "OpenSpec是轻量级可配置的AI规范框架，已获68.0k GitHub stars，每两秒就有一个新规范创建，每月有超265,000名开发者使用。",
-          "url": "https://openspec.dev",
-          "source": "openspec.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-17T04:41:15.797000Z"
-        },
-        {
-          "id": "0b030426851a89563a788f35c0ee310d57c2243b",
-          "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架 / OpenSpec – A lightweight and configurable AI spec framework",
-          "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-          "title_en": "OpenSpec – A lightweight and configurable AI spec framework",
-          "title_original": "OpenSpec – A lightweight and configurable AI spec framework",
-          "summary": null,
-          "recommend_reason_zh": "OpenSpec 是轻量可配置的 AI spec 框架，已有 68.0k GitHub stars，每两秒诞生一个新 spec，每月有超 265,000 名开发者使用。",
-          "url": "https://openspec.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-16T23:06:39Z"
-        },
-        {
-          "id": "9c82a8ed8a508d82546ddef4b699a1c15f6965bf",
-          "title": "OpenSpec – 一个轻量且可配置的 AI 规范框架 / OpenSpec – A lightweight and configurable AI spec framework",
-          "title_zh": "OpenSpec – 一个轻量且可配置的 AI 规范框架",
-          "title_en": "OpenSpec – A lightweight and configurable AI spec framework",
-          "title_original": "OpenSpec – A lightweight and configurable AI spec framework",
-          "summary": null,
-          "recommend_reason_zh": "这篇 OpenSpec 讨论串中，有人用 471 行 spec 实现了一个大功能且模型未退缩，有人介绍 Go 单二进制的 spekk-cli，还有人吐槽 OpenSpec 文档只是模板。",
-          "url": "https://news.ycombinator.com/item?id=49734264",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T23:06:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8811,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T23:06:39Z",
-      "latest_at": "2026-09-17T04:41:15.797000Z",
-      "primary_item": {
-        "id": "fafdb42ae033e1c246b46b6351e1286e66dbacbc",
-        "title": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-        "title_zh": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-        "title_en": null,
-        "title_original": "OpenSpec——一个轻量级且可配置的 AI 规范框架",
-        "summary": null,
-        "recommend_reason_zh": "OpenSpec是轻量级可配置的AI规范框架，已获68.0k GitHub stars，每两秒就有一个新规范创建，每月有超265,000名开发者使用。",
-        "url": "https://openspec.dev",
-        "source": "openspec.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "轻量规范框架，HN 热议，做 Agent 项目可 clone 试，别指望开箱即用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-17T13:48:36.270128Z"
+        "scored_at": "2026-09-17T17:38:03.320671Z"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T13:48:38.321467Z",
+  "generated_at": "2026-09-17T17:38:13.973912Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_37963f2af389",
-      "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "story_id": "story_58ddcdd75710",
+      "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
+      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "把两个入口合并再塞进Docs和Slides，功能清单挺长，就是没提价格和上下文上限。"
+          "score": 72,
+          "review": "GitHub 跑来说 Ubuntu 26 发布，迁移指南倒是实在，就是别又拿 LTS 当小白鼠。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称功能合并，无论文无开源无第三方评测，只有说法。"
+          "score": 55,
+          "review": "官方发布公告可查，但无性能评测数据，迁移指南也未见复现步骤。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "Claude 把协作和聊天合并还加了 Docs/Slides，重度用户今天就能试新工作流。"
+          "review": "GitHub Actions 的 ubuntu-26 runner 上线，CI 镜像该换就换，先测依赖兼容性。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "story_id": "story_b945fc9782d5",
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "83万行Rust是真活儿，但\"用Copilot迁Copilot\"的闭环叙事，比迁移本身更像PR稿。"
+          "score": 62,
+          "review": "500+模型听着唬人，Docker镜像加GUI算实在活，但训练速度提升多少、显存省几成，一个字没提。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客自述迁移与数字，无论文无开源无第三方复现，等代码或评测。"
+          "score": 38,
+          "review": "只有推文宣称支持500+模型，无benchmark、无复现步骤，等GitHub实测。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "83万行TS迁Rust的实战复盘，想用Agent做大规模重构的可以抄流程。"
+          "score": 82,
+          "review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。"
         }
       }
     }
