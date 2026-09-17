@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_719767637d52|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "官方教程，能直接抄来给 Dependabot 分类，省点手动活。",
-      "title_hash": "8676a7a6",
-      "scored_at": "2026-08-26T23:57:51.481044Z"
-    },
-    "story_6e7dda5dd069|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "GitHub 全局模型策略正式上线，团队可统一管控 AI 调用，今天就能配。",
-      "title_hash": "8ef2f89c",
-      "scored_at": "2026-08-26T23:57:52.707952Z"
-    },
-    "story_d972f6cbefbd|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全事件复盘，对开发者无直接工具价值，但可借鉴其隔离策略。",
-      "title_hash": "c73861d6",
-      "scored_at": "2026-08-26T23:57:53.895532Z"
-    },
-    "story_8368ac600900|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "医疗AI方向进展，但无开源API，开发者暂时用不上。",
-      "title_hash": "bb241b80",
-      "scored_at": "2026-08-26T23:57:54.728030Z"
-    },
-    "story_f3aa89b80469|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "财报数字好看，但跟你今天写代码没关系，等有产品动作再说。",
-      "title_hash": "3638e3d6",
-      "scored_at": "2026-08-26T23:57:55.642173Z"
-    },
     "story_9ce6c77929a1|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "企业管理员能自动更新插件市场，省去手动维护，但普通开发者影响不大。",
@@ -5454,6 +5424,48 @@
       "review": "官方 changelog 有具体功能说明，但无代码仓库与复现步骤，属可查但未验证。",
       "title_hash": "f69280ca",
       "scored_at": "2026-09-16T23:14:33.328537Z"
+    },
+    "story_524b99f2deb6|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "83万行TS迁Rust的实战复盘，想用Agent做大规模重构的可以抄流程。",
+      "title_hash": "2793ca96",
+      "scored_at": "2026-09-17T02:00:46.582337Z"
+    },
+    "story_bb49b6e3b62b|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "省额度的小技巧，重度 Codex 用户可抄，但方案依赖具体会员规则，未必通用。",
+      "title_hash": "ab9bd463",
+      "scored_at": "2026-09-17T02:00:47.869111Z"
+    },
+    "story_b8d37f3b3430|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "监管口水战，不产出代码也不改接口，扫一眼标题即可。",
+      "title_hash": "8dffb878",
+      "scored_at": "2026-09-17T02:00:49.126040Z"
+    },
+    "story_d1e99996f746|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "浏览器内置AI对普通用户是便利，但开发者暂时用不上，等API开放再说。",
+      "title_hash": "f46bc51e",
+      "scored_at": "2026-09-17T02:00:50.363130Z"
+    },
+    "story_08917af16613|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "幻觉降低对做 Agent 的是刚需，但得先看实测和 API 是否涨价。",
+      "title_hash": "e46be30b",
+      "scored_at": "2026-09-17T02:00:51.346521Z"
+    },
+    "story_524b99f2deb6|cynic|f4237a62": {
+      "score": 72,
+      "review": "83万行Rust是真活儿，但\"用Copilot迁Copilot\"的闭环叙事，比迁移本身更像PR稿。",
+      "title_hash": "2793ca96",
+      "scored_at": "2026-09-17T02:00:52.774798Z"
+    },
+    "story_524b99f2deb6|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客自述迁移与数字，无论文无开源无第三方复现，等代码或评测。",
+      "title_hash": "2793ca96",
+      "scored_at": "2026-09-17T02:00:54.062359Z"
     }
   }
 }

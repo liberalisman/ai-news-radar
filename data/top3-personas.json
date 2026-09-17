@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:25:15.228386Z",
+  "generated_at": "2026-09-17T02:00:54.062412Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_0170c995a4dd",
-      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-      "url": "https://www.aibase.com/news/31101",
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "下载量第一不等于最强，但开源权重和榜单都摆着，这次水分不算多。"
+          "review": "83万行Rust是真活儿，但\"用Copilot迁Copilot\"的闭环叙事，比迁移本身更像PR稿。"
         },
         "paper-police": {
           "score": 42,
-          "review": "登顶榜单是平台热度，非技术评测；权重未开源、无复现数据，等第三方跑分。"
+          "review": "官方博客自述迁移与数字，无论文无开源无第三方复现，等代码或评测。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "权重已开源可下载，本地部署和微调的直接换模型试跑。"
+          "score": 72,
+          "review": "83万行TS迁Rust的实战复盘，想用Agent做大规模重构的可以抄流程。"
         }
       }
     }
