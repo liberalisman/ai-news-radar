@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:38:13.973912Z",
+  "generated_at": "2026-09-17T18:30:37.704082Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_b945fc9782d5",
-      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "story_id": "story_4bc3dd239911",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "500+模型听着唬人，Docker镜像加GUI算实在活，但训练速度提升多少、显存省几成，一个字没提。"
+          "review": "全模态是真，但\"Flash\"后缀通常意味着能力打折，官方博客只给演示不给延迟和成本，先观望。"
         },
         "paper-police": {
           "score": 38,
-          "review": "只有推文宣称支持500+模型，无benchmark、无复现步骤，等GitHub实测。"
+          "review": "官方博客宣称能力，无论文、无开源、无第三方评测，音视频智能体交付待验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。"
+          "review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。"
         }
       }
     }
