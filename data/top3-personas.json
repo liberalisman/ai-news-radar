@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:30:37.704082Z",
+  "generated_at": "2026-09-17T20:51:53.899214Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_d6e73104d607",
-      "title": "为 classic PATs 和 SSH keys 自动化 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "自动化是真需求，但给 classic PAT 续命——这玩意儿早该进博物馆了。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方 changelog 有具体功能说明，但无代码仓库与复现步骤，属可查但未验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "企业 SSO 用户终于能自动授权 PAT 和 SSH key，CI 脚本少一步手动点。"
-        }
-      }
-    },
-    {
       "story_id": "story_4bc3dd239911",
       "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b945fc9782d5",
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "500+模型听着唬人，Docker镜像加GUI算实在活，但训练速度提升多少、显存省几成，一个字没提。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "只有推文宣称支持500+模型，无benchmark、无复现步骤，等GitHub实测。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。"
         }
       }
     }
