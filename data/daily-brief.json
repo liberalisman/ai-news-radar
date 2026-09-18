@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:54:57.866566Z",
+  "generated_at": "2026-09-18T06:40:02.803241Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -31,7 +31,7 @@
           "title_zh": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
           "title_en": null,
           "title_original": "入侵OpenAI",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "2026年7月25日，Hacktron 团队串联 heap overflow 与 SSO misconfiguration，攻破多名 OpenAI 员工 ChatGPT 账号，访问内部仓库并在 openai/openai 用 Codex 开出 PR #1186742，从发现到进入仓库不到72小时，OpenAI 支付 $6,500 赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "www.hacktron.ai",
@@ -45,7 +45,7 @@
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "Hacking OpenAI",
           "title_original": "Hacking OpenAI",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "这篇文章复盘 Hacktron 在2026年7月25日链式利用 heap overflow 与 SSO misconfiguration 接管多名 OpenAI 员工 ChatGPT 账户，借其 Codex 在 openai/openai 内部 monorepo 开 PR #1186742 证明访问，全程不到72小时，OpenAI 约14小时确认修复并支付 $6,500 bounty。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "Hacker News",
@@ -81,7 +81,7 @@
           "title_zh": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
           "title_en": null,
           "title_original": "入侵OpenAI",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "2026年7月25日，Hacktron 团队串联 heap overflow 与 SSO misconfiguration，攻破多名 OpenAI 员工 ChatGPT 账号，访问内部仓库并在 openai/openai 用 Codex 开出 PR #1186742，从发现到进入仓库不到72小时，OpenAI 支付 $6,500 赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "www.hacktron.ai",
@@ -95,7 +95,7 @@
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "Hacking OpenAI",
           "title_original": "Hacking OpenAI",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "这篇文章复盘 Hacktron 在2026年7月25日链式利用 heap overflow 与 SSO misconfiguration 接管多名 OpenAI 员工 ChatGPT 账户，借其 Codex 在 openai/openai 内部 monorepo 开 PR #1186742 证明访问，全程不到72小时，OpenAI 约14小时确认修复并支付 $6,500 bounty。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "Hacker News",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9835,
+        "recency": 0.9729,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -143,7 +143,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8893,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -228,7 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -259,7 +259,7 @@
           "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
           "title_en": null,
           "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
           "source": "qwen.ai",
@@ -268,7 +268,7 @@
           "published_at": "2026-09-18T04:45:46.234000Z"
         },
         {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
           "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
@@ -276,9 +276,9 @@
           "summary": null,
           "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-17T23:05:48Z"
         },
         {
@@ -287,8 +287,8 @@
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Qwen 3.8 Omni Flash",
           "title_original": "Qwen 3.8 Omni Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、联网搜索与 artifacts 于一身，对应 Qwen 3.8 Omni Flash。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -298,6 +298,7 @@
       ],
       "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
@@ -323,7 +324,7 @@
           "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
           "title_en": null,
           "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "summary": null,
           "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
           "source": "qwen.ai",
@@ -332,7 +333,7 @@
           "published_at": "2026-09-18T04:45:46.234000Z"
         },
         {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
           "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
@@ -340,9 +341,9 @@
           "summary": null,
           "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-17T23:05:48Z"
         },
         {
@@ -351,8 +352,8 @@
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Qwen 3.8 Omni Flash",
           "title_original": "Qwen 3.8 Omni Flash",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、联网搜索与 artifacts 于一身，对应 Qwen 3.8 Omni Flash。",
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -362,15 +363,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8335,
+        "recency": 0.8245,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -399,7 +400,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -447,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8666,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,7 +485,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -532,15 +533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.772,
+        "recency": 0.7637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,7 +570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -617,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.871,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,7 +654,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -701,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8811,
+        "recency": 0.8716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -738,7 +739,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -815,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8637,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -852,7 +853,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -900,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -936,7 +937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -984,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8992,
+        "recency": 0.8895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,30 +1021,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
-      "story_id": "story_572ac9f647ce",
-      "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-      "url": "https://www.aibase.com/news/31152",
-      "primary_url": "https://www.aibase.com/news/31152",
+      "story_id": "story_4e4efe237fdf",
+      "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+      "url": "https://www.aibase.com/news/31162",
+      "primary_url": "https://www.aibase.com/news/31162",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
           "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
-          "url": "https://www.aibase.com/news/31152",
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": "On September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic值得读：首次量化公开内部AI研发自动化，8月Claude主导26%研发工作，2月不足1%；3万个智能体运行，8月超10亿次决策，已达AL4。",
+          "url": "https://www.aibase.com/news/31162",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
+          "published_at": "2026-09-18T06:40:02.803241Z"
         }
       ],
       "source_count": 1,
@@ -1052,18 +1053,18 @@
       ],
       "items": [
         {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
           "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
-          "url": "https://www.aibase.com/news/31152",
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": "On September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic值得读：首次量化公开内部AI研发自动化，8月Claude主导26%研发工作，2月不足1%；3万个智能体运行，8月超10亿次决策，已达AL4。",
+          "url": "https://www.aibase.com/news/31162",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
+          "published_at": "2026-09-18T06:40:02.803241Z"
         }
       ],
       "item_count": 1,
@@ -1084,27 +1085,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T05:54:57.866566Z",
-      "latest_at": "2026-09-18T05:54:57.866566Z",
+      "earliest_at": "2026-09-18T06:40:02.803241Z",
+      "latest_at": "2026-09-18T06:40:02.803241Z",
       "primary_item": {
-        "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-        "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+        "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
         "title_en": null,
-        "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
-        "url": "https://www.aibase.com/news/31152",
+        "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "summary": "On September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nOn September 17th local time, Anthropic published a post, revealing for the first time the internal AI research and development automation in a quantitative way\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic值得读：首次量化公开内部AI研发自动化，8月Claude主导26%研发工作，2月不足1%；3万个智能体运行，8月超10亿次决策，已达AL4。",
+        "url": "https://www.aibase.com/news/31162",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "认证计划不改变API能力，做生命科学的可留意合规条款，其他人不用管。",
+      "persona_review": "26%是内部口径，没开放工具也没改API，知道就行，别急着改流程。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1152,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.8507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1188,7 +1189,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1236,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8233,
+        "recency": 0.8144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1273,7 +1274,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1321,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9129,
+        "recency": 0.9031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,7 +1357,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
+      }
+    },
+    {
+      "story_id": "story_b00eb30b3d83",
+      "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+      "url": "https://www.aibase.com/news/31161",
+      "primary_url": "https://www.aibase.com/news/31161",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+          "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_en": null,
+          "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "summary": "On September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nExplore AI Frontiers",
+          "recommend_reason_zh": "9月17日Andrew Ng在Bloomberg Television采访中反驳AI末日论，称人类灭绝警告更像科幻而非科学，应聚焦网络安全等现实工程问题，值得读",
+          "url": "https://www.aibase.com/news/31161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:40:02.803241Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+          "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_en": null,
+          "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "summary": "On September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nExplore AI Frontiers",
+          "recommend_reason_zh": "9月17日Andrew Ng在Bloomberg Television采访中反驳AI末日论，称人类灭绝警告更像科幻而非科学，应聚焦网络安全等现实工程问题，值得读",
+          "url": "https://www.aibase.com/news/31161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:40:02.803241Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T06:40:02.803241Z",
+      "latest_at": "2026-09-18T06:40:02.803241Z",
+      "primary_item": {
+        "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+        "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "title_en": null,
+        "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "summary": "On September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nOn September 17, AI researcher Andrew Ng stated in an interview with Bloomberg Television that recent warnings from top model developers about AI posing a risk\nExplore AI Frontiers",
+        "recommend_reason_zh": "9月17日Andrew Ng在Bloomberg Television采访中反驳AI末日论，称人类灭绝警告更像科幻而非科学，应聚焦网络安全等现实工程问题，值得读",
+        "url": "https://www.aibase.com/news/31161",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "观点输出，不产出工具或代码，看完继续干活就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1404,15 +1489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8738,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1440,7 +1525,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1488,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9199,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1523,91 +1608,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
-      }
-    },
-    {
-      "story_id": "story_a88f3c82ba1e",
-      "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-      "url": "https://www.aibase.com/news/31145",
-      "primary_url": "https://www.aibase.com/news/31145",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_en": null,
-          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
-          "url": "https://www.aibase.com/news/31145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "title_en": null,
-          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-          "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
-          "url": "https://www.aibase.com/news/31145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T05:54:57.866566Z",
-      "latest_at": "2026-09-18T05:54:57.866566Z",
-      "primary_item": {
-        "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
-        "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "title_en": null,
-        "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
-        "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
-        "url": "https://www.aibase.com/news/31145",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Claude Code 支持多线程并行跑任务，重度用户能省等待时间，等更新推送即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1655,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8644,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1690,7 +1691,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1738,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8137,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1773,7 +1774,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     },
     {
@@ -1821,15 +1822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7242,
-      "importance": 0.7242,
-      "importance_score": 0.7242,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8256,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1856,7 +1857,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T06:15:21.923214Z"
+        "scored_at": "2026-09-18T06:55:52.230354Z"
       }
     }
   ]
