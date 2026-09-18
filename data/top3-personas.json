@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:53:03.614736Z",
+  "generated_at": "2026-09-18T18:38:13.308444Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_4bc3dd239911",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "story_id": "story_38f7cda29bd5",
+      "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "全模态是真，但\"Flash\"后缀通常意味着能力打折，官方博客只给演示不给延迟和成本，先观望。"
+          "score": 78,
+          "review": "细粒度权限确实治了长期 token 的老毛病，但\"更安全\"得看默认过期时间给不给力。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称能力，无论文、无开源、无第三方评测，音视频智能体交付待验证。"
+          "score": 72,
+          "review": "官方changelog有细节，但无独立评测，等实际部署验证再定论。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。"
+          "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。"
         }
       }
     },
     {
-      "story_id": "story_9a58f5d6cfd3",
-      "title": "智谱GLM-5.3-FlashX上线：最高 200 tokens/s",
-      "url": "https://www.aibase.com/news/31166",
+      "story_id": "story_74fa7f89b821",
+      "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+      "url": "https://www.aibase.com/news/31156",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "200 tokens/s 是峰值还是均值？并发几个用户？价格和上下文长度一个没提。"
+          "score": 62,
+          "review": "30项评测平均涨26%，基线是谁、哪30项、怎么算的平均，一个都没说。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅宣称200 tokens/s，无论文、无开源、无第三方实测，速度数字无法复现。"
+          "score": 38,
+          "review": "30项评测数字给了，但无论文无开源，1M上下文也没第三方复现，先存疑。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "200 tokens/s 的 Flash 版上线，延迟敏感场景今天就能切过去试。"
+          "review": "1M 上下文加 26% 提升，长文档和 Agent 场景可直接换模型试跑。"
         }
       }
     }

@@ -5646,6 +5646,54 @@
       "review": "选图像模型前先看这份实测，成本和编辑能力对比能省不少试错。",
       "title_hash": "73699387",
       "scored_at": "2026-09-18T16:53:03.614600Z"
+    },
+    "story_38f7cda29bd5|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。",
+      "title_hash": "cd52deef",
+      "scored_at": "2026-09-18T18:38:06.566838Z"
+    },
+    "story_74fa7f89b821|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "1M 上下文加 26% 提升，长文档和 Agent 场景可直接换模型试跑。",
+      "title_hash": "4d235f86",
+      "scored_at": "2026-09-18T18:38:07.598929Z"
+    },
+    "story_7d5f4a120d78|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "观点文，没新模型没接口，读完也改不了代码，扫一眼标题就行。",
+      "title_hash": "0b0b73bb",
+      "scored_at": "2026-09-18T18:38:08.528646Z"
+    },
+    "story_abd616b30eba|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "观点文，没工具没数据，看完也改不了你的代码。",
+      "title_hash": "b5c7d0d8",
+      "scored_at": "2026-09-18T18:38:09.474108Z"
+    },
+    "story_38f7cda29bd5|cynic|f4237a62": {
+      "score": 78,
+      "review": "细粒度权限确实治了长期 token 的老毛病，但\"更安全\"得看默认过期时间给不给力。",
+      "title_hash": "cd52deef",
+      "scored_at": "2026-09-18T18:38:10.561734Z"
+    },
+    "story_38f7cda29bd5|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方changelog有细节，但无独立评测，等实际部署验证再定论。",
+      "title_hash": "cd52deef",
+      "scored_at": "2026-09-18T18:38:11.365880Z"
+    },
+    "story_74fa7f89b821|cynic|f4237a62": {
+      "score": 62,
+      "review": "30项评测平均涨26%，基线是谁、哪30项、怎么算的平均，一个都没说。",
+      "title_hash": "4d235f86",
+      "scored_at": "2026-09-18T18:38:12.213025Z"
+    },
+    "story_74fa7f89b821|paper-police|966065bf": {
+      "score": 38,
+      "review": "30项评测数字给了，但无论文无开源，1M上下文也没第三方复现，先存疑。",
+      "title_hash": "4d235f86",
+      "scored_at": "2026-09-18T18:38:13.308386Z"
     }
   }
 }
