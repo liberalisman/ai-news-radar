@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:55:54.594600Z",
+  "generated_at": "2026-09-18T11:25:30.016211Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_ad6315db9660",
-      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "story_id": "story_9a58f5d6cfd3",
+      "title": "智谱GLM-5.3-FlashX上线：最高 200 tokens/s",
+      "url": "https://www.aibase.com/news/31166",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "漏洞链讲得够细，libheif 加 SSO 缺陷是真功夫；但自家博客复盘自家战绩，缺第三方复现。"
+          "score": 58,
+          "review": "200 tokens/s 是峰值还是均值？并发几个用户？价格和上下文长度一个没提。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "有技术博客详述攻击链，但无独立复现或漏洞编号佐证，等CVE和第三方验证。"
+          "score": 30,
+          "review": "仅宣称200 tokens/s，无论文、无开源、无第三方实测，速度数字无法复现。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "SSO 缺陷加 libheif 漏洞的实战链，做身份认证和图像解析的该读一遍自查。"
+          "score": 82,
+          "review": "200 tokens/s 的 Flash 版上线，延迟敏感场景今天就能切过去试。"
         }
       }
     }
