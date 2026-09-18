@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T19:20:03.944704Z",
+  "generated_at": "2026-09-18T21:50:26.912997Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "story_id": "story_8b8113a300b2",
+      "title": "Copilot 代码审查：更出色的审查体验 / Copilot code review: An improved review experience",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "细粒度权限确实治了长期 token 的老毛病，但\"更安全\"得看默认过期时间给不给力。"
+          "score": 58,
+          "review": "“更出色”三个字撑起整篇 changelog，具体改了什么、快了多少，一个字没提。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方changelog有细节，但无独立评测，等实际部署验证再定论。"
+          "score": 42,
+          "review": "官方更新只讲体验，无论文无benchmark，审查质量提升多少无法验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。"
+          "review": "GitHub 官方更新，PR 审查体验直接变好，团队今天就能开开关试。"
         }
       }
     },
