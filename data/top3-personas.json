@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:11:30.225593Z",
+  "generated_at": "2026-09-18T16:53:03.614736Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
-      "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
+      "story_id": "story_9a58f5d6cfd3",
+      "title": "智谱GLM-5.3-FlashX上线：最高 200 tokens/s",
+      "url": "https://www.aibase.com/news/31166",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "GitHub 跑来说 Ubuntu 26 发布，迁移指南倒是实在，就是别又拿 LTS 当小白鼠。"
+          "score": 58,
+          "review": "200 tokens/s 是峰值还是均值？并发几个用户？价格和上下文长度一个没提。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方发布公告可查，但无性能评测数据，迁移指南也未见复现步骤。"
+          "score": 30,
+          "review": "仅宣称200 tokens/s，无论文、无开源、无第三方实测，速度数字无法复现。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "GitHub Actions 的 ubuntu-26 runner 上线，CI 镜像该换就换，先测依赖兼容性。"
+          "review": "200 tokens/s 的 Flash 版上线，延迟敏感场景今天就能切过去试。"
         }
       }
     }
