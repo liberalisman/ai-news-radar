@@ -1,114 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6e4db317b61f|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "教育案例研究，对开发者无直接工具价值，可略过。",
-      "title_hash": "c68188f5",
-      "scored_at": "2026-08-28T05:44:38.999977Z"
-    },
-    "story_9d9b4688f4d7|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "代码审查功能扩展，能解释拒绝原因，团队可立即调整流程。",
-      "title_hash": "d5c650b2",
-      "scored_at": "2026-08-28T05:44:37.858502Z"
-    },
-    "story_77be507e5ad3|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "预测数字不写代码，对选型无直接影响，等真降价或出卡再说。",
-      "title_hash": "f346e22f",
-      "scored_at": "2026-08-28T05:44:40.061155Z"
-    },
-    "story_15e13041e5c5|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "标签归档功能上线，管理仓库标签能省点事，但非刚需，可稍后看。",
-      "title_hash": "da76ce46",
-      "scored_at": "2026-08-28T05:44:41.435057Z"
-    },
-    "story_9fe7fd4550a0|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "联名信不写代码，防御方案落地前别慌。",
-      "title_hash": "aa325492",
-      "scored_at": "2026-08-28T05:44:42.543454Z"
-    },
-    "story_2289a896b698|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "诉讼是法律问题，不影响今天写代码，等判决或官方回应再说。",
-      "title_hash": "6cd07991",
-      "scored_at": "2026-08-28T05:44:43.527016Z"
-    },
-    "story_8a3dca718647|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CI 日志保留策略变了，得检查下工作流清理脚本，别让旧数据占满存储。",
-      "title_hash": "9d2a09c5",
-      "scored_at": "2026-08-28T05:44:44.689380Z"
-    },
-    "story_0655cc515466|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "图像编辑模型上线，做设计/内容生成的今天能试，但注意API和价格。",
-      "title_hash": "9392504a",
-      "scored_at": "2026-08-28T05:44:45.925354Z"
-    },
-    "story_500c35f48384|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "V8.2编辑模型开放测试，做图工作流可试新功能，但非正式版慎用于生产。",
-      "title_hash": "b4501e44",
-      "scored_at": "2026-08-28T05:44:47.038869Z"
-    },
-    "story_b92ae1b5e663|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "实时转写API可用，做语音产品的今天能测，但精度提升需实测对比。",
-      "title_hash": "f2f6fd6c",
-      "scored_at": "2026-08-28T05:44:48.277205Z"
-    },
-    "story_5678faeb2474|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "官司不写代码，等判决影响API再说。",
-      "title_hash": "f9a0ca8d",
-      "scored_at": "2026-08-28T05:44:49.504058Z"
-    },
-    "story_6a9699db1bb9|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "开源机器人项目可玩，但离生产落地还远，先观望。",
-      "title_hash": "66025ad7",
-      "scored_at": "2026-08-28T05:44:50.402601Z"
-    },
-    "story_1ad6df96d482|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "车企自研VLA升级，对通用AI开发无直接API或开源，观望即可。",
-      "title_hash": "07c621a8",
-      "scored_at": "2026-08-28T05:44:51.655324Z"
-    },
-    "story_61e52901464f|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "人事变动不写代码，等有产品再说。",
-      "title_hash": "e784fbb7",
-      "scored_at": "2026-08-28T05:44:52.867193Z"
-    },
-    "story_9d9b4688f4d7|cynic|f4237a62": {
-      "score": 72,
-      "review": "功能补丁也算更新？至少这次没吹成革命，但离干货还差个复现链接。",
-      "title_hash": "d5c650b2",
-      "scored_at": "2026-08-28T05:44:53.882679Z"
-    },
-    "story_9d9b4688f4d7|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方更新有细节但无代码无评测，等复现或第三方验证。",
-      "title_hash": "d5c650b2",
-      "scored_at": "2026-08-28T05:44:54.991245Z"
-    },
-    "story_8a3dca718647|cynic|f4237a62": {
-      "score": 70,
-      "review": "终于把保留策略说全了，但别急着鼓掌，先看默认值够不够用。",
-      "title_hash": "9d2a09c5",
-      "scored_at": "2026-08-28T05:44:56.197081Z"
-    },
-    "story_8a3dca718647|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方公告无代码无评测，仅描述策略变更，缺可验证细节。",
-      "title_hash": "9d2a09c5",
-      "scored_at": "2026-08-28T05:44:57.285272Z"
-    },
     "story_e6d6d7fa2d48|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "计费政策要变，先查账单和用量，别等扣款了再改。",
@@ -5604,6 +5496,42 @@
       "review": "四篇文章解决不了你今天的bug，等有开源代码或API再说。",
       "title_hash": "2eff3dcf",
       "scored_at": "2026-09-18T01:42:34.780577Z"
+    },
+    "story_ad6315db9660|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "SSO 缺陷加 libheif 漏洞的实战链，做身份认证和图像解析的该读一遍自查。",
+      "title_hash": "60f2e782",
+      "scored_at": "2026-09-18T06:15:23.037988Z"
+    },
+    "story_fc1ed202b107|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全八卦，跟你的代码没关系；但提醒别把密钥丢在论坛里。",
+      "title_hash": "624db8af",
+      "scored_at": "2026-09-18T06:15:24.027653Z"
+    },
+    "story_572ac9f647ce|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "认证计划不改变API能力，做生命科学的可留意合规条款，其他人不用管。",
+      "title_hash": "adb7dcc8",
+      "scored_at": "2026-09-18T06:15:26.169273Z"
+    },
+    "story_a88f3c82ba1e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Claude Code 支持多线程并行跑任务，重度用户能省等待时间，等更新推送即可。",
+      "title_hash": "4b079192",
+      "scored_at": "2026-09-18T06:15:27.129327Z"
+    },
+    "story_ad6315db9660|cynic|f4237a62": {
+      "score": 78,
+      "review": "漏洞链讲得够细，libheif 加 SSO 缺陷是真功夫；但自家博客复盘自家战绩，缺第三方复现。",
+      "title_hash": "60f2e782",
+      "scored_at": "2026-09-18T06:15:28.331730Z"
+    },
+    "story_ad6315db9660|paper-police|966065bf": {
+      "score": 55,
+      "review": "有技术博客详述攻击链，但无独立复现或漏洞编号佐证，等CVE和第三方验证。",
+      "title_hash": "60f2e782",
+      "scored_at": "2026-09-18T06:15:29.536935Z"
     }
   }
 }

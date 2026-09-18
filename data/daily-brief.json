@@ -1,8 +1,151 @@
 {
-  "generated_at": "2026-09-18T01:30:28.381697Z",
+  "generated_at": "2026-09-18T05:54:57.866566Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ad6315db9660",
+      "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "primary_url": "https://www.hacktron.ai/blog/hacking-openai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+          "recommend_reason_zh": "Hacktron 复盘称利用 libheif 漏洞与 OpenAI SSO 缺陷，在 2026 年 7 月 25 日接管多名员工 ChatGPT 账号，并用其 Codex 在 openai/openai 内部仓库提交 PR #1186742，从发现到访问不到 72 小时，获 $6,500 赏金。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T04:45:46.237000Z"
+        },
+        {
+          "id": "670084e32196613c0b728bbf7574fe486402723a",
+          "title": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
+          "title_zh": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
+          "title_en": null,
+          "title_original": "入侵OpenAI",
+          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "recommend_reason_zh": "2026年7月25日，Hacktron 团队串联 heap overflow 与 SSO misconfiguration，攻破多名 OpenAI 员工 ChatGPT 账号，访问内部仓库并在 openai/openai 用 Codex 开出 PR #1186742，从发现到进入仓库不到72小时，OpenAI 支付 $6,500 赏金。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "www.hacktron.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.237000Z"
+        },
+        {
+          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": "Hacking OpenAI",
+          "title_original": "Hacking OpenAI",
+          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "recommend_reason_zh": "这篇文章复盘 Hacktron 在2026年7月25日链式利用 heap overflow 与 SSO misconfiguration 接管多名 OpenAI 员工 ChatGPT 账户，借其 Codex 在 openai/openai 内部 monorepo 开 PR #1186742 证明访问，全程不到72小时，OpenAI 约14小时确认修复并支付 $6,500 bounty。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T02:47:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.hacktron.ai"
+      ],
+      "items": [
+        {
+          "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+          "recommend_reason_zh": "Hacktron 复盘称利用 libheif 漏洞与 OpenAI SSO 缺陷，在 2026 年 7 月 25 日接管多名员工 ChatGPT 账号，并用其 Codex 在 openai/openai 内部仓库提交 PR #1186742，从发现到访问不到 72 小时，获 $6,500 赏金。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T04:45:46.237000Z"
+        },
+        {
+          "id": "670084e32196613c0b728bbf7574fe486402723a",
+          "title": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
+          "title_zh": "堆溢出与SSO配置错误致OpenAI内部仓库被入侵",
+          "title_en": null,
+          "title_original": "入侵OpenAI",
+          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "recommend_reason_zh": "2026年7月25日，Hacktron 团队串联 heap overflow 与 SSO misconfiguration，攻破多名 OpenAI 员工 ChatGPT 账号，访问内部仓库并在 openai/openai 用 Codex 开出 PR #1186742，从发现到进入仓库不到72小时，OpenAI 支付 $6,500 赏金。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "www.hacktron.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.237000Z"
+        },
+        {
+          "id": "f1c9b0381aefb14e4c119c7114915aa4ed9c8f45",
+          "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / Hacking OpenAI",
+          "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+          "title_en": "Hacking OpenAI",
+          "title_original": "Hacking OpenAI",
+          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "recommend_reason_zh": "这篇文章复盘 Hacktron 在2026年7月25日链式利用 heap overflow 与 SSO misconfiguration 接管多名 OpenAI 员工 ChatGPT 账户，借其 Codex 在 openai/openai 内部 monorepo 开 PR #1186742 证明访问，全程不到72小时，OpenAI 约14小时确认修复并支付 $6,500 bounty。",
+          "url": "https://www.hacktron.ai/blog/hacking-openai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T02:47:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T02:47:24Z",
+      "latest_at": "2026-09-18T04:45:46.237000Z",
+      "primary_item": {
+        "id": "7d2e860c12e91824b743f2cd0766b4a7888011b4",
+        "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+        "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
+        "summary": "Hacktron 团队披露 2026 年 7 月 25 日 chained libheif 堆缓冲区溢出与 OpenAI SSO 身份缺陷，攻破 community.openai.com 并接管多名员工 ChatGPT/Codex 账号，用员工 Codex 在 OpenAI 内部 monorepo 开出无害 PR 作为证明，全程不到 72 小时。",
+        "recommend_reason_zh": "Hacktron 复盘称利用 libheif 漏洞与 OpenAI SSO 缺陷，在 2026 年 7 月 25 日接管多名员工 ChatGPT 账号，并用其 Codex 在 openai/openai 内部仓库提交 PR #1186742，从发现到访问不到 72 小时，获 $6,500 赏金。",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "SSO 缺陷加 libheif 漏洞的实战链，做身份认证和图像解析的该读一遍自查。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T06:15:21.923214Z"
+      }
+    },
     {
       "story_id": "story_6171d00caa9b",
       "title": "Copilot 影响力面板现可展示功能使用情况 / Copilot impact dashboard now shows feature engagement",
@@ -48,15 +191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9477,
+        "recency": 0.8893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +228,178 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
+      }
+    },
+    {
+      "story_id": "story_4bc3dd239911",
+      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T17:18:08.568000Z"
+        },
+        {
+          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
+          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_en": null,
+          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.234000Z"
+        },
+        {
+          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
+          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T23:05:48Z"
+        },
+        {
+          "id": "4f1be5c84a80e2ffead5ac3376c67f878048ee28",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen 3.8 Omni Flash",
+          "title_original": "Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T23:05:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+          "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T17:18:08.568000Z"
+        },
+        {
+          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
+          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_en": null,
+          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.234000Z"
+        },
+        {
+          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
+          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T23:05:48Z"
+        },
+        {
+          "id": "4f1be5c84a80e2ffead5ac3376c67f878048ee28",
+          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen 3.8 Omni Flash",
+          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+          "title_en": "Qwen 3.8 Omni Flash",
+          "title_original": "Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-17T23:05:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8335,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T17:18:08.568000Z",
+      "latest_at": "2026-09-18T04:45:46.234000Z",
+      "primary_item": {
+        "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
+        "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
+        "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
+        "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
+        "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
+        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -133,15 +447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9235,
+        "recency": 0.8666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +484,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -218,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8228,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +569,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -303,15 +617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,7 +653,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -387,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.939,
+        "recency": 0.8811,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,7 +738,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -501,15 +815,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -538,121 +852,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
-      "story_id": "story_4bc3dd239911",
-      "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "source": "Qwen：Blog Retrieval（API）",
+      "story_id": "story_fc1ed202b107",
+      "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+      "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-          "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "c017261554a68948464c8f4051893143337aa4b2",
+          "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
+          "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
+          "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
+          "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
-        },
-        {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
-          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-          "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T23:05:48Z"
+          "published_at": "2026-09-18T04:52:13Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-          "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-          "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "c017261554a68948464c8f4051893143337aa4b2",
+          "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
+          "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+          "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
+          "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
+          "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-17T17:18:08.568000Z"
-        },
-        {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
-          "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
-          "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-          "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
-          "title_original": "Alibaba releases Qwen 3.8 Omni Flash",
-          "summary": "Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
-          "recommend_reason_zh": "Alibaba发布Qwen 3.8 Omni Flash，配套的Qwen Studio把聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts整合进同一平台。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T23:05:48Z"
+          "published_at": "2026-09-18T04:52:13Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8883,
-        "story_heat": 0.25
+        "recency": 0.985,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T17:18:08.568000Z",
-      "latest_at": "2026-09-17T23:05:48Z",
+      "earliest_at": "2026-09-18T04:52:13Z",
+      "latest_at": "2026-09-18T04:52:13Z",
       "primary_item": {
-        "id": "5d8ede19dc693db11ad653c8305b3412ee6fe9da",
-        "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
-        "title_en": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "title_original": "Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
-        "summary": "Qwen 发布下一代原生全模态模型 Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入及 1M token 上下文窗口，29 项评测平均分较 Qwen3.5-Omni-Plus 提升超过 25%，音频输入每小时价格下降超过 98%，音视频输入每小时价格下降超过 93%。",
-        "recommend_reason_zh": "Qwen3.8-Omni-Flash 的 Qwen Studio 提供全面功能，涵盖 chatbot、图像和视频理解、图像生成、文档处理、web search 集成、工具利用和 artifacts，以 Omni Senses 与 Agentic Delivery 实现多模态智能体交付。",
-        "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-        "source": "Qwen：Blog Retrieval（API）",
+        "id": "c017261554a68948464c8f4051893143337aa4b2",
+        "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+        "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
+        "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+        "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
+        "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
+        "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
+        "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。",
+      "persona_score": 45,
+      "persona_review": "安全八卦，跟你的代码没关系；但提醒别把密钥丢在论坛里。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -700,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "official",
@@ -736,7 +1020,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
+      }
+    },
+    {
+      "story_id": "story_572ac9f647ce",
+      "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+      "url": "https://www.aibase.com/news/31152",
+      "primary_url": "https://www.aibase.com/news/31152",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_en": null,
+          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
+          "url": "https://www.aibase.com/news/31152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "title_en": null,
+          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+          "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
+          "url": "https://www.aibase.com/news/31152",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T05:54:57.866566Z",
+      "latest_at": "2026-09-18T05:54:57.866566Z",
+      "primary_item": {
+        "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
+        "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "title_en": null,
+        "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
+        "summary": "Anthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nAnthropic has launched a Life Sciences Certification Program. According to this program, the three models Mythos 5.1, Opus 5, and Sonnet 5 are all subject to th\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic 推出生命科学认证计划，将 Mythos 5.1、Opus 5、Sonnet 5 纳入统一标准使用条款，为药企、生物科技和研究机构在研发、文献综述中划定合规边界。",
+        "url": "https://www.aibase.com/news/31152",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "认证计划不改变API能力，做生命科学的可留意合规条款，其他人不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -784,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,91 +1188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
-      }
-    },
-    {
-      "story_id": "story_5735f9b05c3f",
-      "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-      "url": "https://www.aibase.com/news/31140",
-      "primary_url": "https://www.aibase.com/news/31140",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e97c118417914611f112305723ba34bc3b481595",
-          "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "title_en": null,
-          "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "summary": "Crusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nExplore AI Fronti",
-          "recommend_reason_zh": "Crusoe完成30亿美元融资，估值达300亿美元，距上轮13.8亿美元融资仅10个月，并与Jane Street签下13亿美元五年GPU云服务合同。",
-          "url": "https://www.aibase.com/news/31140",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:30:28.381697Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e97c118417914611f112305723ba34bc3b481595",
-          "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "title_en": null,
-          "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-          "summary": "Crusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nExplore AI Fronti",
-          "recommend_reason_zh": "Crusoe完成30亿美元融资，估值达300亿美元，距上轮13.8亿美元融资仅10个月，并与Jane Street签下13亿美元五年GPU云服务合同。",
-          "url": "https://www.aibase.com/news/31140",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:30:28.381697Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T01:30:28.381697Z",
-      "latest_at": "2026-09-18T01:30:28.381697Z",
-      "primary_item": {
-        "id": "e97c118417914611f112305723ba34bc3b481595",
-        "title": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-        "title_zh": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-        "title_en": null,
-        "title_original": "AI基础设施需求升温，Crusoe估值10个月增长至300亿美元",
-        "summary": "Crusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nCrusoe, a data center developer, has completed a new round of financing worth $3 billion, with a valuation reaching $30 billion. According to Bloomberg, this ro\nExplore AI Fronti",
-        "recommend_reason_zh": "Crusoe完成30亿美元融资，估值达300亿美元，距上轮13.8亿美元融资仅10个月，并与Jane Street签下13亿美元五年GPU云服务合同。",
-        "url": "https://www.aibase.com/news/31140",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "估值翻倍是资本故事，跟你的部署成本没半点关系，划走。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -952,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8774,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -989,7 +1273,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1037,21 +1321,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T23:36:26Z",
       "latest_at": "2026-09-17T23:36:26Z",
@@ -1073,7 +1356,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1121,15 +1404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,7 +1440,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1205,15 +1488,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9803,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,7 +1523,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
+      }
+    },
+    {
+      "story_id": "story_a88f3c82ba1e",
+      "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+      "url": "https://www.aibase.com/news/31145",
+      "primary_url": "https://www.aibase.com/news/31145",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
+          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "title_en": null,
+          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
+          "url": "https://www.aibase.com/news/31145",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
+          "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "title_en": null,
+          "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+          "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
+          "url": "https://www.aibase.com/news/31145",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T05:54:57.866566Z",
+      "latest_at": "2026-09-18T05:54:57.866566Z",
+      "primary_item": {
+        "id": "430c0b285ec2ba2c29719f9e89c3946554a6e250",
+        "title": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+        "title_zh": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+        "title_en": null,
+        "title_original": "Anthropic重构Claude Code项目功能，多线程并行执行任务",
+        "summary": "Anthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nAnthropic has restructured the Claude Code project features, adding a multi-threaded parallel collaboration mechanism. Users need only describe the project goal\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic重构Claude Code，新增多线程并行协作：用户描述目标后，协调器拆分任务给多个独立线程，可提交PR和测试，部分Pro、Max订阅者可测。",
+        "url": "https://www.aibase.com/news/31145",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Claude Code 支持多线程并行跑任务，重度用户能省等待时间，等更新推送即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1288,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1323,7 +1690,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1371,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8672,
+        "recency": 0.8137,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,91 +1773,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
-      }
-    },
-    {
-      "story_id": "story_09f5c458fed6",
-      "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-      "url": "https://www.aibase.com/news/31141",
-      "primary_url": "https://www.aibase.com/news/31141",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "602eaf71239238db143109a582afd97125b9558a",
-          "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "title_zh": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "title_en": null,
-          "title_original": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "summary": "On September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nExplore AI Fronti",
-          "recommend_reason_zh": "9月16日 Google 与 Google DeepMind 成立 DeepMind Institute，首批四篇文章覆盖 AGI 经济政策、模型推理透明度、人类繁荣原则和前沿 AI 评估框架，并提出限制 invisible serial depth 以应对 transparent window 缩小的安全风险。",
-          "url": "https://www.aibase.com/news/31141",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:30:28.381697Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "602eaf71239238db143109a582afd97125b9558a",
-          "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "title_zh": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "title_en": null,
-          "title_original": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-          "summary": "On September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nExplore AI Fronti",
-          "recommend_reason_zh": "9月16日 Google 与 Google DeepMind 成立 DeepMind Institute，首批四篇文章覆盖 AGI 经济政策、模型推理透明度、人类繁荣原则和前沿 AI 评估框架，并提出限制 invisible serial depth 以应对 transparent window 缩小的安全风险。",
-          "url": "https://www.aibase.com/news/31141",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T01:30:28.381697Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T01:30:28.381697Z",
-      "latest_at": "2026-09-18T01:30:28.381697Z",
-      "primary_item": {
-        "id": "602eaf71239238db143109a582afd97125b9558a",
-        "title": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-        "title_zh": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-        "title_en": null,
-        "title_original": "DeepMind成立新研究院，四篇文章直面AGI关键问题",
-        "summary": "On September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nOn September 16, Google and Google DeepMind researchers established the DeepMind Institute to promote interdisciplinary discussions around general artificial in\nExplore AI Fronti",
-        "recommend_reason_zh": "9月16日 Google 与 Google DeepMind 成立 DeepMind Institute，首批四篇文章覆盖 AGI 经济政策、模型推理透明度、人类繁荣原则和前沿 AI 评估框架，并提出限制 invisible serial depth 以应对 transparent window 缩小的安全风险。",
-        "url": "https://www.aibase.com/news/31141",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "四篇文章解决不了你今天的bug，等有开源代码或API再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     },
     {
@@ -1538,15 +1821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8798,
+        "recency": 0.8256,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1573,173 +1856,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
-      }
-    },
-    {
-      "story_id": "story_e8d939d02589",
-      "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-      "url": "https://claude.com/blog/projects-redesigned",
-      "primary_url": "https://claude.com/blog/projects-redesigned",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-          "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "title_en": "Projects redesigned： from folder to conversation",
-          "title_original": "Projects redesigned： from folder to conversation",
-          "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-          "recommend_reason_zh": "这篇介绍 Claude Code 新版 Projects 进入 beta，用户描述目标后 Claude 负责拆解、委派并协调并行 threads；例如连接 API、web、mobile repos 退役 v1 endpoint，每个 repo 起 thread 迁移调用方、跑测试、开 PR，并告知合并顺序。",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-          "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-          "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-          "title_en": "Projects redesigned： from folder to conversation",
-          "title_original": "Projects redesigned： from folder to conversation",
-          "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-          "recommend_reason_zh": "这篇介绍 Claude Code 新版 Projects 进入 beta，用户描述目标后 Claude 负责拆解、委派并协调并行 threads；例如连接 API、web、mobile repos 退役 v1 endpoint，每个 repo 起 thread 迁移调用方、跑测试、开 PR，并告知合并顺序。",
-          "url": "https://claude.com/blog/projects-redesigned",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T17:52:08.951000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8956,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T17:52:08.951000Z",
-      "latest_at": "2026-09-17T17:52:08.951000Z",
-      "primary_item": {
-        "id": "e15cbacd1d3ae0b2677e76abd75ee832320eeb88",
-        "title": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目 / Projects redesigned： from folder to conversation",
-        "title_zh": "Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目",
-        "title_en": "Projects redesigned： from folder to conversation",
-        "title_original": "Projects redesigned： from folder to conversation",
-        "summary": "Anthropic 重构 Claude Code 的 Projects，用户设定目标后由 Claude 拆解任务、并行调度多个线程、审查输出并汇总结果，线程本质上是各自独立分支的 Claude Code 云端会话。",
-        "recommend_reason_zh": "这篇介绍 Claude Code 新版 Projects 进入 beta，用户描述目标后 Claude 负责拆解、委派并协调并行 threads；例如连接 API、web、mobile repos 退役 v1 endpoint，每个 repo 起 thread 迁移调用方、跑测试、开 PR，并告知合并顺序。",
-        "url": "https://claude.com/blog/projects-redesigned",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Claude Code 项目从文件夹变多线程对话，重度用户可试，但先别急着迁移现有工作流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
-      }
-    },
-    {
-      "story_id": "story_b945fc9782d5",
-      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-      "url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "primary_url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "source": "X：Unsloth (@UnslothAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-          "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Unsloth (@UnslothAI)"
-      ],
-      "items": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-          "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T15:03:09Z",
-      "latest_at": "2026-09-17T15:03:09Z",
-      "primary_item": {
-        "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-        "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-        "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-        "recommend_reason_zh": "Unsloth 的 Docker image 现可在本地训练并运行 500+ models，支持新 GUI 或 notebooks 工作流，无需任何 setup，且兼容 NVIDIA 与 AMD 硬件。",
-        "url": "https://x.com/UnslothAI/status/2100601458458804381",
-        "source": "X：Unsloth (@UnslothAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T01:42:31.559993Z"
+        "scored_at": "2026-09-18T06:15:21.923214Z"
       }
     }
   ]
