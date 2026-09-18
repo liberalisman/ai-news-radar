@@ -49558,5 +49558,10 @@
   "re1|97b22d52d741e97a351b25d497f44016cc676f45": "文章讨论 LLM Security 中的 linguistic illegibility：模型朝非语言目标 post-trained，奖励大多非语言，推理链只要导向正确答案或 agentic goal 就受强化，不必语言准确，含义会随训练漂移；跟帖还担忧 watermarking 在自我推理时放大 slop，克隆 1000 份模型。",
   "re1|9a89129be09426d848722060093a3db125897853": "C2C让LLM通过融合KV-cache直接语义通信，避免文本生成；实验平均准确率比单模型高6.4-14.2%，比文本通信高约3.1-5.4%，延迟加速2.5倍。",
   "re1|28afe8759c15fc626e7e924d9aa5b9afd5ff5c72": "这篇内容设想让不同LLMs的KV cache直接语义通信：模型家族实现“KV aligned”后，昂贵推理模型可把简单子目标委托给小模型，无需prefill重算与交接延迟，小模型也能生成紧凑KV cache供大模型略读大文件。",
-  "re1|f244c45539355b18ae17e84ae3d52d5228f64791": "Anthropic 为 Claude Code 2.1.277 加入 AGENTS.md 支持：无 CLAUDE.md 时自动启用，可在 /config 关闭。"
+  "re1|f244c45539355b18ae17e84ae3d52d5228f64791": "Anthropic 为 Claude Code 2.1.277 加入 AGENTS.md 支持：无 CLAUDE.md 时自动启用，可在 /config 关闭。",
+  "ds1|Anthropic’s first embedded evaluator is … Accenture?": "Anthropic 的首个嵌入式评估方竟是…… Accenture？",
+  "ds1|US inherits Venezuelan surveillance state built on banned Chinese tech and AI — and it shows no signs of switching": "美国接手委内瑞拉建立在遭禁中国科技与 AI 之上的监控国家，且毫无要改换的迹象",
+  "ds1|Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)": "消息人士：AI辅助的报告幻觉称中东一艘中国船载有核武器部件，美国“差点开战”（CNN）",
+  "re1|3538ff27d55659b333c7330dfad27a2b239afe31": "文章以标题抛出 Anthropic 首个 embedded evaluator 是 Accenture，并称 Accenture 即将接下其史上最高风险的咨询项目，值得关注这一安排为何引发关注。",
+  "re1|6b464f63b75e1ad5bcff464302d6ba7141824a70": "Claude Code 的版本更新说明显示，当项目中没有 Claude.md 文件时，它会转而读取 AGENTS.md，说明还涵盖各版本的新功能、改进与 bug 修复，完整文档索引可在 /docs/llms.txt 获取。"
 }

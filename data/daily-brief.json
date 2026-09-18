@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:41:02.893374Z",
+  "generated_at": "2026-09-18T21:52:21.584855Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,7 +40,7 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
-          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
@@ -48,9 +48,9 @@
           "summary": null,
           "recommend_reason_zh": "Hacktron团队披露，2026年7月25日串联heap overflow与SSO misconfiguration，在不到72小时内经community.openai.com接管多名OpenAI员工ChatGPT账户，并用其Codex在openai/openai开出PR #1186742，获OpenAI 6,500美元赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-18T02:47:24Z"
         },
         {
@@ -99,7 +99,7 @@
       "source_count": 6,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.hacktron.ai"
@@ -134,7 +134,7 @@
           "published_at": "2026-09-18T04:45:46.237000Z"
         },
         {
-          "id": "fc06b529e408a2880b0e1fe8642be63f6882ebbc",
+          "id": "f4fd7c80ee287eb8725add21c0b7f2045b464482",
           "title": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号 / A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
@@ -142,9 +142,9 @@
           "summary": null,
           "recommend_reason_zh": "Hacktron团队披露，2026年7月25日串联heap overflow与SSO misconfiguration，在不到72小时内经community.openai.com接管多名OpenAI员工ChatGPT账户，并用其Codex在openai/openai开出PR #1186742，获OpenAI 6,500美元赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-18T02:47:24Z"
         },
         {
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8646,
-      "importance": 0.8646,
-      "importance_score": 0.8646,
+      "score": 0.8642,
+      "importance": 0.8642,
+      "importance_score": 0.8642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7832,
+        "recency": 0.7811,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,7 +229,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -335,15 +335,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9409,
+        "recency": 0.9384,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,7 +372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -389,7 +389,7 @@
           "title_zh": "Copilot 代码审查：更出色的审查体验",
           "title_en": "Copilot code review: An improved review experience",
           "title_original": "Copilot code review: An improved review experience",
-          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
+          "summary": null,
           "recommend_reason_zh": "Copilot code review 现已全面可用，概览评论会显示 PR 当前评估、审查投入级别和发现摘要，评论新增标题，批量接受建议时可自动生成 commit 标题与可选描述，并自动解决已处理评论。",
           "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
@@ -409,7 +409,7 @@
           "title_zh": "Copilot 代码审查：更出色的审查体验",
           "title_en": "Copilot code review: An improved review experience",
           "title_original": "Copilot code review: An improved review experience",
-          "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
+          "summary": null,
           "recommend_reason_zh": "Copilot code review 现已全面可用，概览评论会显示 PR 当前评估、审查投入级别和发现摘要，评论新增标题，批量接受建议时可自动生成 commit 标题与可选描述，并自动解决已处理评论。",
           "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
@@ -420,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9801,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +445,7 @@
         "title_zh": "Copilot 代码审查：更出色的审查体验",
         "title_en": "Copilot code review: An improved review experience",
         "title_original": "Copilot code review: An improved review experience",
-        "summary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nCopilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept eligible suggestions in a batch. These updates help you focus on findings that still need attention and make the resu",
+        "summary": null,
         "recommend_reason_zh": "Copilot code review 现已全面可用，概览评论会显示 PR 当前评估、审查投入级别和发现摘要，评论新增标题，批量接受建议时可自动生成 commit 标题与可选描述，并自动解决已处理评论。",
         "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
         "source": "GitHub Changelog",
@@ -457,7 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -505,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.908,
+        "recency": 0.9055,
         "story_heat": 0.0
       },
       "category": "official",
@@ -542,7 +542,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -590,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.895,
+        "recency": 0.8925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,7 +627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -644,7 +644,7 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.155.1",
           "title_original": "Codex CLI 0.155.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.155.0...rust-v0.155.1\nFull release on Github\nFull Changelog: rust-v0.154.0...rust-v0.155.0\nFull release on Github\nGPT-5.3-Codex-Spark was deprecated on September 14, 2026. The research\npreview is no longer available in the ChatGPT desktop app, Codex CLI, or IDE\nextension.\nSwitch to one of the recommended models ,\nand update saved ",
+          "summary": null,
           "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -664,7 +664,7 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.155.1",
           "title_original": "Codex CLI 0.155.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.155.0...rust-v0.155.1\nFull release on Github\nFull Changelog: rust-v0.154.0...rust-v0.155.0\nFull release on Github\nGPT-5.3-Codex-Spark was deprecated on September 14, 2026. The research\npreview is no longer available in the ChatGPT desktop app, Codex CLI, or IDE\nextension.\nSwitch to one of the recommended models ,\nand update saved ",
+          "summary": null,
           "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -675,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7312,
+        "recency": 0.7292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -700,7 +700,7 @@
         "title_zh": null,
         "title_en": "Codex CLI 0.155.1",
         "title_original": "Codex CLI 0.155.1",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.155.0...rust-v0.155.1\nFull release on Github\nFull Changelog: rust-v0.154.0...rust-v0.155.0\nFull release on Github\nGPT-5.3-Codex-Spark was deprecated on September 14, 2026. The research\npreview is no longer available in the ChatGPT desktop app, Codex CLI, or IDE\nextension.\nSwitch to one of the recommended models ,\nand update saved ",
+        "summary": null,
         "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -712,7 +712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -729,7 +729,7 @@
           "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
           "title_en": "GitHub Copilot weekly releases — September 14",
           "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in VS Code.\nFix production crashes from Sentry reports. Move from cra",
+          "summary": null,
           "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
           "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
           "source": "GitHub Changelog",
@@ -749,7 +749,7 @@
           "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
           "title_en": "GitHub Copilot weekly releases — September 14",
           "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in VS Code.\nFix production crashes from Sentry reports. Move from cra",
+          "summary": null,
           "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
           "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
           "source": "GitHub Changelog",
@@ -760,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9669,
+        "recency": 0.9643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -785,7 +785,7 @@
         "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
         "title_en": "GitHub Copilot weekly releases — September 14",
         "title_original": "GitHub Copilot weekly releases — September 14",
-        "summary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app.\nThis week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in VS Code.\nFix production crashes from Sentry reports. Move from cra",
+        "summary": null,
         "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
         "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
         "source": "GitHub Changelog",
@@ -797,7 +797,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -903,15 +903,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.852,
+        "recency": 0.8497,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -940,7 +940,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -988,15 +988,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8821,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1025,7 +1025,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1102,15 +1102,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1139,7 +1139,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1156,7 +1156,7 @@
           "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
           "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
           "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nWe will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026:\nPlease update your workflows and integrations to use the supported models before this date. Under default model ",
+          "summary": null,
           "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
           "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
           "source": "GitHub Changelog",
@@ -1176,7 +1176,7 @@
           "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
           "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
           "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nWe will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026:\nPlease update your workflows and integrations to use the supported models before this date. Under default model ",
+          "summary": null,
           "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
           "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
           "source": "GitHub Changelog",
@@ -1187,15 +1187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.962,
+        "recency": 0.9594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1212,7 +1212,7 @@
         "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
         "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
         "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nWe will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026:\nPlease update your workflows and integrations to use the supported models before this date. Under default model ",
+        "summary": null,
         "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
         "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
         "source": "GitHub Changelog",
@@ -1224,7 +1224,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1329,15 +1329,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7964,
+        "recency": 0.7942,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1366,7 +1366,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1414,15 +1414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.9784,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1450,7 +1450,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1498,15 +1498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.914,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1534,7 +1534,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1551,7 +1551,7 @@
           "title_zh": "用 REST API 管理代码覆盖率规则集条件",
           "title_en": "Manage the code coverage ruleset condition with the REST API",
           "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
+          "summary": null,
           "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
           "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
           "source": "GitHub Changelog",
@@ -1571,7 +1571,7 @@
           "title_zh": "用 REST API 管理代码覆盖率规则集条件",
           "title_en": "Manage the code coverage ruleset condition with the REST API",
           "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
+          "summary": null,
           "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
           "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
           "source": "GitHub Changelog",
@@ -1582,15 +1582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8377,
+      "importance": 0.8377,
+      "importance_score": 0.8377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9675,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1607,7 +1607,7 @@
         "title_zh": "用 REST API 管理代码覆盖率规则集条件",
         "title_en": "Manage the code coverage ruleset condition with the REST API",
         "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nYou can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support.\nThis ruleset lets you enforce a minimum code coverage percentage based on line coverage or set a maximum tolerable coverage drop for a pull request. Previously, co",
+        "summary": null,
         "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
         "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
         "source": "GitHub Changelog",
@@ -1619,7 +1619,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1667,15 +1667,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1702,7 +1702,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1750,15 +1750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1785,7 +1785,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1833,15 +1833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7161,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1868,7 +1868,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -1945,15 +1945,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8599,
+        "recency": 0.8576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1982,7 +1982,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     },
     {
@@ -2030,15 +2030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8903,
+        "recency": 0.8878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2065,7 +2065,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:50:17.342387Z"
+        "scored_at": "2026-09-18T21:56:23.747805Z"
       }
     }
   ]
