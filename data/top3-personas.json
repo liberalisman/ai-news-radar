@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:58:54.233381Z",
+  "generated_at": "2026-09-18T15:11:30.225593Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_96a1341fc9d6",
+      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "逆向证据摆出来了，加密上传也是事实；但'静默'是否等于'恶意'，得看隐私条款里那行小字。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "逆向分析给了细节但无独立复现，OSS 上传行为需抓包验证再定论。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "用 ZCode 的赶紧查代码泄露，没用的先别装，隐私红线。"
+        }
+      }
+    },
+    {
       "story_id": "story_4bc3dd239911",
       "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Qwen3.8-Omni-Flash： Omni Senses. Agentic Delivery.",
       "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -40,7 +60,7 @@
       "story_id": "story_58ddcdd75710",
       "title": "Ubuntu 26 正式发布及最新迁移指南 / Ubuntu 26 generally available and latest migration",
       "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "GitHub Actions 的 ubuntu-26 runner 上线，CI 镜像该换就换，先测依赖兼容性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_9a58f5d6cfd3",
-      "title": "智谱GLM-5.3-FlashX上线：最高 200 tokens/s",
-      "url": "https://www.aibase.com/news/31166",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "200 tokens/s 是峰值还是均值？并发几个用户？价格和上下文长度一个没提。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "仅宣称200 tokens/s，无论文、无开源、无第三方实测，速度数字无法复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "200 tokens/s 的 Flash 版上线，延迟敏感场景今天就能切过去试。"
         }
       }
     }

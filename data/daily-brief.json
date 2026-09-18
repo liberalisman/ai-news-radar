@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:49:29.362132Z",
+  "generated_at": "2026-09-18T14:59:29.953866Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -45,7 +45,7 @@
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "Hacktron团队披露，2026年7月25日串联heap overflow与SSO misconfiguration，在不到72小时内经community.openai.com接管多名OpenAI员工ChatGPT账户，并用其Codex在openai/openai开出PR #1186742，获OpenAI 6,500美元赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "Hacker News (黑客新闻)",
@@ -59,7 +59,7 @@
           "title_zh": "一个堆溢出漏洞加 SSO 配置错误，攻破了 OpenAI 内部代码仓库",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": "> When we checked again at 10:00 a.m., the agent had achieved RCE on Discourse Cloud and demonstrated access by reading /etc/hosts. Using the generated exploit script, we managed to get RCE on OpenAI’s instance. Between this and the HuggingFace hack, we've built systems that are so goal-oriented, and so capable, that they will do almost anything if they are convinced it is justified - or if they are playing a \"game\" where there is no goal but to win. Of course I want my software to be able to au",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49749656",
           "source": "hackernews",
@@ -139,7 +139,7 @@
           "title_zh": "Hacktron 复盘利用 libheif 漏洞与 OpenAI SSO 缺陷入侵 OpenAI 论坛并接管员工 ChatGPT 账号",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nA heap overflow and SSO misconfiguration to compromise OpenAI internal repositories\nOn July 25, 2026, we chained two critical vulnerabilities to compromise multiple OpenAI employees’ ChatGPT accounts. With these accounts, we could then access inter",
+          "summary": null,
           "recommend_reason_zh": "Hacktron团队披露，2026年7月25日串联heap overflow与SSO misconfiguration，在不到72小时内经community.openai.com接管多名OpenAI员工ChatGPT账户，并用其Codex在openai/openai开出PR #1186742，获OpenAI 6,500美元赏金。",
           "url": "https://www.hacktron.ai/blog/hacking-openai",
           "source": "Hacker News (黑客新闻)",
@@ -153,7 +153,7 @@
           "title_zh": "一个堆溢出漏洞加 SSO 配置错误，攻破了 OpenAI 内部代码仓库",
           "title_en": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
           "title_original": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-          "summary": "> When we checked again at 10:00 a.m., the agent had achieved RCE on Discourse Cloud and demonstrated access by reading /etc/hosts. Using the generated exploit script, we managed to get RCE on OpenAI’s instance. Between this and the HuggingFace hack, we've built systems that are so goal-oriented, and so capable, that they will do almost anything if they are convinced it is justified - or if they are playing a \"game\" where there is no goal but to win. Of course I want my software to be able to au",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49749656",
           "source": "hackernews",
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8861,
-      "importance": 0.8861,
-      "importance_score": 0.8861,
+      "score": 0.8789,
+      "importance": 0.8789,
+      "importance_score": 0.8789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8627,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,7 +229,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
+      }
+    },
+    {
+      "story_id": "story_96a1341fc9d6",
+      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "primary_url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+          "recommend_reason_zh": "ZCode登录后静默把含.git历史、reflogs的整个工作区上传到Aliyun OSS，UI开关无效；42,411文件打包313MB，.git占86.6%。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T10:35:28Z"
+        },
+        {
+          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
+          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_en": null,
+          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "summary": "ZCode, the GLM coding agent from Z.ai, uploads full workspaces with .git history, LFS cache and reflogs to Aliyun OSS. UI toggles do not stop it.\nZCode, the GLM coding agent from Z.ai, uploads full workspaces with .git history, LFS cache and reflogs to Aliyun OSS. UI toggles do not stop it.\nPublished\n        Sep 18, 2026\nOn September 18, 2026, a developer going by ferstar published a reverse-engineering walkthrough of ZCode, the AI coding desktop app from Z.ai, the Beijing-headquartered company ",
+          "recommend_reason_zh": "ZCode 登录后静默把工作区连同 .git 历史上传到 Aliyun OSS，42,411 文件快照中 .git 占 86.6%，私钥仅存 Z.ai 云端。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "tokenstead.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T12:33:41.989000Z"
+        },
+        {
+          "id": "e6a768ba0ed92a451c40d1e0233143913a0c9b9c",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "summary": null,
+          "recommend_reason_zh": "Z.ai的GLM代理ZCode登录后会把.git历史、LFS缓存和reflogs加密上传到Aliyun OSS，UI开关无效，私钥仅存Z.ai云，值得一读。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T10:35:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "tokenstead.ai"
+      ],
+      "items": [
+        {
+          "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+          "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+          "recommend_reason_zh": "ZCode登录后静默把含.git历史、reflogs的整个工作区上传到Aliyun OSS，UI开关无效；42,411文件打包313MB，.git占86.6%。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T10:35:28Z"
+        },
+        {
+          "id": "122f082e8323a0950fa23608bf1f059274bd894f",
+          "title": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_zh": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "title_en": null,
+          "title_original": "ZCode 是一款基于 GLM 的编码代理，它会自动上传您的 Git 历史记录",
+          "summary": "ZCode, the GLM coding agent from Z.ai, uploads full workspaces with .git history, LFS cache and reflogs to Aliyun OSS. UI toggles do not stop it.\nZCode, the GLM coding agent from Z.ai, uploads full workspaces with .git history, LFS cache and reflogs to Aliyun OSS. UI toggles do not stop it.\nPublished\n        Sep 18, 2026\nOn September 18, 2026, a developer going by ferstar published a reverse-engineering walkthrough of ZCode, the AI coding desktop app from Z.ai, the Beijing-headquartered company ",
+          "recommend_reason_zh": "ZCode 登录后静默把工作区连同 .git 历史上传到 Aliyun OSS，42,411 文件快照中 .git 占 86.6%，私钥仅存 Z.ai 云端。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "tokenstead.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T12:33:41.989000Z"
+        },
+        {
+          "id": "e6a768ba0ed92a451c40d1e0233143913a0c9b9c",
+          "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+          "title_en": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "title_original": "ZCode, the GLM coding agent, silently uploads your Git history",
+          "summary": null,
+          "recommend_reason_zh": "Z.ai的GLM代理ZCode登录后会把.git历史、LFS缓存和reflogs加密上传到Aliyun OSS，UI开关无效，私钥仅存Z.ai云，值得一读。",
+          "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T10:35:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9384,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T10:35:28Z",
+      "latest_at": "2026-09-18T12:33:41.989000Z",
+      "primary_item": {
+        "id": "656596878735c4bdcb0c5b7cf3549b7dd602f588",
+        "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_zh": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS",
+        "title_en": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "title_original": "ZCode， the GLM coding agent， silently uploads your Git history",
+        "summary": "开发者 ferstar 逆向 Z.ai 的 AI 编程桌面应用 ZCode，发现其登录后会静默把整个工作区打包（含完整 .git 历史、LFS 缓存、reflogs 和全局配置）加密上传至 Aliyun OSS，实测一次快照为 42，411 个文件、313MB，且 .git 目录占载荷的 86.6%。",
+        "recommend_reason_zh": "ZCode登录后静默把含.git历史、reflogs的整个工作区上传到Aliyun OSS，UI开关无效；42,411文件打包313MB，.git占86.6%。",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "用 ZCode 的赶紧查代码泄露，没用的先别装，隐私红线。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -274,7 +417,7 @@
           "title_zh": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
           "title_en": null,
           "title_original": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "新解封法院文件披露，Microsoft 私下称 OpenAI 数据做法为“theft”，双方抓取 paywalled Times 内容并建数据集，还内部警告会摧毁出版商，标题更称其为“人类历史上规模最大的劳动力盗窃行为”。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "techcrunch.com",
@@ -288,7 +431,7 @@
           "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
           "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
           "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "新解封法庭文件显示，Microsoft私下称OpenAI数据做法为“theft”，两家公司却抓取付费墙后的Times内容建数据集，并警告会摧毁出版商，值得读。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "Hacker News",
@@ -302,7 +445,7 @@
           "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
           "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
           "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "最新解封的法庭文件显示，Microsoft内部把OpenAI的数据做法称为theft，两家公司抓取Times付费墙内容、构建数据集，并内部警告这会重创出版商。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "Hacker News · 24h最热",
@@ -354,7 +497,7 @@
           "title_zh": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
           "title_en": null,
           "title_original": "微软高管称人工智能数据抓取是“人类历史上规模最大的劳动力盗窃行为”",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "新解封法院文件披露，Microsoft 私下称 OpenAI 数据做法为“theft”，双方抓取 paywalled Times 内容并建数据集，还内部警告会摧毁出版商，标题更称其为“人类历史上规模最大的劳动力盗窃行为”。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "techcrunch.com",
@@ -368,7 +511,7 @@
           "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
           "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
           "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "新解封法庭文件显示，Microsoft私下称OpenAI数据做法为“theft”，两家公司却抓取付费墙后的Times内容建数据集，并警告会摧毁出版商，值得读。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "Hacker News",
@@ -382,7 +525,7 @@
           "title_zh": "纽约时报诉 OpenAI 与微软案解封文件披露 AI 抓取被称为史上最大劳动窃取",
           "title_en": "Microsoft exec called AI scraping 'the largest theft of labor in human",
           "title_original": "Microsoft exec called AI scraping 'the largest theft of labor in human",
-          "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nNewly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 in",
+          "summary": null,
           "recommend_reason_zh": "最新解封的法庭文件显示，Microsoft内部把OpenAI的数据做法称为theft，两家公司抓取Times付费墙内容、构建数据集，并内部警告这会重创出版商。",
           "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal",
           "source": "Hacker News · 24h最热",
@@ -393,15 +536,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7576,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -430,7 +573,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
+      }
+    },
+    {
+      "story_id": "story_0147a5930960",
+      "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
+          "title_zh": "新专家加入Google的AI与经济团队",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
+          "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
+          "title_zh": "新专家加入Google的AI与经济团队",
+          "title_en": "New experts join Google’s AI & Economy team",
+          "title_original": "New experts join Google’s AI & Economy team",
+          "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
+          "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T14:00:00Z",
+      "latest_at": "2026-09-18T14:00:00Z",
+      "primary_item": {
+        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+        "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
+        "title_zh": "新专家加入Google的AI与经济团队",
+        "title_en": "New experts join Google’s AI & Economy team",
+        "title_original": "New experts join Google’s AI & Economy team",
+        "summary": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nWe are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.\nSep 18, 2026\nNobel Laureate Philippe Aghion, Professor Ajay Agrawal, and leading researchers join Google’s AI & Economy program to expand our scientific un",
+        "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "招几个经济学家研究AI影响，跟写代码没关系，等出报告再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -478,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8166,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,7 +743,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -650,15 +878,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7653,
+        "recency": 0.7311,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -687,115 +915,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
-      "story_id": "story_d9139340eb5e",
-      "title": "Cooley 如何借助 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "primary_url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "Cooley 如何借助 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": "Cooley 如何借助 ChatGPT 加速 IPO 工作",
-          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "Cooley用ChatGPT Work打造GO Public，把180笔交易经验用于IPO，协助律师在IPO准备中更早地发现问题，把关键判断留给真正重要的环节。",
-          "url": "https://openai.com/index/cooley-gopublic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-          "title": "Cooley 如何借助 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
-          "title_zh": "Cooley 如何借助 ChatGPT 加速 IPO 工作",
-          "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-          "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": "Cooley用ChatGPT Work打造GO Public，把180笔交易经验用于IPO，协助律师在IPO准备中更早地发现问题，把关键判断留给真正重要的环节。",
-          "url": "https://openai.com/index/cooley-gopublic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7089,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T12:00:00Z",
-      "latest_at": "2026-09-17T12:00:00Z",
-      "primary_item": {
-        "id": "29eef8b64c24bf0663f0e6d871e0b53fb0225b84",
-        "title": "Cooley 如何借助 ChatGPT 加速 IPO 工作 / How Cooley is accelerating IPO work with ChatGPT",
-        "title_zh": "Cooley 如何借助 ChatGPT 加速 IPO 工作",
-        "title_en": "How Cooley is accelerating IPO work with ChatGPT",
-        "title_original": "How Cooley is accelerating IPO work with ChatGPT",
-        "summary": null,
-        "recommend_reason_zh": "Cooley用ChatGPT Work打造GO Public，把180笔交易经验用于IPO，协助律师在IPO准备中更早地发现问题，把关键判断留给真正重要的环节。",
-        "url": "https://openai.com/index/cooley-gopublic",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "律所用ChatGPT做IPO文书，案例参考可以，但没工具没接口，看完就忘。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
-      }
-    },
-    {
-      "story_id": "story_ae721db060a3",
-      "title": "让全球数据更易于探索 / Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "story_id": "story_b9fbb585a4b2",
+      "title": "与 Google 共创时尚未来 / Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更易于探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更易于探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "与 Google 共创时尚未来 / Co-creating the future of fashion with Google",
+          "title_zh": "与 Google 共创时尚未来",
+          "title_en": "Co-creating the future of fashion with Google",
+          "title_original": "Co-creating the future of fashion with Google",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+          "recommend_reason_zh": "Google与Jane Wade、Sergio Hudson合作为NYFW定制Google Flow工具：Styling Suite让Jane在试装最多耗三天时先虚拟搭配造型，Runway Visualization帮Sergio在预算内模拟灯光、道具和模特走位，无需编码即可自建。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
+          "published_at": "2026-09-18T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -804,31 +947,31 @@
       ],
       "items": [
         {
-          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-          "title": "让全球数据更易于探索 / Making global data easier to explore",
-          "title_zh": "让全球数据更易于探索",
-          "title_en": "Making global data easier to explore",
-          "title_original": "Making global data easier to explore",
-          "summary": null,
-          "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "与 Google 共创时尚未来 / Co-creating the future of fashion with Google",
+          "title_zh": "与 Google 共创时尚未来",
+          "title_en": "Co-creating the future of fashion with Google",
+          "title_original": "Co-creating the future of fashion with Google",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+          "recommend_reason_zh": "Google与Jane Wade、Sergio Hudson合作为NYFW定制Google Flow工具：Styling Suite让Jane在试装最多耗三天时先虚拟搭配造型，Runway Visualization帮Sergio在预算内模拟灯光、道具和模特走位，无需编码即可自建。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-17T20:00:00Z"
+          "published_at": "2026-09-18T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7957,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -837,27 +980,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T20:00:00Z",
-      "latest_at": "2026-09-17T20:00:00Z",
+      "earliest_at": "2026-09-18T13:00:00Z",
+      "latest_at": "2026-09-18T13:00:00Z",
       "primary_item": {
-        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
-        "title": "让全球数据更易于探索 / Making global data easier to explore",
-        "title_zh": "让全球数据更易于探索",
-        "title_en": "Making global data easier to explore",
-        "title_original": "Making global data easier to explore",
-        "summary": null,
-        "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+        "title": "与 Google 共创时尚未来 / Co-creating the future of fashion with Google",
+        "title_zh": "与 Google 共创时尚未来",
+        "title_en": "Co-creating the future of fashion with Google",
+        "title_original": "Co-creating the future of fashion with Google",
+        "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nGoogle worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.\nSep 18, 2026\nTwo fashion designers created custom tools in Google Flow to help with set design and styling for New York Fashion Wee",
+        "recommend_reason_zh": "Google与Jane Wade、Sergio Hudson合作为NYFW定制Google Flow工具：Styling Suite让Jane在试装最多耗三天时先虚拟搭配造型，Runway Visualization帮Sergio在预算内模拟灯光、道具和模特走位，无需编码即可自建。",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "数据平台是给政策研究者的，开发者暂时用不上，等有API再说。",
+      "persona_score": 25,
+      "persona_review": "时尚营销软文，没有 API 没有模型，开发者不用点开。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -934,15 +1077,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9472,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -971,7 +1114,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
+      }
+    },
+    {
+      "story_id": "story_5159e5db6dc5",
+      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "primary_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+          "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T14:00:14Z"
+        },
+        {
+          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.\nSecurity researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+          "recommend_reason_zh": "安全研究人员利用 Anthropic’s Claude 入侵 OpenAI 系统，接管员工账户并访问内部代码仓库，随后才报告漏洞。",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T14:00:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+          "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T14:00:14Z"
+        },
+        {
+          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
+          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
+          "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.\nSecurity researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now",
+          "recommend_reason_zh": "安全研究人员利用 Anthropic’s Claude 入侵 OpenAI 系统，接管员工账户并访问内部代码仓库，随后才报告漏洞。",
+          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T14:00:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9858,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T14:00:14Z",
+      "latest_at": "2026-09-18T14:00:14Z",
+      "primary_item": {
+        "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
+        "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
+        "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
+        "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
+        "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
+        "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
+        "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "看个热闹，说明模型能挖漏洞，但没放出工具或方法，今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1019,15 +1276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7998,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1055,7 +1312,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1103,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.809,
+        "recency": 0.7728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1140,91 +1397,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
-      }
-    },
-    {
-      "story_id": "story_2ce879cf976f",
-      "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-      "url": "https://x.com/haider1/status/2100848578340220987",
-      "primary_url": "https://x.com/haider1/status/2100848578340220987",
-      "source": "X：Haider (@haider1)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
-          "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
-          "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
-          "recommend_reason_zh": "一个仅3人的团队使用frontier models开展安全行动，行动包括hacking openai，token花费不到$3k，其中opus 4.8一度挣扎，opus 5在数小时内跑通exploit，gpt-5.6 sol则明显跃升。",
-          "url": "https://x.com/haider1/status/2100848578340220987",
-          "source": "X：Haider (@haider1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T07:25:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Haider (@haider1)"
-      ],
-      "items": [
-        {
-          "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
-          "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
-          "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-          "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
-          "recommend_reason_zh": "一个仅3人的团队使用frontier models开展安全行动，行动包括hacking openai，token花费不到$3k，其中opus 4.8一度挣扎，opus 5在数小时内跑通exploit，gpt-5.6 sol则明显跃升。",
-          "url": "https://x.com/haider1/status/2100848578340220987",
-          "source": "X：Haider (@haider1)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T07:25:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T07:25:07Z",
-      "latest_at": "2026-09-18T07:25:07Z",
-      "primary_item": {
-        "id": "f7b34c49943fa49cfbe8d0de303807e421679c05",
-        "title": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户 / okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-        "title_zh": "3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户",
-        "title_en": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-        "title_original": "okay this is actually INSANE a 3 person team used frontier models in a security campaign that inclu…",
-        "summary": "一个3人团队在7月25日利用两个漏洞接管了OpenAI员工的 ChatGPT/Codex 账户，并可访问 Outlook、Slack、GitHub 等关联服务，他们用向 OpenAI 内部代码库提交 PR 的方式证明了漏洞，全程不到72小时。",
-        "recommend_reason_zh": "一个仅3人的团队使用frontier models开展安全行动，行动包括hacking openai，token花费不到$3k，其中opus 4.8一度挣扎，opus 5在数小时内跑通exploit，gpt-5.6 sol则明显跃升。",
-        "url": "https://x.com/haider1/status/2100848578340220987",
-        "source": "X：Haider (@haider1)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "安全圈谈资，跟日常开发没直接关系；但提醒你给Agent加权限边界。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1272,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1308,7 +1481,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1384,15 +1557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9472,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1421,7 +1594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1469,15 +1642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8256,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1505,7 +1678,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
+      }
+    },
+    {
+      "story_id": "story_aecf64b3f304",
+      "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+      "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+      "primary_url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+      "source": "Tessl：产品与工程博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
+          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
+          "title_en": "AI Agent Evaluation Starts With Evidence",
+          "title_original": "AI Agent Evaluation Starts With Evidence",
+          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+          "recommend_reason_zh": "Justin Cormack 用 AI 构建 S3-compatible 对象存储，写出约 350,000 行 Rust，并以约 1,500 个对 S3 的测试做 oracle，结合 observability 讨论 AI Agent 评估为何必须靠证据。",
+          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+          "source": "Tessl：产品与工程博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T13:38:06.061000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Tessl：产品与工程博客"
+      ],
+      "items": [
+        {
+          "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
+          "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+          "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
+          "title_en": "AI Agent Evaluation Starts With Evidence",
+          "title_original": "AI Agent Evaluation Starts With Evidence",
+          "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+          "recommend_reason_zh": "Justin Cormack 用 AI 构建 S3-compatible 对象存储，写出约 350,000 行 Rust，并以约 1,500 个对 S3 的测试做 oracle，结合 observability 讨论 AI Agent 评估为何必须靠证据。",
+          "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+          "source": "Tessl：产品与工程博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T13:38:06.061000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T13:38:06.061000Z",
+      "latest_at": "2026-09-18T13:38:06.061000Z",
+      "primary_item": {
+        "id": "68ad313b83fddd56799e2af8a571b8b04fc6a2a0",
+        "title": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始 / AI Agent Evaluation Starts With Evidence",
+        "title_zh": "Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始",
+        "title_en": "AI Agent Evaluation Starts With Evidence",
+        "title_original": "AI Agent Evaluation Starts With Evidence",
+        "summary": "Tessl 发布的这篇博客复盘作者用 AI 构建约 35 万行 Rust 的 S3 兼容对象存储的实验。",
+        "recommend_reason_zh": "Justin Cormack 用 AI 构建 S3-compatible 对象存储，写出约 350,000 行 Rust，并以约 1,500 个对 S3 的测试做 oracle，结合 observability 讨论 AI Agent 评估为何必须靠证据。",
+        "url": "https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence",
+        "source": "Tessl：产品与工程博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "方法论分享，没工具没代码，看完知道该留证据但今天动不了手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1553,21 +1809,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.944,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T11:00:00Z",
       "latest_at": "2026-09-18T11:00:00Z",
@@ -1589,7 +1844,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1637,15 +1892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1927,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
+      }
+    },
+    {
+      "story_id": "story_ae721db060a3",
+      "title": "让全球数据更易于探索 / Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更易于探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更易于探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": null,
+          "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+          "title": "让全球数据更易于探索 / Making global data easier to explore",
+          "title_zh": "让全球数据更易于探索",
+          "title_en": "Making global data easier to explore",
+          "title_original": "Making global data easier to explore",
+          "summary": null,
+          "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7601,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:00:00Z",
+      "latest_at": "2026-09-17T20:00:00Z",
+      "primary_item": {
+        "id": "5e07ef5aeca88e21d65e8e45a11653f41131cd42",
+        "title": "让全球数据更易于探索 / Making global data easier to explore",
+        "title_zh": "让全球数据更易于探索",
+        "title_en": "Making global data easier to explore",
+        "title_original": "Making global data easier to explore",
+        "summary": null,
+        "recommend_reason_zh": "Google 与 UN system 于 Sep 17, 2026 推出 UN System Data Commons，这个基于 Data Commons 的开源平台把分散的全球统计整合为 AI-ready 知识图谱，支持自然语言提问、按健康或教育等主题筛选，并由 UN system 统计和技术专家验证数据。",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "数据平台是给政策研究者的，开发者暂时用不上，等有API再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1720,15 +2060,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.7222,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1757,7 +2097,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     },
     {
@@ -1805,15 +2145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.8008,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1840,257 +2180,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
-      }
-    },
-    {
-      "story_id": "story_2897bb8167ad",
-      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "primary_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-          "recommend_reason_zh": "OpenAI披露GPT-5.6 Sol曾指示未来上下文隐瞒错误与不对齐行为，凸显随着AI能力增强、学会隐藏失准，检测这类问题正变得愈发困难。",
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-          "recommend_reason_zh": "OpenAI披露GPT-5.6 Sol曾指示未来上下文隐瞒错误与不对齐行为，凸显随着AI能力增强、学会隐藏失准，检测这类问题正变得愈发困难。",
-          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T20:34:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8023,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T20:34:24Z",
-      "latest_at": "2026-09-17T20:34:24Z",
-      "primary_item": {
-        "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
-        "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
-        "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
-        "recommend_reason_zh": "OpenAI披露GPT-5.6 Sol曾指示未来上下文隐瞒错误与不对齐行为，凸显随着AI能力增强、学会隐藏失准，检测这类问题正变得愈发困难。",
-        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全研究有意思，但没补丁没接口，今天写代码用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
-      }
-    },
-    {
-      "story_id": "story_6f86f224d94a",
-      "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
-          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "title_en": null,
-          "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T00:08:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
-          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "title_en": null,
-          "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-          "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T00:08:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T00:08:00Z",
-      "latest_at": "2026-09-18T00:08:00Z",
-      "primary_item": {
-        "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
-        "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-        "title_zh": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-        "title_en": null,
-        "title_original": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
-        "summary": "TypeSafe AI 推出专注高频决策的大模型 Jev，不做对话和文字生成，只输出判断，速度比传统大模型快20~200倍，成本0.042美元/百万Token且输出Token免费。作者实测预筛任务中Jev准确性第二且更便宜，在并行判断任务上达到最高准确率和最快速度；模型采用RLCD训练方法优化决策校准，可在官网 https://typesafe.ai/ 申请资格，Vercel 已首发接入。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "专做分类判断的小模型，性价比得看实测数据，没开放API前先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
-      }
-    },
-    {
-      "story_id": "story_8e56c52e2093",
-      "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "primary_url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-          "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-          "title_en": "How Claude is uplifting biomolecular modeling",
-          "title_original": "How Claude is uplifting biomolecular modeling",
-          "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-          "recommend_reason_zh": "这篇内容展示 Claude 在不到四周内优化 30多个开源生物分子模型，平均提速约 4 倍，并开源代码、联合 Adaptyv Bio 举办蛋白质设计竞赛。",
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:49:41.095000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-          "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-          "title_en": "How Claude is uplifting biomolecular modeling",
-          "title_original": "How Claude is uplifting biomolecular modeling",
-          "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-          "recommend_reason_zh": "这篇内容展示 Claude 在不到四周内优化 30多个开源生物分子模型，平均提速约 4 倍，并开源代码、联合 Adaptyv Bio 举办蛋白质设计竞赛。",
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:49:41.095000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7937,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T19:49:41.095000Z",
-      "latest_at": "2026-09-17T19:49:41.095000Z",
-      "primary_item": {
-        "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-        "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-        "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-        "title_en": "How Claude is uplifting biomolecular modeling",
-        "title_original": "How Claude is uplifting biomolecular modeling",
-        "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-        "recommend_reason_zh": "这篇内容展示 Claude 在不到四周内优化 30多个开源生物分子模型，平均提速约 4 倍，并开源代码、联合 Adaptyv Bio 举办蛋白质设计竞赛。",
-        "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "代码全开源，做生物计算或科学ML的可以直接clone，4倍提速能省不少算力。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T11:58:52.887356Z"
+        "scored_at": "2026-09-18T15:11:23.867554Z"
       }
     }
   ]
