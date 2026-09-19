@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T18:00:58.286523Z",
+  "generated_at": "2026-09-19T19:35:49.324065Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_8b8113a300b2",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7307,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,92 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
-      }
-    },
-    {
-      "story_id": "story_37ed024ed43e",
-      "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
-      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7209,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:21:22Z",
-      "latest_at": "2026-09-18T19:21:22Z",
-      "primary_item": {
-        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-        "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
-        "title_zh": "GitHub Copilot 每周发布汇总——9月14日",
-        "title_en": "GitHub Copilot weekly releases — September 14",
-        "title_original": "GitHub Copilot weekly releases — September 14",
-        "summary": null,
-        "recommend_reason_zh": "9月14日的 GitHub Copilot weekly releases 值得读：它带来新模型选择、代码审查更新和 Copilot 应用中的 Sentry 集成，并说明如何用 Sentry canvas 从崩溃报告查看错误与堆栈、调查原因、验证修复并准备 pull request。",
-        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Copilot 周更，看 changelog 决定要不要开新功能，老项目先别急着跟。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -218,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8387,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -254,7 +169,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -302,15 +217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7722,
+        "recency": 0.7548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -337,92 +252,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
-      }
-    },
-    {
-      "story_id": "story_a5ec63464b54",
-      "title": "GitHub Copilot 部分模型将于10月中旬弃用 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "GitHub Copilot 部分模型将于10月中旬弃用 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "GitHub Copilot 部分模型将于10月中旬弃用 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7172,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:00:00Z",
-      "latest_at": "2026-09-18T19:00:00Z",
-      "primary_item": {
-        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-        "title": "GitHub Copilot 部分模型将于10月中旬弃用 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_zh": "GitHub Copilot 部分模型将于10月中旬弃用",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 将于 2026 年 10 月 19 日在 Copilot Chat、inline edits、ask/agent 模式及代码补全等所有 Copilot 体验中弃用部分模型，Copilot Enterprise 与 Copilot Business 默认自动启用替代模型，除非管理员关闭全局默认。",
-        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "用旧模型的趁早查下清单，10月中旬前切到替代模型，别等报错。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -470,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7687,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -505,7 +335,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -553,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7315,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +418,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -636,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7623,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,233 +501,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7213,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-        "title_zh": "用 REST API 管理代码覆盖率规则集条件",
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 现可用 REST API 管理 Restrict code coverage 规则集，按行覆盖率设最低覆盖率或限制 pull request 覆盖率降幅，并支持创建、读取，方便多仓库与 IaC 统一配置。",
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "GitHub 覆盖率规则集能走 API 了，CI 里可脚本化配置，做门禁的可以接。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
-      }
-    },
-    {
-      "story_id": "story_2b554203cccf",
-      "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "primary_url": "https://arxiv.org/abs/2510.03215",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-          "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
-          "title_zh": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": "C2C让LLM通过融合KV-cache直接语义通信，避免文本生成；实验平均准确率比单模型高6.4-14.2%，比文本通信高约3.1-5.4%，延迟加速2.5倍。",
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "Cache-to-Cache：LLM 之间的直接语义通信 / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "Cache-to-Cache：LLM 之间的直接语义通信",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": "这篇内容设想让不同LLMs的KV cache直接语义通信：模型家族实现“KV aligned”后，昂贵推理模型可把简单子目标委托给小模型，无需prefill重算与交接延迟，小模型也能生成紧凑KV cache供大模型略读大文件。",
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-          "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
-          "title_zh": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": "C2C让LLM通过融合KV-cache直接语义通信，避免文本生成；实验平均准确率比单模型高6.4-14.2%，比文本通信高约3.1-5.4%，延迟加速2.5倍。",
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "Cache-to-Cache：LLM 之间的直接语义通信 / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "Cache-to-Cache：LLM 之间的直接语义通信",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": "这篇内容设想让不同LLMs的KV cache直接语义通信：模型家族实现“KV aligned”后，昂贵推理模型可把简单子目标委托给小模型，无需prefill重算与交接延迟，小模型也能生成紧凑KV cache供大模型略读大文件。",
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9551,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-18T18:55:35Z",
-      "latest_at": "2026-09-19T14:50:14.125000Z",
-      "primary_item": {
-        "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-        "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-        "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
-        "title_en": null,
-        "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "summary": null,
-        "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
-        "url": "https://arxiv.org/abs/2510.03215",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "论文阶段，没代码没接口，先收藏等复现，别急着改架构。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1003,15 +607,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9022,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1038,7 +642,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1144,15 +748,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5502,
-      "importance": 0.5502,
-      "importance_score": 0.5502,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8855,
+        "recency": 0.8655,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1179,7 +783,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1285,15 +889,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8462,
+        "recency": 0.8271,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1320,7 +924,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1426,15 +1030,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8462,
+        "recency": 0.8271,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1461,7 +1065,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1492,7 +1096,7 @@
           "title_zh": "几乎永远不要用 AI 写任何实质性的东西",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": "This is the best articulation I've seen of why simply reviewing and copy-editing does not provide remotely the same value as writing from scratch.  I spent a considerable amount of time over the past two weeks reviewing and improving a work document that was the output of an LLM.  Given the number of people involved and the final level of effort, I'm firmly convinced that writing it manually would have been faster and resulted in a higher quality product.  Getting the wording right matters.\nrepl",
+          "summary": null,
           "recommend_reason_zh": "作者花两周审改 LLM 生成的工作文档，确信手动写会更快且质量更高；文章还举了 AI 把 not X 误读为反面、用 IQ 反驳 intelligence 论述等具体问题。",
           "url": "https://news.ycombinator.com/item?id=49767937",
           "source": "hackernews",
@@ -1527,7 +1131,7 @@
           "title_zh": "几乎永远不要用 AI 写任何实质性的东西",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": "This is the best articulation I've seen of why simply reviewing and copy-editing does not provide remotely the same value as writing from scratch.  I spent a considerable amount of time over the past two weeks reviewing and improving a work document that was the output of an LLM.  Given the number of people involved and the final level of effort, I'm firmly convinced that writing it manually would have been faster and resulted in a higher quality product.  Getting the wording right matters.\nrepl",
+          "summary": null,
           "recommend_reason_zh": "作者花两周审改 LLM 生成的工作文档，确信手动写会更快且质量更高；文章还举了 AI 把 not X 误读为反面、用 IQ 反驳 intelligence 论述等具体问题。",
           "url": "https://news.ycombinator.com/item?id=49767937",
           "source": "hackernews",
@@ -1538,15 +1142,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9796,
+        "recency": 0.9575,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1573,7 +1177,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1679,15 +1283,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.5221,
+      "importance": 0.5221,
+      "importance_score": 0.5221,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.746,
+        "recency": 0.7292,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1714,44 +1318,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
-      "story_id": "story_9a796b3f06c7",
-      "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "primary_url": "https://arxiv.org/abs/2609.02852",
+      "story_id": "story_2ea16f4d1f3b",
+      "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
-          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "title_zh": "语言不可读性对 LLM 安全的影响",
-          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
-          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
           "summary": null,
-          "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
-          "url": "https://arxiv.org/abs/2609.02852",
+          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T19:00:06Z"
+          "published_at": "2026-09-19T04:44:35Z"
         },
         {
-          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
-          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "title_zh": "语言不可读性对 LLM 安全的影响",
-          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
-          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
           "summary": null,
-          "recommend_reason_zh": "文章讨论 LLM Security 中的 linguistic illegibility：模型朝非语言目标 post-trained，奖励大多非语言，推理链只要导向正确答案或 agentic goal 就受强化，不必语言准确，含义会随训练漂移；跟帖还担忧 watermarking 在自我推理时放大 slop，克隆 1000 份模型。",
-          "url": "https://news.ycombinator.com/item?id=49758689",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T19:00:06Z"
+          "published_at": "2026-09-19T04:44:35Z"
         }
       ],
       "source_count": 2,
@@ -1761,72 +1365,72 @@
       ],
       "items": [
         {
-          "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
-          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "title_zh": "语言不可读性对 LLM 安全的影响",
-          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
-          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
           "summary": null,
-          "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
-          "url": "https://arxiv.org/abs/2609.02852",
+          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-09-18T19:00:06Z"
+          "published_at": "2026-09-19T04:44:35Z"
         },
         {
-          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
-          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-          "title_zh": "语言不可读性对 LLM 安全的影响",
-          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
-          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
           "summary": null,
-          "recommend_reason_zh": "文章讨论 LLM Security 中的 linguistic illegibility：模型朝非语言目标 post-trained，奖励大多非语言，推理链只要导向正确答案或 agentic goal 就受强化，不必语言准确，含义会随训练漂移；跟帖还担忧 watermarking 在自我推理时放大 slop，克隆 1000 份模型。",
-          "url": "https://news.ycombinator.com/item?id=49758689",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-18T19:00:06Z"
+          "published_at": "2026-09-19T04:44:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7172,
+        "recency": 0.8069,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T19:00:06Z",
-      "latest_at": "2026-09-18T19:00:06Z",
+      "earliest_at": "2026-09-19T04:44:35Z",
+      "latest_at": "2026-09-19T04:44:35Z",
       "primary_item": {
-        "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
-        "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
-        "title_zh": "语言不可读性对 LLM 安全的影响",
-        "title_en": "The Implications of Linguistic Illegibility for LLM Security",
-        "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+        "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+        "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+        "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
         "summary": null,
-        "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
-        "url": "https://arxiv.org/abs/2609.02852",
+        "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "理论探讨，没工具没数据，做安全的可以扫一眼，其他人不用管。",
+      "persona_score": 62,
+      "persona_review": "开源地理空间模型，做遥感或行星数据的可以clone来试，其他人不用管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     },
     {
@@ -1903,15 +1507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5131,
+      "importance": 0.5131,
+      "importance_score": 0.5131,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
+        "recency": 0.8183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1938,119 +1542,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
-      }
-    },
-    {
-      "story_id": "story_2ea16f4d1f3b",
-      "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
-          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "summary": null,
-          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
-          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:44:35Z"
-        },
-        {
-          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
-          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
-          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49763379",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T04:44:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
-          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "summary": null,
-          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
-          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T04:44:35Z"
-        },
-        {
-          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
-          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
-          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49763379",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T04:44:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8256,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T04:44:35Z",
-      "latest_at": "2026-09-19T04:44:35Z",
-      "primary_item": {
-        "id": "f6b4fb0cd3c32a061a19a6a3ecc014191ee6c31c",
-        "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
-        "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-        "summary": null,
-        "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
-        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "开源地理空间模型，做遥感或行星数据的可以clone来试，其他人不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T18:15:10.170646Z"
+        "scored_at": "2026-09-19T19:39:36.753536Z"
       }
     }
   ]

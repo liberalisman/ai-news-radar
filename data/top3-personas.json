@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T18:15:11.277677Z",
+  "generated_at": "2026-09-19T19:39:38.506210Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_37ed024ed43e",
-      "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
-      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "story_id": "story_b18115d3565a",
+      "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "官方更新日志，干货有但都是小步迭代，周报包装成发布汇总，水分不大也不多。"
+          "score": 62,
+          "review": "开源值得肯定，但\"检测150种病\"的敏感度、特异度和临床数据一个没提，先别急着封神。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方更新日志，功能清单可查但无论文无benchmark，性能宣称无法复现。"
+          "score": 72,
+          "review": "开源是加分项，但报道未附论文与独立复现，150种病的准确率待查。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "Copilot 周更，看 changelog 决定要不要开新功能，老项目先别急着跟。"
+          "score": 62,
+          "review": "开源可下载，但医疗模型落地门槛高，先看权重和推理成本再决定要不要试。"
         }
       }
     }
