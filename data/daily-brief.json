@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:25:07.241358Z",
+  "generated_at": "2026-09-19T16:48:26.066437Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7389,
+        "recency": 0.7139,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -143,7 +143,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7697,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -228,92 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
-      }
-    },
-    {
-      "story_id": "story_55ec4d48c198",
-      "title": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_zh": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？",
-          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Podcast 最新一期拆解该不该读代码、RAG 是否已死、Skills 是否杀死 MCP，并强调你仍要对代码负责，但 authentication refactor 与 CSS experiment 的审查力度应不同。",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-          "title": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_zh": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？",
-          "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Podcast 最新一期拆解该不该读代码、RAG 是否已死、Skills 是否杀死 MCP，并强调你仍要对代码负责，但 authentication refactor 与 CSS experiment 的审查力度应不同。",
-          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T15:00:00Z",
-      "latest_at": "2026-09-18T15:00:00Z",
-      "primary_item": {
-        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
-        "title": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？ / Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "title_zh": "你该读代码吗，RAG 已死吗，Skills 杀死了 MCP 吗？",
-        "title_en": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "title_original": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Podcast 最新一期拆解该不该读代码、RAG 是否已死、Skills 是否杀死 MCP，并强调你仍要对代码负责，但 authentication refactor 与 CSS experiment 的审查力度应不同。",
-        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "三个问题都是口水仗，没新工具没新接口，扫一眼标题就够了。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -361,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7594,
+        "recency": 0.7336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,7 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -446,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8834,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,7 +397,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -530,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 0.7858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -565,90 +480,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
-      }
-    },
-    {
-      "story_id": "story_c3b254c98c32",
-      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8097,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T23:47:57Z",
-      "latest_at": "2026-09-18T23:47:57Z",
-      "primary_item": {
-        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-        "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
-        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "烧钱预测跟你今天的代码无关，等它涨价或砍免费额度再关心。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -696,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7555,
+        "recency": 0.7299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -733,90 +565,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
-      "story_id": "story_aba82ef73bf1",
-      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-      "source": "The Decoder：AI News（RSS）",
+      "story_id": "story_c3b254c98c32",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-          "recommend_reason_zh": "The New York Times等原告在92页简报中引用OpenAI与Microsoft内部邮件和宣誓证词，Brent Hecht称其可能是largest theft of labor in human history，Microsoft自身数据显示Copilot点击率下降87%至93%，直击fair use抗辩。",
-          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T15:27:29Z"
+          "published_at": "2026-09-18T23:47:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-          "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-          "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-          "recommend_reason_zh": "The New York Times等原告在92页简报中引用OpenAI与Microsoft内部邮件和宣誓证词，Brent Hecht称其可能是largest theft of labor in human history，Microsoft自身数据显示Copilot点击率下降87%至93%，直击fair use抗辩。",
-          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-18T15:27:29Z"
+          "published_at": "2026-09-18T23:47:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7178,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-18T15:27:29Z",
-      "latest_at": "2026-09-18T15:27:29Z",
+      "earliest_at": "2026-09-18T23:47:57Z",
+      "latest_at": "2026-09-18T23:47:57Z",
       "primary_item": {
-        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
-        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "title_zh": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
-        "title_en": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "title_original": "AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
-        "summary": "《纽约时报》、Daily News 集团、Ziff Davis 等媒体公司向纽约联邦法院提交92页简要判决动议，就 AI 训练版权侵权向 OpenAI 和微软索赔数十亿美元，并援引此前未披露的内部邮件和宣誓证词。",
-        "recommend_reason_zh": "The New York Times等原告在92页简报中引用OpenAI与Microsoft内部邮件和宣誓证词，Brent Hecht称其可能是largest theft of labor in human history，Microsoft自身数据显示Copilot点击率下降87%至93%，直击fair use抗辩。",
-        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+        "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "版权官司进展，不影响今天写代码，但做训练数据合规的该留个心眼。",
+      "persona_score": 25,
+      "persona_review": "烧钱预测跟你今天的代码无关，等它涨价或砍免费额度再关心。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -864,15 +696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7705,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -899,90 +731,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
-      }
-    },
-    {
-      "story_id": "story_452f5f248c44",
-      "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
-      "url": "https://x.com/alexandr_wang/status/2101141362607632873",
-      "primary_url": "https://x.com/alexandr_wang/status/2101141362607632873",
-      "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
-          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
-          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
-          "title_en": "love people sharing their muse prompts which work well！",
-          "title_original": "love people sharing their muse prompts which work well！",
-          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
-          "recommend_reason_zh": "全文只有一句话 love people sharing their muse prompts which work well，被原样重复了三遍，末尾邀请读者加入讨论。",
-          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T02:48:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)"
-      ],
-      "items": [
-        {
-          "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
-          "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
-          "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
-          "title_en": "love people sharing their muse prompts which work well！",
-          "title_original": "love people sharing their muse prompts which work well！",
-          "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
-          "recommend_reason_zh": "全文只有一句话 love people sharing their muse prompts which work well，被原样重复了三遍，末尾邀请读者加入讨论。",
-          "url": "https://x.com/alexandr_wang/status/2101141362607632873",
-          "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T02:48:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8456,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-19T02:48:32Z",
-      "latest_at": "2026-09-19T02:48:32Z",
-      "primary_item": {
-        "id": "22e376594a8c54b80816f4100ab4f845d663e9fd",
-        "title": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词 / love people sharing their muse prompts which work well！",
-        "title_zh": "Alexandr Wang 转发一份让 AI 智能体保护日历通勤时间的 Muse 提示词",
-        "title_en": "love people sharing their muse prompts which work well！",
-        "title_original": "love people sharing their muse prompts which work well！",
-        "summary": "Alexandr Wang 转发 @trevin 分享的 Muse 提示词，该提示词也可用于 Instinct 和 Grok @bot，作用是扫描未来 14 天日历、为异地会议自动添加 Travel time 通勤缓冲时间块。",
-        "recommend_reason_zh": "全文只有一句话 love people sharing their muse prompts which work well，被原样重复了三遍，末尾邀请读者加入讨论。",
-        "url": "https://x.com/alexandr_wang/status/2101141362607632873",
-        "source": "X：Alexandr Wang（Scale AI 创始人/Meta 首席 AI 官） (@alexandr_wang)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "一条转发加一句夸，没给提示词全文，抄不到任何东西。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1030,15 +779,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8029,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1065,7 +814,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1113,15 +862,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7598,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1150,203 +899,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2b554203cccf",
+      "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "primary_url": "https://arxiv.org/abs/2510.03215",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅限阶段使用的 npm Token，为自动化提供更安全的保障",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
+          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
+          "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+          "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+          "title_en": null,
+          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
+          "summary": "Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show ",
+          "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T14:50:14.125000Z"
+        },
+        {
+          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
+          "title": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
+          "title_zh": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
+          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
           "summary": null,
-          "recommend_reason_zh": "npm 新增 Read and write (stage only) token，允许自动化工作流通过 npm stage publish 暂存版本，由维护者用 2FA 审批，并阻止 token 直接发布；文章还说明它可作为 2027 年 1 月移除 bypass-2FA token 直发前的迁移路径。",
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
+          "recommend_reason_zh": "C2C让LLM通过融合KV-cache直接语义通信，避免文本生成；实验平均准确率比单模型高6.4-14.2%，比文本通信高约3.1-5.4%，延迟加速2.5倍。",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T18:55:35Z"
+        },
+        {
+          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
+          "title": "Cache-to-Cache：LLM 之间的直接语义通信 / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_zh": "Cache-to-Cache：LLM 之间的直接语义通信",
+          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "summary": null,
+          "recommend_reason_zh": "这篇内容设想让不同LLMs的KV cache直接语义通信：模型家族实现“KV aligned”后，昂贵推理模型可把简单子目标委托给小模型，无需prefill重算与交接延迟，小模型也能生成紧凑KV cache供大模型略读大文件。",
+          "url": "https://news.ycombinator.com/item?id=49758615",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T18:55:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "arxiv.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅限阶段使用的 npm Token，为自动化提供更安全的保障",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
-          "recommend_reason_zh": "npm 新增 Read and write (stage only) token，允许自动化工作流通过 npm stage publish 暂存版本，由维护者用 2FA 审批，并阻止 token 直接发布；文章还说明它可作为 2027 年 1 月移除 bypass-2FA token 直发前的迁移路径。",
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7301,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
-      "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-        "title_zh": "仅限阶段使用的 npm Token，为自动化提供更安全的保障",
-        "title_en": "Stage-only npm tokens for safer automation",
-        "title_original": "Stage-only npm tokens for safer automation",
-        "summary": null,
-        "recommend_reason_zh": "npm 新增 Read and write (stage only) token，允许自动化工作流通过 npm stage publish 暂存版本，由维护者用 2FA 审批，并阻止 token 直接发布；文章还说明它可作为 2027 年 1 月移除 bypass-2FA token 直发前的迁移路径。",
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
-      }
-    },
-    {
-      "story_id": "story_812e5b77756e",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "primary_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "920a291ac9915a91aaf253f0b13bf230eb4f30cd",
-          "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "title_zh": null,
-          "title_en": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "title_original": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA的Nader Khalil和Sydney Sykes将在TechCrunch Disrupt 2026讨论开放还是封闭AI这一塑造下一代初创公司的选择之一，9月25日前购票最高可省200美元。",
-          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T15:30:00Z"
+          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
+          "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+          "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+          "title_en": null,
+          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
+          "summary": "Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show ",
+          "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T14:50:14.125000Z"
         },
         {
-          "id": "c5a6beb73c269462ea18e9d5b4d9dcb05fe6841d",
-          "title": "Robinhood 的 Abhishek Fatehpuria 谈在 TechCrunch Disrupt 2026 上赢得现代金融消费者 / Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "title_zh": "Robinhood 的 Abhishek Fatehpuria 谈在 TechCrunch Disrupt 2026 上赢得现代金融消费者",
-          "title_en": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "title_original": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
+          "title": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
+          "title_zh": "研究者提出 Cache-to-Cache（C2C），实现 LLMs 直接语义通信",
+          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
           "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 上，Robinhood 的 Abhishek Fatehpuria 将分享如何赢得现代金融消费者，大会覆盖 OpenAI、Anthropic、Replit 等占据的 6 个行业舞台，9 月 25 日前注册最高可省 200 美元。",
-          "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "920a291ac9915a91aaf253f0b13bf230eb4f30cd",
-          "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "title_zh": null,
-          "title_en": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "title_original": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA的Nader Khalil和Sydney Sykes将在TechCrunch Disrupt 2026讨论开放还是封闭AI这一塑造下一代初创公司的选择之一，9月25日前购票最高可省200美元。",
-          "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T15:30:00Z"
+          "recommend_reason_zh": "C2C让LLM通过融合KV-cache直接语义通信，避免文本生成；实验平均准确率比单模型高6.4-14.2%，比文本通信高约3.1-5.4%，延迟加速2.5倍。",
+          "url": "https://arxiv.org/abs/2510.03215",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T18:55:35Z"
         },
         {
-          "id": "c5a6beb73c269462ea18e9d5b4d9dcb05fe6841d",
-          "title": "Robinhood 的 Abhishek Fatehpuria 谈在 TechCrunch Disrupt 2026 上赢得现代金融消费者 / Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "title_zh": "Robinhood 的 Abhishek Fatehpuria 谈在 TechCrunch Disrupt 2026 上赢得现代金融消费者",
-          "title_en": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-          "title_original": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
+          "title": "Cache-to-Cache：LLM 之间的直接语义通信 / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_zh": "Cache-to-Cache：LLM 之间的直接语义通信",
+          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
           "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 上，Robinhood 的 Abhishek Fatehpuria 将分享如何赢得现代金融消费者，大会覆盖 OpenAI、Anthropic、Replit 等占据的 6 个行业舞台，9 月 25 日前注册最高可省 200 美元。",
-          "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T15:00:00Z"
+          "recommend_reason_zh": "这篇内容设想让不同LLMs的KV cache直接语义通信：模型家族实现“KV aligned”后，昂贵推理模型可把简单子目标委托给小模型，无需prefill重算与交接延迟，小模型也能生成紧凑KV cache供大模型略读大文件。",
+          "url": "https://news.ycombinator.com/item?id=49758615",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T18:55:35Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.598,
-      "importance": 0.598,
-      "importance_score": 0.598,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7182,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.972,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T15:00:00Z",
-      "latest_at": "2026-09-18T15:30:00Z",
+      "earliest_at": "2026-09-18T18:55:35Z",
+      "latest_at": "2026-09-19T14:50:14.125000Z",
       "primary_item": {
-        "id": "920a291ac9915a91aaf253f0b13bf230eb4f30cd",
-        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-        "title_zh": null,
-        "title_en": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-        "title_original": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA的Nader Khalil和Sydney Sykes将在TechCrunch Disrupt 2026讨论开放还是封闭AI这一塑造下一代初创公司的选择之一，9月25日前购票最高可省200美元。",
-        "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
+        "title": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+        "title_zh": "新研究提出 Cache-to-Cache (C2C)，实现 LLMs 间直接语义通信",
+        "title_en": null,
+        "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
+        "summary": "Multi-LLM systems harness the complementary strengths of diverse Large Language Models, achieving performance and efficiency gains that are not attainable by a single model. In existing designs, LLMs communicate through text, forcing internal representations to be transformed into output token sequences. This process both loses rich semantic information and incurs token-by-token generation latency. Motivated by these limitations, we ask: Can LLMs communicate beyond text? Oracle experiments show ",
+        "recommend_reason_zh": "该论文提出Cache-to-Cache（C2C），让LLM之间直接通过KV-cache进行语义通信，避免逐token文本生成；实验显示比单个模型平均准确率高6.4-14.2%，比文本通信高约3.1-5.4%，延迟平均加速2.5倍。",
+        "url": "https://arxiv.org/abs/2510.03215",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "开源闭源辩论会，听完还是得自己选，没有可抄的结论。",
+      "persona_score": 52,
+      "persona_review": "论文阶段，没代码没接口，先收藏等复现，别急着改架构。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1452,15 +1146,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.9181,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1487,7 +1181,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1593,15 +1287,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9327,
+        "recency": 0.901,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1628,7 +1322,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1734,15 +1428,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8913,
+        "recency": 0.8611,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1769,7 +1463,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -1875,15 +1569,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8913,
+        "recency": 0.8611,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1910,7 +1604,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     },
     {
@@ -2016,15 +1710,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7858,
+        "recency": 0.7591,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2051,7 +1745,455 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T14:39:54.149368Z"
+        "scored_at": "2026-09-19T16:56:56.571884Z"
+      }
+    },
+    {
+      "story_id": "story_f57f0f882ed6",
+      "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "primary_url": "https://artificialanalysis.ai/models/step-5",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+          "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": "这篇分析基于 AA Intelligence Index 数据，指出 StepFun 的 Step 5 Preview 得 44 分、高于中位数 25，支持 1M tokens 上下文和图文输入，定价 $1.00/$2.70 每 1M tokens，速度 100 tokens/秒，但评估生成 160M tokens，比中位数 90M 更啰嗦。",
+          "url": "https://artificialanalysis.ai/models/step-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T05:42:31Z"
+        },
+        {
+          "id": "fd134e61a1582f5b91ae2a95c75a49bcaffc72da",
+          "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T05:42:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+          "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": "这篇分析基于 AA Intelligence Index 数据，指出 StepFun 的 Step 5 Preview 得 44 分、高于中位数 25，支持 1M tokens 上下文和图文输入，定价 $1.00/$2.70 每 1M tokens，速度 100 tokens/秒，但评估生成 160M tokens，比中位数 90M 更啰嗦。",
+          "url": "https://artificialanalysis.ai/models/step-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T05:42:31Z"
+        },
+        {
+          "id": "fd134e61a1582f5b91ae2a95c75a49bcaffc72da",
+          "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T05:42:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8519,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T05:42:31Z",
+      "latest_at": "2026-09-19T05:42:31Z",
+      "primary_item": {
+        "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+        "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "title_zh": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿",
+        "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "summary": null,
+        "recommend_reason_zh": "这篇分析基于 AA Intelligence Index 数据，指出 StepFun 的 Step 5 Preview 得 44 分、高于中位数 25，支持 1M tokens 上下文和图文输入，定价 $1.00/$2.70 每 1M tokens，速度 100 tokens/秒，但评估生成 160M tokens，比中位数 90M 更啰嗦。",
+        "url": "https://artificialanalysis.ai/models/step-5",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "只是预览版上了榜，没开放权重也没API，先记个名字就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T16:56:56.571884Z"
+      }
+    },
+    {
+      "story_id": "story_2ea16f4d1f3b",
+      "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "c2fac22f6649c059ad1d33285eda9e9656d1f544",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c2fac22f6649c059ad1d33285eda9e9656d1f544",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8401,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T04:44:35Z",
+      "latest_at": "2026-09-19T04:44:35Z",
+      "primary_item": {
+        "id": "c2fac22f6649c059ad1d33285eda9e9656d1f544",
+        "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_zh": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型",
+        "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "summary": null,
+        "recommend_reason_zh": "NASA-IBM Lunar Foundation Model 是开源模型，用近两百万个数据包、覆盖11种模态的 SomBench 月球数据集从头预训练，并在陨石坑检测、IMPs 分割和月球极地冰潜势回归三项基准上评估，其复现冰潜势精细模式的能力值得关注。",
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "开源地理空间模型，做遥感或行星数据的可以clone来试，其他人不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T16:56:56.571884Z"
+      }
+    },
+    {
+      "story_id": "story_7bf478361035",
+      "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+      "url": "https://www.techmeme.com/260918/p27",
+      "primary_url": "https://www.techmeme.com/260918/p27",
+      "source": "Techmeme",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d8eefeb86cfe88251b0954fc53b65dea85b06ca6",
+          "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "title_zh": null,
+          "title_en": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "title_original": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260918/p27",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T20:30:00Z"
+        },
+        {
+          "id": "a683b86d61eb6cc7509a53c4d6af8376539c2984",
+          "title": "Joby Aviation 的 3,100 英里自主飞行，表明其正拓展电动空中出租车之外的领域 / Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "title_zh": "Joby Aviation 的 3,100 英里自主飞行，表明其正拓展电动空中出租车之外的领域",
+          "title_en": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "title_original": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "summary": null,
+          "recommend_reason_zh": "Joby Aviation的自主飞行技术完成横跨美国3,100英里飞行，全程无人类飞行员接管，文章借此分析其为何要从电动空中出租车向更广的自主飞行推进。",
+          "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T17:26:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "Techmeme"
+      ],
+      "items": [
+        {
+          "id": "d8eefeb86cfe88251b0954fc53b65dea85b06ca6",
+          "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "title_zh": null,
+          "title_en": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "title_original": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260918/p27",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T20:30:00Z"
+        },
+        {
+          "id": "a683b86d61eb6cc7509a53c4d6af8376539c2984",
+          "title": "Joby Aviation 的 3,100 英里自主飞行，表明其正拓展电动空中出租车之外的领域 / Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "title_zh": "Joby Aviation 的 3,100 英里自主飞行，表明其正拓展电动空中出租车之外的领域",
+          "title_en": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "title_original": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+          "summary": null,
+          "recommend_reason_zh": "Joby Aviation的自主飞行技术完成横跨美国3,100英里飞行，全程无人类飞行员接管，文章借此分析其为何要从电动空中出租车向更广的自主飞行推进。",
+          "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-18T17:26:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7458,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T17:26:41Z",
+      "latest_at": "2026-09-18T20:30:00Z",
+      "primary_item": {
+        "id": "d8eefeb86cfe88251b0954fc53b65dea85b06ca6",
+        "title": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+        "title_zh": null,
+        "title_en": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+        "title_original": "Sources: Anthropic expects to generate $100B+ in annualized revenue this year, up from $65B as of July, as it moves ahead with its IPO amid the AI safety debate (New York Times)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techmeme.com/260918/p27",
+        "source": "Techmeme",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "营收数字和IPO跟写代码没关系，等它家模型降价或开源再叫我。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T16:56:56.571884Z"
+      }
+    },
+    {
+      "story_id": "story_9a796b3f06c7",
+      "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+      "url": "https://arxiv.org/abs/2609.02852",
+      "primary_url": "https://arxiv.org/abs/2609.02852",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
+          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不可读性对 LLM 安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
+          "url": "https://arxiv.org/abs/2609.02852",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T19:00:06Z"
+        },
+        {
+          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
+          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不可读性对 LLM 安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": "文章讨论 LLM Security 中的 linguistic illegibility：模型朝非语言目标 post-trained，奖励大多非语言，推理链只要导向正确答案或 agentic goal 就受强化，不必语言准确，含义会随训练漂移；跟帖还担忧 watermarking 在自我推理时放大 slop，克隆 1000 份模型。",
+          "url": "https://news.ycombinator.com/item?id=49758689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T19:00:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
+          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不可读性对 LLM 安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
+          "url": "https://arxiv.org/abs/2609.02852",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T19:00:06Z"
+        },
+        {
+          "id": "b06f8aad82e329f9d7b009e014a35ec862ad4b32",
+          "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+          "title_zh": "语言不可读性对 LLM 安全的影响",
+          "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+          "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+          "summary": null,
+          "recommend_reason_zh": "文章讨论 LLM Security 中的 linguistic illegibility：模型朝非语言目标 post-trained，奖励大多非语言，推理链只要导向正确答案或 agentic goal 就受强化，不必语言准确，含义会随训练漂移；跟帖还担忧 watermarking 在自我推理时放大 slop，克隆 1000 份模型。",
+          "url": "https://news.ycombinator.com/item?id=49758689",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T19:00:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4972,
+      "importance": 0.4972,
+      "importance_score": 0.4972,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7299,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T19:00:06Z",
+      "latest_at": "2026-09-18T19:00:06Z",
+      "primary_item": {
+        "id": "beea872447a5516d6b124b1c10c95570922dc7a6",
+        "title": "语言不可读性对 LLM 安全的影响 / The Implications of Linguistic Illegibility for LLM Security",
+        "title_zh": "语言不可读性对 LLM 安全的影响",
+        "title_en": "The Implications of Linguistic Illegibility for LLM Security",
+        "title_original": "The Implications of Linguistic Illegibility for LLM Security",
+        "summary": null,
+        "recommend_reason_zh": "这篇 arXiv 2609.02852 提出 linguistic illegibility，认为 LLM 的 chain-of-thought monitoring 等语言自述式安全机制无法完全可靠，主张用 taint tracking 等隔离手段加固 sandbox，并讨论 robust virtualization 与第三方审计以缓解前沿模型的 sandbox 漏洞。",
+        "url": "https://arxiv.org/abs/2609.02852",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "理论探讨，没工具没数据，做安全的可以扫一眼，其他人不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T16:56:56.571884Z"
       }
     }
   ]

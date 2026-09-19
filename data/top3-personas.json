@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T14:40:01.166401Z",
+  "generated_at": "2026-09-19T16:57:01.188542Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "细粒度权限确实治了长期 token 的老毛病，但\"更安全\"得看默认过期时间给不给力。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方changelog有细节，但无独立评测，等实际部署验证再定论。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。"
-        }
-      }
-    },
-    {
       "story_id": "story_630295415d38",
       "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
       "url": "https://code.claude.com/docs/en/changelog",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "Claude Code 兼容 AGENTS.md，多工具共用一份配置，今天就能删掉重复文件。"
+        }
+      }
+    },
+    {
+      "story_id": "story_37ed024ed43e",
+      "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "官方更新日志，干货有但都是小步迭代，周报包装成发布汇总，水分不大也不多。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方更新日志，功能清单可查但无论文无benchmark，性能宣称无法复现。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Copilot 周更，看 changelog 决定要不要开新功能，老项目先别急着跟。"
         }
       }
     }
