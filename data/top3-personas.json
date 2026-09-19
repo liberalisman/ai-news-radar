@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:53:15.128570Z",
+  "generated_at": "2026-09-19T11:21:09.649904Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_96a1341fc9d6",
-      "title": "逆向分析指 ZCode 登录后静默打包 Git 历史并加密上传至 Aliyun OSS / ZCode， the GLM coding agent， silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "逆向证据摆出来了，加密上传也是事实；但'静默'是否等于'恶意'，得看隐私条款里那行小字。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "逆向分析给了细节但无独立复现，OSS 上传行为需抓包验证再定论。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "用 ZCode 的赶紧查代码泄露，没用的先别装，隐私红线。"
-        }
-      }
-    },
-    {
       "story_id": "story_8b8113a300b2",
       "title": "Copilot 代码审查：更出色的审查体验 / Copilot code review: An improved review experience",
       "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -60,7 +40,7 @@
       "story_id": "story_38f7cda29bd5",
       "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
       "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。"
+        }
+      }
+    },
+    {
+      "story_id": "story_37ed024ed43e",
+      "title": "GitHub Copilot 每周发布汇总——9月14日 / GitHub Copilot weekly releases — September 14",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "官方更新日志，干货有但都是小步迭代，周报包装成发布汇总，水分不大也不多。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方更新日志，功能清单可查但无论文无benchmark，性能宣称无法复现。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Copilot 周更，看 changelog 决定要不要开新功能，老项目先别急着跟。"
         }
       }
     }
