@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T06:03:30.514599Z",
+  "generated_at": "2026-09-19T09:53:15.128570Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_74fa7f89b821",
-      "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-      "url": "https://www.aibase.com/news/31156",
+      "story_id": "story_38f7cda29bd5",
+      "title": "仅限阶段使用的 npm Token，为自动化提供更安全的保障 / Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "30项评测平均涨26%，基线是谁、哪30项、怎么算的平均，一个都没说。"
+          "score": 78,
+          "review": "细粒度权限确实治了长期 token 的老毛病，但\"更安全\"得看默认过期时间给不给力。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "30项评测数字给了，但无论文无开源，1M上下文也没第三方复现，先存疑。"
+          "score": 72,
+          "review": "官方changelog有细节，但无独立评测，等实际部署验证再定论。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "1M 上下文加 26% 提升，长文档和 Agent 场景可直接换模型试跑。"
+          "review": "CI 发布流程可以换成阶段令牌，泄露风险小一截，今天就能改配置。"
         }
       }
     }
