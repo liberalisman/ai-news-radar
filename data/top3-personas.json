@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T20:44:09.720605Z",
+  "generated_at": "2026-09-19T21:49:28.062220Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_630295415d38",
-      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "兼容 AGENTS.md 算务实，但这是配置文件名的小修小补，别当成大版本卖点。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方 changelog 有据可查，但仅一条行为变更，无评测无代码，属可验证的文档级证据。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Claude Code 兼容 AGENTS.md，多工具共用一份配置，今天就能删掉重复文件。"
-        }
-      }
-    },
-    {
       "story_id": "story_b18115d3565a",
       "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
       "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -60,7 +40,7 @@
       "story_id": "story_2ea16f4d1f3b",
       "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
       "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 62,
           "review": "开源地理空间模型，做遥感或行星数据的可以clone来试，其他人不用管。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f57f0f882ed6",
+      "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "AA 榜单上确实站住了脚，但 Preview 二字说明连自家都没敢定稿，先别急着开香槟。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "只有AA榜单排名，无论文无代码，第三方跑分也待复现。"
+        },
+        "pragmatic": {
+          "score": 58,
+          "review": "只是预览版上了榜，没开放权重也没API，先记个名字就行。"
         }
       }
     }
