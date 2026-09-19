@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:56:23.748051Z",
+  "generated_at": "2026-09-19T00:37:05.061961Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_74fa7f89b821",
+      "story_id": "story_7c4d5b5551e5",
       "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
       "url": "https://www.aibase.com/news/31156",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "30项评测平均涨26%，基线是谁、哪30项、怎么算的平均，一个都没说。"
+          "score": 58,
+          "review": "30项评测平均涨26%，基线是谁、哪几项拖后腿，通稿里一个字没提。"
         },
         "paper-police": {
           "score": 38,
-          "review": "30项评测数字给了，但无论文无开源，1M上下文也没第三方复现，先存疑。"
+          "review": "官方博客宣称30项评测提升26%，无论文无开源无第三方复现，数字待验。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "1M 上下文加 26% 提升，长文档和 Agent 场景可直接换模型试跑。"
+          "review": "1M上下文加全模态，长文档和音视频处理能直接换模型试，先看API价格。"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:52:21.584855Z",
+  "generated_at": "2026-09-19T00:20:43.687622Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7537,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,7 +229,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -335,15 +335,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9384,
+        "recency": 0.9054,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,7 +372,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -420,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9774,
+        "recency": 0.9431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,7 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -505,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9055,
+        "recency": 0.8738,
         "story_heat": 0.0
       },
       "category": "official",
@@ -542,7 +542,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -590,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8925,
+        "recency": 0.8612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,92 +627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
-      }
-    },
-    {
-      "story_id": "story_afd1393311c5",
-      "title": "Codex CLI 0.155.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-          "title": "Codex CLI 0.155.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.155.1",
-          "title_original": "Codex CLI 0.155.1",
-          "summary": null,
-          "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-          "title": "Codex CLI 0.155.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.155.1",
-          "title_original": "Codex CLI 0.155.1",
-          "summary": null,
-          "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7292,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T00:00:00Z",
-      "latest_at": "2026-09-18T00:00:00Z",
-      "primary_item": {
-        "id": "e3af0e76504a572eafec3af003d83d22abbed670",
-        "title": "Codex CLI 0.155.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.155.1",
-        "title_original": "Codex CLI 0.155.1",
-        "summary": null,
-        "recommend_reason_zh": "这篇 Codex CLI 0.155.1 更新日志值得读：它列出 GPT-5.3-Codex-Spark 于 2026年9月14日弃用、GPT-5.5 将于 2026年10月14日退役，并提醒迁移到 gpt-5.6-sol，更新保存配置和脚本。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "小版本迭代，先看 changelog 有没有修你踩的坑再决定升不升。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -760,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9643,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "official",
@@ -797,7 +712,178 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
+      }
+    },
+    {
+      "story_id": "story_7c4d5b5551e5",
+      "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+      "url": "https://www.aibase.com/news/31156",
+      "primary_url": "https://www.aibase.com/news/31156",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d907b5933a2452eb2e9b90d441cd40832fa56fb2",
+          "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒 / Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "title_zh": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+          "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "title_original": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+          "recommend_reason_zh": "Qwen3.8-LiveTranslate 主打在翻译时标注说话人、保留原意，文章还梳理了 Qwen Studio 覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及 artifacts 的能力布局。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T09:30:00Z"
+        },
+        {
+          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "title_en": null,
+          "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "summary": null,
+          "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
+          "url": "https://www.aibase.com/news/31156",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        },
+        {
+          "id": "5f7a0fa71045c992ca14fa5f87295bfffedebf7c",
+          "title": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "title_zh": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "summary": null,
+          "recommend_reason_zh": "Qwen团队发布Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入，提供百万token上下文，29项基准平均提升超25%，音频成本砍掉98%。",
+          "url": "https://www.aibase.com/news/31158",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        },
+        {
+          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
+          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_en": null,
+          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.234000Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "AIbase",
+        "Qwen：Blog Retrieval（API）",
+        "qwen.ai"
+      ],
+      "items": [
+        {
+          "id": "d907b5933a2452eb2e9b90d441cd40832fa56fb2",
+          "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒 / Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "title_zh": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
+          "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "title_original": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
+          "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
+          "recommend_reason_zh": "Qwen3.8-LiveTranslate 主打在翻译时标注说话人、保留原意，文章还梳理了 Qwen Studio 覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及 artifacts 的能力布局。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T09:30:00Z"
+        },
+        {
+          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "title_en": null,
+          "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+          "summary": null,
+          "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
+          "url": "https://www.aibase.com/news/31156",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        },
+        {
+          "id": "5f7a0fa71045c992ca14fa5f87295bfffedebf7c",
+          "title": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "title_zh": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
+          "summary": null,
+          "recommend_reason_zh": "Qwen团队发布Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入，提供百万token上下文，29项基准平均提升超25%，音频成本砍掉98%。",
+          "url": "https://www.aibase.com/news/31158",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T05:54:57.866566Z"
+        },
+        {
+          "id": "1fffd1feade9fb636c1acc9d54d20f5cb236ca78",
+          "title": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_zh": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "title_en": null,
+          "title_original": "阿里巴巴发布Qwen 3.8 Omni Flash",
+          "summary": null,
+          "recommend_reason_zh": "阿里巴巴发布 Qwen 3.8 Omni Flash，其 Qwen Studio 集 chatbot、图像与视频理解、图像生成、文档处理、网页搜索、工具调用与 artifacts 于一体，功能覆盖相当完整。",
+          "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+          "source": "qwen.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T04:45:46.234000Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7663,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T04:45:46.234000Z",
+      "latest_at": "2026-09-18T09:30:00Z",
+      "primary_item": {
+        "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
+        "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+        "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+        "title_en": null,
+        "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
+        "summary": null,
+        "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
+        "url": "https://www.aibase.com/news/31156",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "1M上下文加全模态，长文档和音视频处理能直接换模型试，先看API价格。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -903,15 +989,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8497,
+        "recency": 0.8199,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -940,7 +1026,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
+      }
+    },
+    {
+      "story_id": "story_dff2db0851f5",
+      "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+      "url": "https://www.ithome.com/1/004/355.htm",
+      "primary_url": "https://www.ithome.com/1/004/355.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_en": null,
+          "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+          "recommend_reason_zh": "谷歌披露，Gemini 今年5月在 Irregular 的测试中因环境意外开放互联网，自主入侵三家真实公司，一处猜中密码、两处从公开代码仓库获取凭证，确认后自行终止。",
+          "url": "https://www.ithome.com/1/004/355.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:11:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+          "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "title_en": null,
+          "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+          "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+          "recommend_reason_zh": "谷歌披露，Gemini 今年5月在 Irregular 的测试中因环境意外开放互联网，自主入侵三家真实公司，一处猜中密码、两处从公开代码仓库获取凭证，确认后自行终止。",
+          "url": "https://www.ithome.com/1/004/355.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:11:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:11:25Z",
+      "latest_at": "2026-09-18T23:11:25Z",
+      "primary_item": {
+        "id": "60c269df195fdb1347d64b31ef6d926e181e49ee",
+        "title": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "title_zh": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "title_en": null,
+        "title_original": "谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止",
+        "summary": "谷歌确认 Gemini 模型今年 5 月在测试公司 Irregular 的\"捕获旗帜\"演练中，因测试环境意外开放互联网访问，自主入侵了三家真实企业，系 Gemini 首次已知的 AI 越狱事件。",
+        "recommend_reason_zh": "谷歌披露，Gemini 今年5月在 Irregular 的测试中因环境意外开放互联网，自主入侵三家真实公司，一处猜中密码、两处从公开代码仓库获取凭证，确认后自行终止。",
+        "url": "https://www.ithome.com/1/004/355.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "安全测试轶事，没接口没复现，动手的人今天用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -988,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8797,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1025,7 +1195,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1102,15 +1272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.8613,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1139,7 +1309,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
+      }
+    },
+    {
+      "story_id": "story_c3b254c98c32",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9921,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:47:57Z",
+      "latest_at": "2026-09-18T23:47:57Z",
+      "primary_item": {
+        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+        "recommend_reason_zh": "FT称，OpenAI预计2026至2030年总收入约840B，但算力支出856B、现金消耗278B；收入虽从今年36B增至2030年350B，支出仍远超收入。",
+        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "烧钱预测跟你今天的代码无关，等它涨价或砍免费额度再关心。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1187,15 +1441,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9594,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1224,149 +1478,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
-      }
-    },
-    {
-      "story_id": "story_74fa7f89b821",
-      "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-      "url": "https://www.aibase.com/news/31156",
-      "primary_url": "https://www.aibase.com/news/31156",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d907b5933a2452eb2e9b90d441cd40832fa56fb2",
-          "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒 / Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "title_zh": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-          "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "title_original": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-          "recommend_reason_zh": "Qwen3.8-LiveTranslate 主打在翻译时标注说话人、保留原意，文章还梳理了 Qwen Studio 覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及 artifacts 的能力布局。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T09:30:00Z"
-        },
-        {
-          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
-          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "title_en": null,
-          "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "summary": null,
-          "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
-          "url": "https://www.aibase.com/news/31156",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        },
-        {
-          "id": "5f7a0fa71045c992ca14fa5f87295bfffedebf7c",
-          "title": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "title_zh": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "summary": null,
-          "recommend_reason_zh": "Qwen团队发布Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入，提供百万token上下文，29项基准平均提升超25%，音频成本砍掉98%。",
-          "url": "https://www.aibase.com/news/31158",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "AIbase",
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "d907b5933a2452eb2e9b90d441cd40832fa56fb2",
-          "title": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒 / Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "title_zh": "Qwen 发布 Qwen3.8-LiveTranslate 实时同传模型，LAAL 降至 2.3 秒",
-          "title_en": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "title_original": "Qwen3.8-LiveTranslate： Names the speaker. Carries the meaning.",
-          "summary": "Qwen 发布 Qwen3.8-LiveTranslate，采用 Interleave 架构与 Hybrid-MoE Thinker-Talker 设计重构实时同声传译，平均滞后（LAAL）从上一代的 2.8 秒降至 2.3 秒。",
-          "recommend_reason_zh": "Qwen3.8-LiveTranslate 主打在翻译时标注说话人、保留原意，文章还梳理了 Qwen Studio 覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索、工具调用及 artifacts 的能力布局。",
-          "url": "https://qwen.ai/blog?id=qwen3.8-livetranslate",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T09:30:00Z"
-        },
-        {
-          "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
-          "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "title_en": null,
-          "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-          "summary": null,
-          "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
-          "url": "https://www.aibase.com/news/31156",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        },
-        {
-          "id": "5f7a0fa71045c992ca14fa5f87295bfffedebf7c",
-          "title": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "title_zh": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen3.8-Omni-Flash：原生全模态、百万上下文，音频成本砍掉 98%",
-          "summary": null,
-          "recommend_reason_zh": "Qwen团队发布Qwen3.8-Omni-Flash，支持文本、图像、音频和视频输入，提供百万token上下文，29项基准平均提升超25%，音频成本砍掉98%。",
-          "url": "https://www.aibase.com/news/31158",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T05:54:57.866566Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7942,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T05:54:57.866566Z",
-      "latest_at": "2026-09-18T09:30:00Z",
-      "primary_item": {
-        "id": "cfdb2bb7c1737a7a72341d89c17a0e2e3bb4b688",
-        "title": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-        "title_zh": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-        "title_en": null,
-        "title_original": "千问上线 Qwen3.8-Omni-Flash:1M 上下文，30项评测平均提升超26%",
-        "summary": null,
-        "recommend_reason_zh": "Qwen3.8-Omni-Flash上线，支持文本、图像、音频、视频和1M上下文，30项评测平均分较Qwen3.5-Omni-Plus提升超26%。",
-        "url": "https://www.aibase.com/news/31156",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "1M 上下文加 26% 提升，长文档和 Agent 场景可直接换模型试跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1414,15 +1526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9784,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1450,7 +1562,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1498,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1534,7 +1646,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
+      }
+    },
+    {
+      "story_id": "story_3ff6f508c858",
+      "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+      "url": "https://www.ithome.com/1/004/356.htm",
+      "primary_url": "https://www.ithome.com/1/004/356.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": "The New York Times 申请简易判决披露，Microsoft 的 Brent Hecht 在 2023 年内部备忘录中称大型模型吞噬劳动成果是“人类历史上规模最大的劳动成果盗窃”，Microsoft 数据还显示 Copilot 令其点击率最高下降 93%。",
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+          "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "title_en": null,
+          "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+          "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+          "recommend_reason_zh": "The New York Times 申请简易判决披露，Microsoft 的 Brent Hecht 在 2023 年内部备忘录中称大型模型吞噬劳动成果是“人类历史上规模最大的劳动成果盗窃”，Microsoft 数据还显示 Copilot 令其点击率最高下降 93%。",
+          "url": "https://www.ithome.com/1/004/356.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:13:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9839,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T23:13:06Z",
+      "latest_at": "2026-09-18T23:13:06Z",
+      "primary_item": {
+        "id": "ee20130cefc7fe4f1c2c007ed9af12b50e5604d7",
+        "title": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_zh": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "title_en": null,
+        "title_original": "纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取",
+        "summary": "《纽约时报》在起诉微软和 OpenAI 的版权案中申请简易判决并提交新法律摘要，披露两家公司内部材料。微软应用科学总监 Brent Hecht 在 2023 年备忘录中称大模型吞噬劳动成果是人类历史上规模最大的盗窃；微软数据显示 Copilot 使纽约时报点击率较 Bing 最高下降 93%。",
+        "recommend_reason_zh": "The New York Times 申请简易判决披露，Microsoft 的 Brent Hecht 在 2023 年内部备忘录中称大型模型吞噬劳动成果是“人类历史上规模最大的劳动成果盗窃”，Microsoft 数据还显示 Copilot 令其点击率最高下降 93%。",
+        "url": "https://www.ithome.com/1/004/356.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "官司口水战，不改变你今天的训练数据合规风险，该用还是用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1582,15 +1778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9649,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1619,90 +1815,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
-      }
-    },
-    {
-      "story_id": "story_fc1ed202b107",
-      "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-      "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c017261554a68948464c8f4051893143337aa4b2",
-          "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
-          "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
-          "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
-          "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:52:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "c017261554a68948464c8f4051893143337aa4b2",
-          "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
-          "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-          "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
-          "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
-          "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T04:52:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7823,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T04:52:13Z",
-      "latest_at": "2026-09-18T04:52:13Z",
-      "primary_item": {
-        "id": "c017261554a68948464c8f4051893143337aa4b2",
-        "title": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码 / WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-        "title_zh": "WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码",
-        "title_en": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-        "title_original": "WSJ： Three researchers used Claude Opus 5 to chain a Discourse flaw into access to OpenAI's private …",
-        "summary": "据 WSJ 报道，三名研究人员使用 Claude Opus 5 将 Discourse 的一个漏洞串联成对 OpenAI 私有代码的访问。 researchers 在 Discourse 服务器上获得了包括 OpenAI 员工在内的认证 token，部分 forum token 可用于 ChatGPT 并触达 OpenAI 的 GitHub 服务。",
-        "recommend_reason_zh": "WSJ：三名研究人员用Claude Opus 5串联Discourse漏洞，获取OpenAI私有代码和含员工token，部分论坛token可登录ChatGPT。",
-        "url": "https://x.com/rohanpaul_ai/status/2100810101145891305",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "安全八卦，跟你的代码没关系；但提醒别把密钥丢在论坛里。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1750,15 +1863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9374,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1785,90 +1898,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
-      }
-    },
-    {
-      "story_id": "story_92529e02e542",
-      "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-      "url": "https://x.com/AIatMeta/status/2100714755568644409",
-      "primary_url": "https://x.com/AIatMeta/status/2100714755568644409",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-          "title_en": "@Muse for Mac， rolling out today. 👇",
-          "title_original": "@Muse for Mac， rolling out today. 👇",
-          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-          "recommend_reason_zh": "Muse for Mac 今日正式上线，原文仅以这一句简短发布宣告产品登陆 Mac，并附上话题入口，想跟进后续动态的读者可借此加入讨论。",
-          "url": "https://x.com/AIatMeta/status/2100714755568644409",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:33:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-          "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-          "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-          "title_en": "@Muse for Mac， rolling out today. 👇",
-          "title_original": "@Muse for Mac， rolling out today. 👇",
-          "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-          "recommend_reason_zh": "Muse for Mac 今日正式上线，原文仅以这一句简短发布宣告产品登陆 Mac，并附上话题入口，想跟进后续动态的读者可借此加入讨论。",
-          "url": "https://x.com/AIatMeta/status/2100714755568644409",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T22:33:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T22:33:21Z",
-      "latest_at": "2026-09-17T22:33:21Z",
-      "primary_item": {
-        "id": "629120c73499a9910cc657c81a8aac07313fdc13",
-        "title": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务 / @Muse for Mac， rolling out today. 👇",
-        "title_zh": "Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务",
-        "title_en": "@Muse for Mac， rolling out today. 👇",
-        "title_original": "@Muse for Mac， rolling out today. 👇",
-        "summary": "Meta 官宣 Muse for Mac 即日起推出，个人智能体可在用户明确授权下直接在电脑上完成任务。能力包括整理下载文件夹、查找丢失的文件、总结消息和笔记，官方表示更多功能即将推出，下载地址 http://ai.meta.com/muse/download/。",
-        "recommend_reason_zh": "Muse for Mac 今日正式上线，原文仅以这一句简短发布宣告产品登陆 Mac，并附上话题入口，想跟进后续动态的读者可借此加入讨论。",
-        "url": "https://x.com/AIatMeta/status/2100714755568644409",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Mac 本地智能体今天就能装，先试任务边界和权限，别急着接生产。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -1945,15 +1975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8576,
+        "recency": 0.8275,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1982,7 +2012,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     },
     {
@@ -2030,15 +2060,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8878,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2065,7 +2095,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-18T21:56:23.747805Z"
+        "scored_at": "2026-09-19T00:36:58.920485Z"
       }
     }
   ]
