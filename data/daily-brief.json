@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:24:57.108173Z",
+  "generated_at": "2026-09-19T14:25:07.241358Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7497,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -143,7 +143,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7809,
+        "recency": 0.7697,
         "story_heat": 0.0
       },
       "category": "official",
@@ -228,7 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7235,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -313,92 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
-      }
-    },
-    {
-      "story_id": "story_0147a5930960",
-      "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
-          "title_zh": "新专家加入Google的AI与经济团队",
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": null,
-          "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-          "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
-          "title_zh": "新专家加入Google的AI与经济团队",
-          "title_en": "New experts join Google’s AI & Economy team",
-          "title_original": "New experts join Google’s AI & Economy team",
-          "summary": null,
-          "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T14:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T14:00:00Z",
-      "latest_at": "2026-09-18T14:00:00Z",
-      "primary_item": {
-        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
-        "title": "新专家加入Google的AI与经济团队 / New experts join Google’s AI & Economy team",
-        "title_zh": "新专家加入Google的AI与经济团队",
-        "title_en": "New experts join Google’s AI & Economy team",
-        "title_original": "New experts join Google’s AI & Economy team",
-        "summary": null,
-        "recommend_reason_zh": "Google扩充AI & Economy研究项目，邀请诺贝尔奖得主等顶尖经济学家加入，基于ATLAS v1.0研究AI对就业、生产率与全球技术扩散的影响。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "招几个经济学家研究AI影响，跟写代码没关系，等出报告再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -446,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7704,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -531,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8963,
+        "recency": 0.8834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,121 +482,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
-      }
-    },
-    {
-      "story_id": "story_5159e5db6dc5",
-      "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "primary_url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
-          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
-          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
-          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
-          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
-          "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T14:00:14Z"
-        },
-        {
-          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
-          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
-          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "安全研究人员利用 Anthropic’s Claude 入侵 OpenAI 系统，接管员工账户并访问内部代码仓库，随后才报告漏洞。",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T14:00:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
-          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
-          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-          "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
-          "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
-          "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
-          "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T14:00:14Z"
-        },
-        {
-          "id": "51cb98ff34342fb87bef2fe4802f18101c98adc8",
-          "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic’s Claude to hack into OpenAI",
-          "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-          "title_en": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "title_original": "Researchers used Anthropic’s Claude to hack into OpenAI",
-          "summary": null,
-          "recommend_reason_zh": "安全研究人员利用 Anthropic’s Claude 入侵 OpenAI 系统，接管员工账户并访问内部代码仓库，随后才报告漏洞。",
-          "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T14:00:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7131,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T14:00:14Z",
-      "latest_at": "2026-09-18T14:00:14Z",
-      "primary_item": {
-        "id": "56d56703cc5429d99a75fb0f2f6bdab92f846ba8",
-        "title": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金 / Researchers used Anthropic's Claude to hack into OpenAI",
-        "title_zh": "研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金",
-        "title_en": "Researchers used Anthropic's Claude to hack into OpenAI",
-        "title_original": "Researchers used Anthropic's Claude to hack into OpenAI",
-        "summary": "Hacktron AI 三人团队在 OpenAI 漏洞赏金计划中利用 Claude Opus 5 发现并串联两个严重漏洞，接管多个 OpenAI 员工 ChatGPT 账户，获 6500 美元奖金，OpenAI 表示已修复。",
-        "recommend_reason_zh": "安全研究人员使用 Anthropic 的 Claude 利用 OpenAI 系统漏洞，接管员工账户并访问内部代码仓库，之后才报告这些缺陷，事件先于公开披露。",
-        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "看个热闹，说明模型能挖漏洞，但没放出工具或方法，今天用不上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -729,21 +530,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8253,
+        "recency": 0.8134,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-19T00:07:04Z",
       "latest_at": "2026-09-19T00:07:04Z",
@@ -765,7 +565,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -813,21 +613,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.8097,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T23:47:57Z",
       "latest_at": "2026-09-18T23:47:57Z",
@@ -849,7 +648,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -897,15 +696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7665,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "official",
@@ -934,7 +733,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -982,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1017,7 +816,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1065,15 +864,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7817,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1100,7 +899,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1148,15 +947,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.858,
+        "recency": 0.8456,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1183,7 +982,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1231,15 +1030,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8146,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,7 +1065,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1314,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7709,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1351,7 +1150,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1399,15 +1198,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7407,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1436,11 +1235,11 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
-      "story_id": "story_8bca5186a36c",
+      "story_id": "story_812e5b77756e",
       "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
       "primary_url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026",
@@ -1474,23 +1273,9 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-09-18T15:00:00Z"
-        },
-        {
-          "id": "f099e6358e4df2efa03b1be850a5ac5b83a64e4b",
-          "title": "倒计时开始：TechCrunch Disrupt 2026 参展最后 24 小时 / The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "title_zh": "倒计时开始：TechCrunch Disrupt 2026 参展最后 24 小时",
-          "title_en": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "title_original": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订仅剩最后24小时，截止 Sept 18 晚11:59 p.m. PT；这是最后一天，创业公司可接触10,000+ founders、investors和tech leaders，在 Expo Hall 展示，且OpenAI、Anthropic、Replit等将登上6个行业舞台，门票25% off。",
-          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T14:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "TechCrunch AI"
       ],
@@ -1522,40 +1307,26 @@
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-09-18T15:00:00Z"
-        },
-        {
-          "id": "f099e6358e4df2efa03b1be850a5ac5b83a64e4b",
-          "title": "倒计时开始：TechCrunch Disrupt 2026 参展最后 24 小时 / The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "title_zh": "倒计时开始：TechCrunch Disrupt 2026 参展最后 24 小时",
-          "title_en": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "title_original": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 展位预订仅剩最后24小时，截止 Sept 18 晚11:59 p.m. PT；这是最后一天，创业公司可接触10,000+ founders、investors和tech leaders，在 Expo Hall 展示，且OpenAI、Anthropic、Replit等将登上6个行业舞台，门票25% off。",
-          "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-18T14:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6249,
-      "importance": 0.6249,
-      "importance_score": 0.6249,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7287,
-        "story_heat": 0.5
+        "recency": 0.7182,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-18T14:00:00Z",
+      "earliest_at": "2026-09-18T15:00:00Z",
       "latest_at": "2026-09-18T15:30:00Z",
       "primary_item": {
         "id": "920a291ac9915a91aaf253f0b13bf230eb4f30cd",
@@ -1571,180 +1342,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 22,
-      "persona_review": "大会圆桌聊开源闭源，没产品没代码，选型该看许可证和成本。",
+      "persona_review": "开源闭源辩论会，听完还是得自己选，没有可抄的结论。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
-      }
-    },
-    {
-      "story_id": "story_5cadb92b0265",
-      "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
-      "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "primary_url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-      "source": "www.science.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
-          "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_en": null,
-          "title_original": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T07:13:16.309000Z"
-        },
-        {
-          "id": "0d5c9d5c25bac00f2d97bae08dd5c074e18c72c0",
-          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots are becoming experts at changing people's minds",
-          "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_en": "AI chatbots are becoming experts at changing people's minds",
-          "title_original": "AI chatbots are becoming experts at changing people's minds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T13:39:27Z"
-        },
-        {
-          "id": "f26d529351d5058568269a0fb1c8ed4fd6046695",
-          "title": "AI 聊天机器人越来越擅长改变人们的想法 / AI chatbots are becoming experts at changing people's minds",
-          "title_zh": "AI 聊天机器人越来越擅长改变人们的想法",
-          "title_en": "AI chatbots are becoming experts at changing people's minds",
-          "title_original": "AI chatbots are becoming experts at changing people's minds",
-          "summary": null,
-          "recommend_reason_zh": "文中以有人展示十个理由、其中一半是编造为例，讨论 AI chatbots 为何能靠大量不总是准确的数据说服人，并把 LLMs 比作 DDOS on free resources，让 Reddit 用户明知对话意在说服仍可能放下站队。",
-          "url": "https://news.ycombinator.com/item?id=49754250",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T13:39:27Z"
-        },
-        {
-          "id": "b722355d4b14a551ba1162a9ec62f239b84b437f",
-          "title": "AI 聊天机器人越来越擅长改变人们的想法。它们的秘诀是什么？ / AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "title_zh": "AI 聊天机器人越来越擅长改变人们的想法。它们的秘诀是什么？",
-          "title_en": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "title_original": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "summary": null,
-          "recommend_reason_zh": "文章称 AI chatbots 能抛出大量未必准确的数据，像 LLMs 是免费资源的 DDOS 一样压倒人，并讨论 chatbot 为何能让人放下团队对立、接受原论点。",
-          "url": "https://news.ycombinator.com/item?id=49754250",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T13:39:27Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.science.org"
-      ],
-      "items": [
-        {
-          "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
-          "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_en": null,
-          "title_original": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T07:13:16.309000Z"
-        },
-        {
-          "id": "0d5c9d5c25bac00f2d97bae08dd5c074e18c72c0",
-          "title": "人工智能聊天机器人正逐渐成为说服他人的行家 / AI chatbots are becoming experts at changing people's minds",
-          "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
-          "title_en": "AI chatbots are becoming experts at changing people's minds",
-          "title_original": "AI chatbots are becoming experts at changing people's minds",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T13:39:27Z"
-        },
-        {
-          "id": "f26d529351d5058568269a0fb1c8ed4fd6046695",
-          "title": "AI 聊天机器人越来越擅长改变人们的想法 / AI chatbots are becoming experts at changing people's minds",
-          "title_zh": "AI 聊天机器人越来越擅长改变人们的想法",
-          "title_en": "AI chatbots are becoming experts at changing people's minds",
-          "title_original": "AI chatbots are becoming experts at changing people's minds",
-          "summary": null,
-          "recommend_reason_zh": "文中以有人展示十个理由、其中一半是编造为例，讨论 AI chatbots 为何能靠大量不总是准确的数据说服人，并把 LLMs 比作 DDOS on free resources，让 Reddit 用户明知对话意在说服仍可能放下站队。",
-          "url": "https://news.ycombinator.com/item?id=49754250",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T13:39:27Z"
-        },
-        {
-          "id": "b722355d4b14a551ba1162a9ec62f239b84b437f",
-          "title": "AI 聊天机器人越来越擅长改变人们的想法。它们的秘诀是什么？ / AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "title_zh": "AI 聊天机器人越来越擅长改变人们的想法。它们的秘诀是什么？",
-          "title_en": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "title_original": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-          "summary": null,
-          "recommend_reason_zh": "文章称 AI chatbots 能抛出大量未必准确的数据，像 LLMs 是免费资源的 DDOS 一样压倒人，并讨论 chatbot 为何能让人放下团队对立、接受原论点。",
-          "url": "https://news.ycombinator.com/item?id=49754250",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T13:39:27Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9144,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-18T13:39:27Z",
-      "latest_at": "2026-09-19T07:13:16.309000Z",
-      "primary_item": {
-        "id": "4c338d244cd4c2f6bc33928e8ef2f74dfbf2d691",
-        "title": "人工智能聊天机器人正逐渐成为说服他人的行家",
-        "title_zh": "人工智能聊天机器人正逐渐成为说服他人的行家",
-        "title_en": null,
-        "title_original": "人工智能聊天机器人正逐渐成为说服他人的行家",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-        "source": "www.science.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "研究结论，知道就行；做营销文案或客服话术的可以留意，但没现成工具可抄。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1850,15 +1452,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.9503,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1885,7 +1487,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     },
     {
@@ -1991,15 +1593,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5587,
+      "importance": 0.5587,
+      "importance_score": 0.5587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9463,
+        "recency": 0.9327,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2026,7 +1628,430 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-19T13:41:13.024881Z"
+        "scored_at": "2026-09-19T14:39:54.149368Z"
+      }
+    },
+    {
+      "story_id": "story_0cbcd7cdc26e",
+      "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "primary_url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "source": "spectrum.ieee.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_en": null,
+          "title_original": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 首款 AI 加速器 Jalapeño 由自有 LLM 辅助设计，从架构概念到首次硅片不到20个月，RTL 到 tape-out 仅9个月，团队平均不到100人，并与 Broadcom 合作完成物理设计。",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.170000Z"
+        },
+        {
+          "id": "418ce55e0c4f302af50f26125e3d991723308357",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 用自家 LLM 设计首款 AI 加速器 Jalapeño，提供 13.4 petaflops 4-bit 算力与 232 GB HBM4，端到端延迟比 Nvidia GB300 最多降 3.6 倍，架构到首次硅片不到 20 个月。",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T23:04:17Z"
+        },
+        {
+          "id": "cdeb10f09da75b7f2eed50a21516e8a9fdc68fee",
+          "title": "OpenAI 如何用自家 LLM 设计出 Jalapeño 芯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何用自家 LLM 设计出 Jalapeño 芯片",
+          "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 用自家 LLMs 设计 Jalapeño 芯片：5月首批芯片从 foundry 返回后，团队让内部 AI 模型为 SemiAnalysis 的 InferenceX 等基准写软件，在 DeepSeek 的 multi-head latent attention kernel 基准上，性能约 40 小时从理论峰值 0.31% 升至 88.94%，Ho 称可复现并缩短量产爬坡时间。",
+          "url": "https://news.ycombinator.com/item?id=49761432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T23:04:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_en": null,
+          "title_original": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 首款 AI 加速器 Jalapeño 由自有 LLM 辅助设计，从架构概念到首次硅片不到20个月，RTL 到 tape-out 仅9个月，团队平均不到100人，并与 Broadcom 合作完成物理设计。",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.170000Z"
+        },
+        {
+          "id": "418ce55e0c4f302af50f26125e3d991723308357",
+          "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+          "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 用自家 LLM 设计首款 AI 加速器 Jalapeño，提供 13.4 petaflops 4-bit 算力与 232 GB HBM4，端到端延迟比 Nvidia GB300 最多降 3.6 倍，架构到首次硅片不到 20 个月。",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-18T23:04:17Z"
+        },
+        {
+          "id": "cdeb10f09da75b7f2eed50a21516e8a9fdc68fee",
+          "title": "OpenAI 如何用自家 LLM 设计出 Jalapeño 芯片 / How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_zh": "OpenAI 如何用自家 LLM 设计出 Jalapeño 芯片",
+          "title_en": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "title_original": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 用自家 LLMs 设计 Jalapeño 芯片：5月首批芯片从 foundry 返回后，团队让内部 AI 模型为 SemiAnalysis 的 InferenceX 等基准写软件，在 DeepSeek 的 multi-head latent attention kernel 基准上，性能约 40 小时从理论峰值 0.31% 升至 88.94%，Ho 称可复现并缩短量产爬坡时间。",
+          "url": "https://news.ycombinator.com/item?id=49761432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T23:04:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T23:04:17Z",
+      "latest_at": "2026-09-19T06:27:05.170000Z",
+      "primary_item": {
+        "id": "fe052442e362153ef8ecd4939e82ae1ffb002eb6",
+        "title": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+        "title_zh": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+        "title_en": null,
+        "title_original": "OpenAI 如何利用其自有的大语言模型设计哈拉佩尼奥辣椒味薯片",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI 首款 AI 加速器 Jalapeño 由自有 LLM 辅助设计，从架构概念到首次硅片不到20个月，RTL 到 tape-out 仅9个月，团队平均不到100人，并与 Broadcom 合作完成物理设计。",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "用LLM设计薯片口味，看个乐就行，跟你的代码和选型没半点关系。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T14:39:54.149368Z"
+      }
+    },
+    {
+      "story_id": "story_b18115d3565a",
+      "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "primary_url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "source": "www.scmp.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e0180cd8a3243f9bc0f5c99f83375c0c0a5ca0f9",
+          "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_en": null,
+          "title_original": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source": "www.scmp.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.174000Z"
+        },
+        {
+          "id": "245df078a9edc6e6ef1f9d3ceb82cdbc57ce55ab",
+          "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba开源模型Damo Radar，读增强CT识别近150种腹部疾病（含癌症），在近4万例真实检查中平均AUC 0.913，研究称超多数放射科医生。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T23:54:42Z"
+        },
+        {
+          "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
+          "title": "Alibaba 开源 AI 模型，可检测癌症及近 150 种疾病 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "Alibaba 开源 AI 模型，可检测癌症及近 150 种疾病",
+          "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba 开源模型 radar-generalist，可检测癌症及近150种病症，代码与模型分别来自 GitHub 和 Hugging Face，值得读。",
+          "url": "https://news.ycombinator.com/item?id=49761840",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T23:54:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.scmp.com"
+      ],
+      "items": [
+        {
+          "id": "e0180cd8a3243f9bc0f5c99f83375c0c0a5ca0f9",
+          "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_en": null,
+          "title_original": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source": "www.scmp.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T06:27:05.174000Z"
+        },
+        {
+          "id": "245df078a9edc6e6ef1f9d3ceb82cdbc57ce55ab",
+          "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+          "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba开源模型Damo Radar，读增强CT识别近150种腹部疾病（含癌症），在近4万例真实检查中平均AUC 0.913，研究称超多数放射科医生。",
+          "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T23:54:42Z"
+        },
+        {
+          "id": "c8517d3426bba4b5cbc81e0ec690088f127fcbd1",
+          "title": "Alibaba 开源 AI 模型，可检测癌症及近 150 种疾病 / Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_zh": "Alibaba 开源 AI 模型，可检测癌症及近 150 种疾病",
+          "title_en": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "title_original": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+          "summary": null,
+          "recommend_reason_zh": "Alibaba 开源模型 radar-generalist，可检测癌症及近150种病症，代码与模型分别来自 GitHub 和 Hugging Face，值得读。",
+          "url": "https://news.ycombinator.com/item?id=49761840",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T23:54:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8913,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T23:54:42Z",
+      "latest_at": "2026-09-19T06:27:05.174000Z",
+      "primary_item": {
+        "id": "e0180cd8a3243f9bc0f5c99f83375c0c0a5ca0f9",
+        "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+        "title_zh": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+        "title_en": null,
+        "title_original": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+        "source": "www.scmp.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "开源可下载，但医疗模型落地门槛高，先看权重和推理成本再决定要不要试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T14:39:54.149368Z"
+      }
+    },
+    {
+      "story_id": "story_630295415d38",
+      "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "primary_url": "https://code.claude.com/docs/en/changelog",
+      "source": "code.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
+          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_en": null,
+          "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 的版本更新说明显示，当项目中没有 Claude.md 文件时，它会转而读取 AGENTS.md，说明还涵盖各版本的新功能、改进与 bug 修复，完整文档索引可在 /docs/llms.txt 获取。",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "code.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T21:43:30.451000Z"
+        },
+        {
+          "id": "3872bcbd3d7eed8ad192a155581b2802cdf88852",
+          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件 / Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 现在会在项目没有 Claude.md 时读取 AGENTS.md，发布说明称可按版本查看新增功能、改进与修复。",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T21:00:32Z"
+        },
+        {
+          "id": "e8cf105bd13827289f91722288b2f1c462f33765",
+          "title": "如果没有 Claude.md，Claude Code 现在会读取 AGENTS.md / Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_zh": "如果没有 Claude.md，Claude Code 现在会读取 AGENTS.md",
+          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 在没有 CLAUDE.md 时会自动读取 AGENTS.md，评论区有开发者表示终于能删掉维护的软链接，并讨论它与 Codex 的兼容写法。",
+          "url": "https://news.ycombinator.com/item?id=49760187",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T21:00:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "code.claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
+          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_en": null,
+          "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 的版本更新说明显示，当项目中没有 Claude.md 文件时，它会转而读取 AGENTS.md，说明还涵盖各版本的新功能、改进与 bug 修复，完整文档索引可在 /docs/llms.txt 获取。",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "code.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-18T21:43:30.451000Z"
+        },
+        {
+          "id": "3872bcbd3d7eed8ad192a155581b2802cdf88852",
+          "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件 / Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 现在会在项目没有 Claude.md 时读取 AGENTS.md，发布说明称可按版本查看新增功能、改进与修复。",
+          "url": "https://code.claude.com/docs/en/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-18T21:00:32Z"
+        },
+        {
+          "id": "e8cf105bd13827289f91722288b2f1c462f33765",
+          "title": "如果没有 Claude.md，Claude Code 现在会读取 AGENTS.md / Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_zh": "如果没有 Claude.md，Claude Code 现在会读取 AGENTS.md",
+          "title_en": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "title_original": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "summary": null,
+          "recommend_reason_zh": "Claude Code 在没有 CLAUDE.md 时会自动读取 AGENTS.md，评论区有开发者表示终于能删掉维护的软链接，并讨论它与 Codex 的兼容写法。",
+          "url": "https://news.ycombinator.com/item?id=49760187",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-18T21:00:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7858,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-18T21:00:32Z",
+      "latest_at": "2026-09-18T21:43:30.451000Z",
+      "primary_item": {
+        "id": "08fffccee66aaa6df7359ff35508dcadb973f27d",
+        "title": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+        "title_zh": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+        "title_en": null,
+        "title_original": "如果没有 Claude.md 文件，Claude Code 现在会读取 AGENTS.md 文件",
+        "summary": null,
+        "recommend_reason_zh": "Claude Code 的版本更新说明显示，当项目中没有 Claude.md 文件时，它会转而读取 AGENTS.md，说明还涵盖各版本的新功能、改进与 bug 修复，完整文档索引可在 /docs/llms.txt 获取。",
+        "url": "https://code.claude.com/docs/en/changelog",
+        "source": "code.claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "Claude Code 兼容 AGENTS.md，多工具共用一份配置，今天就能删掉重复文件。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-19T14:39:54.149368Z"
       }
     }
   ]
