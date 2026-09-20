@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:26:02.002033Z",
+  "generated_at": "2026-09-20T07:05:33.482608Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_081fe103d7de",
+      "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+      "url": "https://www.aibase.com/news/31194",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "600B打平K3却不说K3是哪个版本，白嫖75天更像拉新KPI，参数和榜单先对齐再说。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "600B打平K3只有官方口径，无论文无开源无第三方跑分，白嫖天数不算证据。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "600B模型全量开放还送75天，做长文本和推理任务的今天就能接API试。"
+        }
+      }
+    },
+    {
       "story_id": "story_919e226efbae",
       "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
       "url": "https://www.aibase.com/news/31191",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -40,7 +60,7 @@
       "story_id": "story_e1fd0d999371",
       "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
       "url": "https://www.aibase.com/news/31189",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "开源可 clone 的 CLI 编程工具，76.7% 通过率能自己复现，值得拉下来跑一遍。"
-        }
-      }
-    },
-    {
-      "story_id": "story_9e712b92557c",
-      "title": "SpaceXAI 推出 Grok Voice Transcribe 2.0：错误率砍半、价格纹丝不动，流式语音识别登顶榜单",
-      "url": "https://www.aibase.com/news/31183",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "错误率砍半是真本事，但榜单是自家选的，价格不动更像没底气涨价。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "登顶哪个榜单？错误率砍半的评测集和基线都没给，无代码无论文，只有宣称。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "错误率砍半价格不变，做语音转写的今天就能换 API 试效果。"
         }
       }
     }
