@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:05:33.482608Z",
+  "generated_at": "2026-09-20T11:40:22.567130Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_081fe103d7de",
-      "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-      "url": "https://www.aibase.com/news/31194",
+      "story_id": "story_99589b68f290",
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+      "url": "https://www.aibase.com/news/31201",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "600B打平K3却不说K3是哪个版本，白嫖75天更像拉新KPI，参数和榜单先对齐再说。"
+          "score": 62,
+          "review": "沙箱执行是真活，但开源到什么程度、跑起来要几张卡，稿子里一个字没提。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "600B打平K3只有官方口径，无论文无开源无第三方跑分，白嫖天数不算证据。"
+          "score": 55,
+          "review": "开源是真，但仅一条二手报道，论文与benchmark均未附，复现无从谈起。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "600B模型全量开放还送75天，做长文本和推理任务的今天就能接API试。"
+          "review": "微信团队开源的知识库工具，能跑沙箱执行任务，RAG 项目可以直接 clone 试。"
         }
       }
     },
     {
-      "story_id": "story_919e226efbae",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
+      "story_id": "story_d1a0ed8697f7",
+      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+      "url": "https://www.aibase.com/news/31188",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "调休日算半价，规则写得比假期安排还绕，省下的钱够买杯奶茶吗？"
+          "score": 62,
+          "review": "31项技能听着唬人，可插件绑引擎的活儿去年社区就在干，Unity 只是补了张官方认证。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "调休计费规则是官方公告，但无文档链接、无实测账单，半价窗口待验证。"
+          "score": 38,
+          "review": "官方博客宣称31项技能，无论文无开源无第三方评测，先看插件仓库再说。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "调休日算不算优惠价终于说清了，跑批量任务的可趁机压成本。"
+          "score": 76,
+          "review": "Unity 开发者可试，31 项技能省掉写编辑器脚本的功夫，但先看插件是否稳定。"
         }
       }
     },
     {
-      "story_id": "story_e1fd0d999371",
-      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-      "url": "https://www.aibase.com/news/31189",
+      "story_id": "story_081fe103d7de",
+      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
+      "url": "https://www.aibase.com/news/31196",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "76.7% 的通过率没说是哪个榜、什么难度，但敢开源 CLI 和 harness，比只发 PR 稿的强。"
+          "score": 62,
+          "review": "600B只激活27B是真省，但\"Preview\"二字已说明：跑分和实测都还没影，先别急着封神。"
         },
         "paper-police": {
-          "score": 62,
-          "review": "开源了CLI和76.7%数字，但评测集与复现脚本未明，等第三方跑分。"
+          "score": 30,
+          "review": "600B只激活27B是宣称，论文、代码、benchmark三缺，等实测再评。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可 clone 的 CLI 编程工具，76.7% 通过率能自己复现，值得拉下来跑一遍。"
+          "score": 72,
+          "review": "600B只激活27B，推理成本是看点，但Preview阶段先别急着换生产模型。"
         }
       }
     }

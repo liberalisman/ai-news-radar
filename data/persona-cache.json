@@ -5805,15 +5805,15 @@
     },
     "story_d1a0ed8697f7|cynic|f4237a62": {
       "score": 62,
-      "review": "31项技能听着唬人，多半是API包了层壳，等真能一键生成可跑的游戏再说。",
-      "title_hash": "41ff0eff",
-      "scored_at": "2026-09-20T01:43:19.697852Z"
+      "review": "31项技能听着唬人，可插件绑引擎的活儿去年社区就在干，Unity 只是补了张官方认证。",
+      "title_hash": "e51d61a6",
+      "scored_at": "2026-09-20T11:40:19.630586Z"
     },
     "story_d1a0ed8697f7|paper-police|966065bf": {
       "score": 38,
-      "review": "仅AIbase单源转述，无官方文档、插件仓库或技能清单可查，31项技能无从验证。",
-      "title_hash": "41ff0eff",
-      "scored_at": "2026-09-20T01:43:20.791535Z"
+      "review": "官方博客宣称31项技能，无论文无开源无第三方评测，先看插件仓库再说。",
+      "title_hash": "e51d61a6",
+      "scored_at": "2026-09-20T11:40:20.743356Z"
     },
     "story_7dbc15ea0b15|cynic|f4237a62": {
       "score": 72,
@@ -5835,9 +5835,9 @@
     },
     "story_d1c800dec247|pragmatic|0a5c5b24": {
       "score": 35,
-      "review": "只是\"考虑\"，没模型没API没价格，等真发布再回来看。",
-      "title_hash": "c374d418",
-      "scored_at": "2026-09-20T06:25:46.951101Z"
+      "review": "IPO 前的造势传闻，模型没影、API 没开，等真发布再花时间。",
+      "title_hash": "8d5276e0",
+      "scored_at": "2026-09-20T11:40:06.965938Z"
     },
     "story_14c13d81a3a8|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5936,22 +5936,88 @@
       "scored_at": "2026-09-20T07:05:30.465291Z"
     },
     "story_081fe103d7de|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "600B模型全量开放还送75天，做长文本和推理任务的今天就能接API试。",
-      "title_hash": "3f694319",
-      "scored_at": "2026-09-20T07:05:31.314077Z"
+      "score": 72,
+      "review": "600B只激活27B，推理成本是看点，但Preview阶段先别急着换生产模型。",
+      "title_hash": "4e1a798a",
+      "scored_at": "2026-09-20T11:40:07.890320Z"
     },
     "story_081fe103d7de|cynic|f4237a62": {
-      "score": 58,
-      "review": "600B打平K3却不说K3是哪个版本，白嫖75天更像拉新KPI，参数和榜单先对齐再说。",
-      "title_hash": "3f694319",
-      "scored_at": "2026-09-20T07:05:32.546232Z"
+      "score": 62,
+      "review": "600B只激活27B是真省，但\"Preview\"二字已说明：跑分和实测都还没影，先别急着封神。",
+      "title_hash": "4e1a798a",
+      "scored_at": "2026-09-20T11:40:21.532286Z"
     },
     "story_081fe103d7de|paper-police|966065bf": {
       "score": 30,
-      "review": "600B打平K3只有官方口径，无论文无开源无第三方跑分，白嫖天数不算证据。",
-      "title_hash": "3f694319",
-      "scored_at": "2026-09-20T07:05:33.482474Z"
+      "review": "600B只激活27B是宣称，论文、代码、benchmark三缺，等实测再评。",
+      "title_hash": "4e1a798a",
+      "scored_at": "2026-09-20T11:40:22.567074Z"
+    },
+    "story_aa302e6d88d4|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "比赛跟你的代码没关系，除非你想去现场看人路演。",
+      "title_hash": "01099e68",
+      "scored_at": "2026-09-20T11:40:08.739862Z"
+    },
+    "story_768e87b81386|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "估值和上市时间表跟你今天的代码没关系，等它真发新模型或降价再看。",
+      "title_hash": "23113a11",
+      "scored_at": "2026-09-20T11:40:09.829567Z"
+    },
+    "story_0c9b9ccf9cc3|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "硬件参数亮眼但买不到也用不上，等开放 SDK 或量产价格再说。",
+      "title_hash": "03162984",
+      "scored_at": "2026-09-20T11:40:10.827542Z"
+    },
+    "story_1f54ce7e4b83|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "车企自研机器人进厂试点，跟你的代码没关系，等开源或开放接口再说。",
+      "title_hash": "fc84c33f",
+      "scored_at": "2026-09-20T11:40:11.843196Z"
+    },
+    "story_524da8b990b7|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "AI 大规模改代码的实战账单，想试 agent 重构的可以抄流程，但别指望省钱。",
+      "title_hash": "5873c6ce",
+      "scored_at": "2026-09-20T11:40:12.965469Z"
+    },
+    "story_24e06ede9452|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "剪映加AI功能，做视频的可以试试，但API和自动化能力没提，开发者先观望。",
+      "title_hash": "40093123",
+      "scored_at": "2026-09-20T11:40:13.833257Z"
+    },
+    "story_293af61c927c|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "能在线试玩的小模型，做美颜/社交产品可参考，但别指望通用能力。",
+      "title_hash": "0166068e",
+      "scored_at": "2026-09-20T11:40:14.846571Z"
+    },
+    "story_f7f3d62fb233|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "全是传闻和排期，没一个能调用的接口，等真发布了再看。",
+      "title_hash": "05c5993c",
+      "scored_at": "2026-09-20T11:40:15.827598Z"
+    },
+    "story_99589b68f290|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "微信团队开源的知识库工具，能跑沙箱执行任务，RAG 项目可以直接 clone 试。",
+      "title_hash": "2e29796e",
+      "scored_at": "2026-09-20T11:40:16.666169Z"
+    },
+    "story_99589b68f290|cynic|f4237a62": {
+      "score": 62,
+      "review": "沙箱执行是真活，但开源到什么程度、跑起来要几张卡，稿子里一个字没提。",
+      "title_hash": "2e29796e",
+      "scored_at": "2026-09-20T11:40:17.550052Z"
+    },
+    "story_99589b68f290|paper-police|966065bf": {
+      "score": 55,
+      "review": "开源是真，但仅一条二手报道，论文与benchmark均未附，复现无从谈起。",
+      "title_hash": "2e29796e",
+      "scored_at": "2026-09-20T11:40:18.248210Z"
     }
   }
 }
