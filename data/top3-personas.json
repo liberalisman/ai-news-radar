@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:40:22.567130Z",
+  "generated_at": "2026-09-20T12:45:42.879272Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_99589b68f290",
-      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
-      "url": "https://www.aibase.com/news/31201",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "沙箱执行是真活，但开源到什么程度、跑起来要几张卡，稿子里一个字没提。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "开源是真，但仅一条二手报道，论文与benchmark均未附，复现无从谈起。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "微信团队开源的知识库工具，能跑沙箱执行任务，RAG 项目可以直接 clone 试。"
-        }
-      }
-    },
-    {
       "story_id": "story_d1a0ed8697f7",
       "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
       "url": "https://www.aibase.com/news/31188",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -60,7 +40,7 @@
       "story_id": "story_081fe103d7de",
       "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
       "url": "https://www.aibase.com/news/31196",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "600B只激活27B，推理成本是看点，但Preview阶段先别急着换生产模型。"
+        }
+      }
+    },
+    {
+      "story_id": "story_7dbc15ea0b15",
+      "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
+      "url": "https://www.aibase.com/news/31181",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "2.3秒字均延迟没说是哪种语言对、什么硬件，同屏出倒是真能演示，先看实测。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "2.3秒延迟无评测基准，论文代码均未见，仅官方口径。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "同传延迟2.3秒算能用了，但得看是否开放API和价格，否则只能围观。"
         }
       }
     }
