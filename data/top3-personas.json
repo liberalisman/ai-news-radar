@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:31:37.888101Z",
+  "generated_at": "2026-09-20T18:55:24.749641Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_081fe103d7de",
-      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-      "url": "https://www.aibase.com/news/31196",
+      "story_id": "story_a682219ecb2e",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "600B只激活27B是真省，但\"Preview\"二字已说明：跑分和实测都还没影，先别急着封神。"
+          "score": 72,
+          "review": "跨站追踪这事不新鲜，但把__obi揪出来晒链路算有料，可惜没给抓包证据。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "600B只激活27B是宣称，论文、代码、benchmark三缺，等实测再评。"
+          "score": 42,
+          "review": "独立调查有具体机制描述，但无论文无代码，Cookie 关联行为待第三方复现。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "600B只激活27B，推理成本是看点，但Preview阶段先别急着换生产模型。"
+          "review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。"
         }
       }
     }

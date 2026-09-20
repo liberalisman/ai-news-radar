@@ -1,41 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_4af064afb2f5|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "个人体验吐槽，无工具无方案，动手党不用管。",
-      "title_hash": "2c12a37a",
-      "scored_at": "2026-08-30T17:42:54.880510Z"
-    },
-    "story_78610e902a47|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "默认加链接方便追溯，但会污染提交历史，团队需先定规范。",
-      "title_hash": "8d294c4e",
-      "scored_at": "2026-08-30T17:42:51.644641Z"
-    },
-    "story_6224b50e6bb7|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "团队管理实验，对个人开发无直接影响，可当参考。",
-      "title_hash": "7049e70a",
-      "scored_at": "2026-08-30T17:42:52.564791Z"
-    },
     "story_3ac6b3b53291|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "复盘报告可当安全教材，但无新工具，动手价值有限。",
       "title_hash": "b114ae01",
       "scored_at": "2026-08-30T21:13:46.953917Z"
-    },
-    "story_78610e902a47|cynic|f4237a62": {
-      "score": 45,
-      "review": "把会话链接塞进提交信息，是怕别人不知道你靠AI写代码？",
-      "title_hash": "8d294c4e",
-      "scored_at": "2026-08-30T17:42:55.978009Z"
-    },
-    "story_78610e902a47|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅官方宣称默认附加链接，无论文无代码无评测，证据不足。",
-      "title_hash": "8d294c4e",
-      "scored_at": "2026-08-30T17:42:57.126019Z"
     },
     "story_8672a4a6bc9e|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5964,6 +5934,48 @@
       "review": "官方博客宣称开源但未见仓库链接与评测细节，等代码和跑分。",
       "title_hash": "27818534",
       "scored_at": "2026-09-20T16:10:44.512649Z"
+    },
+    "story_a682219ecb2e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。",
+      "title_hash": "39fc90c7",
+      "scored_at": "2026-09-20T18:55:19.664985Z"
+    },
+    "story_ececa933a36b|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "版权官司的口水仗，不影响你今天写代码，但数据合规风险得留意。",
+      "title_hash": "583b3ac8",
+      "scored_at": "2026-09-20T18:55:20.355721Z"
+    },
+    "story_0486697449ca|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "标题党式技术轶事，没代码没接口，扫一眼即可。",
+      "title_hash": "2b16515b",
+      "scored_at": "2026-09-20T18:55:21.342304Z"
+    },
+    "story_8c6e00ff1c29|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "观点文，没给可跑的评估管道代码，先别改现有 prompt 工作流。",
+      "title_hash": "77c671ab",
+      "scored_at": "2026-09-20T18:55:22.228746Z"
+    },
+    "story_eceffe99ef7d|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "选型前值得扫一眼，但没实测数据，别当决策依据。",
+      "title_hash": "426284f6",
+      "scored_at": "2026-09-20T18:55:23.066322Z"
+    },
+    "story_a682219ecb2e|cynic|f4237a62": {
+      "score": 72,
+      "review": "跨站追踪这事不新鲜，但把__obi揪出来晒链路算有料，可惜没给抓包证据。",
+      "title_hash": "39fc90c7",
+      "scored_at": "2026-09-20T18:55:24.074602Z"
+    },
+    "story_a682219ecb2e|paper-police|966065bf": {
+      "score": 42,
+      "review": "独立调查有具体机制描述，但无论文无代码，Cookie 关联行为待第三方复现。",
+      "title_hash": "39fc90c7",
+      "scored_at": "2026-09-20T18:55:24.749580Z"
     }
   }
 }

@@ -1,8 +1,180 @@
 {
-  "generated_at": "2026-09-20T16:29:20.784423Z",
+  "generated_at": "2026-09-20T18:47:21.290645Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a682219ecb2e",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": "作者在手机上复现了 OpenAI 通过 bzr.openai.com 的 __obi cookie 把站外广告像素回传并关联 ChatGPT 账号的机制，交叉验证 936 个广告主像素、1,029 个主机名，还发现 SDK 抓取身份 685 次远超广告主提供 255 次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": "OpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs\nOpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\n",
+          "recommend_reason_zh": "OpenAI的__obi追踪：广告主加载代码即回传绑定ChatGPT账户的__obi，作者交叉验证936个广告像素、1,029个主机名，SDK抓取身份685次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": "OpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs\nOpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\n",
+          "recommend_reason_zh": "作者复现了OpenAI广告收集器：__obi cookie将ChatGPT账户与广告主网站行为关联，并在936个广告像素、1029个主机名中抓取身份685次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道你在其他网站做什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道你在其他网站做什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": "Some outcomes can be annoying, but the net result is still positive, for the consumers and their data privacy at least.\nreply\n> The mechanism is standard adtech. What has no precedent is running it on an AI chat product. As someone who has been well aware of this mechanism for quite some time, I still feel icky anytime I re-read the details of it. What a time to be alive.\nAs someone who has been well aware of this mechanism for quite some time, I still feel icky anytime I re-read the details of ",
+          "recommend_reason_zh": "文章称 ChatGPT 借 ad collector 获知你的站外行为，该机制虽属 standard adtech，但用于 AI chat product 无先例，评论者重读仍感不适。",
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": "作者在手机上复现了 OpenAI 通过 bzr.openai.com 的 __obi cookie 把站外广告像素回传并关联 ChatGPT 账号的机制，交叉验证 936 个广告主像素、1,029 个主机名，还发现 SDK 抓取身份 685 次远超广告主提供 255 次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": "OpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs\nOpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\n",
+          "recommend_reason_zh": "OpenAI的__obi追踪：广告主加载代码即回传绑定ChatGPT账户的__obi，作者交叉验证936个广告像素、1,029个主机名，SDK抓取身份685次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": "OpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\nAny company that buys ads on ChatGPT installs\nOpenAI's ad collector at bzr.openai.com sets a cookie called __obi, scoped to .openai.com. The value is while you are on ChatGPT and tied to your ChatGPT account. __obi is then sent to OpenAI from ordinary websites you visit.\n\n",
+          "recommend_reason_zh": "作者复现了OpenAI广告收集器：__obi cookie将ChatGPT账户与广告主网站行为关联，并在936个广告像素、1029个主机名中抓取身份685次。",
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
+        },
+        {
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道你在其他网站做什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道你在其他网站做什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
+          "summary": "Some outcomes can be annoying, but the net result is still positive, for the consumers and their data privacy at least.\nreply\n> The mechanism is standard adtech. What has no precedent is running it on an AI chat product. As someone who has been well aware of this mechanism for quite some time, I still feel icky anytime I re-read the details of it. What a time to be alive.\nAs someone who has been well aware of this mechanism for quite some time, I still feel icky anytime I re-read the details of ",
+          "recommend_reason_zh": "文章称 ChatGPT 借 ad collector 获知你的站外行为，该机制虽属 standard adtech，但用于 AI chat product 无先例，评论者重读仍感不适。",
+          "url": "https://news.ycombinator.com/item?id=49776729",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:18:44Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.99,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": "作者在手机上复现了 OpenAI 通过 bzr.openai.com 的 __obi cookie 把站外广告像素回传并关联 ChatGPT 账号的机制，交叉验证 936 个广告主像素、1,029 个主机名，还发现 SDK 抓取身份 685 次远超广告主提供 255 次。",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-20T18:55:18.521768Z"
+      }
+    },
     {
       "story_id": "story_67bbb2f19d0e",
       "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
@@ -45,7 +217,7 @@
           "title_zh": "阿里巴巴开源权重模型 Qwen-Image-2.1 仅凭 70 亿参数，宣称在图像生成上超越闭源模型",
           "title_en": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
           "title_original": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-          "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.\nAlibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license",
+          "summary": null,
           "recommend_reason_zh": "Alibaba Qwen发布开源权重模型Qwen-Image-2.1，7B视觉生成组件称自家基准胜多数闭源模型，能在3090运行并支持RGBA透明图，但禁止商用。",
           "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters",
           "source": "The Decoder AI News",
@@ -68,6 +240,20 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen Image 2.1",
+          "title_original": "Qwen Image 2.1",
+          "summary": "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "Qwen 的能力涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用与 artifacts，这篇短文把它的全部功能一次列全。",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
           "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
@@ -82,9 +268,10 @@
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "The Decoder AI News",
         "X：通义千问 / Qwen (@Alibaba_Qwen)",
@@ -125,7 +312,7 @@
           "title_zh": "阿里巴巴开源权重模型 Qwen-Image-2.1 仅凭 70 亿参数，宣称在图像生成上超越闭源模型",
           "title_en": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
           "title_original": "Alibaba's open-weight Qwen-Image-2.1 claims to beat closed models in image generation with just 7 billion parameters",
-          "summary": "Alibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license bars commercial use, which requires a separate Qwen license.\nAlibaba's Qwen team has released Qwen-Image-2.1, an open-weight model that generates and edits images on powerful consumer GPUs, with support for transparency and up to ten reference images at once. Its research license",
+          "summary": null,
           "recommend_reason_zh": "Alibaba Qwen发布开源权重模型Qwen-Image-2.1，7B视觉生成组件称自家基准胜多数闭源模型，能在3090运行并支持RGBA透明图，但禁止商用。",
           "url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters",
           "source": "The Decoder AI News",
@@ -148,6 +335,20 @@
           "published_at": "2026-09-20T14:40:14.401000Z"
         },
         {
+          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
+          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
+          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
+          "title_en": "Qwen Image 2.1",
+          "title_original": "Qwen Image 2.1",
+          "summary": "Qwen offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.",
+          "recommend_reason_zh": "Qwen 的能力涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用与 artifacts，这篇短文把它的全部功能一次列全。",
+          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T13:09:25Z"
+        },
+        {
           "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
           "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
           "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
@@ -162,17 +363,17 @@
           "published_at": "2026-09-20T13:09:25Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8563,
-      "importance": 0.8563,
-      "importance_score": 0.8563,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9066,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -201,179 +402,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
-      }
-    },
-    {
-      "story_id": "story_ef95692bbaba",
-      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_en": null,
-          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
-          "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_en": null,
-          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft高管称AI是“人类历史上规模最大的劳动力盗用”，而NYT正指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft一位总监将AI抓取称为\"人类历史上最大的劳动窃取\"，此番表态源于NYT指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T18:21:30Z"
-        },
-        {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "微软总监：AI 抓取是“人类历史上最大的劳动力窃取 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_zh": "微软总监：AI 抓取是“人类历史上最大的劳动力窃取",
-          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "summary": null,
-          "recommend_reason_zh": "文章披露 Microsoft Applied Science 总监 Brent Hecht 在 2023 年 1 月、即 ChatGPT 发布一个月后的内部备忘录中称，大模型抓取人类作品是人类历史上最大的劳动盗窃，并预言数百万人将视其为前所未有的盗窃。",
-          "url": "https://news.ycombinator.com/item?id=49768921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.tomshardware.com"
-      ],
-      "items": [
-        {
-          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_en": null,
-          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
-          "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
-          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "title_en": null,
-          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft高管称AI是“人类历史上规模最大的劳动力盗用”，而NYT正指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "www.tomshardware.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T23:58:19.151000Z"
-        },
-        {
-          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
-          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft一位总监将AI抓取称为\"人类历史上最大的劳动窃取\"，此番表态源于NYT指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T18:21:30Z"
-        },
-        {
-          "id": "9b707e023bfb6980eadf5a2eba935d9f3c00ede9",
-          "title": "微软总监：AI 抓取是“人类历史上最大的劳动力窃取 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_zh": "微软总监：AI 抓取是“人类历史上最大的劳动力窃取",
-          "title_en": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "title_original": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-          "summary": null,
-          "recommend_reason_zh": "文章披露 Microsoft Applied Science 总监 Brent Hecht 在 2023 年 1 月、即 ChatGPT 发布一个月后的内部备忘录中称，大模型抓取人类作品是人类历史上最大的劳动盗窃，并预言数百万人将视其为前所未有的盗窃。",
-          "url": "https://news.ycombinator.com/item?id=49768921",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T18:21:30Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7878,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-19T18:21:30Z",
-      "latest_at": "2026-09-19T23:58:19.151000Z",
-      "primary_item": {
-        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
-        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "title_en": null,
-        "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
-        "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
-        "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "版权官司口水战，不改变你今天写代码，但数据合规风险得记一笔。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -449,15 +478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -486,7 +515,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -562,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -599,7 +628,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
+      }
+    },
+    {
+      "story_id": "story_ececa933a36b",
+      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "title_en": null,
+          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
+          "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_en": null,
+          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "summary": null,
+          "recommend_reason_zh": "Microsoft高管称AI是“人类历史上规模最大的劳动力盗用”，而NYT正指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "title_en": null,
+          "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
+          "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_zh": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "title_en": null,
+          "title_original": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "summary": null,
+          "recommend_reason_zh": "Microsoft高管称AI是“人类历史上规模最大的劳动力盗用”，而NYT正指控OpenAI与Microsoft未经授权使用其数千篇新闻文章、侵犯版权。",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7621,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-19T23:58:19.151000Z",
+      "latest_at": "2026-09-19T23:58:19.151000Z",
+      "primary_item": {
+        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "title_zh": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "title_en": null,
+        "title_original": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "summary": "纽约时报在起诉 OpenAI 和微软的版权案中提交法律简报并申请即决判决，引用双方内部文件称 AI 抓取是\"人类历史上最大规模的劳动力盗用\"，OpenAI ChatGPT 负责人称其对出版商是\"生存威胁\"。文件还显示 Copilot 使纽约时报的点击率相比 Bing 搜索最多下降 93%，且 Nadella 在证词中表示付费墙内容应获得授权，这些内容可能削弱 OpenAI 的合理使用抗辩。",
+        "recommend_reason_zh": "NYT 起诉 OpenAI 和 Microsoft 侵犯其数千篇新闻文章版权，诉讼文件披露 Microsoft 高管称 AI 抓取是人类历史上最大规模的劳动力盗用。",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "版权官司的口水仗，不影响你今天写代码，但数据合规风险得留意。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -675,15 +818,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8438,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,7 +855,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -788,15 +931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8627,
+        "recency": 0.8345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,7 +968,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -901,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8627,
+        "recency": 0.8345,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -938,121 +1081,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
-      }
-    },
-    {
-      "story_id": "story_5fd1d94a5a43",
-      "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-      "url": "https://www.aibase.com/news/31187",
-      "primary_url": "https://www.aibase.com/news/31187",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "title_en": null,
-          "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "summary": null,
-          "recommend_reason_zh": "Step Zenith 发布 Step5Preview，采用 sparse MoE 架构，总参数 600B、激活 27B，支持 1 million Token 上下文，在 Artificial Analysis Intelligence Index 全球开源模型排前三，单任务成本仅为 Claude Opus5 的 1/8，并计划 10 月 15 日开源。",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:15:34.642658Z"
-        },
-        {
-          "id": "cdc37d70eb34635f49784150d5224e618dca4606",
-          "title": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "title_zh": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "title_en": null,
-          "title_original": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "summary": null,
-          "recommend_reason_zh": "阶跃Step 5 Preview以600B稀疏MoE、激活27B支持100万Token上下文，在AA综合智能指数跻身全球开源前三，单任务成本仅Claude Opus 5的1/8，主攻AI编程与金融Agentic任务。",
-          "url": "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T11:52:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "title_en": null,
-          "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-          "summary": null,
-          "recommend_reason_zh": "Step Zenith 发布 Step5Preview，采用 sparse MoE 架构，总参数 600B、激活 27B，支持 1 million Token 上下文，在 Artificial Analysis Intelligence Index 全球开源模型排前三，单任务成本仅为 Claude Opus5 的 1/8，并计划 10 月 15 日开源。",
-          "url": "https://www.aibase.com/news/31187",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:15:34.642658Z"
-        },
-        {
-          "id": "cdc37d70eb34635f49784150d5224e618dca4606",
-          "title": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "title_zh": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "title_en": null,
-          "title_original": "瞄准 AI 编程、金融等场景，单次成本仅为Opus 5 的1/8！这款国产旗舰模型跻身 AA 榜单全球前三",
-          "summary": null,
-          "recommend_reason_zh": "阶跃Step 5 Preview以600B稀疏MoE、激活27B支持100万Token上下文，在AA综合智能指数跻身全球开源前三，单任务成本仅Claude Opus 5的1/8，主攻AI编程与金融Agentic任务。",
-          "url": "https://www.infoq.cn/article/9jw1St7ULZijG8XNCWkW",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T11:52:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8627,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T06:15:34.642658Z",
-      "latest_at": "2026-09-20T11:52:32Z",
-      "primary_item": {
-        "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
-        "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-        "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-        "title_en": null,
-        "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
-        "summary": null,
-        "recommend_reason_zh": "Step Zenith 发布 Step5Preview，采用 sparse MoE 架构，总参数 600B、激活 27B，支持 1 million Token 上下文，在 Artificial Analysis Intelligence Index 全球开源模型排前三，单任务成本仅为 Claude Opus5 的 1/8，并计划 10 月 15 日开源。",
-        "url": "https://www.aibase.com/news/31187",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "成本砍到1/8很香，但Preview版先别上生产，等正式API和实测数据。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -1075,7 +1104,7 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-20T10:47:49Z"
+          "published_at": "2026-09-20T18:47:49Z"
         },
         {
           "id": "2f8fb917922c6e016e905a26dbf2fd899ba6918a",
@@ -1089,7 +1118,7 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-20T10:15:44Z"
+          "published_at": "2026-09-20T18:15:44Z"
         }
       ],
       "source_count": 2,
@@ -1109,7 +1138,7 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-20T10:47:49Z"
+          "published_at": "2026-09-20T18:47:49Z"
         },
         {
           "id": "2f8fb917922c6e016e905a26dbf2fd899ba6918a",
@@ -1123,28 +1152,28 @@
           "source": "InfoQ CN",
           "source_name": "OPML RSS",
           "site_id": "opmlrss",
-          "published_at": "2026-09-20T10:15:44Z"
+          "published_at": "2026-09-20T18:15:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
+      "score": 0.6228,
+      "importance": 0.6228,
+      "importance_score": 0.6228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9211,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T10:15:44Z",
-      "latest_at": "2026-09-20T10:47:49Z",
+      "earliest_at": "2026-09-20T18:15:44Z",
+      "latest_at": "2026-09-20T18:47:49Z",
       "primary_item": {
         "id": "ac53866538e4edc55b145faeebb88dbef2459931",
         "title": "70强会师杭州，世界人工智能开源大赛（GOAI）总决赛即将启幕",
@@ -1163,7 +1192,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -1211,21 +1240,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T11:29:34.887596Z",
       "latest_at": "2026-09-20T11:29:34.887596Z",
@@ -1247,205 +1275,372 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
-      "story_id": "story_dc21f5938fae",
-      "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-      "source": "erichgrunewald.substack.com",
-      "source_name": "Buzzing",
+      "story_id": "story_0c9b9ccf9cc3",
+      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+      "url": "https://www.aibase.com/news/31205",
+      "primary_url": "https://www.aibase.com/news/31205",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
-        },
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎永远不要用 AI 写任何实质性的东西 / Almost Never Use AI to Write Anything Substantive",
-          "title_zh": "几乎永远不要用 AI 写任何实质性的东西",
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": "作者花两周审改 LLM 生成的工作文档，确信手动写会更快且质量更高；文章还举了 AI 把 not X 误读为反面、用 IQ 反驳 intelligence 论述等具体问题。",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_en": "I think you should almost never use AI to write",
-          "title_original": "I think you should almost never use AI to write",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
-          "title": "我认为你几乎永远都不该用 AI 写作 / I think you should almost never use AI to write",
-          "title_zh": "我认为你几乎永远都不该用 AI 写作",
-          "title_en": "I think you should almost never use AI to write",
-          "title_original": "I think you should almost never use AI to write",
-          "summary": null,
-          "recommend_reason_zh": "作者以自己花两周审查润色一份 LLM 生成的工作文档为例，认为手动撰写会更快且质量更高，并指出 LLM 没有真正的观点与知识，本质是预测文本模型且可能产生幻觉。",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
+          "url": "https://www.aibase.com/news/31205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T11:29:34.887596Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "erichgrunewald.substack.com",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "title_en": null,
-          "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "erichgrunewald.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T20:03:34.007000Z"
-        },
-        {
-          "id": "e21393f34078af0dc888cc86e01b6ce1c76f351d",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / Almost Never Use AI to Write Anything Substantive",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "几乎永远不要用 AI 写任何实质性的东西 / Almost Never Use AI to Write Anything Substantive",
-          "title_zh": "几乎永远不要用 AI 写任何实质性的东西",
-          "title_en": "Almost Never Use AI to Write Anything Substantive",
-          "title_original": "Almost Never Use AI to Write Anything Substantive",
-          "summary": null,
-          "recommend_reason_zh": "作者花两周审改 LLM 生成的工作文档，确信手动写会更快且质量更高；文章还举了 AI 把 not X 误读为反面、用 IQ 反驳 intelligence 论述等具体问题。",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "b6781008e3dc6a91dae0ba36f28d0ad48d27ee8f",
-          "title": "几乎不要使用人工智能来撰写任何有实质内容的文章 / I think you should almost never use AI to write",
-          "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-          "title_en": "I think you should almost never use AI to write",
-          "title_original": "I think you should almost never use AI to write",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-19T16:35:24Z"
-        },
-        {
-          "id": "5d45c92dc71485d90d52b9061db048d83ee84937",
-          "title": "我认为你几乎永远都不该用 AI 写作 / I think you should almost never use AI to write",
-          "title_zh": "我认为你几乎永远都不该用 AI 写作",
-          "title_en": "I think you should almost never use AI to write",
-          "title_original": "I think you should almost never use AI to write",
-          "summary": null,
-          "recommend_reason_zh": "作者以自己花两周审查润色一份 LLM 生成的工作文档为例，认为手动撰写会更快且质量更高，并指出 LLM 没有真正的观点与知识，本质是预测文本模型且可能产生幻觉。",
-          "url": "https://news.ycombinator.com/item?id=49767937",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T16:35:24Z"
+          "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
+          "url": "https://www.aibase.com/news/31205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T11:29:34.887596Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5748,
-      "importance": 0.5748,
-      "importance_score": 0.5748,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T11:29:34.887596Z",
+      "latest_at": "2026-09-20T11:29:34.887596Z",
+      "primary_item": {
+        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
+        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_en": null,
+        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "summary": null,
+        "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
+        "url": "https://www.aibase.com/news/31205",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 42,
+      "persona_review": "硬件参数亮眼但买不到也用不上，等开放 SDK 或量产价格再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-20T18:55:18.521768Z"
+      }
+    },
+    {
+      "story_id": "story_0486697449ca",
+      "title": "“海盗脸”拯救了大语言模型免遭删除",
+      "url": "https://pirateface.co",
+      "primary_url": "https://pirateface.co",
+      "source": "pirateface.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": null,
+          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+          "summary": "Open models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nThe un-bannable, checksum-verified mirror for sovereign AI models.\nOpen models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nOpen models - LLMs, image, audio, datasets - as 🧲 magnet links that can never be taken down. No single owner or point of failure.\nTrending Apache-2.0 & MIT models, synced live from Hugging Face - each becoming a checksum-verified torrent.\nPirate Face is decentralized i",
+          "recommend_reason_zh": "Pirate Face 把 Hugging Face 上的 LLMs、image、audio、datasets 做成带官方 SHA-256 校验的 magnet links，由全球 swarm 做种，无单点故障；现有 pipeline 只需换 endpoint，零代码更改，无需账号即可浏览、下载和做种。",
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T17:03:10.347000Z"
+        },
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": "Pirate Face 把 Hugging Face 模型变成 SHA-256 校验 torrent，无需账号下载做种，且零代码改动，防止单一托管关闭。",
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "Pirate Face 拯救 LLM 模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "Pirate Face 拯救 LLM 模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": "Orthogonalising activations at runtime is computationally cheap. Just distribute the refusal vectors (few thousand floats per layer), then run against the stock weights. Antirez's DS4 already supports this: https://github.com/antirez/ds4/blob/8db1d1d155cb0400a86a86b9... Abliterated weights are just a bad habit we've gotten into. It's also deeply suboptimal from a precision point of view to take a model that's already been QATed and distributed in pre-quantised form (DeepSeek V4, Kimi K2.5 or K3.",
+          "recommend_reason_zh": "文章主张用 runtime orthogonalising activations 替代 abliterated weights：每层只分发几千个 floats 的 refusal vectors，Antirez's DS4 已支持；对已 QAT 的 DeepSeek V4、Kimi K2.5 等预量化模型，改权重再重量化会损精度，重量化后还会恢复部分 refusal。",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pirateface.co"
+      ],
+      "items": [
+        {
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": null,
+          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+          "summary": "Open models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nThe un-bannable, checksum-verified mirror for sovereign AI models.\nOpen models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nOpen models - LLMs, image, audio, datasets - as 🧲 magnet links that can never be taken down. No single owner or point of failure.\nTrending Apache-2.0 & MIT models, synced live from Hugging Face - each becoming a checksum-verified torrent.\nPirate Face is decentralized i",
+          "recommend_reason_zh": "Pirate Face 把 Hugging Face 上的 LLMs、image、audio、datasets 做成带官方 SHA-256 校验的 magnet links，由全球 swarm 做种，无单点故障；现有 pipeline 只需换 endpoint，零代码更改，无需账号即可浏览、下载和做种。",
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T17:03:10.347000Z"
+        },
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": "Pirate Face 把 Hugging Face 模型变成 SHA-256 校验 torrent，无需账号下载做种，且零代码改动，防止单一托管关闭。",
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "Pirate Face 拯救 LLM 模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "Pirate Face 拯救 LLM 模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": "Orthogonalising activations at runtime is computationally cheap. Just distribute the refusal vectors (few thousand floats per layer), then run against the stock weights. Antirez's DS4 already supports this: https://github.com/antirez/ds4/blob/8db1d1d155cb0400a86a86b9... Abliterated weights are just a bad habit we've gotten into. It's also deeply suboptimal from a precision point of view to take a model that's already been QATed and distributed in pre-quantised form (DeepSeek V4, Kimi K2.5 or K3.",
+          "recommend_reason_zh": "文章主张用 runtime orthogonalising activations 替代 abliterated weights：每层只分发几千个 floats 的 refusal vectors，Antirez's DS4 已支持；对已 QAT 的 DeepSeek V4、Kimi K2.5 等预量化模型，改权重再重量化会损精度，重量化后还会恢复部分 refusal。",
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7445,
-        "story_heat": 1.0
+        "recency": 0.9752,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T16:35:24Z",
-      "latest_at": "2026-09-19T20:03:34.007000Z",
+      "earliest_at": "2026-09-20T15:16:07Z",
+      "latest_at": "2026-09-20T17:03:10.347000Z",
       "primary_item": {
-        "id": "09b59b0a624fc54b8964beaef4984b15c9223da2",
-        "title": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-        "title_zh": "几乎不要使用人工智能来撰写任何有实质内容的文章",
+        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+        "title": "“海盗脸”拯救了大语言模型免遭删除",
+        "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
         "title_en": null,
-        "title_original": "几乎不要使用人工智能来撰写任何有实质内容的文章",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-        "source": "erichgrunewald.substack.com",
+        "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+        "summary": "Open models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nThe un-bannable, checksum-verified mirror for sovereign AI models.\nOpen models as checksum-verified magnet links. Un-bannable, carried by the swarm.\nOpen models - LLMs, image, audio, datasets - as 🧲 magnet links that can never be taken down. No single owner or point of failure.\nTrending Apache-2.0 & MIT models, synced live from Hugging Face - each becoming a checksum-verified torrent.\nPirate Face is decentralized i",
+        "recommend_reason_zh": "Pirate Face 把 Hugging Face 上的 LLMs、image、audio、datasets 做成带官方 SHA-256 校验的 magnet links，由全球 swarm 做种，无单点故障；现有 pipeline 只需换 endpoint，零代码更改，无需账号即可浏览、下载和做种。",
+        "url": "https://pirateface.co",
+        "source": "pirateface.co",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "观点文，不产出工具或方案，看完也不改变你今天的代码。",
+      "persona_score": 45,
+      "persona_review": "标题党式技术轶事，没代码没接口，扫一眼即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
+      }
+    },
+    {
+      "story_id": "story_8c6e00ff1c29",
+      "title": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+      "url": "https://evaluation.club",
+      "primary_url": "https://evaluation.club",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "8c9907e389169edf39e60e8683d364dabc863112",
+          "title": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+          "title_zh": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": "Dispatches from Agentic Product\nDispatches from Agentic Product\nEveryone is driving themselves crazy exchanging text with LLM’s these days.\nI would like to propose an alternative. We should all go insane building interlocking evaluation and optimization pipelines, instead. The path to victory in our war with AI is to ignore the prompts, and bring even more AI firepower to bear.\nLike my friend Coda says all the time: \"the textual nature of prompts leads us to take the intentional stance towards s",
+          "recommend_reason_zh": "工程经验25年的 Dan 主张别再和 LLM 交换文本，要用 agents 跑 agents 为其他 agents 建评估优化管道；警告 LLM 不能可靠遵循指令、说真话或执行任务。",
+          "url": "https://evaluation.club",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": "In other words, provide my AI with tools, instead of providing me an AI that uses your tools. That way, my AI can bring all the context it needs, and I can bring all of the settings and knowledge about what I want with me. I don't want a fractured world of tons of AIs i interact with where I have to explain all the fundamental information about what I want and how I work every time. This also has the benefit of sidestepping the issue the essay is talking about. You provide a consistent tool, and",
+          "recommend_reason_zh": "这篇 Prompts Aren't Real 反对让 AI 使用你的工具，主张给 AI 提供工具，让用户带着自己的 context 和设置，并批评 app 里 Clippy for X 式 in-UI agent，认为 analytics/dashboarding 才是更适合 agent 的界面。",
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
+          "title": "Prompts 并非真实存在 / Prompts aren’t Real",
+          "title_zh": "Prompts 并非真实存在",
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": "Dispatches from Agentic Product\nDispatches from Agentic Product\nEveryone is driving themselves crazy exchanging text with LLM’s these days.\nI would like to propose an alternative. We should all go insane building interlocking evaluation and optimization pipelines, instead. The path to victory in our war with AI is to ignore the prompts, and bring even more AI firepower to bear.\nLike my friend Coda says all the time: \"the textual nature of prompts leads us to take the intentional stance towards s",
+          "recommend_reason_zh": "洛杉矶工程师 Dan 有25年工程经验，他主张忽略 prompts，搭建 interlocking evaluation and optimization pipelines，用 agents 跑 agents 为其他 agents 做评估，并直言 LLM 无法可靠遵循指令、讲真话或执行任务。",
+          "url": "https://evaluation.club",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8c9907e389169edf39e60e8683d364dabc863112",
+          "title": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+          "title_zh": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": "Dispatches from Agentic Product\nDispatches from Agentic Product\nEveryone is driving themselves crazy exchanging text with LLM’s these days.\nI would like to propose an alternative. We should all go insane building interlocking evaluation and optimization pipelines, instead. The path to victory in our war with AI is to ignore the prompts, and bring even more AI firepower to bear.\nLike my friend Coda says all the time: \"the textual nature of prompts leads us to take the intentional stance towards s",
+          "recommend_reason_zh": "工程经验25年的 Dan 主张别再和 LLM 交换文本，要用 agents 跑 agents 为其他 agents 建评估优化管道；警告 LLM 不能可靠遵循指令、说真话或执行任务。",
+          "url": "https://evaluation.club",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": "In other words, provide my AI with tools, instead of providing me an AI that uses your tools. That way, my AI can bring all the context it needs, and I can bring all of the settings and knowledge about what I want with me. I don't want a fractured world of tons of AIs i interact with where I have to explain all the fundamental information about what I want and how I work every time. This also has the benefit of sidestepping the issue the essay is talking about. You provide a consistent tool, and",
+          "recommend_reason_zh": "这篇 Prompts Aren't Real 反对让 AI 使用你的工具，主张给 AI 提供工具，让用户带着自己的 context 和设置，并批评 app 里 Clippy for X 式 in-UI agent，认为 analytics/dashboarding 才是更适合 agent 的界面。",
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
+          "title": "Prompts 并非真实存在 / Prompts aren’t Real",
+          "title_zh": "Prompts 并非真实存在",
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": "Dispatches from Agentic Product\nDispatches from Agentic Product\nEveryone is driving themselves crazy exchanging text with LLM’s these days.\nI would like to propose an alternative. We should all go insane building interlocking evaluation and optimization pipelines, instead. The path to victory in our war with AI is to ignore the prompts, and bring even more AI firepower to bear.\nLike my friend Coda says all the time: \"the textual nature of prompts leads us to take the intentional stance towards s",
+          "recommend_reason_zh": "洛杉矶工程师 Dan 有25年工程经验，他主张忽略 prompts，搭建 interlocking evaluation and optimization pipelines，用 agents 跑 agents 为其他 agents 做评估，并直言 LLM 无法可靠遵循指令、讲真话或执行任务。",
+          "url": "https://evaluation.club",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9604,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:59:25Z",
+      "latest_at": "2026-09-20T15:59:25Z",
+      "primary_item": {
+        "id": "8c9907e389169edf39e60e8683d364dabc863112",
+        "title": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+        "title_zh": "文章称Prompts并非真实，主张忽略提示词为LLM建评估优化管道",
+        "title_en": "Prompts Aren't Real",
+        "title_original": "Prompts Aren't Real",
+        "summary": "Dispatches from Agentic Product\nDispatches from Agentic Product\nEveryone is driving themselves crazy exchanging text with LLM’s these days.\nI would like to propose an alternative. We should all go insane building interlocking evaluation and optimization pipelines, instead. The path to victory in our war with AI is to ignore the prompts, and bring even more AI firepower to bear.\nLike my friend Coda says all the time: \"the textual nature of prompts leads us to take the intentional stance towards s",
+        "recommend_reason_zh": "工程经验25年的 Dan 主张别再和 LLM 交换文本，要用 agents 跑 agents 为其他 agents 建评估优化管道；警告 LLM 不能可靠遵循指令、说真话或执行任务。",
+        "url": "https://evaluation.club",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "观点文，没给可跑的评估管道代码，先别改现有 prompt 工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -1551,15 +1746,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9892,
+        "recency": 0.9569,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1586,7 +1781,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -1692,15 +1887,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9486,
+        "recency": 0.9176,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1727,138 +1922,138 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
-      "story_id": "story_215ba46a278c",
-      "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-      "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD",
-      "primary_url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
+      "story_id": "story_eceffe99ef7d",
+      "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+      "primary_url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "7808dda0a26985510aa1a0442bf5e6b0173346cf",
-          "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "title_zh": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "title_en": null,
-          "title_original": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "summary": null,
-          "recommend_reason_zh": "Andy Nguyen 因 Jordy 用 LLM 找到 PS5 虚拟机监控器漏洞并上报索尼，退出 PS5 Linux 项目，原定 2027 年支持 PS5 Pro、留到《GTA 6》后的计划打水漂。",
-          "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T03:51:39Z"
+          "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
+          "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_zh": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM",
+          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "summary": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.\nThis is the reference version of a survey I did for my own project, written so it is useful\n                    to someone who is not running CoderAI. If you have one or more machines with GPUs and\n                    wan",
+          "recommend_reason_zh": "这篇 2026 年 9 月的横评以 GitHub API 2026-09-20 的 star 数为基准，对比 LocalAI、exo、GPUStack、vLLM 的 modalities、多机支持、cache-aware routing、cloud burst、Kubernetes 与 signed images，并给出按场景选型指南。",
+          "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:35Z"
         },
         {
-          "id": "af79cdff7088bb6790eecf57c5c86476efed34d8",
-          "title": "开发者放弃“PS5 Linux”项目，因 Sony 修补了 AI 发现的漏洞 / Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "title_zh": "开发者放弃“PS5 Linux”项目，因 Sony 修补了 AI 发现的漏洞",
-          "title_en": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "title_original": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "summary": null,
-          "recommend_reason_zh": "Andy Nguyen 今年4月把 PS5 变成能跑 Steam 游戏和模拟器的 Linux 主机，本周因 Sony 修补 AI 发现的漏洞，宣布停止 PS5 Linux 工作并退出该 scene，值得关注。",
-          "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T22:05:00Z"
+          "id": "72d4a2fee1a971c0a5df74789f9e44e4ed620a1b",
+          "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_zh": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM",
+          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "summary": "reply\nThe blog, the post here, the (auto?)killed LLM comment.\nreply",
+          "recommend_reason_zh": "想选自托管推理编排工具的话，这篇标题对比了 LocalAI、exo、GPUStack 和 vLLM，但正文目前只有一条围绕「被（自动？）删除的 LLM 评论」的回帖，更像待补充的线索而非完整评测。",
+          "url": "https://news.ycombinator.com/item?id=49778078",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T17:43:35Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "InfoQ CN",
-        "Slashdot"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7808dda0a26985510aa1a0442bf5e6b0173346cf",
-          "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "title_zh": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "title_en": null,
-          "title_original": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-          "summary": null,
-          "recommend_reason_zh": "Andy Nguyen 因 Jordy 用 LLM 找到 PS5 虚拟机监控器漏洞并上报索尼，退出 PS5 Linux 项目，原定 2027 年支持 PS5 Pro、留到《GTA 6》后的计划打水漂。",
-          "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-20T03:51:39Z"
+          "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
+          "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_zh": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM",
+          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "summary": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.\nThis is the reference version of a survey I did for my own project, written so it is useful\n                    to someone who is not running CoderAI. If you have one or more machines with GPUs and\n                    wan",
+          "recommend_reason_zh": "这篇 2026 年 9 月的横评以 GitHub API 2026-09-20 的 star 数为基准，对比 LocalAI、exo、GPUStack、vLLM 的 modalities、多机支持、cache-aware routing、cloud burst、Kubernetes 与 signed images，并给出按场景选型指南。",
+          "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T17:43:35Z"
         },
         {
-          "id": "af79cdff7088bb6790eecf57c5c86476efed34d8",
-          "title": "开发者放弃“PS5 Linux”项目，因 Sony 修补了 AI 发现的漏洞 / Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "title_zh": "开发者放弃“PS5 Linux”项目，因 Sony 修补了 AI 发现的漏洞",
-          "title_en": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "title_original": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-          "summary": null,
-          "recommend_reason_zh": "Andy Nguyen 今年4月把 PS5 变成能跑 Steam 游戏和模拟器的 Linux 主机，本周因 Sony 修补 AI 发现的漏洞，宣布停止 PS5 Linux 工作并退出该 scene，值得关注。",
-          "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T22:05:00Z"
+          "id": "72d4a2fee1a971c0a5df74789f9e44e4ed620a1b",
+          "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_zh": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM",
+          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+          "summary": "reply\nThe blog, the post here, the (auto?)killed LLM comment.\nreply",
+          "recommend_reason_zh": "想选自托管推理编排工具的话，这篇标题对比了 LocalAI、exo、GPUStack 和 vLLM，但正文目前只有一条围绕「被（自动？）删除的 LLM 评论」的回帖，更像待补充的线索而非完整评测。",
+          "url": "https://news.ycombinator.com/item?id=49778078",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T17:43:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5804,
-      "importance": 0.5804,
-      "importance_score": 0.5804,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8333,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T22:05:00Z",
-      "latest_at": "2026-09-20T03:51:39Z",
+      "earliest_at": "2026-09-20T17:43:35Z",
+      "latest_at": "2026-09-20T17:43:35Z",
       "primary_item": {
-        "id": "7808dda0a26985510aa1a0442bf5e6b0173346cf",
-        "title": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-        "title_zh": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-        "title_en": null,
-        "title_original": "“只剩一群用 LLM 的菜鸟”：顶级黑客怒退 PS5 Linux 项目，几个月心血全打水漂",
-        "summary": null,
-        "recommend_reason_zh": "Andy Nguyen 因 Jordy 用 LLM 找到 PS5 虚拟机监控器漏洞并上报索尼，退出 PS5 Linux 项目，原定 2027 年支持 PS5 Pro、留到《GTA 6》后的计划打水漂。",
-        "url": "https://www.infoq.cn/article/kCUJZby0B8SZ6kIlULQD",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
+        "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
+        "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+        "title_zh": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM",
+        "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+        "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+        "summary": "A reference comparison of the self-hosted AI orchestrators in 2026: modalities, multi-machine support, auto-discovery, cache-aware routing, ops console, cloud burst, non-LLM fan-out, training, Kubernetes, platforms and signed images — with a pick-by-situation guide and sources.\nThis is the reference version of a survey I did for my own project, written so it is useful\n                    to someone who is not running CoderAI. If you have one or more machines with GPUs and\n                    wan",
+        "recommend_reason_zh": "这篇 2026 年 9 月的横评以 GitHub API 2026-09-20 的 star 数为基准，对比 LocalAI、exo、GPUStack、vLLM 的 modalities、多机支持、cache-aware routing、cloud burst、Kubernetes 与 signed images，并给出按场景选型指南。",
+        "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "开源作者赌气退坑，跟你的技术选型没关系，别浪费时间。",
+      "persona_score": 72,
+      "persona_review": "选型前值得扫一眼，但没实测数据，别当决策依据。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
-      "story_id": "story_0c9b9ccf9cc3",
-      "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-      "url": "https://www.aibase.com/news/31205",
-      "primary_url": "https://www.aibase.com/news/31205",
+      "story_id": "story_1f54ce7e4b83",
+      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+      "url": "https://www.aibase.com/news/31204",
+      "primary_url": "https://www.aibase.com/news/31204",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "summary": null,
-          "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
-          "url": "https://www.aibase.com/news/31205",
+          "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
+          "url": "https://www.aibase.com/news/31204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1871,14 +2066,14 @@
       ],
       "items": [
         {
-          "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-          "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-          "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "title_en": null,
-          "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
           "summary": null,
-          "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
-          "url": "https://www.aibase.com/news/31205",
+          "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
+          "url": "https://www.aibase.com/news/31204",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1887,43 +2082,125 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T11:29:34.887596Z",
       "latest_at": "2026-09-20T11:29:34.887596Z",
       "primary_item": {
-        "id": "d4e5ff6f0842774e216bd42858acf4de9c592437",
-        "title": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
-        "title_zh": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
+        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
+        "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
         "title_en": null,
-        "title_original": "一颗 260 克的\"鸡蛋关节\"：稚晖君发布启元 Q1、T1 人形机器人",
+        "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
         "summary": null,
-        "recommend_reason_zh": "9月20日，Peng Zhihui发布Shangwei New Materials旗下Qiyuan Q1与Qiyuan T1：Q1高88厘米、可折叠入背包，T1可切换轮足和四足，并自研260克行业最小量产“鸡蛋关节”，8月23日开启预售。",
-        "url": "https://www.aibase.com/news/31205",
+        "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
+        "url": "https://www.aibase.com/news/31204",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "硬件参数亮眼但买不到也用不上，等开放 SDK 或量产价格再说。",
+      "persona_score": 45,
+      "persona_review": "车企自研机器人进厂试点，跟你的代码没关系，等开源或开放接口再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
+      }
+    },
+    {
+      "story_id": "story_24e06ede9452",
+      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+      "url": "https://www.aibase.com/news/31206",
+      "primary_url": "https://www.aibase.com/news/31206",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_en": null,
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "summary": null,
+          "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T11:29:34.887596Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "title_en": null,
+          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+          "summary": null,
+          "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
+          "url": "https://www.aibase.com/news/31206",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T11:29:34.887596Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T11:29:34.887596Z",
+      "latest_at": "2026-09-20T11:29:34.887596Z",
+      "primary_item": {
+        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
+        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "title_en": null,
+        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
+        "summary": null,
+        "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
+        "url": "https://www.aibase.com/news/31206",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "剪映加AI功能，做视频的可以试试，但API和自动化能力没提，开发者先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -2000,15 +2277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9321,
+        "recency": 0.9016,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2035,91 +2312,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
-      }
-    },
-    {
-      "story_id": "story_1f54ce7e4b83",
-      "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-      "url": "https://www.aibase.com/news/31204",
-      "primary_url": "https://www.aibase.com/news/31204",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "summary": null,
-          "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:29:34.887596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-          "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "title_en": null,
-          "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-          "summary": null,
-          "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
-          "url": "https://www.aibase.com/news/31204",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:29:34.887596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T11:29:34.887596Z",
-      "latest_at": "2026-09-20T11:29:34.887596Z",
-      "primary_item": {
-        "id": "aade70f16c2f538d1a9e4993a42b8e627e2e5dca",
-        "title": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "title_zh": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "title_en": null,
-        "title_original": "东风人形机器人\"小东\"下月进厂：汽车大模型给具身智能当\"师傅\"，年底要和真人掰手腕",
-        "summary": null,
-        "recommend_reason_zh": "Dongfeng Automobile 人形机器人小东今年10月进厂，先在制造领域做分拣、质检，年底小批量有限区域测试，目标明年年底达人类水平，Zhang Zhenlin 称汽车大模型与自动驾驶能力可直接迁移给具身智能。",
-        "url": "https://www.aibase.com/news/31204",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "车企自研机器人进厂试点，跟你的代码没关系，等开源或开放接口再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     },
     {
@@ -2196,15 +2389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7438,
+        "recency": 0.7195,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2231,203 +2424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
-      }
-    },
-    {
-      "story_id": "story_524da8b990b7",
-      "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "primary_url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": "这篇值得读：Microsoft 让 AI agents 把 Copilot runtime 从 TypeScript 迁到 Rust，耗约 $120,000 token 和三周人力，经 135 次发布、14.5 周把 43 万行变成 80 万行，最终提速 15.9 倍、内存从 1,383MB 降至 126MB，且 agents 多数时间在调查而非写代码。",
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": "看 Microsoft 如何花 $120K 用智能体把 Copilot runtime 移植到 Rust：最棘手的 session.ts 单文件超 3 万行 TypeScript，最终产出 832,378 行生产 Rust 代码和约 469,000 行单元测试。",
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": "这篇值得读：Microsoft 让 AI agents 把 Copilot runtime 从 TypeScript 迁到 Rust，耗约 $120,000 token 和三周人力，经 135 次发布、14.5 周把 43 万行变成 80 万行，最终提速 15.9 倍、内存从 1,383MB 降至 126MB，且 agents 多数时间在调查而非写代码。",
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": "看 Microsoft 如何花 $120K 用智能体把 Copilot runtime 移植到 Rust：最棘手的 session.ts 单文件超 3 万行 TypeScript，最终产出 832,378 行生产 Rust 代码和约 469,000 行单元测试。",
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8994,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T09:08:52Z",
-      "latest_at": "2026-09-20T09:08:52Z",
-      "primary_item": {
-        "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-        "title": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元 / Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "title_zh": "微软用 Agent 把 Copilot 运行时移植到 Rust，花费 12 万美元",
-        "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "summary": null,
-        "recommend_reason_zh": "这篇值得读：Microsoft 让 AI agents 把 Copilot runtime 从 TypeScript 迁到 Rust，耗约 $120,000 token 和三周人力，经 135 次发布、14.5 周把 43 万行变成 80 万行，最终提速 15.9 倍、内存从 1,383MB 降至 126MB，且 agents 多数时间在调查而非写代码。",
-        "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "AI 大规模改代码的实战账单，想试 agent 重构的可以抄流程，但别指望省钱。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
-      }
-    },
-    {
-      "story_id": "story_24e06ede9452",
-      "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-      "url": "https://www.aibase.com/news/31206",
-      "primary_url": "https://www.aibase.com/news/31206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:29:34.887596Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-          "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "title_en": null,
-          "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-          "summary": null,
-          "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
-          "url": "https://www.aibase.com/news/31206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T11:29:34.887596Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T11:29:34.887596Z",
-      "latest_at": "2026-09-20T11:29:34.887596Z",
-      "primary_item": {
-        "id": "8f722720a89d3b1b837cb4f6eddd44aad7517367",
-        "title": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_zh": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "title_en": null,
-        "title_original": "剪映发布全新 AI 能力：专业版上线“剪映 Hub”，移动端推 AI 助手“小映”",
-        "summary": null,
-        "recommend_reason_zh": "CapCut 发布全新 CapCut Hub 与移动端 AI 助手 Xiaoying，并升级专业功能、AI Ultra Membership 和创作者激励计划。",
-        "url": "https://www.aibase.com/news/31206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "剪映加AI功能，做视频的可以试试，但API和自动化能力没提，开发者先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-20T16:31:37.887884Z"
+        "scored_at": "2026-09-20T18:55:18.521768Z"
       }
     }
   ]
