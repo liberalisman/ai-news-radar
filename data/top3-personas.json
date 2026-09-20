@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:13:19.045947Z",
+  "generated_at": "2026-09-20T01:43:23.139394Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_d1a0ed8697f7",
+      "title": "Unity推出Claude Code与OpenAI Codex官方插件，提供31项开发技能",
+      "url": "https://www.aibase.com/news/31176",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "31项技能听着唬人，多半是API包了层壳，等真能一键生成可跑的游戏再说。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "仅AIbase单源转述，无官方文档、插件仓库或技能清单可查，31项技能无从验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Unity开发者今天就能装插件，31项技能直接省掉写胶水代码的功夫。"
+        }
+      }
+    },
+    {
+      "story_id": "story_7dbc15ea0b15",
+      "title": "千问发布Qwen3.8-LiveTranslate:同传延迟降至2.3秒，还能保留你的音色",
+      "url": "https://www.aibase.com/news/31174",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "2.3秒延迟和音色克隆都是硬指标，但同传最怕的嘈杂环境、专业术语翻车率一个没提。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "2.3秒延迟和音色保留均无论文、代码或第三方复现，仅媒体转述。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "同传延迟2.3秒加音色保留，做实时翻译和会议场景的可以试接口了。"
+        }
+      }
+    },
+    {
       "story_id": "story_adc7678cfd9c",
       "title": "Show HN：我打造了一个开源、可本地使用的全功能 AI 平台 / Show HN: I created an open source locally usable full fledged AI platform",
       "url": "https://github.com/theguysudo/ENZO",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "开源可本地部署，能 clone 来跑，但先看文档和依赖再决定是否替换现有栈。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2ea16f4d1f3b",
-      "title": "NASA-IBM Lunar Foundation 开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源加NASA背书是真货，但'基础模型'这词用在月球地形上，先看它能不能跑赢传统遥感算法。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "开源模型属实，但缺论文与公开benchmark，复现性待验证。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "开源地理空间模型，做遥感或行星数据的可以clone来试，其他人不用管。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f57f0f882ed6",
-      "title": "Stepfun Step 5 Preview（LLM）：登上 AA Pareto 前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "AA 榜单上确实站住了脚，但 Preview 二字说明连自家都没敢定稿，先别急着开香槟。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "只有AA榜单排名，无论文无代码，第三方跑分也待复现。"
-        },
-        "pragmatic": {
-          "score": 58,
-          "review": "只是预览版上了榜，没开放权重也没API，先记个名字就行。"
         }
       }
     }
