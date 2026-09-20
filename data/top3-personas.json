@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T23:38:48.509887Z",
+  "generated_at": "2026-09-20T01:13:19.045947Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_b18115d3565a",
-      "title": "阿里巴巴开源了一款能够检测癌症及近150种疾病的AI模型",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "story_id": "story_adc7678cfd9c",
+      "title": "Show HN：我打造了一个开源、可本地使用的全功能 AI 平台 / Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "开源值得肯定，但\"检测150种病\"的敏感度、特异度和临床数据一个没提，先别急着封神。"
+          "score": 55,
+          "review": "开源本地部署值得肯定，但\"全功能\"三个字得看README里到底实现了几个。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "开源是加分项，但报道未附论文与独立复现，150种病的准确率待查。"
+          "score": 55,
+          "review": "GitHub 仓库可查是加分项，但无论文无 benchmark，本地跑分能否复现存疑。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "开源可下载，但医疗模型落地门槛高，先看权重和推理成本再决定要不要试。"
+          "score": 72,
+          "review": "开源可本地部署，能 clone 来跑，但先看文档和依赖再决定是否替换现有栈。"
         }
       }
     },
