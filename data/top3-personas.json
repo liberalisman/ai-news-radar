@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:35:11.847104Z",
+  "generated_at": "2026-09-21T05:10:32.531564Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_d1a0ed8697f7",
-      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
-      "url": "https://www.aibase.com/news/31188",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "31项技能听着唬人，可插件绑引擎的活儿去年社区就在干，Unity 只是补了张官方认证。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称31项技能，无论文无开源无第三方评测，先看插件仓库再说。"
-        },
-        "pragmatic": {
-          "score": 76,
-          "review": "Unity 开发者可试，31 项技能省掉写编辑器脚本的功夫，但先看插件是否稳定。"
-        }
-      }
-    },
-    {
       "story_id": "story_a682219ecb2e",
       "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bd8258801aa8",
+      "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "url": "https://news.ycombinator.com/item?id=49778078",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "四个工具横评比单家发布会实在，但没给吞吐和显存占用的实测数字，还是差点意思。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "对比文章有细节但无统一benchmark，四个项目各自可查，结论待复现。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "选型前值得扫一眼，但没新东西，自托管还是那几个老面孔。"
         }
       }
     }
