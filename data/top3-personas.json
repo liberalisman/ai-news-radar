@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:12:50.141892Z",
+  "generated_at": "2026-09-21T17:24:02.029346Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_67bbb2f19d0e",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "story_id": "story_3f10cf90ec97",
+      "title": "Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "7B 统一生成编辑还开源，透明通道是真差异化；但\"Compact Efficient\"的对比基线敢不敢亮出来？"
+          "score": 62,
+          "review": "上线公告只有版本号和入口，跑分、定价、上下文长度全缺席，先让子弹飞。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客宣称开源但未见仓库链接与评测细节，等代码和跑分。"
+          "score": 38,
+          "review": "官方上线公告属实，但无论文、无开源、无独立跑分，只有渠道消息。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "7B 能跑，生成编辑一体还带透明通道，抠图做素材的今天就能下权重试。"
+          "review": "Copilot 里今天就能切模型，写代码的可以直接对比下效果再决定换不换。"
         }
       }
     },
     {
-      "story_id": "story_f20bbdeba1e2",
-      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-      "url": "https://www.aibase.com/news/31237",
+      "story_id": "story_1f933272e9f7",
+      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+      "url": "https://www.aibase.com/news/31212",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "桌面客户端算补齐短板，但\"同步开放\"两平台就值得发稿？功能清单和定价一个字没提。"
+          "score": 72,
+          "review": "7B 塞进文生图和编辑两件事，参数账算得漂亮；但一体化的代价是不是两边都只到及格线，等实测。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "客户端上线属实，但无论文、无开源、无benchmark，产品发布不等于技术证据。"
+          "score": 72,
+          "review": "开源权重可查，但缺论文与第三方复现跑分，先给及格偏上。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "桌面端能直接下载用，写代码的可以试试替代 Cursor 的本地体验。"
+          "score": 88,
+          "review": "7B开源可下载，文生图加编辑一体，本地部署和微调今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_a682219ecb2e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "story_id": "story_1b06f1be2557",
+      "title": "tokenizers v1：编码、解码与扩展，实测 / tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "跨站追踪这事不新鲜，但把__obi揪出来晒链路算有料，可惜没给抓包证据。"
+          "score": 78,
+          "review": "标题写'实测'就赢一半，但v1的提速数字敢不敢标出对比的旧版本号？"
         },
         "paper-police": {
           "score": 42,
-          "review": "独立调查有具体机制描述，但无论文无代码，Cookie 关联行为待第三方复现。"
+          "review": "官方博客给了实测数字，但无独立复现，等第三方跑分再定论。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。"
+          "score": 82,
+          "review": "分词库大版本，性能提升明显，NLP 训练管线可考虑升级，先看破坏性变更。"
         }
       }
     }

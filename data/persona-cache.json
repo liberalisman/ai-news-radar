@@ -1,119 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_40b94c960751|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "研究进展，暂无现成工具，做文本生成的可以留意后续实现。",
-      "title_hash": "bcf2cd1a",
-      "scored_at": "2026-08-31T14:14:31.622695Z"
-    },
-    "story_2f756534b2bf|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "扩散LM教程可读，但无现成代码，动手前先看仓库。",
-      "title_hash": "c9e87ab3",
-      "scored_at": "2026-08-31T14:14:30.665204Z"
-    },
-    "story_5f8cb23153f3|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "开源模型直接能跑，多模态 Agent 可抄作业，今天就能试。",
-      "title_hash": "919002e8",
-      "scored_at": "2026-08-31T14:14:23.845492Z"
-    },
-    "story_e42196c2130a|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "法规影响产品合规，但细则未明，暂不需动手改代码。",
-      "title_hash": "838f102e",
-      "scored_at": "2026-08-31T14:14:24.837441Z"
-    },
-    "story_0f2732ec5e84|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全事件提醒你检查会话令牌，但无新工具，影响有限。",
-      "title_hash": "a0ee8417",
-      "scored_at": "2026-08-31T14:14:25.956327Z"
-    },
-    "story_14ea3c1dc9f0|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "账号安全事件，提醒你开二次验证，别用共享号跑任务。",
-      "title_hash": "60cd5ec5",
-      "scored_at": "2026-08-31T14:14:27.272538Z"
-    },
-    "story_f84aa5a305aa|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "预训练完成不等于能用，等API和评测出来再说。",
-      "title_hash": "28f5cc3f",
-      "scored_at": "2026-08-31T14:14:28.024433Z"
-    },
-    "story_fb04a48586f4|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "底层重构影响现有集成，多人共享云端是新卖点，先看迁移文档再动手。",
-      "title_hash": "4518c653",
-      "scored_at": "2026-08-31T14:14:29.350746Z"
-    },
-    "story_afb410df2404|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "多Agent协作创作工具，适合内容团队尝鲜，但非核心开发刚需。",
-      "title_hash": "dcfa6c78",
-      "scored_at": "2026-08-31T14:14:32.957255Z"
-    },
     "story_33e3871730ab|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "苹果硬件缺货影响的是买设备的人，对开发者选型影响有限。",
       "title_hash": "2f3ca36f",
       "scored_at": "2026-08-31T20:29:30.847597Z"
-    },
-    "story_492835039be8|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开源Agent框架大版本，先看迁移文档再动手。",
-      "title_hash": "7e23cdcb",
-      "scored_at": "2026-08-31T14:14:35.222129Z"
-    },
-    "story_2d9cbccbc345|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "股价涨跌不写代码，等产品开放或降价再说。",
-      "title_hash": "df01c33d",
-      "scored_at": "2026-08-31T14:14:36.161620Z"
-    },
-    "story_aa9834fea55d|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "激励加码不写代码，等豆包API降价或开放再动手。",
-      "title_hash": "2931991e",
-      "scored_at": "2026-08-31T14:14:37.363482Z"
-    },
-    "story_5f8cb23153f3|cynic|f4237a62": {
-      "score": 55,
-      "review": "接近 Opus-4.8？对比基线选得巧，多模态 Agent 的评测集怕不是自家搭的。",
-      "title_hash": "919002e8",
-      "scored_at": "2026-08-31T14:14:38.545006Z"
-    },
-    "story_5f8cb23153f3|paper-police|966065bf": {
-      "score": 72,
-      "review": "开源即证据，但多模态能力接近Opus需第三方跑分验证。",
-      "title_hash": "919002e8",
-      "scored_at": "2026-08-31T14:14:39.848801Z"
-    },
-    "story_fb04a48586f4|cynic|f4237a62": {
-      "score": 45,
-      "review": "重构架构听着热闹，多人共享云端会话的延迟和成本敢晒吗？",
-      "title_hash": "4518c653",
-      "scored_at": "2026-08-31T14:14:40.911777Z"
-    },
-    "story_fb04a48586f4|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅官方发布消息，无论文无代码无评测，架构重构细节待验证。",
-      "title_hash": "4518c653",
-      "scored_at": "2026-08-31T14:14:42.015352Z"
-    },
-    "story_492835039be8|cynic|f4237a62": {
-      "score": 72,
-      "review": "自称意外之作，多半是没测就发。亮点有，但吹的比测的多。",
-      "title_hash": "7e23cdcb",
-      "scored_at": "2026-08-31T14:14:43.477563Z"
-    },
-    "story_492835039be8|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。",
-      "title_hash": "7e23cdcb",
-      "scored_at": "2026-08-31T14:14:44.848548Z"
     },
     "story_bd6dbcbcc36a|pragmatic|0a5c5b24": {
       "score": 70,
@@ -6048,6 +5940,96 @@
       "review": "Rust 全节点可 clone 跑，但 AI 辅助写的共识代码，别拿去碰真钱。",
       "title_hash": "6f0a2704",
       "scored_at": "2026-09-21T11:12:50.141713Z"
+    },
+    "story_3f10cf90ec97|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Copilot 里今天就能切模型，写代码的可以直接对比下效果再决定换不换。",
+      "title_hash": "0868686d",
+      "scored_at": "2026-09-21T17:23:48.156572Z"
+    },
+    "story_017e418e0a89|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "思路有趣但只是博客，没开源代码和权重，暂时抄不了。",
+      "title_hash": "82e10a0b",
+      "scored_at": "2026-09-21T17:23:49.269140Z"
+    },
+    "story_eed721e04523|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "概念不错但没给接口和文档，先收藏，等能跑起来再说。",
+      "title_hash": "9fe2cb0f",
+      "scored_at": "2026-09-21T17:23:50.267002Z"
+    },
+    "story_1b06f1be2557|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "分词库大版本，性能提升明显，NLP 训练管线可考虑升级，先看破坏性变更。",
+      "title_hash": "c3ec8748",
+      "scored_at": "2026-09-21T17:23:51.242464Z"
+    },
+    "story_2b0462064d4e|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "做电商 Agent 的注意：平台随时能封你，别把架构绑死在单一渠道上。",
+      "title_hash": "5a2d66ad",
+      "scored_at": "2026-09-21T17:23:52.124378Z"
+    },
+    "story_ea2fc58d2431|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "做隐私合规或嵌了ChatGPT组件的产品，今天就得查Cookie和埋点。",
+      "title_hash": "39fc90c7",
+      "scored_at": "2026-09-21T17:23:53.213630Z"
+    },
+    "story_1f933272e9f7|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "7B开源可下载，文生图加编辑一体，本地部署和微调今天就能试。",
+      "title_hash": "20723b1e",
+      "scored_at": "2026-09-21T17:23:54.302857Z"
+    },
+    "story_82f97f5b6dac|pragmatic|0a5c5b24": {
+      "score": 22,
+      "review": "VC 圆桌预测风口，听完还是不知道明天写什么代码。",
+      "title_hash": "6ae6c62a",
+      "scored_at": "2026-09-21T17:23:55.198293Z"
+    },
+    "story_92bbb2d36215|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Mac 用户能省几个 G 磁盘，方法可照抄，但仅限尝鲜 Beta 的人。",
+      "title_hash": "56fbc746",
+      "scored_at": "2026-09-21T17:23:56.155765Z"
+    },
+    "story_3f10cf90ec97|cynic|f4237a62": {
+      "score": 62,
+      "review": "上线公告只有版本号和入口，跑分、定价、上下文长度全缺席，先让子弹飞。",
+      "title_hash": "0868686d",
+      "scored_at": "2026-09-21T17:23:57.090211Z"
+    },
+    "story_3f10cf90ec97|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方上线公告属实，但无论文、无开源、无独立跑分，只有渠道消息。",
+      "title_hash": "0868686d",
+      "scored_at": "2026-09-21T17:23:58.101262Z"
+    },
+    "story_1f933272e9f7|cynic|f4237a62": {
+      "score": 72,
+      "review": "7B 塞进文生图和编辑两件事，参数账算得漂亮；但一体化的代价是不是两边都只到及格线，等实测。",
+      "title_hash": "20723b1e",
+      "scored_at": "2026-09-21T17:23:59.349344Z"
+    },
+    "story_1f933272e9f7|paper-police|966065bf": {
+      "score": 72,
+      "review": "开源权重可查，但缺论文与第三方复现跑分，先给及格偏上。",
+      "title_hash": "20723b1e",
+      "scored_at": "2026-09-21T17:24:00.269777Z"
+    },
+    "story_1b06f1be2557|cynic|f4237a62": {
+      "score": 78,
+      "review": "标题写'实测'就赢一半，但v1的提速数字敢不敢标出对比的旧版本号？",
+      "title_hash": "c3ec8748",
+      "scored_at": "2026-09-21T17:24:01.293441Z"
+    },
+    "story_1b06f1be2557|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客给了实测数字，但无独立复现，等第三方跑分再定论。",
+      "title_hash": "c3ec8748",
+      "scored_at": "2026-09-21T17:24:02.029285Z"
     }
   }
 }
