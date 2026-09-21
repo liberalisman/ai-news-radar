@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:37:53.373873Z",
+  "generated_at": "2026-09-21T10:53:41.343115Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f20bbdeba1e2",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "桌面客户端算补齐短板，但\"同步开放\"两平台就值得发稿？功能清单和定价一个字没提。"
+        },
+        "paper-police": {
+          "score": 22,
+          "review": "客户端上线属实，但无论文、无开源、无benchmark，产品发布不等于技术证据。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "桌面端能直接下载用，写代码的可以试试替代 Cursor 的本地体验。"
+        }
+      }
+    },
+    {
       "story_id": "story_a682219ecb2e",
       "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "隐私问题实锤，做面向用户产品的该查下自己站点有没有被塞这cookie。"
-        }
-      }
-    },
-    {
-      "story_id": "story_917990886c44",
-      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-      "url": "https://www.aibase.com/news/31220",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "肯把失准机制摊开讲比藏着强，但六份报告全是自家挑的样本，复现门槛呢？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "六份报告细节和机制描述有了，但原文链接缺失、无独立复现，先按技术博客计。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "安全机制拆解有参考价值，但没给修复方案，先收藏别急着改代码。"
         }
       }
     }
