@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:10:32.531564Z",
+  "generated_at": "2026-09-21T05:37:53.373873Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_bd8258801aa8",
-      "title": "自托管推理编排工具对比：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-      "url": "https://news.ycombinator.com/item?id=49778078",
+      "story_id": "story_917990886c44",
+      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+      "url": "https://www.aibase.com/news/31220",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "四个工具横评比单家发布会实在，但没给吞吐和显存占用的实测数字，还是差点意思。"
+          "score": 78,
+          "review": "肯把失准机制摊开讲比藏着强，但六份报告全是自家挑的样本，复现门槛呢？"
         },
         "paper-police": {
           "score": 42,
-          "review": "对比文章有细节但无统一benchmark，四个项目各自可查，结论待复现。"
+          "review": "六份报告细节和机制描述有了，但原文链接缺失、无独立复现，先按技术博客计。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "选型前值得扫一眼，但没新东西，自托管还是那几个老面孔。"
+          "score": 62,
+          "review": "安全机制拆解有参考价值，但没给修复方案，先收藏别急着改代码。"
         }
       }
     }
