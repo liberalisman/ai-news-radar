@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:19:32.165463Z",
+  "generated_at": "2026-09-22T19:35:02.609274Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_9bf1a94971e8",
-      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "story_id": "story_b742684d2aef",
+      "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "终于不用为跑个量化模型装两套轮子了，但\"接近 llama.cpp\"这措辞，说明还是慢一点。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "官方博客给了性能对比数字，但无独立复现，等第三方跑分再定论。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "本地跑量化模型不用再切 llama.cpp，transformers 一把梭，今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_cbd16b700896",
-      "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
-      "url": "https://openrouter.ai/blog/announcements/batch-api",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
           "score": 72,
-          "review": "半价是真，但延迟换折扣的老把戏，OpenAI 早玩过了，谈不上新意。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称半价，无论文无代码无第三方评测，价格数字待实测。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "批量推理直接半价，跑离线任务的今天就能切过去省钱。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c6f7482433a4",
-      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026",
-      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "20-25% 提速没给基线版本号，视觉定位倒是真加了，等第三方复现再吹。"
+          "review": "版本号跳得比跑分快，22家媒体齐转发也掩不住：只是上架，不是升级。"
         },
         "paper-police": {
           "score": 42,
-          "review": "官方博客给了提速数字，但无代码无第三方复现，只能算有迹可循。"
+          "review": "官方上线属实，但无论文无开源无公开跑分，等第三方评测再定论。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "PDF 解析提速两成还加了路由 API，做 RAG 文档预处理的可以直接升级试。"
+          "score": 88,
+          "review": "Copilot 里直接能选 Opus 5.5，重度用户今天就能切模型试效果。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3c48d5bb2a9e",
+      "title": "GPT-6 Sol 和 Luna / Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "Sol 和 Luna 两个名字先占住，跑分和价格却只字未提，等实测再说。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方发布页加HN讨论，无论文、无代码、无第三方复现，只有宣称。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "新模型上线，先看API价格和上下文窗口，能换就换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3de84024ac7c",
+      "title": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线 / GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "官方 changelog 只写名字上线，参数、基准、定价全缺席，先别急着喊 GPT-6。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "只有 changelog 提及上线，无论文、无模型卡、无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "新模型已进 Codex 和 ChatGPT，今天就能切过去试，先跑几个老任务对比下。"
         }
       }
     }

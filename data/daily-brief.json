@@ -1,8 +1,844 @@
 {
-  "generated_at": "2026-09-22T15:10:21.829827Z",
+  "generated_at": "2026-09-22T19:12:12.119680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b742684d2aef",
+      "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5.5 现已上线 GitHub Copilot",
+          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "summary": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nClaude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus 5.5 resolved tasks comparably to Claude Opus 5 while using significantly fewer steps and tokens. It also quickly recove",
+          "recommend_reason_zh": "Anthropic 最新 Opus 模型 Claude Opus 5.5 已上线 GitHub Copilot，支持 agentic coding、长时任务与知识工作；早期测试中它以显著更少步骤和 tokens 完成与 Claude Opus 5 相当的任务，并快速从多步任务错误中恢复，输出加水印但不影响质量、不增成本。",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T17:10:23Z"
+        },
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": "Claude Opus 5.5 by @AnthropicAI 现已加入 Agent Arena，用户投票将驱动 @arena leaderboards，该平台邀请提交最难 prompts，并以全球社区数百万真实世界长周期 agentic tasks 评测模型，还支持 web search。",
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        },
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": "Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，Terminal-Bench 4.0 得 59.6% 追平 GPT-6 Astra，AA-Briefcase 达 1822 Elo、较 Fable 5.1 高 143 分，API 价格降至 $4/$20。",
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "a58405996672d080264a33742ee41cde0d801b04",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+          "title_en": "Introducing Claude Opus 5.5",
+          "title_original": "Introducing Claude Opus 5.5",
+          "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+          "recommend_reason_zh": "Claude Opus 5.5 发布，典型负载下运行成本比 Opus 5 低 40%，有测试者不到一天完成 680,000 行代码迁移，网页加载优化 40 次中成功 39 次，输出速度还快 30% 以上。",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:53:30.664000Z"
+        },
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": "Opus 5.5已是作者几周日常主力；它和Fable 5.1把HAProxy从C移植到Rust，耗时9.5小时，比Fable 5.1的12小时成本低51%。",
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        },
+        {
+          "id": "532b9aafd26e50f01008c5b21312b333f57f8659",
+          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5 / Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "title_zh": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+          "title_en": "Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "title_original": "Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
+          "recommend_reason_zh": "AnthropicAI的Claude Opus 5.5已在OpenRouter上线，作为Claude 5.5家族首个模型，它在agentic coding、知识工作和computer use上领先Opus 5与Fable 5.1，支持1M上下文，输入$4/M、输出$20/M，每token比Opus 5低20%。",
+          "url": "https://x.com/OpenRouter/status/2102438921213014078",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:44:34Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": "Claude Opus 5.5登顶Artificial Analysis Intelligence Index，价格下调20%并加大缓存命中折扣，在Terminal-Bench 4.0与AutomationBench-AA上追平GPT-6 Astra；值得关注的是它把Anthropic拉回与GPT-6 Astra同档，并降低使用成本。",
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        },
+        {
+          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
+          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "title_zh": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+          "recommend_reason_zh": "Claude Code v2.1.280 新增 Claude Opus 5.5 为默认 Opus 模型，支持 1M 上下文，$4/$20 per Mtok。",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:14Z"
+        },
+        {
+          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
+          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+          "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "title_original": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": "Claude Opus 5.5 作为全新 Claude 5.5 家族的首个模型发布，官方称其在多数任务上可达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 降低 40%。",
+          "url": "https://x.com/claudeai/status/2102435511222890900",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:31:01Z"
+        },
+        {
+          "id": "91bb970c5e77475eed48d07379fd14373b7ad7dd",
+          "title": "Claude Opus 5.5 以更低成本达到 Fable 5.1 的性能，并承诺减少“Claude 腔”写作 / Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "title_zh": "Claude Opus 5.5 以更低成本达到 Fable 5.1 的性能，并承诺减少“Claude 腔”写作",
+          "title_en": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "title_original": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.\nAnthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most ta",
+          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，称多数任务追平Fable 5.1，token价格降20%、缓存读取降60%，总运营成本低约40%，并改进被吐槽的Claudish文风。",
+          "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T17:11:07Z"
+        },
+        {
+          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
+          "title": "v2.1.280",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.280",
+          "summary": "What's changed\n\nAdded Claude Opus 5.5 (claude-opus-5-5), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads\nAdded mouse support to more lists in fullscreen mode: t...\nClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - Release v2.1.280 · anthropics/claude-code\nWhat&#39;s cha",
+          "recommend_reason_zh": "Claude Code 发布 v2.1.280，将 Claude Opus 5.5（claude-opus-5-5）设为默认 Opus 模型，支持 1M 上下文，定价 $4/$20 per Mtok、缓存读取 $0.20/Mtok，并为全屏模式更多列表加入鼠标支持。",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:38:14Z"
+        },
+        {
+          "id": "4ef2c6c778cb8833a1ba85d0721ee395cd540b2e",
+          "title": "Anthropic 发布 Opus 5.5，价格更低，性能达 Fable 级 / Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "title_zh": "Anthropic 发布 Opus 5.5，价格更低，性能达 Fable 级",
+          "title_en": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "title_original": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"\nAnthropic called it \"the strongest-performing model we've tested to date.\"\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT. REGISTER HERE.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Po",
+          "recommend_reason_zh": "Anthropic 发布 Opus 5.5，官方称其为「迄今测试过的最强模型」，并在降低价格的同时实现 Fable 级别的性能表现。",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:30:07Z"
+        },
+        {
+          "id": "94fb80a59d91749eb746155305c992912cdbf471",
+          "title": "Anthropic 发布 Claude Opus 5.5，网络安全防护更严格 / Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，网络安全防护更严格",
+          "title_en": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "title_original": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "summary": "Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.\nAnthropic is launching Claude Opus 5.5 with improvements to behaviors that contribute to rogue AI hacks.\nOpus 5.5 will re-route certain cybersecurity requests to a less powerful model.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added t",
+          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，称其尝试绕过测试边界比Opus 5少85%，并把网络安全请求转给较弱的Opus 4.8。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:30:00Z"
+        },
+        {
+          "id": "d8b328437bb9c6679f2468181a8016b33655989b",
+          "title": "Anthropic 发布新 AI 模型 Opus 5.5，安全争议声中登场 / Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "title_zh": "Anthropic 发布新 AI 模型 Opus 5.5，安全争议声中登场",
+          "title_en": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "title_original": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:06:39Z"
+        },
+        {
+          "id": "26d385b52e9abbef7f06d6780a0207aee174799d",
+          "title": "Anthropic 推出 Claude Opus 5.5，以更低价格承诺 Fable 级性能 / Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "title_zh": "Anthropic 推出 Claude Opus 5.5，以更低价格承诺 Fable 级性能",
+          "title_en": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "title_original": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T17:12:14Z"
+        },
+        {
+          "id": "a43a5f4e18a81095284b2d9616874c2137bad338",
+          "title": "Claude Opus 5.5 智能、性能与价格分析（Max） / Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_zh": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+          "title_en": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_original": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:51:31Z"
+        },
+        {
+          "id": "9fd5b1b00671dffe888f422baf26f966b79e491b",
+          "title": "Claude Opus 5.5 智能、性能与价格分析（Max） / Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_zh": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+          "title_en": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_original": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49804316",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-22T16:51:31Z"
+        },
+        {
+          "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
+          "title": "Anthropic发布Claude Opus 5.5，智能体编程领先且成本降40%",
+          "title_zh": "Anthropic发布Claude Opus 5.5，智能体编程领先且成本降40%",
+          "title_en": null,
+          "title_original": "克劳德 作品5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T16:51:25.134000Z"
+        },
+        {
+          "id": "7ee66a536d5e137b78063102601d21b6d0c131cb",
+          "title": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "title_zh": null,
+          "title_en": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "title_original": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260922/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:42:22Z"
+        },
+        {
+          "id": "d920577ea4c22e31ac813ba075024a5ac04dd8c9",
+          "title": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "title_zh": null,
+          "title_en": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "title_original": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260922/p37",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:36:21Z"
+        },
+        {
+          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "title": "Claude 作品5.5 / Claude Opus 5.5",
+          "title_zh": "Claude 作品5.5",
+          "title_en": "Claude Opus 5.5",
+          "title_original": "Claude Opus 5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:29:05Z"
+        },
+        {
+          "id": "d4af3d000ae1c193c26c32ce05d4b3f1f7637011",
+          "title": "Claude Opus 5.5发布，与放缓AI前沿的呼吁相悖",
+          "title_zh": "Claude Opus 5.5发布，与放缓AI前沿的呼吁相悖",
+          "title_en": "Claude Opus 5.5",
+          "title_original": "Claude Opus 5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49803892",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-22T16:29:05Z"
+        }
+      ],
+      "source_count": 22,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Artificial Analysis 完整文章（网页）",
+        "Claude Code Releases",
+        "Claude Code：GitHub Releases（RSS）",
+        "GitHub Changelog",
+        "Hacker News",
+        "Mashable",
+        "New York Times",
+        "TechCrunch AI",
+        "Techmeme",
+        "The Decoder AI News",
+        "The Verge",
+        "X：Arena (@arena)",
+        "X：Artificial Analysis (@ArtificialAnlys)",
+        "X：Boris Cherny (@bcherny)",
+        "X：Claude (@claudeai)",
+        "X：OpenRouter (@OpenRouter)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+          "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_zh": "Claude Opus 5.5 现已上线 GitHub Copilot",
+          "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "summary": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nClaude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus 5.5 resolved tasks comparably to Claude Opus 5 while using significantly fewer steps and tokens. It also quickly recove",
+          "recommend_reason_zh": "Anthropic 最新 Opus 模型 Claude Opus 5.5 已上线 GitHub Copilot，支持 agentic coding、长时任务与知识工作；早期测试中它以显著更少步骤和 tokens 完成与 Claude Opus 5 相当的任务，并快速从多步任务错误中恢复，输出加水印但不影响质量、不增成本。",
+          "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T17:10:23Z"
+        },
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": "Claude Opus 5.5 by @AnthropicAI 现已加入 Agent Arena，用户投票将驱动 @arena leaderboards，该平台邀请提交最难 prompts，并以全球社区数百万真实世界长周期 agentic tasks 评测模型，还支持 web search。",
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        },
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": "Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，Terminal-Bench 4.0 得 59.6% 追平 GPT-6 Astra，AA-Briefcase 达 1822 Elo、较 Fable 5.1 高 143 分，API 价格降至 $4/$20。",
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "a58405996672d080264a33742ee41cde0d801b04",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40%",
+          "title_en": "Introducing Claude Opus 5.5",
+          "title_original": "Introducing Claude Opus 5.5",
+          "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
+          "recommend_reason_zh": "Claude Opus 5.5 发布，典型负载下运行成本比 Opus 5 低 40%，有测试者不到一天完成 680,000 行代码迁移，网页加载优化 40 次中成功 39 次，输出速度还快 30% 以上。",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:53:30.664000Z"
+        },
+        {
+          "id": "a2b659216292efe729e3b3f29c73140ed3cadc55",
+          "title": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51% / Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_zh": "Boris Cherny 实测 Claude Opus 5.5：比 Fable 5.1 快且便宜 51%",
+          "title_en": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "title_original": "Opus 5.5 is a really good model. It's been my daily driver the last few weeks. We had Opus 5.5 and …",
+          "summary": "Anthropic 的 Boris Cherny 称 Claude Opus 5.5 近几周是他的日常主力模型。他让 Opus 5.5 和 Fable 5.1 各自把 HAProxy 从 C 移植到 Rust，两者都通过了几乎所有测试，但 Opus 5.5 用时 9.5 小时，快于 Fable 5.1 的 12 小时，成本低 51%。引用的官方介绍称 Opus 5.5 是 Claude 5.5 家族首个模型，多数任务达到 Fable 5.1 水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": "Opus 5.5已是作者几周日常主力；它和Fable 5.1把HAProxy从C移植到Rust，耗时9.5小时，比Fable 5.1的12小时成本低51%。",
+          "url": "https://x.com/bcherny/status/2102439069053747549",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:45:10Z"
+        },
+        {
+          "id": "532b9aafd26e50f01008c5b21312b333f57f8659",
+          "title": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5 / Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "title_zh": "Claude Opus 5.5 上线 OpenRouter，智能体编码等能力领先 Opus 5",
+          "title_en": "Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "title_original": "Claude Opus 5.5 from @AnthropicAI is live on OpenRouter！ The first model in the Claude 5.5 family l…",
+          "summary": "Anthropic 的 Claude Opus 5.5 上线 OpenRouter，是 Claude 5.5 系列首个模型，在智能体编码、知识工作和计算机使用上领先 Opus 5 和 Fable 5.1。提供 1M 上下文窗口，定价为每百万输入 token $4、输出 $20，比 Opus 5 低 20%。",
+          "recommend_reason_zh": "AnthropicAI的Claude Opus 5.5已在OpenRouter上线，作为Claude 5.5家族首个模型，它在agentic coding、知识工作和computer use上领先Opus 5与Fable 5.1，支持1M上下文，输入$4/M、输出$20/M，每token比Opus 5低20%。",
+          "url": "https://x.com/OpenRouter/status/2102438921213014078",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:44:34Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": "Claude Opus 5.5登顶Artificial Analysis Intelligence Index，价格下调20%并加大缓存命中折扣，在Terminal-Bench 4.0与AutomationBench-AA上追平GPT-6 Astra；值得关注的是它把Anthropic拉回与GPT-6 Astra同档，并降低使用成本。",
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        },
+        {
+          "id": "49af8e4a3e60816623ce83b00bca263c43131f79",
+          "title": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "title_zh": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "title_en": null,
+          "title_original": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
+          "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
+          "recommend_reason_zh": "Claude Code v2.1.280 新增 Claude Opus 5.5 为默认 Opus 模型，支持 1M 上下文，$4/$20 per Mtok。",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:14Z"
+        },
+        {
+          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
+          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
+          "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "title_original": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
+          "recommend_reason_zh": "Claude Opus 5.5 作为全新 Claude 5.5 家族的首个模型发布，官方称其在多数任务上可达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 降低 40%。",
+          "url": "https://x.com/claudeai/status/2102435511222890900",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:31:01Z"
+        },
+        {
+          "id": "91bb970c5e77475eed48d07379fd14373b7ad7dd",
+          "title": "Claude Opus 5.5 以更低成本达到 Fable 5.1 的性能，并承诺减少“Claude 腔”写作 / Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "title_zh": "Claude Opus 5.5 以更低成本达到 Fable 5.1 的性能，并承诺减少“Claude 腔”写作",
+          "title_en": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "title_original": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+          "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks.\nAnthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most ta",
+          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，称多数任务追平Fable 5.1，token价格降20%、缓存读取降60%，总运营成本低约40%，并改进被吐槽的Claudish文风。",
+          "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T17:11:07Z"
+        },
+        {
+          "id": "a4de480d5f72865969ff27da32d2f90ad5dfadf1",
+          "title": "v2.1.280",
+          "title_zh": null,
+          "title_en": null,
+          "title_original": "v2.1.280",
+          "summary": "What's changed\n\nAdded Claude Opus 5.5 (claude-opus-5-5), now the default Opus model — 1M context, $4/$20 per Mtok with $0.20/Mtok cache reads\nAdded mouse support to more lists in fullscreen mode: t...\nClaude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. - Release v2.1.280 · anthropics/claude-code\nWhat&#39;s cha",
+          "recommend_reason_zh": "Claude Code 发布 v2.1.280，将 Claude Opus 5.5（claude-opus-5-5）设为默认 Opus 模型，支持 1M 上下文，定价 $4/$20 per Mtok、缓存读取 $0.20/Mtok，并为全屏模式更多列表加入鼠标支持。",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
+          "source": "Claude Code Releases",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:38:14Z"
+        },
+        {
+          "id": "4ef2c6c778cb8833a1ba85d0721ee395cd540b2e",
+          "title": "Anthropic 发布 Opus 5.5，价格更低，性能达 Fable 级 / Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "title_zh": "Anthropic 发布 Opus 5.5，价格更低，性能达 Fable 级",
+          "title_en": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "title_original": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+          "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"\nAnthropic called it \"the strongest-performing model we've tested to date.\"\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT. REGISTER HERE.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Po",
+          "recommend_reason_zh": "Anthropic 发布 Opus 5.5，官方称其为「迄今测试过的最强模型」，并在降低价格的同时实现 Fable 级别的性能表现。",
+          "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:30:07Z"
+        },
+        {
+          "id": "94fb80a59d91749eb746155305c992912cdbf471",
+          "title": "Anthropic 发布 Claude Opus 5.5，网络安全防护更严格 / Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，网络安全防护更严格",
+          "title_en": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "title_original": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "summary": "Opus 5.5 will re-route certain cybersecurity requests to a less powerful model.\nAnthropic is launching Claude Opus 5.5 with improvements to behaviors that contribute to rogue AI hacks.\nOpus 5.5 will re-route certain cybersecurity requests to a less powerful model.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added t",
+          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，称其尝试绕过测试边界比Opus 5少85%，并把网络安全请求转给较弱的Opus 4.8。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-22T16:30:00Z"
+        },
+        {
+          "id": "d8b328437bb9c6679f2468181a8016b33655989b",
+          "title": "Anthropic 发布新 AI 模型 Opus 5.5，安全争议声中登场 / Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "title_zh": "Anthropic 发布新 AI 模型 Opus 5.5，安全争议声中登场",
+          "title_en": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "title_original": "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/22/technology/anthropic-ai-model-safety.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:06:39Z"
+        },
+        {
+          "id": "26d385b52e9abbef7f06d6780a0207aee174799d",
+          "title": "Anthropic 推出 Claude Opus 5.5，以更低价格承诺 Fable 级性能 / Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "title_zh": "Anthropic 推出 Claude Opus 5.5，以更低价格承诺 Fable 级性能",
+          "title_en": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "title_original": "Anthropic launches Claude Opus 5.5, promising Fable-level performance at a lower price",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mashable.com/tech/claude-opus-launch-promises-better-performance-cheaper-price",
+          "source": "Mashable",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T17:12:14Z"
+        },
+        {
+          "id": "a43a5f4e18a81095284b2d9616874c2137bad338",
+          "title": "Claude Opus 5.5 智能、性能与价格分析（Max） / Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_zh": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+          "title_en": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_original": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:51:31Z"
+        },
+        {
+          "id": "9fd5b1b00671dffe888f422baf26f966b79e491b",
+          "title": "Claude Opus 5.5 智能、性能与价格分析（Max） / Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_zh": "Claude Opus 5.5 智能、性能与价格分析（Max）",
+          "title_en": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "title_original": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49804316",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-22T16:51:31Z"
+        },
+        {
+          "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
+          "title": "Anthropic发布Claude Opus 5.5，智能体编程领先且成本降40%",
+          "title_zh": "Anthropic发布Claude Opus 5.5，智能体编程领先且成本降40%",
+          "title_en": null,
+          "title_original": "克劳德 作品5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T16:51:25.134000Z"
+        },
+        {
+          "id": "7ee66a536d5e137b78063102601d21b6d0c131cb",
+          "title": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "title_zh": null,
+          "title_en": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "title_original": "Anthropic says Opus 5.5 matches Fable 5.1 \"on most tasks\" while costing about 40% less to run than Opus 5; Opus 5.5 costs $4/1M input and $20/1M output tokens (Matthias Bastian/The Decoder)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260922/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:42:22Z"
+        },
+        {
+          "id": "d920577ea4c22e31ac813ba075024a5ac04dd8c9",
+          "title": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "title_zh": null,
+          "title_en": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "title_original": "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/260922/p37",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:36:21Z"
+        },
+        {
+          "id": "7a1fbce1ee059d26946f834e682e7bce779b1eb6",
+          "title": "Claude 作品5.5 / Claude Opus 5.5",
+          "title_zh": "Claude 作品5.5",
+          "title_en": "Claude Opus 5.5",
+          "title_original": "Claude Opus 5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T16:29:05Z"
+        },
+        {
+          "id": "d4af3d000ae1c193c26c32ce05d4b3f1f7637011",
+          "title": "Claude Opus 5.5发布，与放缓AI前沿的呼吁相悖",
+          "title_zh": "Claude Opus 5.5发布，与放缓AI前沿的呼吁相悖",
+          "title_en": "Claude Opus 5.5",
+          "title_original": "Claude Opus 5.5",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49803892",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-22T16:29:05Z"
+        }
+      ],
+      "item_count": 22,
+      "duplicate_count": 22,
+      "score": 0.9548,
+      "importance": 0.9548,
+      "importance_score": 0.9548,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9711,
+        "story_heat": 1.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:29:05Z",
+      "latest_at": "2026-09-22T18:06:39Z",
+      "primary_item": {
+        "id": "061f1fc50aeba385d91a82797281fa7d29c40ee6",
+        "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
+        "title_zh": "Claude Opus 5.5 现已上线 GitHub Copilot",
+        "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
+        "summary": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nClaude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus 5.5 resolved tasks comparably to Claude Opus 5 while using significantly fewer steps and tokens. It also quickly recove",
+        "recommend_reason_zh": "Anthropic 最新 Opus 模型 Claude Opus 5.5 已上线 GitHub Copilot，支持 agentic coding、长时任务与知识工作；早期测试中它以显著更少步骤和 tokens 完成与 Claude Opus 5 相当的任务，并快速从多步任务错误中恢复，输出加水印但不影响质量、不增成本。",
+        "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "Copilot 里直接能选 Opus 5.5，重度用户今天就能切模型试效果。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_3c48d5bb2a9e",
+      "title": "GPT-6 Sol 和 Luna / Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "primary_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
+          "title": "GPT-6 Sol 和 Luna / Introducing GPT-6 Sol and Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": "Introducing GPT-6 Sol and Luna",
+          "title_original": "Introducing GPT-6 Sol and Luna",
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMore ways to bring frontier intelligence into the work you do every day.\nEarlier this month, we in",
+          "recommend_reason_zh": "在 GPT-6 Astra 之后，GPT-6 Sol 和 Luna 发布，API 价格较 GPT-5.6 促销价降 50%；Sol 在 AutomationBench 以 xhigh effort 得 33.2%、每任务 $0.27，超过 Claude Opus 5 max effort，Luna 以 high effort 较前代提升 5.4 个百分点且每任务成本低 58%。",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T18:00:00Z"
+        },
+        {
+          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
+          "title": "GPT-6 Sol 和 Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": null,
+          "title_original": "GPT-6 Sol 和 Luna",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T18:25:24.334000Z"
+        },
+        {
+          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
+          "title": "GPT-6 Sol 和 Luna / GPT-6 Sol and Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": "GPT-6 Sol and Luna",
+          "title_original": "GPT-6 Sol and Luna",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:00:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
+          "title": "GPT-6 Sol 和 Luna / Introducing GPT-6 Sol and Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": "Introducing GPT-6 Sol and Luna",
+          "title_original": "Introducing GPT-6 Sol and Luna",
+          "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMore ways to bring frontier intelligence into the work you do every day.\nEarlier this month, we in",
+          "recommend_reason_zh": "在 GPT-6 Astra 之后，GPT-6 Sol 和 Luna 发布，API 价格较 GPT-5.6 促销价降 50%；Sol 在 AutomationBench 以 xhigh effort 得 33.2%、每任务 $0.27，超过 Claude Opus 5 max effort，Luna 以 high effort 较前代提升 5.4 个百分点且每任务成本低 58%。",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T18:00:00Z"
+        },
+        {
+          "id": "1454f8b655b5f3e8bd5923ac8ecda67561e37ce2",
+          "title": "GPT-6 Sol 和 Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": null,
+          "title_original": "GPT-6 Sol 和 Luna",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-22T18:25:24.334000Z"
+        },
+        {
+          "id": "1d746009a162e60995108bc83c1210f0a80171d7",
+          "title": "GPT-6 Sol 和 Luna / GPT-6 Sol and Luna",
+          "title_zh": "GPT-6 Sol 和 Luna",
+          "title_en": "GPT-6 Sol and Luna",
+          "title_original": "GPT-6 Sol and Luna",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T18:00:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.9069,
+      "importance": 0.9069,
+      "importance_score": 0.9069,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9828,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T18:00:00Z",
+      "latest_at": "2026-09-22T18:25:24.334000Z",
+      "primary_item": {
+        "id": "13b8e33d2d8b92467c37438708400fd03dfa4f80",
+        "title": "GPT-6 Sol 和 Luna / Introducing GPT-6 Sol and Luna",
+        "title_zh": "GPT-6 Sol 和 Luna",
+        "title_en": "Introducing GPT-6 Sol and Luna",
+        "title_original": "Introducing GPT-6 Sol and Luna",
+        "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.\nMore ways to bring frontier intelligence into the work you do every day.\nEarlier this month, we in",
+        "recommend_reason_zh": "在 GPT-6 Astra 之后，GPT-6 Sol 和 Luna 发布，API 价格较 GPT-5.6 促销价降 50%；Sol 在 AutomationBench 以 xhigh effort 得 33.2%、每任务 $0.27，超过 Claude Opus 5 max effort，Luna 以 high effort 较前代提升 5.4 个百分点且每任务成本低 58%。",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "新模型上线，先看API价格和上下文窗口，能换就换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
     {
       "story_id": "story_ea478dcc527f",
       "title": "卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案",
@@ -192,15 +1028,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8365,
-      "importance": 0.8365,
-      "importance_score": 0.8365,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8272,
+        "recency": 0.7804,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,7 +1065,291 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_e3d46989754f",
+      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+          "recommend_reason_zh": "文章称 GPT-6 Sol and Luna 把价格降到 GPT-5.6 约一半，Intelligence Index 和 Coding Agent Index 得分与 GPT-5.6 持平，部分评测有进步、部分有回退，值得关注这种成本与能力的权衡。",
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:20:06Z"
+        },
+        {
+          "id": "3897669addf949174c67618604f5816314a08df7",
+          "title": "Palo Alto Networks 推出基于 Claude Mythos 和 GPT-5.6-Cyber 的全天候 AI 安全测试 / Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "title_zh": "Palo Alto Networks 推出基于 Claude Mythos 和 GPT-5.6-Cyber 的全天候 AI 安全测试",
+          "title_en": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "title_original": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "summary": null,
+          "recommend_reason_zh": "Palo Alto Networks 的 Unit 42 推出 Continuous Frontier AI Defense，用 Anthropic 的 Claude Mythos 5 和 OpenAI 的 GPT-5.6-Cyber 全天候找并验证漏洞，称自测三周发现量抵一年，因攻击者已把利用时间缩短近 97%。",
+          "url": "https://thenextweb.com/news/palo-alto-networks-unit-42",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:41:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Next Web",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+          "recommend_reason_zh": "文章称 GPT-6 Sol and Luna 把价格降到 GPT-5.6 约一半，Intelligence Index 和 Coding Agent Index 得分与 GPT-5.6 持平，部分评测有进步、部分有回退，值得关注这种成本与能力的权衡。",
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:20:06Z"
+        },
+        {
+          "id": "3897669addf949174c67618604f5816314a08df7",
+          "title": "Palo Alto Networks 推出基于 Claude Mythos 和 GPT-5.6-Cyber 的全天候 AI 安全测试 / Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "title_zh": "Palo Alto Networks 推出基于 Claude Mythos 和 GPT-5.6-Cyber 的全天候 AI 安全测试",
+          "title_en": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "title_original": "Palo Alto Networks launches always-on AI security testing built on Claude Mythos and GPT-5.6-Cyber",
+          "summary": null,
+          "recommend_reason_zh": "Palo Alto Networks 的 Unit 42 推出 Continuous Frontier AI Defense，用 Anthropic 的 Claude Mythos 5 和 OpenAI 的 GPT-5.6-Cyber 全天候找并验证漏洞，称自测三周发现量抵一年，因攻击者已把利用时间缩短近 97%。",
+          "url": "https://thenextweb.com/news/palo-alto-networks-unit-42",
+          "source": "The Next Web",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:41:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9875,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T14:41:04Z",
+      "latest_at": "2026-09-22T18:20:06Z",
+      "primary_item": {
+        "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+        "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
+        "recommend_reason_zh": "文章称 GPT-6 Sol and Luna 把价格降到 GPT-5.6 约一半，Intelligence Index 和 Coding Agent Index 得分与 GPT-5.6 持平，部分评测有进步、部分有回退，值得关注这种成本与能力的权衡。",
+        "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "成本砍半但智能没涨，价格敏感型任务可以等 API 开放后切过去。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_3de84024ac7c",
+      "title": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线 / GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线 / GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线",
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu users.\nFree and Go users can access Luna in the desktop app. Availabili",
+          "recommend_reason_zh": "这篇更新详解GPT-6 Sol与GPT-6 Luna以低于GPT-5.6的token价格登陆Codex和ChatGPT Work，Sol适合复杂编码与agentic工作流，Luna适合高频聚焦任务，并说明Plus、Pro、Business、Enterprise和Edu订阅可用性、CLI调用方式及GPT-5.5在2026年10月14日退役的迁移要求。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线 / GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线",
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu users.\nFree and Go users can access Luna in the desktop app. Availabili",
+          "recommend_reason_zh": "这篇更新详解GPT-6 Sol与GPT-6 Luna以低于GPT-5.6的token价格登陆Codex和ChatGPT Work，Sol适合复杂编码与agentic工作流，Luna适合高频聚焦任务，并说明Plus、Pro、Business、Enterprise和Edu订阅可用性、CLI调用方式及GPT-5.5在2026年10月14日退役的迁移要求。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7578,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+        "title": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线 / GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_zh": "GPT-6 的 Sol 和 Luna 已在 Codex 和 ChatGPT 中上线",
+        "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu users.\nFree and Go users can access Luna in the desktop app. Availabili",
+        "recommend_reason_zh": "这篇更新详解GPT-6 Sol与GPT-6 Luna以低于GPT-5.6的token价格登陆Codex和ChatGPT Work，Sol适合复杂编码与agentic工作流，Luna适合高频聚焦任务，并说明Plus、Pro、Business、Enterprise和Edu订阅可用性、CLI调用方式及GPT-5.5在2026年10月14日退役的迁移要求。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "新模型已进 Codex 和 ChatGPT，今天就能切过去试，先跑几个老任务对比下。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_80632919d614",
+      "title": "UK AISI 和 EvalEval 如何让基准测试结果可复现 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "primary_url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "UK AISI 和 EvalEval 如何让基准测试结果可复现 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_zh": "UK AISI 和 EvalEval 如何让基准测试结果可复现",
+          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy reproducible evaluation reporting matters What AISI is sharing Contribute to the shared mission About the EvalEval Coalition About the UK AI Security Institute Further reading The EvalEval Coalition is thrilled to share that the UK AI Security Institute (AISI) is using EvalEval's",
+          "recommend_reason_zh": "UK AI Security Institute 正用 EvalEval 的 Evaluation Cards 公开已验证评估结果，覆盖五个基准与 Claude Opus 4、GPT-5 等六个前沿模型，并随论文 How Inference Compute Shapes Frontier LLM Evaluation 发布配置与上下文，推动可复现评估。",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+          "title": "UK AISI 和 EvalEval 如何让基准测试结果可复现 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_zh": "UK AISI 和 EvalEval 如何让基准测试结果可复现",
+          "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy reproducible evaluation reporting matters What AISI is sharing Contribute to the shared mission About the EvalEval Coalition About the UK AI Security Institute Further reading The EvalEval Coalition is thrilled to share that the UK AI Security Institute (AISI) is using EvalEval's",
+          "recommend_reason_zh": "UK AI Security Institute 正用 EvalEval 的 Evaluation Cards 公开已验证评估结果，覆盖五个基准与 Claude Opus 4、GPT-5 等六个前沿模型，并随论文 How Inference Compute Shapes Frontier LLM Evaluation 发布配置与上下文，推动可复现评估。",
+          "url": "https://huggingface.co/blog/evaleval-aisi",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7578,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "e7d08f8f91948d2957feff7eb391f84b3727aa4a",
+        "title": "UK AISI 和 EvalEval 如何让基准测试结果可复现 / How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "title_zh": "UK AISI 和 EvalEval 如何让基准测试结果可复现",
+        "title_en": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "title_original": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWhy reproducible evaluation reporting matters What AISI is sharing Contribute to the shared mission About the EvalEval Coalition About the UK AI Security Institute Further reading The EvalEval Coalition is thrilled to share that the UK AI Security Institute (AISI) is using EvalEval's",
+        "recommend_reason_zh": "UK AI Security Institute 正用 EvalEval 的 Evaluation Cards 公开已验证评估结果，覆盖五个基准与 Claude Opus 4、GPT-5 等六个前沿模型，并随论文 How Inference Compute Shapes Frontier LLM Evaluation 发布配置与上下文，推动可复现评估。",
+        "url": "https://huggingface.co/blog/evaleval-aisi",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "基准可复现是刚需，等工具和数据集真能 clone 再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -277,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8032,
+        "recency": 0.7578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,7 +1434,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_ec156124b6e8",
+      "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "title_original": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "summary": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
+          "recommend_reason_zh": "macOS安全专家Patrick Wardle发现Meta AI助手Muse的0-day：任意本地应用或终端命令都能把转录端点改到攻击者服务器，窃取token控制账号。",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "summary": null,
+          "recommend_reason_zh": "macOS安全专家Patrick Wardle发现Meta新AI助手Muse存在0-day，任何本地应用或终端命令都能窃取认证token、篡改转录endpoint，完全控制账户，静默写恶意文件或拍照；Amazon已开始屏蔽Muse。",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "title_original": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+          "summary": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
+          "recommend_reason_zh": "macOS安全专家Patrick Wardle发现Meta AI助手Muse的0-day：任意本地应用或终端命令都能把转录端点改到攻击者服务器，窃取token控制账号。",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T14:35:15Z"
+        },
+        {
+          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
+          "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+          "summary": null,
+          "recommend_reason_zh": "macOS安全专家Patrick Wardle发现Meta新AI助手Muse存在0-day，任何本地应用或终端命令都能窃取认证token、篡改转录endpoint，完全控制账户，静默写恶意文件或拍照；Amazon已开始屏蔽Muse。",
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-22T14:35:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9355,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T14:35:15Z",
+      "latest_at": "2026-09-22T14:35:15Z",
+      "primary_item": {
+        "id": "ab5995d06b782bfdd43fe94bba41056bad108db1",
+        "title": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌 / Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+        "title_zh": "Meta AI 助手 Muse 曝出严重 0-day，可被本地应用窃取账户令牌",
+        "title_en": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+        "title_original": "Muse， Meta's extraordinarily privileged AI assistant， has a serious 0-day",
+        "summary": "Ars Technica 报道，安全专家 Patrick Wardle 披露 Meta 的 macOS AI 助手 Muse 存在 0-day 漏洞：任何本地应用或终端命令都能修改未公开设置，把语音转录端点指向攻击者服务器，从而获取 Muse 账户令牌和完整控制权。",
+        "recommend_reason_zh": "macOS安全专家Patrick Wardle发现Meta AI助手Muse的0-day：任意本地应用或终端命令都能把转录端点改到攻击者服务器，窃取token控制账号。",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "用 Meta AI 助手的先查权限，本地应用能偷令牌，等补丁或直接关掉。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -362,15 +1596,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9194,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -399,7 +1633,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_d73345def75c",
+      "title": "有效第三方评估的优先事项与原则 / Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "primary_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+          "title": "有效第三方评估的优先事项与原则 / Priorities and principles for effective third party assessments",
+          "title_zh": "有效第三方评估的优先事项与原则",
+          "title_en": "Priorities and principles for effective third party assessments",
+          "title_original": "Priorities and principles for effective third party assessments",
+          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nSeptember 22, 2026\nFrontier AI labs carry an immense ",
+          "recommend_reason_zh": "想了解OpenAI对frontier models的第三方AI安全评估思路，可读这篇：它提出四项优先领域与原则，并称将支持并行评估，部分持续数周、部分长达数月。",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+          "title": "有效第三方评估的优先事项与原则 / Priorities and principles for effective third party assessments",
+          "title_zh": "有效第三方评估的优先事项与原则",
+          "title_en": "Priorities and principles for effective third party assessments",
+          "title_original": "Priorities and principles for effective third party assessments",
+          "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nSeptember 22, 2026\nFrontier AI labs carry an immense ",
+          "recommend_reason_zh": "想了解OpenAI对frontier models的第三方AI安全评估思路，可读这篇：它提出四项优先领域与原则，并称将支持并行评估，部分持续数周、部分长达数月。",
+          "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7578,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "e5b7a13ffae3b8e3e84c903864a7d862db0206f1",
+        "title": "有效第三方评估的优先事项与原则 / Priorities and principles for effective third party assessments",
+        "title_zh": "有效第三方评估的优先事项与原则",
+        "title_en": "Priorities and principles for effective third party assessments",
+        "title_original": "Priorities and principles for effective third party assessments",
+        "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nOpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.\nSeptember 22, 2026\nFrontier AI labs carry an immense ",
+        "recommend_reason_zh": "想了解OpenAI对frontier models的第三方AI安全评估思路，可读这篇：它提出四项优先领域与原则，并称将支持并行评估，部分持续数周、部分长达数月。",
+        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "治理原则文档，不涉及API或模型变更，开发者无需行动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_8f58046896f1",
+      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+      "url": "https://x.com/arena/status/2102416020678008986",
+      "primary_url": "https://x.com/arena/status/2102416020678008986",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
+          "recommend_reason_zh": "Qwen-Image-2.1在Image Edit Arena和Text-to-Image Arena拿下开源第一，Image Edit得1367分，值得关注。",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+          "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+          "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
+          "recommend_reason_zh": "Qwen-Image-2.1在Image Edit Arena和Text-to-Image Arena拿下开源第一，Image Edit得1367分，值得关注。",
+          "url": "https://x.com/arena/status/2102416020678008986",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T15:13:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9442,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T15:13:34Z",
+      "latest_at": "2026-09-22T15:13:34Z",
+      "primary_item": {
+        "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
+        "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+        "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
+        "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+        "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
+        "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
+        "recommend_reason_zh": "Qwen-Image-2.1在Image Edit Arena和Text-to-Image Arena拿下开源第一，Image Edit得1367分，值得关注。",
+        "url": "https://x.com/arena/status/2102416020678008986",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "开源图像编辑新榜首，权重能直接下载，做图生图/编辑的可以拉下来跑 benchmark。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -447,15 +1850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8032,
+        "recency": 0.7578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,92 +1887,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
-      "story_id": "story_c1fb35598aba",
-      "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
-      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_7efa51bb42f3",
+      "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+      "url": "https://x.com/sama/status/2102465143997440308",
+      "primary_url": "https://x.com/sama/status/2102465143997440308",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
-          "title_zh": "全新 repository pull requests 页面正式上线",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
+          "id": "23b85dc1aa51eb029b46d19f0b9a46bbe890fab5",
+          "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "title_zh": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+          "title_en": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "title_original": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "summary": "Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。",
+          "recommend_reason_zh": "围绕 per-task pricing 这一应被看重的指标，文章直言市场上没有任何有竞争力的东西，并强调要让人用上大量 AI，以探索眼前的新复兴。",
+          "url": "https://x.com/sama/status/2102465143997440308",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:28:46Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：Sam Altman (@sama)"
       ],
       "items": [
         {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
-          "title_zh": "全新 repository pull requests 页面正式上线",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
+          "id": "23b85dc1aa51eb029b46d19f0b9a46bbe890fab5",
+          "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "title_zh": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+          "title_en": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "title_original": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+          "summary": "Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。",
+          "recommend_reason_zh": "围绕 per-task pricing 这一应被看重的指标，文章直言市场上没有任何有竞争力的东西，并强调要让人用上大量 AI，以探索眼前的新复兴。",
+          "url": "https://x.com/sama/status/2102465143997440308",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:28:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
-      "importance_label": "官方更新",
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.82,
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T01:25:53Z",
-      "latest_at": "2026-09-22T01:25:53Z",
+      "earliest_at": "2026-09-22T18:28:46Z",
+      "latest_at": "2026-09-22T18:28:46Z",
       "primary_item": {
-        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-        "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
-        "title_zh": "全新 repository pull requests 页面正式上线",
-        "title_en": "Refreshed repository pull requests page generally available",
-        "title_original": "Refreshed repository pull requests page generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "23b85dc1aa51eb029b46d19f0b9a46bbe890fab5",
+        "title": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手 / Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+        "title_zh": "Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手",
+        "title_en": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+        "title_original": "Especially compared by per-task pricing， which is the metric that should matter， I don't think there…",
+        "summary": "Sam Altman 表示，以按任务定价衡量，GPT-6 Sol 和 Luna 在市场上没有可竞争的对手。引用内容称两款模型相比 5.6 系列在智能、对齐、工作产出、编码和计算机使用上有大幅提升，价格每 token 减半，按任务算更低。他说希望人们能用大量 AI，这对探索眼前的新复兴很重要。",
+        "recommend_reason_zh": "围绕 per-task pricing 这一应被看重的指标，文章直言市场上没有任何有竞争力的东西，并强调要让人用上大量 AI，以探索眼前的新复兴。",
+        "url": "https://x.com/sama/status/2102465143997440308",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "PR 页面改版，日常提审流程会变，团队里用惯旧界面的先适应下。",
+      "persona_score": 35,
+      "persona_review": "按任务定价的说法没给数字，等 API 真上线再看账单。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -617,21 +2019,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9325,
+        "recency": 0.8798,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T10:20:07.437442Z",
       "latest_at": "2026-09-22T10:20:07.437442Z",
@@ -653,7 +2054,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
+      }
+    },
+    {
+      "story_id": "story_c1fb35598aba",
+      "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+          "title_zh": "全新 repository pull requests 页面正式上线",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+          "title_zh": "全新 repository pull requests 页面正式上线",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T01:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7736,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
+      "primary_item": {
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+        "title_zh": "全新 repository pull requests 页面正式上线",
+        "title_en": "Refreshed repository pull requests page generally available",
+        "title_original": "Refreshed repository pull requests page generally available",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "PR 页面改版，日常提审流程会变，团队里用惯旧界面的先适应下。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -701,15 +2187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8417,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -736,7 +2222,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -784,15 +2270,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9415,
+        "recency": 0.8883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -819,7 +2305,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -867,15 +2353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9924,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -902,92 +2388,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_b01d49929f03",
-      "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7717,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T21:13:18Z",
-      "latest_at": "2026-09-21T21:13:18Z",
-      "primary_item": {
-        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-        "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-        "title_en": "GitHub Enterprise adds credential inventory exports",
-        "title_original": "GitHub Enterprise adds credential inventory exports",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "合规审计能少写脚本了，管企业凭据的团队可以试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -1035,15 +2436,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7603,
+        "recency": 0.7173,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,7 +2471,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     },
     {
@@ -1118,15 +2519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.969,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,789 +2554,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_cbd16b700896",
-      "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
-      "url": "https://openrouter.ai/blog/announcements/batch-api",
-      "primary_url": "https://openrouter.ai/blog/announcements/batch-api",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3faa9b6201370308d4b1fa0a14a53a269362e3a7",
-          "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
-          "title_zh": "OpenRouter 推出 Batch API，批量推理可享半价",
-          "title_en": "Batch API： half-price inference by bundling requests",
-          "title_original": "Batch API： half-price inference by bundling requests",
-          "summary": "OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。",
-          "recommend_reason_zh": "Batch API 可一次提交数千请求，24小时内取结果，覆盖70多个模型且通常半价；beta 期230k+批次中位完成7分钟，90%一小时内。",
-          "url": "https://openrouter.ai/blog/announcements/batch-api",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3faa9b6201370308d4b1fa0a14a53a269362e3a7",
-          "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
-          "title_zh": "OpenRouter 推出 Batch API，批量推理可享半价",
-          "title_en": "Batch API： half-price inference by bundling requests",
-          "title_original": "Batch API： half-price inference by bundling requests",
-          "summary": "OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。",
-          "recommend_reason_zh": "Batch API 可一次提交数千请求，24小时内取结果，覆盖70多个模型且通常半价；beta 期230k+批次中位完成7分钟，90%一小时内。",
-          "url": "https://openrouter.ai/blog/announcements/batch-api",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8032,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T00:00:00Z",
-      "latest_at": "2026-09-22T00:00:00Z",
-      "primary_item": {
-        "id": "3faa9b6201370308d4b1fa0a14a53a269362e3a7",
-        "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
-        "title_zh": "OpenRouter 推出 Batch API，批量推理可享半价",
-        "title_en": "Batch API： half-price inference by bundling requests",
-        "title_original": "Batch API： half-price inference by bundling requests",
-        "summary": "OpenRouter 发布 Batch API，异步批量请求由供应商在 24 小时窗口内完成，通常按正常 per-token 价格的 50% 或更低收费，目前已支持 70 多个模型。",
-        "recommend_reason_zh": "Batch API 可一次提交数千请求，24小时内取结果，覆盖70多个模型且通常半价；beta 期230k+批次中位完成7分钟，90%一小时内。",
-        "url": "https://openrouter.ai/blog/announcements/batch-api",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "批量推理直接半价，跑离线任务的今天就能切过去省钱。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_53fa6be86a25",
-      "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-      "url": "https://www.aibase.com/news/31271",
-      "primary_url": "https://www.aibase.com/news/31271",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "title_en": null,
-          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI内部AI已能自主接管实验模型训练，多个agents协作并自写程序优化GPU kernels，被视为RSI雏形；OpenAI为此发起全球安全倡议。",
-          "url": "https://www.aibase.com/news/31271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-          "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "title_en": null,
-          "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI内部AI已能自主接管实验模型训练，多个agents协作并自写程序优化GPU kernels，被视为RSI雏形；OpenAI为此发起全球安全倡议。",
-          "url": "https://www.aibase.com/news/31271",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:57:01.604731Z",
-      "latest_at": "2026-09-22T09:57:01.604731Z",
-      "primary_item": {
-        "id": "45befe84b9951a1cb3beb57350d8ec2ae5908627",
-        "title": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-        "title_zh": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-        "title_en": null,
-        "title_original": "OpenAI内部AI已能自主训练模型，奥特曼发布全球安全倡议应对RSI逼近",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI内部AI已能自主接管实验模型训练，多个agents协作并自写程序优化GPU kernels，被视为RSI雏形；OpenAI为此发起全球安全倡议。",
-        "url": "https://www.aibase.com/news/31271",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "安全倡议和内部传闻都不影响你今天的代码，等有API或论文再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_08bf5495bb0a",
-      "title": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4 / TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-      "primary_url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f383437c87e18ce617bda273648032ed8132dd0e",
-          "title": "每位创始人都该列入 TechCrunch Disrupt 2026 议程的五场 AI 安全会议 / Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "title_zh": "每位创始人都该列入 TechCrunch Disrupt 2026 议程的五场 AI 安全会议",
-          "title_en": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "title_original": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25.\nAt TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT. REGISTER HERE.",
-          "recommend_reason_zh": "这篇内容梳理 TechCrunch Disrupt 2026 的 5 场 AI safety 会议，覆盖 AI Stage 与 Real World AI Stage，并提醒 9 月 25 日前报名最高省 200 美元，想了解 AI 安全趋势的创始人值得一读。",
-          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T15:00:00Z"
-        },
-        {
-          "id": "f4c204130d54d2c9e7a2b6291c22a5dcc66d088f",
-          "title": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4 / TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "title_zh": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4",
-          "title_en": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "title_original": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "summary": null,
-          "recommend_reason_zh": "在 TechCrunch Disrupt 2026 的 Real World AI Stage，Hello Robot CEO 兼联合创始人 Aaron Edsinger 将现场演示 Stretch 4，想了解这款机器人现场表现的人值得关注，9月25日 11:59 p.m. PT 前报名最高可省200美元。",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:30:00Z"
-        },
-        {
-          "id": "ac80eeb414a9ec68ee8f96de9bcee42f3ee04f94",
-          "title": "新增展位：在 TechCrunch Disrupt 2026 展示你初创公司的最后机会 / Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "title_zh": "新增展位：在 TechCrunch Disrupt 2026 展示你初创公司的最后机会",
-          "title_en": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "title_original": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 重新开放 exhibitor 申请，仅剩最后一周，参展桌须在 Sept 30 11:59 pm PT 前预订，活动于 Oct 13-15 在 SF's Moscone West 举行，可向 10,000+ founders、investors 和 tech leaders 展示 startup，OpenAI 等将登上 6 个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:15:00Z"
-        },
-        {
-          "id": "e07eccf07711ee534dc7de4a6180417e7c1464b2",
-          "title": "还有4天，最高省200美元：参加 TechCrunch Disrupt 2026 的5个理由之第2条 / 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "title_zh": "还有4天，最高省200美元：参加 TechCrunch Disrupt 2026 的5个理由之第2条",
-          "title_en": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "title_original": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 的5条参会理由中的第2条提醒，仅剩4天，在 September 25 11:59 p.m. PT 前购票最高省$200、第二张票半价，且 OpenAI、Anthropic、Replit 等将登上6个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:00:00Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "f383437c87e18ce617bda273648032ed8132dd0e",
-          "title": "每位创始人都该列入 TechCrunch Disrupt 2026 议程的五场 AI 安全会议 / Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "title_zh": "每位创始人都该列入 TechCrunch Disrupt 2026 议程的五场 AI 安全会议",
-          "title_en": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "title_original": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-          "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25.\nAt TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety. Register now to save up to $200 before Sept 25.\nDisrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. 25% off tickets now\nDisrupt ticket savings of up to $200 + 50% off a second ends Sept 25, 11:59 p.m. PT. REGISTER HERE.",
-          "recommend_reason_zh": "这篇内容梳理 TechCrunch Disrupt 2026 的 5 场 AI safety 会议，覆盖 AI Stage 与 Real World AI Stage，并提醒 9 月 25 日前报名最高省 200 美元，想了解 AI 安全趋势的创始人值得一读。",
-          "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T15:00:00Z"
-        },
-        {
-          "id": "f4c204130d54d2c9e7a2b6291c22a5dcc66d088f",
-          "title": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4 / TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "title_zh": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4",
-          "title_en": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "title_original": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-          "summary": null,
-          "recommend_reason_zh": "在 TechCrunch Disrupt 2026 的 Real World AI Stage，Hello Robot CEO 兼联合创始人 Aaron Edsinger 将现场演示 Stretch 4，想了解这款机器人现场表现的人值得关注，9月25日 11:59 p.m. PT 前报名最高可省200美元。",
-          "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:30:00Z"
-        },
-        {
-          "id": "ac80eeb414a9ec68ee8f96de9bcee42f3ee04f94",
-          "title": "新增展位：在 TechCrunch Disrupt 2026 展示你初创公司的最后机会 / Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "title_zh": "新增展位：在 TechCrunch Disrupt 2026 展示你初创公司的最后机会",
-          "title_en": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "title_original": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 重新开放 exhibitor 申请，仅剩最后一周，参展桌须在 Sept 30 11:59 pm PT 前预订，活动于 Oct 13-15 在 SF's Moscone West 举行，可向 10,000+ founders、investors 和 tech leaders 展示 startup，OpenAI 等将登上 6 个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:15:00Z"
-        },
-        {
-          "id": "e07eccf07711ee534dc7de4a6180417e7c1464b2",
-          "title": "还有4天，最高省200美元：参加 TechCrunch Disrupt 2026 的5个理由之第2条 / 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "title_zh": "还有4天，最高省200美元：参加 TechCrunch Disrupt 2026 的5个理由之第2条",
-          "title_en": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "title_original": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026 的5条参会理由中的第2条提醒，仅剩4天，在 September 25 11:59 p.m. PT 前购票最高省$200、第二张票半价，且 OpenAI、Anthropic、Replit 等将登上6个行业舞台。",
-          "url": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T14:00:00Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7053,
-      "importance": 0.7053,
-      "importance_score": 0.7053,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5616,
-        "source_tier": 0.58,
-        "ai_relevance": 0.78,
-        "recency": 0.9903,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-22T14:00:00Z",
-      "latest_at": "2026-09-22T15:00:00Z",
-      "primary_item": {
-        "id": "f4c204130d54d2c9e7a2b6291c22a5dcc66d088f",
-        "title": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4 / TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "title_zh": "TechCrunch Disrupt 2026：Aaron Edsinger 将在台上生动展示 Hello Robot 的 Stretch 4",
-        "title_en": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "title_original": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "summary": null,
-        "recommend_reason_zh": "在 TechCrunch Disrupt 2026 的 Real World AI Stage，Hello Robot CEO 兼联合创始人 Aaron Edsinger 将现场演示 Stretch 4，想了解这款机器人现场表现的人值得关注，9月25日 11:59 p.m. PT 前报名最高可省200美元。",
-        "url": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "台上演示而已，没价格没接口，等能下单再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_2e1abb5f9e0d",
-      "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-      "url": "https://www.aibase.com/news/31264",
-      "primary_url": "https://www.aibase.com/news/31264",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
-          "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "title_en": null,
-          "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "summary": null,
-          "recommend_reason_zh": "2026 CloudCon上，Alibaba宣布Qwen4已投入训练，Qwen4.5、Qwen5拟扩至5000亿至1万亿参数，并披露Qwen3.8-Max无人参与迭代33次、分数提升12.5%。",
-          "url": "https://www.aibase.com/news/31264",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
-          "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "title_en": null,
-          "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-          "summary": null,
-          "recommend_reason_zh": "2026 CloudCon上，Alibaba宣布Qwen4已投入训练，Qwen4.5、Qwen5拟扩至5000亿至1万亿参数，并披露Qwen3.8-Max无人参与迭代33次、分数提升12.5%。",
-          "url": "https://www.aibase.com/news/31264",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:57:01.604731Z",
-      "latest_at": "2026-09-22T09:57:01.604731Z",
-      "primary_item": {
-        "id": "2b91f39be33bfccf8a791f77000d27f13040dad6",
-        "title": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-        "title_zh": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-        "title_en": null,
-        "title_original": "Qwen4已投入训练，阿里公布10万亿参数模型演进路线",
-        "summary": null,
-        "recommend_reason_zh": "2026 CloudCon上，Alibaba宣布Qwen4已投入训练，Qwen4.5、Qwen5拟扩至5000亿至1万亿参数，并披露Qwen3.8-Max无人参与迭代33次、分数提升12.5%。",
-        "url": "https://www.aibase.com/news/31264",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "路线图不是API，10万亿参数也调不动，等权重和价格出来再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_cfd2a350821a",
-      "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-      "url": "https://www.aibase.com/news/31272",
-      "primary_url": "https://www.aibase.com/news/31272",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_en": null,
-          "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "summary": null,
-          "recommend_reason_zh": "Xiaomi 18 Pro系列9月23日首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机，配Leica双200MP，3.2倍光变和12.8倍无损变焦。",
-          "url": "https://www.aibase.com/news/31272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-          "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "title_en": null,
-          "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-          "summary": null,
-          "recommend_reason_zh": "Xiaomi 18 Pro系列9月23日首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机，配Leica双200MP，3.2倍光变和12.8倍无损变焦。",
-          "url": "https://www.aibase.com/news/31272",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:57:01.604731Z",
-      "latest_at": "2026-09-22T09:57:01.604731Z",
-      "primary_item": {
-        "id": "6fba15cc8d5a53afa18228b2322c0920d43c512f",
-        "title": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "title_zh": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "title_en": null,
-        "title_original": "小米18 Pro系列首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机",
-        "summary": null,
-        "recommend_reason_zh": "Xiaomi 18 Pro系列9月23日首发传奇一瞬大模型影像，用端到端大模型把相机级光学虚化装进手机，配Leica双200MP，3.2倍光变和12.8倍无损变焦。",
-        "url": "https://www.aibase.com/news/31272",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "手机影像大模型，跟做应用的没关系，等开放API再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_997752bfed89",
-      "title": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题 / OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-      "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-      "primary_url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "77e5b47e76582c2310429d28700c5ffcb7c216c3",
-          "title": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题 / OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "title_zh": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题",
-          "title_en": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "title_original": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI称内部模型仅训练一个月（8月28日起）便解决逾100个长期数学难题，含Navier-Stokes与Hodge猜想，并资助Institute for Advanced Study的数学咨询小组，却将研究节奏排除在其建议范围外。",
-          "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T11:17:59Z"
-        },
-        {
-          "id": "1b36fe0465fb6b7e86e3ffd207788e908b11f61f",
-          "title": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "title_zh": null,
-          "title_en": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "title_original": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260922/p23",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T12:45:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Techmeme",
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "77e5b47e76582c2310429d28700c5ffcb7c216c3",
-          "title": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题 / OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "title_zh": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题",
-          "title_en": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "title_original": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI称内部模型仅训练一个月（8月28日起）便解决逾100个长期数学难题，含Navier-Stokes与Hodge猜想，并资助Institute for Advanced Study的数学咨询小组，却将研究节奏排除在其建议范围外。",
-          "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-22T11:17:59Z"
-        },
-        {
-          "id": "1b36fe0465fb6b7e86e3ffd207788e908b11f61f",
-          "title": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "title_zh": null,
-          "title_en": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "title_original": "Australian healthcare AI startup Heidi raised $340M, including a $100M Series C led by Blackbird at a $900M valuation, taking its total funding to $430M+ (Olivia Poh/Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260922/p23",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T12:45:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6514,
-      "importance": 0.6514,
-      "importance_score": 0.6514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9456,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-22T11:17:59Z",
-      "latest_at": "2026-09-22T12:45:02Z",
-      "primary_item": {
-        "id": "77e5b47e76582c2310429d28700c5ffcb7c216c3",
-        "title": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题 / OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-        "title_zh": "OpenAI 称其内部模型仅训练一个月就解决了 100 多个长期未解的数学难题",
-        "title_en": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-        "title_original": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI称内部模型仅训练一个月（8月28日起）便解决逾100个长期数学难题，含Navier-Stokes与Hodge猜想，并资助Institute for Advanced Study的数学咨询小组，却将研究节奏排除在其建议范围外。",
-        "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "内部模型不开放，数学突破也落不到你代码里，等 API 再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_0e138a3d3e7b",
-      "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-      "url": "https://www.aibase.com/news/31269",
-      "primary_url": "https://www.aibase.com/news/31269",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-          "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "title_zh": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "title_en": null,
-          "title_original": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot推出Kimi Code桌面版，把CLI编程搬进图形界面，含Plan、Target、Swarm三种模式，Plan先生成方案、待用户批准再改代码。",
-          "url": "https://www.aibase.com/news/31269",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-          "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "title_zh": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "title_en": null,
-          "title_original": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot推出Kimi Code桌面版，把CLI编程搬进图形界面，含Plan、Target、Swarm三种模式，Plan先生成方案、待用户批准再改代码。",
-          "url": "https://www.aibase.com/news/31269",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:57:01.604731Z",
-      "latest_at": "2026-09-22T09:57:01.604731Z",
-      "primary_item": {
-        "id": "6de83a0295b35d7df1ce5c028d70935724c10ea1",
-        "title": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-        "title_zh": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-        "title_en": null,
-        "title_original": "月之暗面推出Kimi Code桌面版：Plan、目标、Swarm三种模式齐发，AI编程搬进图形界面",
-        "summary": null,
-        "recommend_reason_zh": "Moonshot推出Kimi Code桌面版，把CLI编程搬进图形界面，含Plan、Target、Swarm三种模式，Plan先生成方案、待用户批准再改代码。",
-        "url": "https://www.aibase.com/news/31269",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Kimi Code出桌面版，三种模式可试，但没提价格和开源，先当备选。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
-      }
-    },
-    {
-      "story_id": "story_a2991f911034",
-      "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-      "url": "https://www.aibase.com/news/31275",
-      "primary_url": "https://www.aibase.com/news/31275",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "title_zh": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "title_en": null,
-          "title_original": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "summary": null,
-          "recommend_reason_zh": "Bill Gates在Gates Foundation的Goalkeepers会议上说，AI大约一年前已能完成他年轻时花大量时间掌握的编程任务，还能写代码、找漏洞甚至入侵系统，他担心社会对这场指数级进步的讨论远远不够。",
-          "url": "https://www.aibase.com/news/31275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-          "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "title_zh": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "title_en": null,
-          "title_original": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-          "summary": null,
-          "recommend_reason_zh": "Bill Gates在Gates Foundation的Goalkeepers会议上说，AI大约一年前已能完成他年轻时花大量时间掌握的编程任务，还能写代码、找漏洞甚至入侵系统，他担心社会对这场指数级进步的讨论远远不够。",
-          "url": "https://www.aibase.com/news/31275",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T09:57:01.604731Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T09:57:01.604731Z",
-      "latest_at": "2026-09-22T09:57:01.604731Z",
-      "primary_item": {
-        "id": "d65484ba6a572f4a909a2e534b86e9757071190f",
-        "title": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-        "title_zh": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-        "title_en": null,
-        "title_original": "比尔·盖茨谈 AI：像亲手创造的“外星人”，社会讨论还远未跟上",
-        "summary": null,
-        "recommend_reason_zh": "Bill Gates在Gates Foundation的Goalkeepers会议上说，AI大约一年前已能完成他年轻时花大量时间掌握的编程任务，还能写代码、找漏洞甚至入侵系统，他担心社会对这场指数级进步的讨论远远不够。",
-        "url": "https://www.aibase.com/news/31275",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "盖茨的比喻再生动也不改一行代码，等有产品再花时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T15:19:28.314017Z"
+        "scored_at": "2026-09-22T19:34:49.046527Z"
       }
     }
   ]
