@@ -6012,6 +6012,78 @@
       "review": "官方 changelog 有功能描述，但无评测数据与可复现细节，仅算有迹可循。",
       "title_hash": "15c83d51",
       "scored_at": "2026-09-22T05:05:52.279365Z"
+    },
+    "story_ac443b4e8681|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "人事变动，MLX 工具链短期不会变，继续用现有版本即可。",
+      "title_hash": "08c190d1",
+      "scored_at": "2026-09-22T10:16:46.610252Z"
+    },
+    "story_a2908ae72b38|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CodeQL 全平台包要停，CI 里引它的赶紧查迁移路径换版本。",
+      "title_hash": "dd3cbed9",
+      "scored_at": "2026-09-22T10:16:47.855542Z"
+    },
+    "story_ed15d79f0592|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "开源权重能直接下载，登顶榜先跑分验证，别急着换生产模型。",
+      "title_hash": "badb4efd",
+      "scored_at": "2026-09-22T10:16:48.950454Z"
+    },
+    "story_d28e7788d36a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "周报汇总，扫一眼知道行业动向即可，没有能直接上手的工具或接口。",
+      "title_hash": "e54b296d",
+      "scored_at": "2026-09-22T10:16:50.087364Z"
+    },
+    "story_53fa6be86a25|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "安全倡议和内部传闻都不影响你今天的代码，等有API或论文再说。",
+      "title_hash": "8b09adb5",
+      "scored_at": "2026-09-22T10:16:51.078098Z"
+    },
+    "story_2e1abb5f9e0d|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "路线图不是API，10万亿参数也调不动，等权重和价格出来再说。",
+      "title_hash": "a82fee94",
+      "scored_at": "2026-09-22T10:16:51.837815Z"
+    },
+    "story_cfd2a350821a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "手机影像大模型，跟做应用的没关系，等开放API再说。",
+      "title_hash": "3bb005dc",
+      "scored_at": "2026-09-22T10:16:53.051173Z"
+    },
+    "story_0e138a3d3e7b|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Kimi Code出桌面版，三种模式可试，但没提价格和开源，先当备选。",
+      "title_hash": "28770f30",
+      "scored_at": "2026-09-22T10:16:54.047815Z"
+    },
+    "story_ed15d79f0592|cynic|f4237a62": {
+      "score": 72,
+      "review": "46分登顶开源榜不假，但AA指数自家权重怎么算的，小米敢不敢把评测细节也开源？",
+      "title_hash": "badb4efd",
+      "scored_at": "2026-09-22T10:16:55.091777Z"
+    },
+    "story_ed15d79f0592|paper-police|966065bf": {
+      "score": 72,
+      "review": "开源权重已放出，AA指数可查，但缺论文与第三方复现，先给及格偏上。",
+      "title_hash": "badb4efd",
+      "scored_at": "2026-09-22T10:16:56.064031Z"
+    },
+    "story_a2908ae72b38|cynic|f4237a62": {
+      "score": 72,
+      "review": "弃用公告写得清楚，但替代方案和迁移时间表呢？别让用户自己猜。",
+      "title_hash": "dd3cbed9",
+      "scored_at": "2026-09-22T10:16:57.040122Z"
+    },
+    "story_a2908ae72b38|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方弃用公告，来源可查但无技术细节与迁移评测，属流程通知。",
+      "title_hash": "dd3cbed9",
+      "scored_at": "2026-09-22T10:16:58.025744Z"
     }
   }
 }
