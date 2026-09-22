@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:35:51.996541Z",
+  "generated_at": "2026-09-22T00:36:46.819785Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_1b06f1be2557",
-      "title": "tokenizers v1：编码、解码与扩展，实测 / tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "story_id": "story_ea478dcc527f",
+      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "标题写'实测'就赢一半，但v1的提速数字敢不敢标出对比的旧版本号？"
+          "score": 72,
+          "review": "开源是真开源，但\"自我提升\"这词先别急着封神，等第三方复现了再吹。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客给了实测数字，但无独立复现，等第三方跑分再定论。"
+          "score": 62,
+          "review": "开源属实，但缺论文与第三方复现，评测数字待独立验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "分词库大版本，性能提升明显，NLP 训练管线可考虑升级，先看破坏性变更。"
+          "review": "开源可 clone，强化学习规模化的具体做法值得抄，先跑通再谈选型。"
         }
       }
     }
