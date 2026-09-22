@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:29:17.605711Z",
+  "generated_at": "2026-09-22T15:04:02.052371Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_ed15d79f0592",
-      "title": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
-      "url": "https://www.aibase.com/news/31249",
+      "story_id": "story_9bf1a94971e8",
+      "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "46分登顶开源榜不假，但AA指数自家权重怎么算的，小米敢不敢把评测细节也开源？"
+          "score": 78,
+          "review": "终于不用为跑个量化模型装两套轮子了，但\"接近 llama.cpp\"这措辞，说明还是慢一点。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "开源权重已放出，AA指数可查，但缺论文与第三方复现，先给及格偏上。"
+          "score": 55,
+          "review": "官方博客给了性能对比数字，但无独立复现，等第三方跑分再定论。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源权重能直接下载，登顶榜先跑分验证，别急着换生产模型。"
+          "score": 88,
+          "review": "本地跑量化模型不用再切 llama.cpp，transformers 一把梭，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_a2908ae72b38",
-      "title": "弃用通知：全平台 CodeQL 包 / Deprecation notice: All-platform CodeQL bundle",
-      "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
+      "story_id": "story_cbd16b700896",
+      "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
+      "url": "https://openrouter.ai/blog/announcements/batch-api",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "弃用公告写得清楚，但替代方案和迁移时间表呢？别让用户自己猜。"
+          "review": "半价是真，但延迟换折扣的老把戏，OpenAI 早玩过了，谈不上新意。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方弃用公告，来源可查但无技术细节与迁移评测，属流程通知。"
+          "score": 38,
+          "review": "官方博客宣称半价，无论文无代码无第三方评测，价格数字待实测。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "CodeQL 全平台包要停，CI 里引它的赶紧查迁移路径换版本。"
+          "score": 88,
+          "review": "批量推理直接半价，跑离线任务的今天就能切过去省钱。"
         }
       }
     }
