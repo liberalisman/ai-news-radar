@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_57742698e48b|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "系统卡披露安全细节，做Agent的得看，但没新工具，先记着。",
-      "title_hash": "780b3d60",
-      "scored_at": "2026-09-01T22:17:06.056781Z"
-    },
-    "story_94cad6318b8f|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "基准测试方法论有参考价值，但无新工具可上手，观望即可。",
-      "title_hash": "ce722a47",
-      "scored_at": "2026-09-01T22:17:07.003293Z"
-    },
-    "story_0ce11be79fc0|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "安全能力分级落地，做合规或安全评估的得跟进门槛变化。",
-      "title_hash": "395f2f86",
-      "scored_at": "2026-09-01T22:17:07.908956Z"
-    },
-    "story_730fa9d1ab54|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "审查能直接批准 PR，少一步人工点按钮，团队可立刻调整流程。",
-      "title_hash": "6a302c08",
-      "scored_at": "2026-09-01T22:17:08.781884Z"
-    },
-    "story_f7b63d022353|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "iOS 版更新，移动端开发调试可关注，但影响有限。",
-      "title_hash": "33326c8b",
-      "scored_at": "2026-09-01T22:17:09.873536Z"
-    },
-    "story_8fd24e2f72d6|pragmatic|0a5c5b24": {
-      "score": 40,
-      "review": "官方汇总无细节，等具体模型或API再说。",
-      "title_hash": "8045b156",
-      "scored_at": "2026-09-01T22:17:10.562364Z"
-    },
-    "story_5de5820ec3a1|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "预算设有效期，管理个人额度更省心，今天就能配。",
-      "title_hash": "372ab847",
-      "scored_at": "2026-09-01T22:17:11.730363Z"
-    },
-    "story_f1c64ea64db1|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CLI 传图省一步，自动化脚本能直接贴截图了。",
-      "title_hash": "715490bf",
-      "scored_at": "2026-09-01T22:17:12.585008Z"
-    },
-    "story_730fa9d1ab54|cynic|f4237a62": {
-      "score": 72,
-      "review": "审批权给了，但代码质量谁把关？别让AI自己给自己盖章。",
-      "title_hash": "6a302c08",
-      "scored_at": "2026-09-01T22:17:13.850099Z"
-    },
-    "story_730fa9d1ab54|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方博客宣称功能，无论文代码，无独立验证，仅凭更新日志难服众。",
-      "title_hash": "6a302c08",
-      "scored_at": "2026-09-01T22:17:15.105069Z"
-    },
     "story_842216100d96|pragmatic|0a5c5b24": {
       "score": 70,
       "review": "GHES 迁 ghe.com 的官方通道打通，运维今天就能评估迁移成本。",
@@ -5948,10 +5888,10 @@
       "scored_at": "2026-09-22T19:34:50.065342Z"
     },
     "story_3c48d5bb2a9e|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "新模型上线，先看API价格和上下文窗口，能换就换。",
-      "title_hash": "957436a2",
-      "scored_at": "2026-09-22T19:34:50.889688Z"
+      "score": 92,
+      "review": "API 直接砍半价，新模型今天就能切，批量任务先换 Luna 试。",
+      "title_hash": "b9806329",
+      "scored_at": "2026-09-22T22:49:16.187787Z"
     },
     "story_e3d46989754f|pragmatic|0a5c5b24": {
       "score": 72,
@@ -6008,16 +5948,16 @@
       "scored_at": "2026-09-22T19:34:59.236455Z"
     },
     "story_3c48d5bb2a9e|cynic|f4237a62": {
-      "score": 62,
-      "review": "Sol 和 Luna 两个名字先占住，跑分和价格却只字未提，等实测再说。",
-      "title_hash": "957436a2",
-      "scored_at": "2026-09-22T19:35:00.167015Z"
+      "score": 72,
+      "review": "降价50%是真金白银，但Sol和Luna两个名字先别急着封神，跑分和上下文窗口呢？",
+      "title_hash": "b9806329",
+      "scored_at": "2026-09-22T22:49:23.421715Z"
     },
     "story_3c48d5bb2a9e|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方发布页加HN讨论，无论文、无代码、无第三方复现，只有宣称。",
-      "title_hash": "957436a2",
-      "scored_at": "2026-09-22T19:35:01.023413Z"
+      "score": 38,
+      "review": "官方博客宣称降价50%，但无论文、无开源、无第三方复现，价格数字也无账单佐证。",
+      "title_hash": "b9806329",
+      "scored_at": "2026-09-22T22:49:24.498367Z"
     },
     "story_3de84024ac7c|cynic|f4237a62": {
       "score": 55,
@@ -6030,6 +5970,60 @@
       "review": "只有 changelog 提及上线，无论文、无模型卡、无第三方评测，证据不足。",
       "title_hash": "ccf08101",
       "scored_at": "2026-09-22T19:35:02.609214Z"
+    },
+    "story_7725937fd90b|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "军事AI误伤案例，跟日常开发无关，但做高风险自动化时值得引以为戒。",
+      "title_hash": "20ab84da",
+      "scored_at": "2026-09-22T22:49:17.106477Z"
+    },
+    "story_a809a02e7e68|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "提示词缓存能省重复上下文成本，诊断工具帮调缓存命中，用 GPT-6 的今天就该试。",
+      "title_hash": "91124c3a",
+      "scored_at": "2026-09-22T22:49:17.810715Z"
+    },
+    "story_f8d02811f102|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "推理翻倍还降价，跑推理的今天就能换模型省账单。",
+      "title_hash": "3616e692",
+      "scored_at": "2026-09-22T22:49:18.692281Z"
+    },
+    "story_3ff4f6d8ac89|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "GitHub SSH 安全加固，CI/CD 和部署密钥可能受影响，建议查下自己的密钥配置。",
+      "title_hash": "7a93a5aa",
+      "scored_at": "2026-09-22T22:49:19.489120Z"
+    },
+    "story_ae0ae182296f|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "成本减半但能力有升有降，选型前先看自己任务落在哪一档。",
+      "title_hash": "a2ca7f97",
+      "scored_at": "2026-09-22T22:49:20.293650Z"
+    },
+    "story_6fb704b5b9b3|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Codex CLI 例行更新，用它的先看 changelog 再升级，别踩破坏性改动。",
+      "title_hash": "32af4d84",
+      "scored_at": "2026-09-22T22:49:21.396053Z"
+    },
+    "story_1ac6861cd270|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "用 Muse 的赶紧查依赖，Amazon 已封禁，0-day 未修前别接生产。",
+      "title_hash": "1e5e6d89",
+      "scored_at": "2026-09-22T22:49:22.484703Z"
+    },
+    "story_f8d02811f102|cynic|f4237a62": {
+      "score": 62,
+      "review": "速度翻倍价格砍半听着香，可基准测试挑没挑、上下文多长、限速多少，稿子里一个字没提。",
+      "title_hash": "3616e692",
+      "scored_at": "2026-09-22T22:49:25.263306Z"
+    },
+    "story_f8d02811f102|paper-police|966065bf": {
+      "score": 42,
+      "review": "速度翻倍、价格砍半全是官方口径，无论文无代码，等Artificial Analysis独立跑分。",
+      "title_hash": "3616e692",
+      "scored_at": "2026-09-22T22:49:26.102396Z"
     }
   }
 }
