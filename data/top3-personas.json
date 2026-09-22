@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:36:46.819785Z",
+  "generated_at": "2026-09-22T05:05:52.279417Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_1f933272e9f7",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
+      "story_id": "story_c1fb35598aba",
+      "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "7B 塞进文生图和编辑两件事，参数账算得漂亮；但一体化的代价是不是两边都只到及格线，等实测。"
+          "score": 62,
+          "review": "改版就改版，别叫'正式上线'，又不是新功能，PR 该卡还是卡。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "开源权重可查，但缺论文与第三方复现跑分，先给及格偏上。"
+          "score": 55,
+          "review": "官方更新有据可查，但无技术细节与评测数据，仅属产品公告。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "7B开源可下载，文生图加编辑一体，本地部署和微调今天就能试。"
+          "score": 72,
+          "review": "PR 页面改版，日常提审流程会变，团队里用惯旧界面的先适应下。"
         }
       }
     },
     {
-      "story_id": "story_ea478dcc527f",
-      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
+      "story_id": "story_b01d49929f03",
+      "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开源是真开源，但\"自我提升\"这词先别急着封神，等第三方复现了再吹。"
+          "review": "凭据清单导出算实用，但别指望它替你管好密钥——导出来堆成表，该泄露的还是泄露。"
         },
         "paper-police": {
-          "score": 62,
-          "review": "开源属实，但缺论文与第三方复现，评测数字待独立验证。"
+          "score": 58,
+          "review": "官方 changelog 有功能描述，但无评测数据与可复现细节，仅算有迹可循。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可 clone，强化学习规模化的具体做法值得抄，先跑通再谈选型。"
+          "score": 72,
+          "review": "合规审计能少写脚本了，管企业凭据的团队可以试。"
         }
       }
     }

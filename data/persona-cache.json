@@ -6030,6 +6030,84 @@
       "review": "开源属实，但缺论文与第三方复现，评测数字待独立验证。",
       "title_hash": "8d5f7399",
       "scored_at": "2026-09-22T00:36:46.819720Z"
+    },
+    "story_c1fb35598aba|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "PR 页面改版，日常提审流程会变，团队里用惯旧界面的先适应下。",
+      "title_hash": "636dc9f2",
+      "scored_at": "2026-09-22T05:05:39.085409Z"
+    },
+    "story_040232f36ea3|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源权重能直接下，46分登顶先自己跑分验证，别急着换生产模型。",
+      "title_hash": "137052fd",
+      "scored_at": "2026-09-22T05:05:40.159936Z"
+    },
+    "story_20763df8d7cd|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Preview 版还没开放 API，先记着：同级能力半价，等正式版再换。",
+      "title_hash": "da0f9468",
+      "scored_at": "2026-09-22T05:05:41.067522Z"
+    },
+    "story_297f0b86dc9f|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "出货量数据对做应用的人没直接动作，等 SDK 和平台接口稳定再入场。",
+      "title_hash": "697a96ee",
+      "scored_at": "2026-09-22T05:05:42.486573Z"
+    },
+    "story_c26c69f45202|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "OpenRouter 上架新模型，主打 Agent 高频调用，做多步任务的可以测下延迟和成本。",
+      "title_hash": "d9126f93",
+      "scored_at": "2026-09-22T05:05:43.844445Z"
+    },
+    "story_93ae6596d014|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "3.99万一只灵巧手，做具身研究的可以问价，纯软件团队先不用管。",
+      "title_hash": "43001c6b",
+      "scored_at": "2026-09-22T05:05:45.033528Z"
+    },
+    "story_9d9a168ee3fd|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "折叠屏模拟器，除非你在做折叠屏适配，否则暂时用不上。",
+      "title_hash": "ab75a21b",
+      "scored_at": "2026-09-22T05:05:45.979435Z"
+    },
+    "story_ea16d9e3b5f2|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "神秘模型没开放、没论文、没复现，数学突破再猛也落不到你今天的代码里。",
+      "title_hash": "0d542863",
+      "scored_at": "2026-09-22T05:05:46.983237Z"
+    },
+    "story_843043f98b79|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "学术评估机制跟写代码没关系，等它出能用的数学工具再说。",
+      "title_hash": "6bb3be8e",
+      "scored_at": "2026-09-22T05:05:48.163877Z"
+    },
+    "story_c1fb35598aba|cynic|f4237a62": {
+      "score": 62,
+      "review": "改版就改版，别叫'正式上线'，又不是新功能，PR 该卡还是卡。",
+      "title_hash": "636dc9f2",
+      "scored_at": "2026-09-22T05:05:48.997743Z"
+    },
+    "story_c1fb35598aba|paper-police|966065bf": {
+      "score": 55,
+      "review": "官方更新有据可查，但无技术细节与评测数据，仅属产品公告。",
+      "title_hash": "636dc9f2",
+      "scored_at": "2026-09-22T05:05:50.055614Z"
+    },
+    "story_b01d49929f03|cynic|f4237a62": {
+      "score": 72,
+      "review": "凭据清单导出算实用，但别指望它替你管好密钥——导出来堆成表，该泄露的还是泄露。",
+      "title_hash": "15c83d51",
+      "scored_at": "2026-09-22T05:05:51.015842Z"
+    },
+    "story_b01d49929f03|paper-police|966065bf": {
+      "score": 58,
+      "review": "官方 changelog 有功能描述，但无评测数据与可复现细节，仅算有迹可循。",
+      "title_hash": "15c83d51",
+      "scored_at": "2026-09-22T05:05:52.279365Z"
     }
   }
 }

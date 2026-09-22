@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:18:08.044492Z",
+  "generated_at": "2026-09-22T04:55:06.304510Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.9372,
-      "importance": 0.9372,
-      "importance_score": 0.9372,
+      "score": 0.927,
+      "importance": 0.927,
+      "importance_score": 0.927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8731,
+        "recency": 0.8168,
         "story_heat": 1.0
       },
       "category": "official",
@@ -231,7 +231,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -279,15 +279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8586,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "official",
@@ -316,179 +316,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
-      }
-    },
-    {
-      "story_id": "story_ea478dcc527f",
-      "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-      "source": "公众号：小米 MiMo",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
-          "recommend_reason_zh": "MiMo-V2.6-Pro 在 Code Arena: WebDev 以 1628 分（AutoEval）空降总榜约第 10，重返前十，并在 MIT 许可开源权重模型中排第 3，和 Claude Fable 5 (High) 打平，略高于 Hy4-preview 的 1624 分，较前代提升 153 分。",
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
-        },
-        {
-          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
-          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
-          "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "title_original": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
-          "recommend_reason_zh": "Xiaomi MiMo-V2.6 Pro & Flash 发布，两款全模态模型经规模化强化学习推进，主打前沿智能、全模态、公开构建；Pro 在多数 agent 基准上追平 Claude Opus 5 与 GPT-5.6 Sol，并在 Artificia… 得 46 分。",
-          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
-          "source": "X：小米 MiMo (@XiaomiMiMo)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:51:03Z"
-        },
-        {
-          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
-          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "title_en": null,
-          "title_original": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-          "source": "公众号：小米 MiMo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:18:52Z"
-        },
-        {
-          "id": "5551be815639198224244ef3f8d4a4f5de66d15e",
-          "title": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "title_zh": null,
-          "title_en": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "title_original": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260921/p52",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T22:10:02Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Techmeme",
-        "X：Arena (@arena)",
-        "X：小米 MiMo (@XiaomiMiMo)",
-        "公众号：小米 MiMo"
-      ],
-      "items": [
-        {
-          "id": "770d53d2ebfaa17968287b5f7dcce4e8493490bb",
-          "title": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3 / MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_zh": "小米 MiMo-V2.6-Pro 登上 Code Arena： WebDev 榜约第10名，开源权重中约第3",
-          "title_en": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "title_original": "MiMo-V2.6-Pro just landed @XiaomiMiMo back in the top 10 on Code Arena： WebDev， debuting at ~#10 ove…",
-          "summary": "小米发布 MiMo-V2.6-Pro 与 Flash 两款全模态模型，MiMo-V2.6-Pro 在 Code Arena： WebDev 榜以 1628 分（AutoEval）位列约第10名，开源权重（MIT 许可）中约第3，较 MiMo-V2.5-Pro 的 1475 分上涨 153 分。",
-          "recommend_reason_zh": "MiMo-V2.6-Pro 在 Code Arena: WebDev 以 1628 分（AutoEval）空降总榜约第 10，重返前十，并在 MIT 许可开源权重模型中排第 3，和 Claude Fable 5 (High) 打平，略高于 Hy4-preview 的 1624 分，较前代提升 153 分。",
-          "url": "https://x.com/arena/status/2102142912943489220",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T21:08:21Z"
-        },
-        {
-          "id": "5215af3fdf7511ea7b27eb01110ac6fb05e095cd",
-          "title": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型 / Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "title_zh": "小米发布 MiMo-V2.6 Pro 与 Flash 全模态开源模型",
-          "title_en": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "title_original": "Introducing Xiaomi MiMo-V2.6 - Pro & Flash. Frontier intelligence， all the modalities， built in pub…",
-          "summary": "小米 MiMo 发布 MiMo-V2.6 Pro 与 Flash 两个全模态模型，通过规模化强化学习训练。Pro 在多数 Agent 基准上与 Claude Opus 5 和 GPT-5.6 Sol 表现相当，在 Artificial Analysis Intelligence Index 得分 46，为开源模型中最高；能力覆盖编码、computer use、3D 推理和创作。",
-          "recommend_reason_zh": "Xiaomi MiMo-V2.6 Pro & Flash 发布，两款全模态模型经规模化强化学习推进，主打前沿智能、全模态、公开构建；Pro 在多数 agent 基准上追平 Claude Opus 5 与 GPT-5.6 Sol，并在 Artificia… 得 46 分。",
-          "url": "https://x.com/XiaomiMiMo/status/2102138559952290106",
-          "source": "X：小米 MiMo (@XiaomiMiMo)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:51:03Z"
-        },
-        {
-          "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
-          "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "title_en": null,
-          "title_original": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-          "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-          "source": "公众号：小米 MiMo",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:18:52Z"
-        },
-        {
-          "id": "5551be815639198224244ef3f8d4a4f5de66d15e",
-          "title": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "title_zh": null,
-          "title_en": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "title_original": "Xiaomi debuts open-weight omnimodal models MiMo-V2.6 Pro and Flash; Pro allegedly performs \"on par with Opus 5 and GPT-5.6 Sol across most agent benchmarks\" (Xiaomi)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/260921/p52",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-21T22:10:02Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.944,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T20:18:52Z",
-      "latest_at": "2026-09-21T22:10:02Z",
-      "primary_item": {
-        "id": "e590b247dcf693937e18ae0bb12026ce21c5395d",
-        "title": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "title_zh": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "title_en": null,
-        "title_original": "小米发布并开源 MiMo-V2.6 系列，扩展强化学习规模迈向自我提升",
-        "summary": "Xiaomi MiMo 于今日正式发布并开源 MiMo-V2.6 系列模型，包含 Pro 与 Flash 两个原生全模态模型，称这是探索 RSI（递归自我改进）路径的关键一步。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk3NTkxMTM2NA%3D%3D&mid=2247484969&idx=1&sn=76c4757b26a2b646e1b690bf78c386d8",
-        "source": "公众号：小米 MiMo",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "开源可 clone，强化学习规模化的具体做法值得抄，先跑通再谈选型。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -536,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8372,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -573,30 +401,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
-      "story_id": "story_b01d49929f03",
-      "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "story_id": "story_c1fb35598aba",
+      "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nEnterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and GitHub App user-to-server and installation tokens).\nThis enables enterprise owners with a singl",
-          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+          "title_zh": "全新 repository pull requests 页面正式上线",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe new repository pull requests page is now generally available to all GitHub users.\nThe new page makes it easier to find and act on pull requests in a repository, with new filtering and search options to help you find exactly what you’re looking for:\nSince the public preview, your feedback has helped us make several improvements. N",
+          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
+          "published_at": "2026-09-22T01:25:53Z"
         }
       ],
       "source_count": 1,
@@ -605,31 +433,31 @@
       ],
       "items": [
         {
-          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-          "title_en": "GitHub Enterprise adds credential inventory exports",
-          "title_original": "GitHub Enterprise adds credential inventory exports",
-          "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nEnterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and GitHub App user-to-server and installation tokens).\nThis enables enterprise owners with a singl",
-          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+          "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+          "title_zh": "全新 repository pull requests 页面正式上线",
+          "title_en": "Refreshed repository pull requests page generally available",
+          "title_original": "Refreshed repository pull requests page generally available",
+          "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe new repository pull requests page is now generally available to all GitHub users.\nThe new page makes it easier to find and act on pull requests in a repository, with new filtering and search options to help you find exactly what you’re looking for:\nSince the public preview, your feedback has helped us make several improvements. N",
+          "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-21T21:13:18Z"
+          "published_at": "2026-09-22T01:25:53Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9565,
+        "recency": 0.9509,
         "story_heat": 0.0
       },
       "category": "official",
@@ -638,27 +466,140 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T21:13:18Z",
-      "latest_at": "2026-09-21T21:13:18Z",
+      "earliest_at": "2026-09-22T01:25:53Z",
+      "latest_at": "2026-09-22T01:25:53Z",
       "primary_item": {
-        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
-        "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
-        "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
-        "title_en": "GitHub Enterprise adds credential inventory exports",
-        "title_original": "GitHub Enterprise adds credential inventory exports",
-        "summary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nEnterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and GitHub App user-to-server and installation tokens).\nThis enables enterprise owners with a singl",
-        "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
-        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
+        "title": "全新 repository pull requests 页面正式上线 / Refreshed repository pull requests page generally available",
+        "title_zh": "全新 repository pull requests 页面正式上线",
+        "title_en": "Refreshed repository pull requests page generally available",
+        "title_original": "Refreshed repository pull requests page generally available",
+        "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe new repository pull requests page is now generally available to all GitHub users.\nThe new page makes it easier to find and act on pull requests in a repository, with new filtering and search options to help you find exactly what you’re looking for:\nSince the public preview, your feedback has helped us make several improvements. N",
+        "recommend_reason_zh": "GitHub 新的 repository pull requests 页面已 generally available 给所有用户，新增 filtering 和 search options 来帮助查找和操作 pull requests，并自 public preview 后根据反馈做了多项改进。",
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "合规审计能少写脚本了，管企业凭据的团队可以试。",
+      "persona_review": "PR 页面改版，日常提审流程会变，团队里用惯旧界面的先适应下。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
+      }
+    },
+    {
+      "story_id": "story_040232f36ea3",
+      "title": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+      "url": "https://www.aibase.com/news/31250",
+      "primary_url": "https://www.aibase.com/news/31250",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "697751f42c13035dede732f29529c52b4e06b685",
+          "title": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "title_zh": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "title_en": null,
+          "title_original": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "summary": "On September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nExplore AI Fronti",
+          "recommend_reason_zh": "Xiaomi发布MiMo-V2.6，Pro以46分登顶AA Intelligence Index开源最强，Flash缓存命中0.02元、Pro仅0.025元。",
+          "url": "https://www.aibase.com/news/31250",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        },
+        {
+          "id": "e109e92096cf162cb422c478e32f6be27382ecf8",
+          "title": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "title_zh": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "title_en": null,
+          "title_original": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "summary": "Xiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nXiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nXiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nExplore AI Fronti",
+          "recommend_reason_zh": "Xiaomi 于9月22日发布并开源原生多模态模型 MiMo-V2.6 系列（Pro/Flash），Pro 在 Artificial Analysis 智能指数获46分，超过 Kimi K3 与 Qwen3.8Max 成最强开源模型，但 Agent 基准仍落后最强闭源模型。",
+          "url": "https://www.aibase.com/news/31249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "697751f42c13035dede732f29529c52b4e06b685",
+          "title": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "title_zh": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "title_en": null,
+          "title_original": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+          "summary": "On September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nExplore AI Fronti",
+          "recommend_reason_zh": "Xiaomi发布MiMo-V2.6，Pro以46分登顶AA Intelligence Index开源最强，Flash缓存命中0.02元、Pro仅0.025元。",
+          "url": "https://www.aibase.com/news/31250",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        },
+        {
+          "id": "e109e92096cf162cb422c478e32f6be27382ecf8",
+          "title": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "title_zh": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "title_en": null,
+          "title_original": "小米发布并开源 MiMo-V2.6:AA 智能指数46分登顶最强开源模型",
+          "summary": "Xiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nXiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nXiaomi officially released and open-sourced the native multimodal model MiMo-V2.6 series (Pro/Flash) on September 22, scaling up reinforcement learning (RL) com\nExplore AI Fronti",
+          "recommend_reason_zh": "Xiaomi 于9月22日发布并开源原生多模态模型 MiMo-V2.6 系列（Pro/Flash），Pro 在 Artificial Analysis 智能指数获46分，超过 Kimi K3 与 Qwen3.8Max 成最强开源模型，但 Agent 基准仍落后最强闭源模型。",
+          "url": "https://www.aibase.com/news/31249",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
+      "primary_item": {
+        "id": "697751f42c13035dede732f29529c52b4e06b685",
+        "title": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+        "title_zh": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+        "title_en": null,
+        "title_original": "小米MiMo-V2. 6 发布： 46 分登顶开源之巅，把性价比砍成一道斩杀线",
+        "summary": "On September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nOn September 22, Xiaomi officially launched its new generation large model MiMo-V2.6, releasing two native multimodal versions, Pro and Flash, at once. Just a f\nExplore AI Fronti",
+        "recommend_reason_zh": "Xiaomi发布MiMo-V2.6，Pro以46分登顶AA Intelligence Index开源最强，Flash缓存命中0.02元、Pro仅0.025元。",
+        "url": "https://www.aibase.com/news/31250",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "开源权重能直接下，46分登顶先自己跑分验证，别急着换生产模型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -706,15 +647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8372,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "official",
@@ -743,7 +684,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
+      }
+    },
+    {
+      "story_id": "story_b01d49929f03",
+      "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
+      "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "primary_url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
+          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+          "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
+          "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
+          "title_en": "GitHub Enterprise adds credential inventory exports",
+          "title_original": "GitHub Enterprise adds credential inventory exports",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
+          "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T21:13:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8948,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T21:13:18Z",
+      "latest_at": "2026-09-21T21:13:18Z",
+      "primary_item": {
+        "id": "c846158852b43fd9981654bd7ba4e0bd9a32e2c1",
+        "title": "GitHub Enterprise 新增凭据清单导出功能 / GitHub Enterprise adds credential inventory exports",
+        "title_zh": "GitHub Enterprise 新增凭据清单导出功能",
+        "title_en": "GitHub Enterprise adds credential inventory exports",
+        "title_original": "GitHub Enterprise adds credential inventory exports",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Enterprise 新增凭据清单导出，企业所有者可导出 SSH keys、classic 和 fine-grained personal access tokens、OAuth App 与 GitHub App tokens，并可通过 Export CSV 或新 REST API 获取，便于安全团队在事件中评估风险面、规划修复。",
+        "url": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "合规审计能少写脚本了，管企业凭据的团队可以试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -791,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -827,121 +853,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
-      }
-    },
-    {
-      "story_id": "story_f20bbdeba1e2",
-      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-      "url": "https://www.aibase.com/news/31237",
-      "primary_url": "https://www.aibase.com/news/31237",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_en": null,
-          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "summary": null,
-          "recommend_reason_zh": "Kimi Code 桌面客户端上线 macOS 与 Windows，访问 kimi.com/code 即可安装，内置终端、浏览器和 Git 状态查看，支持运行调试项目并关联 PR 状态。",
-          "url": "https://www.aibase.com/news/31237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        },
-        {
-          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
-          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "title_en": null,
-          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T07:54:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_en": null,
-          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "summary": null,
-          "recommend_reason_zh": "Kimi Code 桌面客户端上线 macOS 与 Windows，访问 kimi.com/code 即可安装，内置终端、浏览器和 Git 状态查看，支持运行调试项目并关联 PR 状态。",
-          "url": "https://www.aibase.com/news/31237",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        },
-        {
-          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
-          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "title_en": null,
-          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
-          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T07:54:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8219,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T07:54:32Z",
-      "latest_at": "2026-09-21T10:43:17.927707Z",
-      "primary_item": {
-        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-        "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-        "title_en": null,
-        "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-        "summary": null,
-        "recommend_reason_zh": "Kimi Code 桌面客户端上线 macOS 与 Windows，访问 kimi.com/code 即可安装，内置终端、浏览器和 Git 状态查看，支持运行调试项目并关联 PR 状态。",
-        "url": "https://www.aibase.com/news/31237",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "桌面端能直接下载用，写代码的可以试试替代 Cursor 的本地体验。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -972,7 +884,7 @@
           "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
           "title_en": null,
           "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "summary": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nWe cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nWe cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nEarlier this year",
+          "summary": null,
           "recommend_reason_zh": "Linear 为化解 AI 编程加速带来的 CI 瓶颈，把 PR 等待时间从超过 6 分钟降到刚过 5 分钟，在测试套件近乎翻四倍的同时让每个测试的 runner 时间减半，并用 tsgo 把 tsc 检查周中位耗时降低 73%。",
           "url": "https://linear.app/now/ci-bottleneck-reworked",
           "source": "linear.app",
@@ -1022,7 +934,7 @@
           "title_zh": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
           "title_en": null,
           "title_original": "AI编程使得持续集成（CI）成为了一个瓶颈，因此我们对其进行了重新设计以跟上发展步伐",
-          "summary": "We cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nWe cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nWe cut PR wait time and running costs by rethinking CI as a system, from the infrastructure underneath it to how work gets scheduled and tests get parallelized.\nEarlier this year",
+          "summary": null,
           "recommend_reason_zh": "Linear 为化解 AI 编程加速带来的 CI 瓶颈，把 PR 等待时间从超过 6 分钟降到刚过 5 分钟，在测试套件近乎翻四倍的同时让每个测试的 runner 时间减半，并用 tsgo 把 tsc 检查周中位耗时降低 73%。",
           "url": "https://linear.app/now/ci-bottleneck-reworked",
           "source": "linear.app",
@@ -1047,22 +959,21 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8425,
+        "recency": 0.7882,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T12:26:00Z",
       "latest_at": "2026-09-21T23:17:19.633000Z",
@@ -1084,7 +995,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -1132,15 +1043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8134,
+        "recency": 0.7609,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1169,7 +1080,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -1217,21 +1128,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T11:52:52Z",
       "latest_at": "2026-09-21T11:52:52Z",
@@ -1253,204 +1163,257 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
-      "story_id": "story_a6519ba96534",
-      "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-      "url": "https://www.aibase.com/news/31229",
-      "primary_url": "https://www.aibase.com/news/31229",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_en": null,
-          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "summary": null,
-          "recommend_reason_zh": "OceanBase Data Agent以90.62%准确率登顶国际DAB榜单，成首个突破90%的方案，用国产大模型GLM-5.2超越GPT、Claude等海外模型方案，代号Scout并将集成进OceanBase DataPilot。",
-          "url": "https://www.aibase.com/news/31229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        },
-        {
-          "id": "0c389c18916baff12e52017bc45349051ade7090",
-          "title": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "title_zh": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "title_en": null,
-          "title_original": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "summary": null,
-          "recommend_reason_zh": "OceanBase 基于国产 GLM-5.2 的 Scout 方案在 DAB 以 90.62% 登顶，成首个破 90% 方案，能力将融入 DataPilot。",
-          "url": "https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T13:58:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_en": null,
-          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "summary": null,
-          "recommend_reason_zh": "OceanBase Data Agent以90.62%准确率登顶国际DAB榜单，成首个突破90%的方案，用国产大模型GLM-5.2超越GPT、Claude等海外模型方案，代号Scout并将集成进OceanBase DataPilot。",
-          "url": "https://www.aibase.com/news/31229",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        },
-        {
-          "id": "0c389c18916baff12e52017bc45349051ade7090",
-          "title": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "title_zh": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "title_en": null,
-          "title_original": "不靠最强大模型，也能拿全球第一？OceanBase 的 “纯国产组合” 登顶国际 Data Agent 榜",
-          "summary": null,
-          "recommend_reason_zh": "OceanBase 基于国产 GLM-5.2 的 Scout 方案在 DAB 以 90.62% 登顶，成首个破 90% 方案，能力将融入 DataPilot。",
-          "url": "https://www.infoq.cn/article/Obuxu1mvY9p6RNOlxFGc",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-21T13:58:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8219,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T10:43:17.927707Z",
-      "latest_at": "2026-09-21T13:58:22Z",
-      "primary_item": {
-        "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-        "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-        "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-        "title_en": null,
-        "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-        "summary": null,
-        "recommend_reason_zh": "OceanBase Data Agent以90.62%准确率登顶国际DAB榜单，成首个突破90%的方案，用国产大模型GLM-5.2超越GPT、Claude等海外模型方案，代号Scout并将集成进OceanBase DataPilot。",
-        "url": "https://www.aibase.com/news/31229",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "榜单登顶看看就好，没开源没API，动手前先等实测复现。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
-      }
-    },
-    {
-      "story_id": "story_33a5a294e9b6",
-      "title": "Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "primary_url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "source": "Nathan Lambert：Interconnects（RSS）",
+      "story_id": "story_20763df8d7cd",
+      "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+      "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models",
-          "title_zh": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-          "title_en": "The current balance of power in open models",
-          "title_original": "The current balance of power in open models",
-          "summary": "Nathan Lambert 发布其向美国国会汇报的开源模型现状综述，指出中国开源权重模型已在下载量、基准成绩和学术采用上领先，自 2025 年 7 月起在 Hugging Face 下载量上领先约 1.6B（总 3.2B，为美国两倍）。",
-          "recommend_reason_zh": "这篇为 Congress 准备的证词扩展版，用 Hugging Face Downloads 数据说明中国 open-weight models 自2025年7月反超，Alibaba's Qwen 助推其总下载达3.2B、领先美国约1.6B，并辨析 open-weight 与 open-source 的界限。",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Nathan Lambert：Interconnects（RSS）",
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+          "recommend_reason_zh": "StepFun的Step 5 Preview在Artificial Analysis Intelligence Index得44分，与Kimi K3 (max)持平，每任务成本约低2.8倍，但agentic evaluations落后；新旗舰600B总参数、27B激活参数，接替Step 3.7 Flash。",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T11:56:56Z"
+          "published_at": "2026-09-22T01:49:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Nathan Lambert：Interconnects（RSS）"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-          "title": "Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models",
-          "title_zh": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-          "title_en": "The current balance of power in open models",
-          "title_original": "The current balance of power in open models",
-          "summary": "Nathan Lambert 发布其向美国国会汇报的开源模型现状综述，指出中国开源权重模型已在下载量、基准成绩和学术采用上领先，自 2025 年 7 月起在 Hugging Face 下载量上领先约 1.6B（总 3.2B，为美国两倍）。",
-          "recommend_reason_zh": "这篇为 Congress 准备的证词扩展版，用 Hugging Face Downloads 数据说明中国 open-weight models 自2025年7月反超，Alibaba's Qwen 助推其总下载达3.2B、领先美国约1.6B，并辨析 open-weight 与 open-source 的界限。",
-          "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-          "source": "Nathan Lambert：Interconnects（RSS）",
+          "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+          "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+          "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+          "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+          "recommend_reason_zh": "StepFun的Step 5 Preview在Artificial Analysis Intelligence Index得44分，与Kimi K3 (max)持平，每任务成本约低2.8倍，但agentic evaluations落后；新旗舰600B总参数、27B激活参数，接替Step 3.7 Flash。",
+          "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-21T11:56:56Z"
+          "published_at": "2026-09-22T01:49:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7292,
-      "importance": 0.7292,
-      "importance_score": 0.7292,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-21T11:56:56Z",
-      "latest_at": "2026-09-21T11:56:56Z",
+      "earliest_at": "2026-09-22T01:49:19Z",
+      "latest_at": "2026-09-22T01:49:19Z",
       "primary_item": {
-        "id": "0970243675b3ad72219b24cc2309a2a6d4130a38",
-        "title": "Nathan Lambert 撰文分析开源模型的中美实力格局 / The current balance of power in open models",
-        "title_zh": "Nathan Lambert 撰文分析开源模型的中美实力格局",
-        "title_en": "The current balance of power in open models",
-        "title_original": "The current balance of power in open models",
-        "summary": "Nathan Lambert 发布其向美国国会汇报的开源模型现状综述，指出中国开源权重模型已在下载量、基准成绩和学术采用上领先，自 2025 年 7 月起在 Hugging Face 下载量上领先约 1.6B（总 3.2B，为美国两倍）。",
-        "recommend_reason_zh": "这篇为 Congress 准备的证词扩展版，用 Hugging Face Downloads 数据说明中国 open-weight models 自2025年7月反超，Alibaba's Qwen 助推其总下载达3.2B、领先美国约1.6B，并辨析 open-weight 与 open-source 的界限。",
-        "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-        "source": "Nathan Lambert：Interconnects（RSS）",
+        "id": "280fb36eafee73ab0c22463444a492760ebf4a73",
+        "title": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8 / StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "title_zh": "Artificial Analysis 评测 Step 5 Preview： Intelligence Index 得 44 分，成本约为同级模型 1/2.8",
+        "title_en": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "title_original": "StepFun's Step 5 Preview scores 44 on the Artificial Analysis Intelligence Index， matching Kimi K3 （…",
+        "summary": "Artificial Analysis 评测阶跃星辰 Step 5 Preview，其在 Artificial Analysis Intelligence Index 得 44 分，与 Kimi K3 （max） 持平，略低于 GLM-5.3 （max） 和 Qwen3.8 Max 的 45 分，每任务成本约 $0.72，约为同级模型（约 $2.00）的 1/2.8。",
+        "recommend_reason_zh": "StepFun的Step 5 Preview在Artificial Analysis Intelligence Index得44分，与Kimi K3 (max)持平，每任务成本约低2.8倍，但agentic evaluations落后；新旗舰600B总参数、27B激活参数，接替Step 3.7 Flash。",
+        "url": "https://x.com/ArtificialAnlys/status/2102213621963243704",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "格局分析看完就忘，选模型还是看榜单和价格，不影响今天写代码。",
+      "persona_score": 72,
+      "persona_review": "Preview 版还没开放 API，先记着：同级能力半价，等正式版再换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
+      }
+    },
+    {
+      "story_id": "story_297f0b86dc9f",
+      "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+      "url": "https://www.aibase.com/news/31259",
+      "primary_url": "https://www.aibase.com/news/31259",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "summary": "According to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nExplore AI Frontiers",
+          "recommend_reason_zh": "最新报告显示，2026 上半年全球 AI 眼镜出货量同比增 263%，Meta Ray-Ban 等无屏幕产品增 258%并成主流，AR 与 AI 显示眼镜增 449%但基数小。",
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+          "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "title_en": null,
+          "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+          "summary": "According to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nExplore AI Frontiers",
+          "recommend_reason_zh": "最新报告显示，2026 上半年全球 AI 眼镜出货量同比增 263%，Meta Ray-Ban 等无屏幕产品增 258%并成主流，AR 与 AI 显示眼镜增 449%但基数小。",
+          "url": "https://www.aibase.com/news/31259",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
+      "primary_item": {
+        "id": "b836a750e675855d3d5e7ccfee0a3b3d079ffb68",
+        "title": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "title_zh": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "title_en": null,
+        "title_original": "2026 上半年全球 AI 眼镜出货量暴增 263%，“无屏幕”成主流形态",
+        "summary": "According to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nAccording to the latest \"Smart Glasses Market Tracking\" report released by Counterpoint Research, smart glasses are still a relatively niche tech category, but\nExplore AI Frontiers",
+        "recommend_reason_zh": "最新报告显示，2026 上半年全球 AI 眼镜出货量同比增 263%，Meta Ray-Ban 等无屏幕产品增 258%并成主流，AR 与 AI 显示眼镜增 449%但基数小。",
+        "url": "https://www.aibase.com/news/31259",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "出货量数据对做应用的人没直接动作，等 SDK 和平台接口稳定再入场。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T05:05:37.878097Z"
+      }
+    },
+    {
+      "story_id": "story_c26c69f45202",
+      "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+      "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+      "primary_url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+      "source": "OpenRouter：Announcements（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ad4a4481da04768504888d3c19bbc26dfc93e381",
+          "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+          "title_zh": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+          "title_en": "What Is Nemotron 3.5 Lightning",
+          "title_original": "What Is Nemotron 3.5 Lightning",
+          "summary": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+          "recommend_reason_zh": "这篇文章拆解 NVIDIA 的 Nemotron 3.5 Lightning：它是 30B 混合专家模型，每 token 仅激活约 3B 参数（30B-A3B），采用 Mamba-2 与 MoE 混合架构，支持工具调用与编码，面向高频 agent 步骤，并对比 Nemotron 3 Ultra、列出 OpenRouter 上下文限制及调用方法。",
+          "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenRouter：Announcements（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ad4a4481da04768504888d3c19bbc26dfc93e381",
+          "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+          "title_zh": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+          "title_en": "What Is Nemotron 3.5 Lightning",
+          "title_original": "What Is Nemotron 3.5 Lightning",
+          "summary": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+          "recommend_reason_zh": "这篇文章拆解 NVIDIA 的 Nemotron 3.5 Lightning：它是 30B 混合专家模型，每 token 仅激活约 3B 参数（30B-A3B），采用 Mamba-2 与 MoE 混合架构，支持工具调用与编码，面向高频 agent 步骤，并对比 Nemotron 3 Ultra、列出 OpenRouter 上下文限制及调用方法。",
+          "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+          "source": "OpenRouter：Announcements（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9314,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "ad4a4481da04768504888d3c19bbc26dfc93e381",
+        "title": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用 / What Is Nemotron 3.5 Lightning",
+        "title_zh": "OpenRouter 解读 NVIDIA Nemotron 3.5 Lightning 如何承担 Agent 高频执行调用",
+        "title_en": "What Is Nemotron 3.5 Lightning",
+        "title_original": "What Is Nemotron 3.5 Lightning",
+        "summary": "OpenRouter 发文解读 NVIDIA 的 Nemotron 3.5 Lightning，这是一款 30B 总参数、约 3B 激活参数的混合专家开源权重模型，定位于工具调用、编码等高频、边界清晰的 Agent 执行步骤，与负责复杂推理的 Nemotron 3 Ultra（550B 总参数、55B 激活）形成分工。",
+        "recommend_reason_zh": "这篇文章拆解 NVIDIA 的 Nemotron 3.5 Lightning：它是 30B 混合专家模型，每 token 仅激活约 3B 参数（30B-A3B），采用 Mamba-2 与 MoE 混合架构，支持工具调用与编码，面向高频 agent 步骤，并对比 Nemotron 3 Ultra、列出 OpenRouter 上下文限制及调用方法。",
+        "url": "https://openrouter.ai/blog/insights/nemotron-3-5-lightning",
+        "source": "OpenRouter：Announcements（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "OpenRouter 上架新模型，主打 Agent 高频调用，做多步任务的可以测下延迟和成本。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -1498,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7789,
+        "recency": 0.7287,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1535,120 +1498,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
-      "story_id": "story_1f933272e9f7",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
-      "primary_url": "https://www.aibase.com/news/31212",
+      "story_id": "story_93ae6596d014",
+      "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+      "url": "https://www.aibase.com/news/31252",
+      "primary_url": "https://www.aibase.com/news/31252",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "recommend_reason_zh": "Qwen team 9月21日开源 Qwen-Image-2.1，以仅7B参数的Single-Stream DiT，把文生图、透明图生成与图像编辑整合进同一框架。",
-          "url": "https://www.aibase.com/news/31212",
+          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "summary": "Unitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nExplore AI Fronti",
+          "recommend_reason_zh": "Unitree Technology 发布 Dex5-S 灵巧手，3.99万元起，具备22自由度、1:1人手尺寸，重620g并配22个电机，可快速了解这款机器人硬件的核心规格。",
+          "url": "https://www.aibase.com/news/31252",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T05:02:38.521221Z"
-        },
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-          "recommend_reason_zh": "Qwen-Image-2.1 与 @HuggingApps 在 Spaces 上线 live demo，仅用一个 checkpoint 就同时支持图像生成与编辑，用户可直接在浏览器中打开试用，无需任何安装或配置。",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+          "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+          "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
           "title_en": null,
-          "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "summary": null,
-          "recommend_reason_zh": "Qwen team 9月21日开源 Qwen-Image-2.1，以仅7B参数的Single-Stream DiT，把文生图、透明图生成与图像编辑整合进同一框架。",
-          "url": "https://www.aibase.com/news/31212",
+          "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+          "summary": "Unitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nExplore AI Fronti",
+          "recommend_reason_zh": "Unitree Technology 发布 Dex5-S 灵巧手，3.99万元起，具备22自由度、1:1人手尺寸，重620g并配22个电机，可快速了解这款机器人硬件的核心规格。",
+          "url": "https://www.aibase.com/news/31252",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T05:02:38.521221Z"
-        },
-        {
-          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
-          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
-          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
-          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
-          "recommend_reason_zh": "Qwen-Image-2.1 与 @HuggingApps 在 Spaces 上线 live demo，仅用一个 checkpoint 就同时支持图像生成与编辑，用户可直接在浏览器中打开试用，无需任何安装或配置。",
-          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T02:50:40Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7572,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T02:50:40Z",
-      "latest_at": "2026-09-21T05:02:38.521221Z",
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
       "primary_item": {
-        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "title_zh": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
+        "id": "400eba6a1854b2a671ccc05e104955aac3d3f88b",
+        "title": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+        "title_zh": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
         "title_en": null,
-        "title_original": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "summary": null,
-        "recommend_reason_zh": "Qwen team 9月21日开源 Qwen-Image-2.1，以仅7B参数的Single-Stream DiT，把文生图、透明图生成与图像编辑整合进同一框架。",
-        "url": "https://www.aibase.com/news/31212",
+        "title_original": "3.99万元起，宇树科技推出22自由度Dex5-S灵巧手",
+        "summary": "Unitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nUnitree Technology has released the new Dex5-S dexterous hand. Each hand has 22 degrees of freedom and is designed with a 1:1 size to a human hand. The starting\nExplore AI Fronti",
+        "recommend_reason_zh": "Unitree Technology 发布 Dex5-S 灵巧手，3.99万元起，具备22自由度、1:1人手尺寸，重620g并配22个电机，可快速了解这款机器人硬件的核心规格。",
+        "url": "https://www.aibase.com/news/31252",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "7B开源可下载，文生图加编辑一体，本地部署和微调今天就能试。",
+      "persona_score": 55,
+      "persona_review": "3.99万一只灵巧手，做具身研究的可以问价，纯软件团队先不用管。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
+      }
+    },
+    {
+      "story_id": "story_9d9a168ee3fd",
+      "title": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+      "url": "https://www.aibase.com/news/31246",
+      "primary_url": "https://www.aibase.com/news/31246",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1223f77b0581afbc61db3543d160ea2f0fcd9eee",
+          "title": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "title_zh": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "title_en": null,
+          "title_original": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "summary": "According to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nExplore AI Fronti",
+          "recommend_reason_zh": "Apple 上周发布 Xcode 27.1 Beta 1 并支持 iPhone Duo 开发后，AI 编程平台 Bitrig 迅速跟进，用可折叠、倾斜、旋转的交互式 3D 模拟器测试应用在不同形态下的表现，值得开发者关注。",
+          "url": "https://www.aibase.com/news/31246",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1223f77b0581afbc61db3543d160ea2f0fcd9eee",
+          "title": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "title_zh": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "title_en": null,
+          "title_original": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+          "summary": "According to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nExplore AI Fronti",
+          "recommend_reason_zh": "Apple 上周发布 Xcode 27.1 Beta 1 并支持 iPhone Duo 开发后，AI 编程平台 Bitrig 迅速跟进，用可折叠、倾斜、旋转的交互式 3D 模拟器测试应用在不同形态下的表现，值得开发者关注。",
+          "url": "https://www.aibase.com/news/31246",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-22T04:55:06.304510Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
+      "primary_item": {
+        "id": "1223f77b0581afbc61db3543d160ea2f0fcd9eee",
+        "title": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+        "title_zh": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+        "title_en": null,
+        "title_original": "AI 编程平台 Bitrig 支持 iPhone Duo：交互式 3D 模拟器可折叠、旋转测应用",
+        "summary": "According to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nAccording to 9to5Mac, as Apple released Xcode 27.1 Beta 1 last week and added support for iPhone Duo app development, the AI coding platform Bitrig also announc\nExplore AI Fronti",
+        "recommend_reason_zh": "Apple 上周发布 Xcode 27.1 Beta 1 并支持 iPhone Duo 开发后，AI 编程平台 Bitrig 迅速跟进，用可折叠、倾斜、旋转的交互式 3D 模拟器测试应用在不同形态下的表现，值得开发者关注。",
+        "url": "https://www.aibase.com/news/31246",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "折叠屏模拟器，除非你在做折叠屏适配，否则暂时用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
@@ -1780,15 +1798,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6865,
-      "importance": 0.6865,
-      "importance_score": 0.6865,
+      "score": 0.6757,
+      "importance": 0.6757,
+      "importance_score": 0.6757,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9319,
+        "recency": 0.8718,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1815,30 +1833,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
-      "story_id": "story_3550f9dee406",
-      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-      "url": "https://www.aibase.com/news/31241",
-      "primary_url": "https://www.aibase.com/news/31241",
+      "story_id": "story_ea16d9e3b5f2",
+      "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+      "url": "https://www.aibase.com/news/31247",
+      "primary_url": "https://www.aibase.com/news/31247",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+          "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "title_zh": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
           "title_en": null,
-          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic自建湿实验室测试模型指导生物实验的能力，牵手Novo Nordisk、Bristol-Myers Squibb并收购Coefficient Bio；ByteDance分拆的实验室也完成首轮融资；文中指出AI仅压缩早期分子搜索与实验迭代，临床试验难以同步缩短。",
-          "url": "https://www.aibase.com/news/31241",
+          "title_original": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "summary": "On September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 9月22日宣布成立由九位数学家组成、独立于公司的数学与 AI 顾问组，并披露自8月28日训练的神秘模型已解决100多个长期未解数学问题，包括 Navier-Stokes Millennium Prize Problem。",
+          "url": "https://www.aibase.com/news/31247",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
       "source_count": 1,
@@ -1847,81 +1865,82 @@
       ],
       "items": [
         {
-          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+          "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "title_zh": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
           "title_en": null,
-          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic自建湿实验室测试模型指导生物实验的能力，牵手Novo Nordisk、Bristol-Myers Squibb并收购Coefficient Bio；ByteDance分拆的实验室也完成首轮融资；文中指出AI仅压缩早期分子搜索与实验迭代，临床试验难以同步缩短。",
-          "url": "https://www.aibase.com/news/31241",
+          "title_original": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+          "summary": "On September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 9月22日宣布成立由九位数学家组成、独立于公司的数学与 AI 顾问组，并披露自8月28日训练的神秘模型已解决100多个长期未解数学问题，包括 Navier-Stokes Millennium Prize Problem。",
+          "url": "https://www.aibase.com/news/31247",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T10:43:17.927707Z",
-      "latest_at": "2026-09-21T10:43:17.927707Z",
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
       "primary_item": {
-        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
-        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-        "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "id": "969afb739b769fea77513a0a0b32a3ecdbe2d71b",
+        "title": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+        "title_zh": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
         "title_en": null,
-        "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic自建湿实验室测试模型指导生物实验的能力，牵手Novo Nordisk、Bristol-Myers Squibb并收购Coefficient Bio；ByteDance分拆的实验室也完成首轮融资；文中指出AI仅压缩早期分子搜索与实验迭代，临床试验难以同步缩短。",
-        "url": "https://www.aibase.com/news/31241",
+        "title_original": "OpenAI 成立数学与 AI 顾问组：神秘新模型 24 天攻破 100 多个世界级难题",
+        "summary": "On September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nOn September 22, OpenAI announced the establishment of an \"Advisory Group on Mathematics and Artificial Intelligence.\" The advisory group is based at the Instit\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI 9月22日宣布成立由九位数学家组成、独立于公司的数学与 AI 顾问组，并披露自8月28日训练的神秘模型已解决100多个长期未解数学问题，包括 Navier-Stokes Millennium Prize Problem。",
+        "url": "https://www.aibase.com/news/31247",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 42,
-      "persona_review": "AI制药卡在数据上，跟写代码的你没关系，知道有这回事就行。",
+      "persona_review": "神秘模型没开放、没论文、没复现，数学突破再猛也落不到你今天的代码里。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     },
     {
-      "story_id": "story_02e8ffac48ba",
-      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-      "url": "https://www.aibase.com/news/31231",
-      "primary_url": "https://www.aibase.com/news/31231",
+      "story_id": "story_843043f98b79",
+      "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+      "url": "https://www.aibase.com/news/31243",
+      "primary_url": "https://www.aibase.com/news/31243",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+          "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
           "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic被曝内测Claude Opus 5.5，或跳过5.2本周二上线，输入每百万Token仅4美元、输出20美元，剑指GPT-6，并称优于Astra。",
-          "url": "https://www.aibase.com/news/31231",
+          "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "summary": "On Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI新设Mathematics and Artificial Intelligence Advisory Group，首批9位数学家将评估其成果；此前其称解决Navier-Stokes方程Millennium Prize问题并攻克100多个未解问题，25位Fields Medalists曾联名担忧，值得关注。",
+          "url": "https://www.aibase.com/news/31243",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
       "source_count": 1,
@@ -1930,282 +1949,59 @@
       ],
       "items": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+          "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
           "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic被曝内测Claude Opus 5.5，或跳过5.2本周二上线，输入每百万Token仅4美元、输出20美元，剑指GPT-6，并称优于Astra。",
-          "url": "https://www.aibase.com/news/31231",
+          "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+          "summary": "On Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI新设Mathematics and Artificial Intelligence Advisory Group，首批9位数学家将评估其成果；此前其称解决Navier-Stokes方程Millennium Prize问题并攻克100多个未解问题，25位Fields Medalists曾联名担忧，值得关注。",
+          "url": "https://www.aibase.com/news/31243",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
+          "published_at": "2026-09-22T04:55:06.304510Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-21T10:43:17.927707Z",
-      "latest_at": "2026-09-21T10:43:17.927707Z",
+      "earliest_at": "2026-09-22T04:55:06.304510Z",
+      "latest_at": "2026-09-22T04:55:06.304510Z",
       "primary_item": {
-        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "id": "59f748921ae652bcb9807dec6e86f28a110a108d",
+        "title": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+        "title_zh": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
         "title_en": null,
-        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic被曝内测Claude Opus 5.5，或跳过5.2本周二上线，输入每百万Token仅4美元、输出20美元，剑指GPT-6，并称优于Astra。",
-        "url": "https://www.aibase.com/news/31231",
+        "title_original": "OpenAI引入数学界外部顾问，AI数学研究的学术评估机制进一步强化",
+        "summary": "On Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nOn Monday, OpenAI announced the establishment of a \"Mathematics and Artificial Intelligence Advisory Group,\" supported by the Institute for Advanced Study at Pr\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI新设Mathematics and Artificial Intelligence Advisory Group，首批9位数学家将评估其成果；此前其称解决Navier-Stokes方程Millennium Prize问题并攻克100多个未解问题，25位Fields Medalists曾联名担忧，值得关注。",
+        "url": "https://www.aibase.com/news/31243",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "泄露价目表不算数，等官方开放API再谈换模型。",
+      "persona_score": 35,
+      "persona_review": "学术评估机制跟写代码没关系，等它出能用的数学工具再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
-      }
-    },
-    {
-      "story_id": "story_d6fca3542f8f",
-      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-      "url": "https://www.aibase.com/news/31232",
-      "primary_url": "https://www.aibase.com/news/31232",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": "开发者 Lyra 爆料 Claude Opus 5.5（代号 claude-wafer-eap）已内测、若动作快或周二突袭发布并直指 GPT-6，输入/输出每百万 Tokens 定价 $4/$20，较 Opus 5 的 $5/$25 降约 20%，缓存读取低至 $0.2。",
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": "开发者 Lyra 爆料 Claude Opus 5.5（代号 claude-wafer-eap）已内测、若动作快或周二突袭发布并直指 GPT-6，输入/输出每百万 Tokens 定价 $4/$20，较 Opus 5 的 $5/$25 降约 20%，缓存读取低至 $0.2。",
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T10:43:17.927707Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8219,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T10:43:17.927707Z",
-      "latest_at": "2026-09-21T10:43:17.927707Z",
-      "primary_item": {
-        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_en": null,
-        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "summary": null,
-        "recommend_reason_zh": "开发者 Lyra 爆料 Claude Opus 5.5（代号 claude-wafer-eap）已内测、若动作快或周二突袭发布并直指 GPT-6，输入/输出每百万 Tokens 定价 $4/$20，较 Opus 5 的 $5/$25 降约 20%，缓存读取低至 $0.2。",
-        "url": "https://www.aibase.com/news/31232",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "内测阶段没API没价格，等开放了再算账，现在只能围观。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
-      }
-    },
-    {
-      "story_id": "story_92bbb2d36215",
-      "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "primary_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-      "source": "www.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e959124434301aaddb51af605a65a8b357fe530d",
-          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_en": null,
-          "title_original": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T19:49:53.499000Z"
-        },
-        {
-          "id": "2bc2bdc54c258b53bafbbfc119d2723c20987885",
-          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T14:10:49Z"
-        },
-        {
-          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
-          "title": "macOS 27：绕过 AI 模型下载以节省存储空间的变通方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_zh": "macOS 27：绕过 AI 模型下载以节省存储空间的变通方法",
-          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49787535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T14:10:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "e959124434301aaddb51af605a65a8b357fe530d",
-          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_en": null,
-          "title_original": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-          "source": "www.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-21T19:49:53.499000Z"
-        },
-        {
-          "id": "2bc2bdc54c258b53bafbbfc119d2723c20987885",
-          "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T14:10:49Z"
-        },
-        {
-          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
-          "title": "macOS 27：绕过 AI 模型下载以节省存储空间的变通方法 / macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_zh": "macOS 27：绕过 AI 模型下载以节省存储空间的变通方法",
-          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49787535",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-21T14:10:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9375,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-21T14:10:49Z",
-      "latest_at": "2026-09-21T19:49:53.499000Z",
-      "primary_item": {
-        "id": "e959124434301aaddb51af605a65a8b357fe530d",
-        "title": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-        "title_zh": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-        "title_en": null,
-        "title_original": "macOS 27：避免下载 AI 模型并节省存储空间的解决方法",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
-        "source": "www.reddit.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "Mac 用户省几十 GB 磁盘的实操帖，beta 玩家可抄，正式版未必适用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-22T00:36:43.035670Z"
+        "scored_at": "2026-09-22T05:05:37.878097Z"
       }
     }
   ]
