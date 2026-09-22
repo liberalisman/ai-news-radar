@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T15:04:02.052371Z",
+  "generated_at": "2026-09-22T15:19:32.165463Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_3f10cf90ec97",
-      "title": "Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "上线公告只有版本号和入口，跑分、定价、上下文长度全缺席，先让子弹飞。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方上线公告属实，但无论文、无开源、无独立跑分，只有渠道消息。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "Copilot 里今天就能切模型，写代码的可以直接对比下效果再决定换不换。"
-        }
-      }
-    },
-    {
       "story_id": "story_9bf1a94971e8",
       "title": "transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp / Transformers now runs llama.cpp quants",
       "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -60,7 +40,7 @@
       "story_id": "story_cbd16b700896",
       "title": "OpenRouter 推出 Batch API，批量推理可享半价 / Batch API： half-price inference by bundling requests",
       "url": "https://openrouter.ai/blog/announcements/batch-api",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "批量推理直接半价，跑离线任务的今天就能切过去省钱。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c6f7482433a4",
+      "title": "LiteParse 9 月更新：PDFium 提速 20-25%，新增视觉定位与 is-complex 路由 API / LiteParse Updates： September 2026",
+      "url": "https://www.llamaindex.ai/blog/liteparse-updates-september-2026",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "20-25% 提速没给基线版本号，视觉定位倒是真加了，等第三方复现再吹。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客给了提速数字，但无代码无第三方复现，只能算有迹可循。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "PDF 解析提速两成还加了路由 API，做 RAG 文档预处理的可以直接升级试。"
         }
       }
     }

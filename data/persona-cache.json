@@ -1,72 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d2daab157b0c|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Team 计划模型访问变了，先查权限再跑流水线，免得 CI 断。",
-      "title_hash": "c615157e",
-      "scored_at": "2026-09-01T15:12:37.921692Z"
-    },
-    "story_0ccf033da9a1|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数据中心用电虚报影响选址和成本，做基建或云服务的得留意，普通开发者暂不用动。",
-      "title_hash": "92a811f3",
-      "scored_at": "2026-09-01T15:12:39.348210Z"
-    },
-    "story_e56fdeaae0c9|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "多模型接入方便选型，但功能本身不新，看具体需求再试。",
-      "title_hash": "1e418188",
-      "scored_at": "2026-09-01T15:12:40.591394Z"
-    },
-    "story_08b8473c055e|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "多模态模型开源可即用，做Agent视觉任务的今天就能试。",
-      "title_hash": "6479b21a",
-      "scored_at": "2026-09-01T15:12:41.897955Z"
-    },
-    "story_48f071bde448|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "版权官司离写代码远，等判例落地再评估风险。",
-      "title_hash": "3e427d63",
-      "scored_at": "2026-09-01T15:12:42.727771Z"
-    },
-    "story_417795a6a239|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "观点文，无实操价值，等有具体案例或工具再关注。",
-      "title_hash": "f902d5a0",
-      "scored_at": "2026-09-01T15:12:43.789809Z"
-    },
-    "story_3dbd0aa14092|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "YC新项目，产品未开源，等API或demo出来再评估。",
-      "title_hash": "81d1f4f0",
-      "scored_at": "2026-09-01T15:12:45.104860Z"
-    },
-    "story_d2daab157b0c|cynic|f4237a62": {
-      "score": 70,
-      "review": "更新是实打实的，但别指望免费午餐，Team 计划门槛还在。",
-      "title_hash": "c615157e",
-      "scored_at": "2026-09-01T15:12:46.602907Z"
-    },
-    "story_d2daab157b0c|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方更新但无技术细节，无评测无代码，仅凭公告难证价值。",
-      "title_hash": "c615157e",
-      "scored_at": "2026-09-01T15:12:48.123352Z"
-    },
-    "story_08b8473c055e|cynic|f4237a62": {
-      "score": 70,
-      "review": "开源多模态模型专供Agent，方向对但避谈人类场景，水分得挤挤。",
-      "title_hash": "6479b21a",
-      "scored_at": "2026-09-01T15:12:49.627591Z"
-    },
-    "story_08b8473c055e|paper-police|966065bf": {
-      "score": 35,
-      "review": "仅媒体宣称开源，无论文无代码无评测，证据不足待验证。",
-      "title_hash": "6479b21a",
-      "scored_at": "2026-09-01T15:12:50.610009Z"
-    },
     "story_944fc7884d19|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "Workspace 里直接生成和编辑图，做 PPT 配图能省事，但得看具体开放范围。",
@@ -5804,10 +5738,10 @@
       "scored_at": "2026-09-21T21:35:43.956945Z"
     },
     "story_ea478dcc527f|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源可 clone，强化学习规模化的具体做法值得抄，先跑通再谈选型。",
-      "title_hash": "8d5f7399",
-      "scored_at": "2026-09-21T21:35:44.920836Z"
+      "score": 62,
+      "review": "自媒体单方实测，没放权重和API，先别急着换模型。",
+      "title_hash": "5d228dda",
+      "scored_at": "2026-09-22T15:19:29.388580Z"
     },
     "story_666ff01c3033|pragmatic|0a5c5b24": {
       "score": 45,
@@ -6084,6 +6018,24 @@
       "review": "官方博客宣称半价，无论文无代码无第三方评测，价格数字待实测。",
       "title_hash": "7c7a17d0",
       "scored_at": "2026-09-22T15:04:02.052321Z"
+    },
+    "story_a2991f911034|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "盖茨的比喻再生动也不改一行代码，等有产品再花时间。",
+      "title_hash": "7153922d",
+      "scored_at": "2026-09-22T15:19:30.374130Z"
+    },
+    "story_c6f7482433a4|cynic|f4237a62": {
+      "score": 72,
+      "review": "20-25% 提速没给基线版本号，视觉定位倒是真加了，等第三方复现再吹。",
+      "title_hash": "3ad7c0b2",
+      "scored_at": "2026-09-22T15:19:31.356084Z"
+    },
+    "story_c6f7482433a4|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客给了提速数字，但无代码无第三方复现，只能算有迹可循。",
+      "title_hash": "3ad7c0b2",
+      "scored_at": "2026-09-22T15:19:32.165404Z"
     }
   }
 }
