@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:49:26.102447Z",
+  "generated_at": "2026-09-23T00:53:57.843387Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_a3e9511a3b71",
+      "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上线 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 42,
+          "review": "GitHub 更新日志里发模型，连个跑分和上下文长度都不给，Sol 和 Luna 的区别全靠命名玄学。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "仅GitHub更新日志一条来源，无论文、无代码、无benchmark，官方宣称不等于可复现。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "两个新模型已上线，GitHub 用户今天就能切，先跑自己任务对比下再决定换不换。"
+        }
+      }
+    },
+    {
       "story_id": "story_b742684d2aef",
       "title": "Claude Opus 5.5 现已上线 GitHub Copilot / Claude Opus 5.5 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "Copilot 里直接能选 Opus 5.5，重度用户今天就能切模型试效果。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f8d02811f102",
-      "title": "SpaceXAI发布Grok 4.7：推理速度翻倍、价格砍半，每百万Token输入仅 2 美元",
-      "url": "https://www.aibase.com/news/31251",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "速度翻倍价格砍半听着香，可基准测试挑没挑、上下文多长、限速多少，稿子里一个字没提。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "速度翻倍、价格砍半全是官方口径，无论文无代码，等Artificial Analysis独立跑分。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "推理翻倍还降价，跑推理的今天就能换模型省账单。"
         }
       }
     }
