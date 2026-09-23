@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T12:02:58.734769Z",
+  "generated_at": "2026-09-23T12:37:39.703319Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_2dc81b83678c",
-      "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
-      "url": "https://www.aibase.com/news/31303",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "降价95%听着震撼，可原价定多高才撑得起这个数字？五款齐发更像清库存。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "降价数字明确，但模型评测、代码、benchmark均未附，无法复现。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "语音模型降价95%，做ASR和语音Agent的今天就能换，账单直接砍到脚踝。"
-        }
-      }
-    },
-    {
       "story_id": "story_a3e9511a3b71",
       "title": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 现已上线 / OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
       "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 42,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 92,
           "review": "两个新模型已上线，GitHub 用户今天就能切，先跑自己任务对比下再决定换不换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2dc81b83678c",
+      "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
+      "url": "https://www.aibase.com/news/31303",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "降价95%听着震撼，可原价定多高才撑得起这个数字？五款齐发更像清库存。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "降价数字明确，但模型评测、代码、benchmark均未附，无法复现。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "语音模型降价95%，做ASR和语音Agent的今天就能换，账单直接砍到脚踝。"
         }
       }
     }
