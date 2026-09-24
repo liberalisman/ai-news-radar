@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T01:39:01.339363Z",
+  "generated_at": "2026-09-24T04:49:38.063431Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -249,15 +249,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.9273,
-      "importance": 0.9273,
-      "importance_score": 0.9273,
+      "score": 0.9203,
+      "importance": 0.9203,
+      "importance_score": 0.9203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8627,
+        "recency": 0.824,
         "story_heat": 1.0
       },
       "category": "official",
@@ -287,7 +287,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -422,15 +422,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8716,
-      "importance": 0.8716,
-      "importance_score": 0.8716,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9612,
+        "recency": 0.9181,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -459,7 +459,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -565,15 +565,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
+        "recency": 0.8609,
         "story_heat": 0.5
       },
       "category": "official",
@@ -602,7 +602,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -765,15 +765,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8671,
-      "importance": 0.8671,
-      "importance_score": 0.8671,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9136,
+        "recency": 0.8727,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -802,92 +802,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
-      }
-    },
-    {
-      "story_id": "story_4b75c8247471",
-      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9044,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:41:40Z",
-      "latest_at": "2026-09-23T18:41:40Z",
-      "primary_item": {
-        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "summary": null,
-        "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -952,8 +867,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T01:39:01.339363Z",
-      "latest_at": "2026-09-24T01:39:01.339363Z",
+      "earliest_at": "2026-09-24T04:49:38.063431Z",
+      "latest_at": "2026-09-24T04:49:38.063431Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI agents 借助 OpenAI 解决高达 65% 的客户来电 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -972,7 +887,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
+      }
+    },
+    {
+      "story_id": "story_4b75c8247471",
+      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8639,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "summary": null,
+        "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1020,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9409,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1057,7 +1057,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1105,15 +1105,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9019,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1142,7 +1142,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1190,15 +1190,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8954,
+        "recency": 0.8553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1227,7 +1227,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
+      }
+    },
+    {
+      "story_id": "story_a131a9f85c7b",
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+      "url": "https://x.com/arena/status/2102952767614779403",
+      "primary_url": "https://x.com/arena/status/2102952767614779403",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": "Claude Opus 5.5 (Max) 以 1818 分登顶 Code Arena: WebDev，领先 GPT-6 Astra 26 分，较前代 Opus 5 提升 126 分。",
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        },
+        {
+          "id": "aa72e6778af9ee1724f762ba19fc5d7ef3b1bd52",
+          "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04 / Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "title_zh": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
+          "title_en": "Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "title_original": "Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "summary": "Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。",
+          "recommend_reason_zh": "Claude Opus 5.5登顶Artificial Analysis Coding Agent Index，三项评估进步，Claude Code得分66，每任务成本更高。",
+          "url": "https://x.com/ArtificialAnlys/status/2102932119995756613",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:24:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "X：Arena (@arena)",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": "Claude Opus 5.5 (Max) 以 1818 分登顶 Code Arena: WebDev，领先 GPT-6 Astra 26 分，较前代 Opus 5 提升 126 分。",
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        },
+        {
+          "id": "aa72e6778af9ee1724f762ba19fc5d7ef3b1bd52",
+          "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04 / Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "title_zh": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
+          "title_en": "Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "title_original": "Claude Opus 5.5 is the new #1 in the Artificial Analysis Coding Agent Index， with gains across all t…",
+          "summary": "Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。",
+          "recommend_reason_zh": "Claude Opus 5.5登顶Artificial Analysis Coding Agent Index，三项评估进步，Claude Code得分66，每任务成本更高。",
+          "url": "https://x.com/ArtificialAnlys/status/2102932119995756613",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:24:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9708,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:24:22Z",
+      "latest_at": "2026-09-24T02:46:25Z",
+      "primary_item": {
+        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+        "recommend_reason_zh": "Claude Opus 5.5 (Max) 以 1818 分登顶 Code Arena: WebDev，领先 GPT-6 Astra 26 分，较前代 Opus 5 提升 126 分。",
+        "url": "https://x.com/arena/status/2102952767614779403",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "榜单第一不等于你能用上，先看API是否开放、价格多少再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1361,15 +1475,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8163,
+        "recency": 0.7797,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1398,7 +1512,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1446,15 +1560,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8211,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1483,7 +1597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1531,15 +1645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8576,
+        "recency": 0.8192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1568,7 +1682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1616,15 +1730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8365,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1653,7 +1767,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
+      }
+    },
+    {
+      "story_id": "story_1a73e228157c",
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": "针对 Cloud sessions 计费的困惑，官方澄清：它和 Claude Code 其他功能一样，仍走你的 Pro 或 Max 套餐；促销赠送的一次性额度只是可选项，会优先被 cloud sessions 消耗，用完后才回落到正常套餐用量。",
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": "针对 Cloud sessions 计费的困惑，官方澄清：它和 Claude Code 其他功能一样，仍走你的 Pro 或 Max 套餐；促销赠送的一次性额度只是可选项，会优先被 cloud sessions 消耗，用完后才回落到正常套餐用量。",
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9594,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:57:36Z",
+      "latest_at": "2026-09-24T01:57:36Z",
+      "primary_item": {
+        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+        "recommend_reason_zh": "针对 Cloud sessions 计费的困惑，官方澄清：它和 Claude Code 其他功能一样，仍走你的 Pro 或 Max 套餐；促销赠送的一次性额度只是可选项，会优先被 cloud sessions 消耗，用完后才回落到正常套餐用量。",
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "订阅内跑云会话，Pro/Max 还补一次性抵用金，重度用户账单能省一笔。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1701,15 +1899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8701,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1738,91 +1936,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
-      }
-    },
-    {
-      "story_id": "story_c584793b4299",
-      "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-      "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-      "primary_url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-          "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-          "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
-          "recommend_reason_zh": "Cloud sessions 正式脱离 research preview 上线，让 Claude Code 在笔记本合盖后仍能持续工作；现有订阅者可获一次性体验额度，Pro 为 100 美元、Max 为 250 美元。",
-          "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:23:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-          "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-          "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-          "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
-          "recommend_reason_zh": "Cloud sessions 正式脱离 research preview 上线，让 Claude Code 在笔记本合盖后仍能持续工作；现有订阅者可获一次性体验额度，Pro 为 100 美元、Max 为 250 美元。",
-          "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:23:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9404,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:23:41Z",
-      "latest_at": "2026-09-23T21:23:41Z",
-      "primary_item": {
-        "id": "e05ba012ca0ce4f3fb7bcfe0f8f06ff3efaffaec",
-        "title": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度 / Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "title_zh": "Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度",
-        "title_en": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "title_original": "Cloud sessions are officially available and out of research preview！ They let you keep Claude Code w…",
-        "summary": "Claude Code 云会话正式可用，结束研究预览阶段，可在笔记本合盖后继续在 Anthropic 托管的基础设施上运行。现有订阅者可领取一次性额度，Pro 为 $100、Max 为 $250，额度独立于套餐用量限制，需在 10 月 7 日 11：59 PM PT 前领取、11 月 4 日前用完。",
-        "recommend_reason_zh": "Cloud sessions 正式脱离 research preview 上线，让 Claude Code 在笔记本合盖后仍能持续工作；现有订阅者可获一次性体验额度，Pro 为 100 美元、Max 为 250 美元。",
-        "url": "https://x.com/ClaudeDevs/status/2102871550974427462",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "云会话转正，Pro/Max 能领额度，重度用户今天就能把长任务丢云端跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1870,15 +1984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1906,7 +2020,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -1954,15 +2068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9936,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1990,7 +2104,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -2038,15 +2152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2074,7 +2188,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     },
     {
@@ -2122,15 +2236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9319,
+        "recency": 0.8901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -2159,91 +2273,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
-      }
-    },
-    {
-      "story_id": "story_76e284c5a332",
-      "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "primary_url": "https://x.com/ericzakariasson/status/2102853511637774551",
-      "source": "X：Eric Zakariasson (@ericzakariasson)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-          "recommend_reason_zh": "Cursor 分享了一份提示词，用于提升 LLM agent harness 的 token 效率，覆盖 system prompt、tool definitions、context caching 与 retrieval 等环节，并说明工作如何拆分。",
-          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-          "source": "X：Eric Zakariasson (@ericzakariasson)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T20:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Eric Zakariasson (@ericzakariasson)"
-      ],
-      "items": [
-        {
-          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-          "recommend_reason_zh": "Cursor 分享了一份提示词，用于提升 LLM agent harness 的 token 效率，覆盖 system prompt、tool definitions、context caching 与 retrieval 等环节，并说明工作如何拆分。",
-          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-          "source": "X：Eric Zakariasson (@ericzakariasson)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T20:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9243,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T20:12:00Z",
-      "latest_at": "2026-09-23T20:12:00Z",
-      "primary_item": {
-        "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
-        "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
-        "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
-        "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
-        "recommend_reason_zh": "Cursor 分享了一份提示词，用于提升 LLM agent harness 的 token 效率，覆盖 system prompt、tool definitions、context caching 与 retrieval 等环节，并说明工作如何拆分。",
-        "url": "https://x.com/ericzakariasson/status/2102853511637774551",
-        "source": "X：Eric Zakariasson (@ericzakariasson)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Cursor 团队的提示词可直接抄，省 token 就是省钱，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-24T01:57:54.030978Z"
+        "scored_at": "2026-09-24T05:08:49.507432Z"
       }
     }
   ]
