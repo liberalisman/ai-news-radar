@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:00:35.616540Z",
+  "generated_at": "2026-09-24T01:57:58.305612Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f7f4cf21d48a",
-      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
+      "story_id": "story_4b75c8247471",
+      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "价格战是真降了，但三家同月发版，参数表挑着晒，Simon 的实测比 PR 稿诚实。"
+          "score": 78,
+          "review": "Warp 和 MjWarp 是真能跑 GPU 的，但通篇没给对比基线和加速倍数，教程当软文写。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "博客与多源热议有细节，但无论文、无开源、无公开跑分，价格战说法待验证。"
+          "score": 58,
+          "review": "官方博客教程，Warp 与 MjWarp 均开源可查，但无独立 benchmark 复现数据。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "三家新模型齐发还打价格战，选型表今天就得重算，先看 API 报价再动手。"
+          "score": 82,
+          "review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。"
         }
       }
     }
