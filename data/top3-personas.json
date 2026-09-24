@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:06:43.904723Z",
+  "generated_at": "2026-09-24T10:10:51.327667Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_2dc81b83678c",
-      "title": "千问发布 Qwen-Audio-3.1系列语音大模型，五款模型全线降价最高95%",
-      "url": "https://www.aibase.com/news/31303",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "降价95%听着震撼，可原价定多高才撑得起这个数字？五款齐发更像清库存。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "降价数字明确，但模型评测、代码、benchmark均未附，无法复现。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "语音模型降价95%，做ASR和语音Agent的今天就能换，账单直接砍到脚踝。"
-        }
-      }
-    },
-    {
       "story_id": "story_ef9959cf1c4e",
       "title": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello",
       "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -60,7 +40,7 @@
       "story_id": "story_4b75c8247471",
       "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a34e63681a0b",
+      "title": "请求和配置 Copilot 代码审查的更多方式 / More ways to request and configure Copilot code reviews",
+      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "多几种触发方式也算更新，changelog 凑数凑得理直气壮。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方 changelog 只讲功能入口，无评测数据无对比，等第三方实测再评。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Copilot 代码审查多了触发方式和配置项，团队今天就能调 CI 流程接上。"
         }
       }
     }
