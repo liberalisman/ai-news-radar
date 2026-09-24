@@ -6135,9 +6135,9 @@
     },
     "story_66517b370dff|pragmatic|0a5c5b24": {
       "score": 82,
-      "review": "GitHub 官方开源了 AI 模糊测试 Agent，安全团队今天就能 clone 跑起来。",
-      "title_hash": "198a0636",
-      "scored_at": "2026-09-24T19:20:07.497114Z"
+      "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。",
+      "title_hash": "700ac41b",
+      "scored_at": "2026-09-24T20:57:50.598181Z"
     },
     "story_941272365c69|pragmatic|0a5c5b24": {
       "score": 62,
@@ -6147,15 +6147,45 @@
     },
     "story_66517b370dff|cynic|f4237a62": {
       "score": 72,
-      "review": "用LLM生成fuzz种子思路不新鲜，好在代码和流程都开源了，水分不多。",
-      "title_hash": "198a0636",
-      "scored_at": "2026-09-24T19:20:09.566178Z"
+      "review": "LLM 编排 fuzzing 流程听着新鲜，但博客通篇没给覆盖率或漏洞数，先当工程演示看。",
+      "title_hash": "700ac41b",
+      "scored_at": "2026-09-24T20:57:54.146783Z"
     },
     "story_66517b370dff|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客有流程细节，但无独立评测与开源仓库，复现性存疑。",
+      "title_hash": "700ac41b",
+      "scored_at": "2026-09-24T20:57:54.807276Z"
+    },
+    "story_3bb099e6ac71|pragmatic|0a5c5b24": {
+      "score": 76,
+      "review": "GitHub 高危操作要加在场验证，CI/CD 和自动化脚本得先查兼容性。",
+      "title_hash": "896b332b",
+      "scored_at": "2026-09-24T20:57:48.807625Z"
+    },
+    "story_edc9f4dfe188|pragmatic|0a5c5b24": {
       "score": 55,
-      "review": "官方博客有技术细节但无独立评测与复现数据，等开源跑分。",
-      "title_hash": "198a0636",
-      "scored_at": "2026-09-24T19:20:10.282574Z"
+      "review": "观点文，讲聊天不是万能交互；做 Copilot 集成的可读，但没新接口可抄。",
+      "title_hash": "49c34a6d",
+      "scored_at": "2026-09-24T20:57:49.679909Z"
+    },
+    "story_c60b0f4c8357|pragmatic|0a5c5b24": {
+      "score": 12,
+      "review": "会议门票促销，跟写代码没关系，直接划走。",
+      "title_hash": "020abc90",
+      "scored_at": "2026-09-24T20:57:51.703165Z"
+    },
+    "story_1e92608c2cdf|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "华为生态用户可白嫖31天，非鸿蒙开发者先观望，接口和定价都没说清。",
+      "title_hash": "f3829956",
+      "scored_at": "2026-09-24T20:57:52.439607Z"
+    },
+    "story_516af246f241|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "融资上市跟写代码没关系，API 价格和模型能力没变，继续用就行。",
+      "title_hash": "ee2a8763",
+      "scored_at": "2026-09-24T20:57:53.394663Z"
     }
   }
 }

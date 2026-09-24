@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:20:10.282626Z",
+  "generated_at": "2026-09-24T20:57:54.807325Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -58,21 +58,21 @@
     },
     {
       "story_id": "story_66517b370dff",
-      "title": "借助 GitHub Security Lab Taskflow Agent 实现 AI 驱动的模糊测试 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
       "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "用LLM生成fuzz种子思路不新鲜，好在代码和流程都开源了，水分不多。"
+          "review": "LLM 编排 fuzzing 流程听着新鲜，但博客通篇没给覆盖率或漏洞数，先当工程演示看。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方博客有技术细节但无独立评测与复现数据，等开源跑分。"
+          "score": 42,
+          "review": "官方博客有流程细节，但无独立评测与开源仓库，复现性存疑。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "GitHub 官方开源了 AI 模糊测试 Agent，安全团队今天就能 clone 跑起来。"
+          "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。"
         }
       }
     }
