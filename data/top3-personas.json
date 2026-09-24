@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:51:59.648618Z",
+  "generated_at": "2026-09-24T19:20:10.282626Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_4b75c8247471",
-      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "story_id": "story_66517b370dff",
+      "title": "借助 GitHub Security Lab Taskflow Agent 实现 AI 驱动的模糊测试 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "Warp 和 MjWarp 是真能跑 GPU 的，但通篇没给对比基线和加速倍数，教程当软文写。"
+          "score": 72,
+          "review": "用LLM生成fuzz种子思路不新鲜，好在代码和流程都开源了，水分不多。"
         },
         "paper-police": {
-          "score": 58,
-          "review": "官方博客教程，Warp 与 MjWarp 均开源可查，但无独立 benchmark 复现数据。"
+          "score": 55,
+          "review": "官方博客有技术细节但无独立评测与复现数据，等开源跑分。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。"
+          "review": "GitHub 官方开源了 AI 模糊测试 Agent，安全团队今天就能 clone 跑起来。"
         }
       }
     }
