@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:35:35.398785Z",
+  "generated_at": "2026-09-24T15:24:33.788034Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_9edda83740af",
+      "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "加速比只给自家基线，没提精度掉多少——省下的算力是不是从准确率里抠的？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客有模型卡和数字，但无论文无第三方复现，先当宣传看。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。"
+        }
+      }
+    },
+    {
       "story_id": "story_4b75c8247471",
       "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a34e63681a0b",
-      "title": "请求和配置 Copilot 代码审查的更多方式 / More ways to request and configure Copilot code reviews",
-      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "多几种触发方式也算更新，changelog 凑数凑得理直气壮。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只讲功能入口，无评测数据无对比，等第三方实测再评。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 代码审查多了触发方式和配置项，团队今天就能调 CI 流程接上。"
         }
       }
     }

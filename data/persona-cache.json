@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_16469548a272|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "多模态编码器新选择，做检索或跨语言任务的可以看下效果再决定是否替换。",
-      "title_hash": "107fa520",
-      "scored_at": "2026-09-03T15:22:42.152344Z"
-    },
-    "story_6129f245443c|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "收购离代码远，等 API 和模型托管政策落地再动。",
-      "title_hash": "bd988f72",
-      "scored_at": "2026-09-03T15:22:43.123227Z"
-    },
-    "story_49f7f7e715ad|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "CI 安全扫描更全了，用 GitHub Actions 的今天就能升级试试。",
-      "title_hash": "0730beeb",
-      "scored_at": "2026-09-03T15:22:45.051349Z"
-    },
-    "story_edf252f7cb9c|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "GRPO微调350M模型100步出结构化输出，小模型可抄作业，值得试。",
-      "title_hash": "ad271cec",
-      "scored_at": "2026-09-03T15:22:45.855728Z"
-    },
-    "story_edf252f7cb9c|cynic|f4237a62": {
-      "score": 72,
-      "review": "百步调参就敢晒结构化输出，demo挑得巧，换复杂任务怕是要现原形。",
-      "title_hash": "ad271cec",
-      "scored_at": "2026-09-03T15:22:46.756238Z"
-    },
-    "story_edf252f7cb9c|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客给了步骤和数字，但无代码无独立验证，等复现再信。",
-      "title_hash": "ad271cec",
-      "scored_at": "2026-09-03T15:22:47.514904Z"
-    },
     "story_f1454cb33a85|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "Copilot 用户今天就能切新模型，代码补全和聊天体验直接升级。",
@@ -6102,6 +6066,36 @@
       "review": "官方 changelog 只讲功能入口，无评测数据无对比，等第三方实测再评。",
       "title_hash": "7a855212",
       "scored_at": "2026-09-24T10:10:51.327616Z"
+    },
+    "story_9edda83740af|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。",
+      "title_hash": "4b5304fe",
+      "scored_at": "2026-09-24T15:24:30.195082Z"
+    },
+    "story_072908c15f30|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "监管风向标，但没新工具没接口，做安全合规的记一笔就行。",
+      "title_hash": "a76b92fe",
+      "scored_at": "2026-09-24T15:24:31.184622Z"
+    },
+    "story_6c9d14ec3920|pragmatic|0a5c5b24": {
+      "score": 18,
+      "review": "口水战加标题党，不产出代码也不改接口，扫一眼跳过。",
+      "title_hash": "ee4e1fad",
+      "scored_at": "2026-09-24T15:24:31.919624Z"
+    },
+    "story_9edda83740af|cynic|f4237a62": {
+      "score": 62,
+      "review": "加速比只给自家基线，没提精度掉多少——省下的算力是不是从准确率里抠的？",
+      "title_hash": "4b5304fe",
+      "scored_at": "2026-09-24T15:24:32.841674Z"
+    },
+    "story_9edda83740af|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客有模型卡和数字，但无论文无第三方复现，先当宣传看。",
+      "title_hash": "4b5304fe",
+      "scored_at": "2026-09-24T15:24:33.787947Z"
     }
   }
 }

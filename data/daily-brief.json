@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:16:42.323320Z",
+  "generated_at": "2026-09-24T15:05:41.622386Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -68,7 +68,7 @@
           "published_at": "2026-09-23T15:50:02Z"
         },
         {
-          "id": "65216376731d8530ae55b4a4b9d2441b69bfef86",
+          "id": "5e236f6e50e4500b1b5714561a9c732eddcdf4d6",
           "title": "Gemini 3.8 文本转语音 / Gemini 3.8 text-to-speech",
           "title_zh": "Gemini 3.8 文本转语音",
           "title_en": "Gemini 3.8 text-to-speech",
@@ -76,9 +76,9 @@
           "summary": null,
           "recommend_reason_zh": "Gemini 3.8 Flash TTS将30种预设声音扩展为无限声音库，在Hume AI语音设计基准以71.4分居首，支持定制角色、口音与情感语调及场景对白。",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T15:29:23Z"
         },
         {
@@ -128,6 +128,7 @@
       "source_names": [
         "Google DeepMind",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Simon Willison",
         "Techmeme",
         "blog.google",
@@ -191,7 +192,7 @@
           "published_at": "2026-09-23T15:50:02Z"
         },
         {
-          "id": "65216376731d8530ae55b4a4b9d2441b69bfef86",
+          "id": "5e236f6e50e4500b1b5714561a9c732eddcdf4d6",
           "title": "Gemini 3.8 文本转语音 / Gemini 3.8 text-to-speech",
           "title_zh": "Gemini 3.8 文本转语音",
           "title_en": "Gemini 3.8 text-to-speech",
@@ -199,9 +200,9 @@
           "summary": null,
           "recommend_reason_zh": "Gemini 3.8 Flash TTS将30种预设声音扩展为无限声音库，在Hume AI语音设计基准以71.4分居首，支持定制角色、口音与情感语调及场景对白。",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-23T15:29:23Z"
         },
         {
@@ -249,15 +250,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.9052,
-      "importance": 0.9052,
-      "importance_score": 0.9052,
+      "score": 0.8999,
+      "importance": 0.8999,
+      "importance_score": 0.8999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7399,
+        "recency": 0.7104,
         "story_heat": 1.0
       },
       "category": "official",
@@ -287,7 +288,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
+      }
+    },
+    {
+      "story_id": "story_9edda83740af",
+      "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+          "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": "借助 LFM2.5-VL-DSpark 加速视觉语言模型",
+          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does speculative decoding work for VLMs Training and Architecture Inference Speedup on CPU and GPU Limitations of speculation for vision workloads How to use LFM2.5-VL-DSpark Get Started Citation Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B . As with our recently released LFM2.5-DSpark drafter models , it adds a speculative decoding path that trades a min",
+          "recommend_reason_zh": "Liquid AI 为 LFM2.5-VL-3B 发布 DSpark 草稿模型，仅增 8.9% 参数量，在 M5 Max 上解码提速 2.30x–3.13x。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T14:08:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+          "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_zh": "借助 LFM2.5-VL-DSpark 加速视觉语言模型",
+          "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does speculative decoding work for VLMs Training and Architecture Inference Speedup on CPU and GPU Limitations of speculation for vision workloads How to use LFM2.5-VL-DSpark Get Started Citation Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B . As with our recently released LFM2.5-DSpark drafter models , it adds a speculative decoding path that trades a min",
+          "recommend_reason_zh": "Liquid AI 为 LFM2.5-VL-3B 发布 DSpark 草稿模型，仅增 8.9% 参数量，在 M5 Max 上解码提速 2.30x–3.13x。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T14:08:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8636,
+      "importance": 0.8636,
+      "importance_score": 0.8636,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9864,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:08:57Z",
+      "latest_at": "2026-09-24T14:08:57Z",
+      "primary_item": {
+        "id": "fda3f4240a7fe0630b3ebdc8a9c9e83937fda9bd",
+        "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "title_zh": "借助 LFM2.5-VL-DSpark 加速视觉语言模型",
+        "title_en": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "title_original": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+        "summary": "A Blog post by Liquid AI on Hugging Face\nA Blog post by Liquid AI on Hugging Face\nHow does speculative decoding work for VLMs Training and Architecture Inference Speedup on CPU and GPU Limitations of speculation for vision workloads How to use LFM2.5-VL-DSpark Get Started Citation Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B . As with our recently released LFM2.5-DSpark drafter models , it adds a speculative decoding path that trades a min",
+        "recommend_reason_zh": "Liquid AI 为 LFM2.5-VL-3B 发布 DSpark 草稿模型，仅增 8.9% 参数量，在 M5 Max 上解码提速 2.30x–3.13x。",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -335,15 +421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8513,
-      "importance": 0.8513,
-      "importance_score": 0.8513,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.996,
+        "recency": 0.9563,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,7 +458,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -507,15 +593,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8411,
+      "importance": 0.8411,
+      "importance_score": 0.8411,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8244,
+        "recency": 0.7916,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -544,7 +630,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -650,15 +736,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7731,
+        "recency": 0.7423,
         "story_heat": 0.5
       },
       "category": "official",
@@ -687,7 +773,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -850,15 +936,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7524,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -887,92 +973,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
-      "story_id": "story_4b75c8247471",
-      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_072908c15f30",
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "primary_url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": "澳大利亚宣布调查 OpenAI 对政府健康网站的入侵是否违法，这是已知首起波及政府机构的入侵事件，澳总理誓言要追究 OpenAI 的责任。",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": null,
-          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T18:41:40Z"
+          "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+          "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+          "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+          "recommend_reason_zh": "澳大利亚宣布调查 OpenAI 对政府健康网站的入侵是否违法，这是已知首起波及政府机构的入侵事件，澳总理誓言要追究 OpenAI 的责任。",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T12:54:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
-      "importance_label": "官方更新",
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
+        "editorial": 0.89,
+        "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7758,
+        "recency": 0.9689,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:41:40Z",
-      "latest_at": "2026-09-23T18:41:40Z",
+      "earliest_at": "2026-09-24T12:54:19Z",
+      "latest_at": "2026-09-24T12:54:19Z",
       "primary_item": {
-        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
-        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "summary": null,
-        "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
-        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "d5001bc94486c5b3dc92bb6a990334f9bec6e2f3",
+        "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法 / Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_zh": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+        "title_en": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "title_original": "Australia to investigate if OpenAI hack of government health website broke the law",
+        "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+        "recommend_reason_zh": "澳大利亚宣布调查 OpenAI 对政府健康网站的入侵是否违法，这是已知首起波及政府机构的入侵事件，澳总理誓言要追究 OpenAI 的责任。",
+        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。",
+      "persona_score": 45,
+      "persona_review": "监管风向标，但没新工具没接口，做安全合规的记一笔就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1020,15 +1105,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.807,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1057,7 +1142,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1163,15 +1248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8155,
-      "importance": 0.8155,
-      "importance_score": 0.8155,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.837,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1200,7 +1285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1248,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7735,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1285,7 +1370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1333,15 +1418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.768,
+        "recency": 0.7374,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1370,7 +1455,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
+      }
+    },
+    {
+      "story_id": "story_4b75c8247471",
+      "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+          "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+          "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "summary": null,
+          "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+          "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T18:41:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7448,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T18:41:40Z",
+      "latest_at": "2026-09-23T18:41:40Z",
+      "primary_item": {
+        "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
+        "title": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": "如何用 NVIDIA Warp 和 MjWarp 加速机器人仿真与学习工作流",
+        "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "summary": null,
+        "recommend_reason_zh": "这篇NVIDIA博客以SO-101为例讲清如何把机器人仿真模型从MuJoCo迁移到最多2,048个并行MJWarp环境，并说明Warp 1.15版的确定性执行。",
+        "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "做机器人仿真的可以直接抄这套 GPU 加速方案，Warp+MjWarp 有教程能跑。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1446,15 +1616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9677,
+        "recency": 0.9292,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1483,30 +1653,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
-      "story_id": "story_4784460ec311",
-      "title": "GitHub Copilot app 中的本地沙盒机制 / Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "story_id": "story_e8c6ef86f111",
+      "title": "GitHub Actions 中不再提供 Node 20 / Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot app 中的本地沙盒机制 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot app 中的本地沙盒机制",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "GitHub Actions 中不再提供 Node 20 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "GitHub Actions 中不再提供 Node 20",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 本地沙箱默认关闭，可按项目限制文件、网络与凭据访问，活动会话可用 /sandbox 临时启用，目前为公开预览。",
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub Actions runners 已移除 Node 20，JavaScript actions 须改用 Node 24，维护者需将 runs.using 更新为 node24 并发布新 release，工作流中的 action 也要升级到支持 Node 24 的版本，临时豁免选项已关闭。",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "source_count": 1,
@@ -1515,31 +1685,31 @@
       ],
       "items": [
         {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot app 中的本地沙盒机制 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot app 中的本地沙盒机制",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "GitHub Actions 中不再提供 Node 20 / Node 20 is no longer available in GitHub Actions",
+          "title_zh": "GitHub Actions 中不再提供 Node 20",
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app 本地沙箱默认关闭，可按项目限制文件、网络与凭据访问，活动会话可用 /sandbox 临时启用，目前为公开预览。",
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub Actions runners 已移除 Node 20，JavaScript actions 须改用 Node 24，维护者需将 runs.using 更新为 node24 并发布新 release，工作流中的 action 也要升级到支持 Node 24 的版本，临时豁免选项已关闭。",
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
+          "published_at": "2026-09-23T20:46:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7356,
+        "ai_relevance": 0.87,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1548,112 +1718,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
       "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "GitHub Copilot app 中的本地沙盒机制 / Local sandboxing in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot app 中的本地沙盒机制",
-        "title_en": "Local sandboxing in the GitHub Copilot app",
-        "title_original": "Local sandboxing in the GitHub Copilot app",
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "GitHub Actions 中不再提供 Node 20 / Node 20 is no longer available in GitHub Actions",
+        "title_zh": "GitHub Actions 中不再提供 Node 20",
+        "title_en": "Node 20 is no longer available in GitHub Actions",
+        "title_original": "Node 20 is no longer available in GitHub Actions",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot app 本地沙箱默认关闭，可按项目限制文件、网络与凭据访问，活动会话可用 /sandbox 临时启用，目前为公开预览。",
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "recommend_reason_zh": "GitHub Actions runners 已移除 Node 20，JavaScript actions 须改用 Node 24，维护者需将 runs.using 更新为 node24 并发布新 release，工作流中的 action 也要升级到支持 Node 24 的版本，临时豁免选项已关闭。",
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 82,
-      "persona_review": "Copilot 能本地跑代码沙盒了，写 Agent 的可以直接抄这套隔离方案。",
+      "persona_review": "CI 里锁 node-version: 20 的流水线会直接挂，今天就去升到 22。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
-      }
-    },
-    {
-      "story_id": "story_e8d7d86b4448",
-      "title": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI",
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": "这篇 NVIDIA 博客介绍 NVIDIA Nemotron 3 Diarization：这个 100M 参数开放权重模型以 14.72% DER 登顶 VoiceArena Diarization-Bench，支持最多 8 人重叠语音和可调流式延迟，并说明 David AI 数据把 compound DER 从 11.19% 降至 10.42%。",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI",
-          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "summary": null,
-          "recommend_reason_zh": "这篇 NVIDIA 博客介绍 NVIDIA Nemotron 3 Diarization：这个 100M 参数开放权重模型以 14.72% DER 登顶 VoiceArena Diarization-Bench，支持最多 8 人重叠语音和可调流式延迟，并说明 David AI 数据把 compound DER 从 11.19% 降至 10.42%。",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T13:17:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7174,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T13:17:01Z",
-      "latest_at": "2026-09-23T13:17:01Z",
-      "primary_item": {
-        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-        "title": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_zh": "知道谁在何时说话：用 NVIDIA Nemotron 3 Diarization 打造实时多说话人 AI",
-        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "summary": null,
-        "recommend_reason_zh": "这篇 NVIDIA 博客介绍 NVIDIA Nemotron 3 Diarization：这个 100M 参数开放权重模型以 14.72% DER 登顶 VoiceArena Diarization-Bench，支持最多 8 人重叠语音和可调流式延迟，并说明 David AI 数据把 compound DER 从 11.19% 降至 10.42%。",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "说话人分离模型开放，会议转录、实时字幕项目可直接接入试跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1701,15 +1786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7461,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1738,7 +1823,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1786,15 +1871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1822,7 +1907,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1870,15 +1955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7463,
+        "recency": 0.7166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1907,7 +1992,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -1955,15 +2040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7586,
+        "recency": 0.7284,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1991,7 +2076,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
@@ -2039,15 +2124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8522,
+        "recency": 0.8182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2075,176 +2160,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     },
     {
-      "story_id": "story_a802612f26c2",
-      "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-      "url": "https://www.aibase.com/news/31348",
-      "primary_url": "https://www.aibase.com/news/31348",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-          "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_en": null,
-          "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3.1 被曝十月登场：三档推理强度 Low/High/Max、100万 Token 超长上下文，或原生支持 Agent 与 Swarm 多智能体协作。",
-          "url": "https://www.aibase.com/news/31348",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T10:00:24.569297Z"
-        },
-        {
-          "id": "03742b1c312632719cfe842f4aff2b17326ab8ac",
-          "title": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "title_zh": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "title_en": null,
-          "title_original": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "summary": null,
-          "recommend_reason_zh": "据 Wccftech 报道，Moonshot 计划下月（2026 年 10 月）发布 Kimi K3.1，爆料源 @MaxForAI 从内部 JSON/API 发现 k3d1-agent、Low/High/Max 三档推理强度、百万 Token 上下文、Agent 与 Swarm 配置，并对照 2026 年 7 月发布、2.8 万亿参数的 Kimi K3，值得关注其升级与旗舰定位。",
-          "url": "https://www.aibase.com/news/31339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T06:45:36.108935Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-          "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "title_en": null,
-          "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3.1 被曝十月登场：三档推理强度 Low/High/Max、100万 Token 超长上下文，或原生支持 Agent 与 Swarm 多智能体协作。",
-          "url": "https://www.aibase.com/news/31348",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T10:00:24.569297Z"
-        },
-        {
-          "id": "03742b1c312632719cfe842f4aff2b17326ab8ac",
-          "title": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "title_zh": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "title_en": null,
-          "title_original": "消息称 Kimi K3.1 下月登场，三档推理强度 + 百万 Token",
-          "summary": null,
-          "recommend_reason_zh": "据 Wccftech 报道，Moonshot 计划下月（2026 年 10 月）发布 Kimi K3.1，爆料源 @MaxForAI 从内部 JSON/API 发现 k3d1-agent、Low/High/Max 三档推理强度、百万 Token 上下文、Agent 与 Swarm 配置，并对照 2026 年 7 月发布、2.8 万亿参数的 Kimi K3，值得关注其升级与旗舰定位。",
-          "url": "https://www.aibase.com/news/31339",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-24T06:45:36.108935Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9677,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T06:45:36.108935Z",
-      "latest_at": "2026-09-24T10:00:24.569297Z",
-      "primary_item": {
-        "id": "90ce9f84b627eda47df99dc0f98635ebf9c8b6ff",
-        "title": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-        "title_zh": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-        "title_en": null,
-        "title_original": "Kimi K3.1十月或压轴登场:三档推理强度、百万超长上下文，Agent与Swarm全塞进配置",
-        "summary": null,
-        "recommend_reason_zh": "Kimi K3.1 被曝十月登场：三档推理强度 Low/High/Max、100万 Token 超长上下文，或原生支持 Agent 与 Swarm 多智能体协作。",
-        "url": "https://www.aibase.com/news/31348",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "还没发布，等 API 真开放再评估；百万上下文和 Swarm 配置值得先记一笔。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
-      }
-    },
-    {
-      "story_id": "story_c47cc5cebc25",
-      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-      "source": "OpenRouter：Announcements（RSS）",
+      "story_id": "story_6c9d14ec3920",
+      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
+      "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "primary_url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
+          "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+          "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-          "source": "OpenRouter：Announcements（RSS）",
+          "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T00:00:00Z"
+          "published_at": "2026-09-24T12:27:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
+          "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+          "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+          "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-          "source": "OpenRouter：Announcements（RSS）",
+          "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-24T00:00:00Z"
+          "published_at": "2026-09-24T12:27:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8375,
+        "recency": 0.9627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2252,27 +2224,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T00:00:00Z",
-      "latest_at": "2026-09-24T00:00:00Z",
+      "earliest_at": "2026-09-24T12:27:50Z",
+      "latest_at": "2026-09-24T12:27:50Z",
       "primary_item": {
-        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+        "id": "edea0fcca689be6ff0e0727e7e3ff4d2b6db3fdd",
+        "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI / \"I think the answer is we have to shut the labs down\" - Jensen Huang",
+        "title_zh": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+        "title_en": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+        "title_original": "\"I think the answer is we have to shut the labs down\" - Jensen Huang",
+        "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
         "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-        "source": "OpenRouter：Announcements（RSS）",
+        "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "开源权重加调用方式都给了，想换模型的今天就能试。",
+      "persona_score": 18,
+      "persona_review": "口水战加标题党，不产出代码也不改接口，扫一眼跳过。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-24T12:35:35.398560Z"
+        "scored_at": "2026-09-24T15:24:27.384235Z"
       }
     }
   ]
