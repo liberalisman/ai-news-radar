@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:26:30.299328Z",
+  "generated_at": "2026-09-25T19:14:34.848807Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_fa6f9d4b24a5",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
+      "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "单价降两成、缓存读降六成，数字挺实在；但只算token价，没提任务重试和上下文膨胀的账。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方推文只报降价百分比，无定价页链接、无实测账单，先拿账单再谈省钱。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "输入输出降20%、缓存读降60%，跑Claude Code的今天就能省账单。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3086a0a8d592",
+      "title": "Agentic 自动修复现已采用 Copilot Memory / Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "自动修复接上记忆算合理迭代，但changelog只有一段话，修复率和误改率一个数都没给。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方 changelog 只说用了 Memory，无评测数字、无代码、无复现路径。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "自动修复能记住历史上下文，CI 里少踩重复坑，值得开开关试。"
+        }
+      }
+    },
+    {
       "story_id": "story_7625d6ca7283",
       "title": "Codex CLI 0.157.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "Codex CLI 例行更新，先看 changelog 有没有破坏性改动再升级。"
-        }
-      }
-    },
-    {
-      "story_id": "story_66517b370dff",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "LLM 编排 fuzzing 流程听着新鲜，但博客通篇没给覆盖率或漏洞数，先当工程演示看。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方博客有流程细节，但无独立评测与开源仓库，复现性存疑。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3bb099e6ac71",
-      "title": "高影响操作需提供在场证明 / Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "物理在场验证确实能挡住远程盗号，但硬件密钥没普及前，这门槛先卡住的是自己用户。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方changelog有具体机制说明，但无第三方复现或独立评测，证据单薄。"
-        },
-        "pragmatic": {
-          "score": 76,
-          "review": "GitHub 高危操作要加在场验证，CI/CD 和自动化脚本得先查兼容性。"
         }
       }
     }
