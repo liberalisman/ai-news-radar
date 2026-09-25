@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T08:15:05.566011Z",
+  "generated_at": "2026-09-25T14:06:43.089159Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_5eae3eb80c10",
-      "title": "隆重推出 Gemini 3.8 Live，搭载 Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "版本号从3跳到3.8，中间那0.8是留给发布会PPT的？Live Avatar演示记得关掉网络延迟。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方博客发布，无论文、无代码、无第三方评测，Live Avatar 效果无从复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "实时多模态加数字人，做语音助手和直播交互的可以试接口了。"
-        }
-      }
-    },
-    {
       "story_id": "story_9edda83740af",
       "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_66517b370dff",
+      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "LLM 编排 fuzzing 流程听着新鲜，但博客通篇没给覆盖率或漏洞数，先当工程演示看。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客有流程细节，但无独立评测与开源仓库，复现性存疑。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。"
         }
       }
     }
