@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:05:55.628181Z",
+  "generated_at": "2026-09-25T07:56:03.457749Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_7625d6ca7283",
+      "title": "Codex CLI 0.157.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "版本号跳得勤，changelog 却只列了几条修补，官方更新不等于有料。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "官方 changelog 有版本号但无评测数字，等代码和跑分再评。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Codex CLI 例行更新，先看 changelog 有没有破坏性改动再升级。"
+        }
+      }
+    },
+    {
       "story_id": "story_5eae3eb80c10",
       "title": "隆重推出 Gemini 3.8 Live，搭载 Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
       "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -40,7 +60,7 @@
       "story_id": "story_9edda83740af",
       "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_66517b370dff",
-      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "LLM 编排 fuzzing 流程听着新鲜，但博客通篇没给覆盖率或漏洞数，先当工程演示看。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方博客有流程细节，但无独立评测与开源仓库，复现性存疑。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。"
         }
       }
     }
