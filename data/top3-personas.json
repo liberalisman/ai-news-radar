@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:06:43.089159Z",
+  "generated_at": "2026-09-25T14:26:30.299328Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_9edda83740af",
-      "title": "借助 LFM2.5-VL-DSpark 加速视觉语言模型 / Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "加速比只给自家基线，没提精度掉多少——省下的算力是不是从准确率里抠的？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方博客有模型卡和数字，但无论文无第三方复现，先当宣传看。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Liquid AI 新 VLM 权重已上 HF，能直接拉下来跑，做端侧多模态的值得试。"
-        }
-      }
-    },
-    {
       "story_id": "story_66517b370dff",
       "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程 / AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
       "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "C/C++ 项目可直接接的自动化 fuzz 流程，安全团队值得试跑。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3bb099e6ac71",
+      "title": "高影响操作需提供在场证明 / Require proof of presence for high-impact actions",
+      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 78,
+          "review": "物理在场验证确实能挡住远程盗号，但硬件密钥没普及前，这门槛先卡住的是自己用户。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方changelog有具体机制说明，但无第三方复现或独立评测，证据单薄。"
+        },
+        "pragmatic": {
+          "score": 76,
+          "review": "GitHub 高危操作要加在场验证，CI/CD 和自动化脚本得先查兼容性。"
         }
       }
     }
