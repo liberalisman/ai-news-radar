@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:32:02.253657Z",
+  "generated_at": "2026-09-26T19:59:33.305659Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,50 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_fa6f9d4b24a5",
-      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化 / Opus 5.5 is 20% cheaper per input and output token than Opus 5， and 60% cheaper on cache reads. So w…",
-      "url": "https://x.com/ClaudeDevs/status/2103548467729887677",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "单价降两成、缓存读降六成，数字挺实在；但只算token价，没提任务重试和上下文膨胀的账。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方推文只报降价百分比，无定价页链接、无实测账单，先拿账单再谈省钱。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "输入输出降20%、缓存读降60%，跑Claude Code的今天就能省账单。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3086a0a8d592",
-      "title": "Agentic 自动修复现已采用 Copilot Memory / Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "自动修复接上记忆算合理迭代，但changelog只有一段话，修复率和误改率一个数都没给。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方 changelog 只说用了 Memory，无评测数字、无代码、无复现路径。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "自动修复能记住历史上下文，CI 里少踩重复坑，值得开开关试。"
-        }
-      }
-    },
-    {
       "story_id": "story_1b2804dac47a",
       "title": "Codex CLI 0.157.1",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +33,46 @@
         "pragmatic": {
           "score": 72,
           "review": "小版本迭代，先看 changelog 有没有破坏性改动再升级。"
+        }
+      }
+    },
+    {
+      "story_id": "story_07c3181c791a",
+      "title": "企业托管设置的产品内验证器 / Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "终于能在产品里自查托管配置了，省得改错一个字段全公司 CI 集体躺平。就是这功能早该有。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方更新有细节但无论文无代码，第三方无法复现验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "企业管理员配策略时能当场校验，省掉试错，普通开发者用不上。"
+        }
+      }
+    },
+    {
+      "story_id": "story_d32b9e9d97fb",
+      "title": "Usage metrics API 新增 pull request review 阶段 / Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "给指标加个阶段字段，实用但也就一行 changelog 的量，别当大版本吹。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方 changelog 有接口细节但无独立验证，属有迹可循，等实测。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "GitHub 用量指标 API 加了 PR review 阶段，做研发效能看板的可以直接接。"
         }
       }
     }

@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7bf3b1465465|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "榜单更新看看就好，不直接影响选型，等有具体模型变化再动手。",
-      "title_hash": "7eb4a06e",
-      "scored_at": "2026-09-05T18:32:09.112111Z"
-    },
-    "story_9796580b8d66|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "收购案离代码太远，数据归属和价格战跟开发者日常无关。",
-      "title_hash": "7d832d65",
-      "scored_at": "2026-09-05T18:32:10.134726Z"
-    },
-    "story_3a29e4c9849f|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "代码审查实测有收益但隐私成本需权衡，想用先看自己数据能不能出域。",
-      "title_hash": "67c1f0b4",
-      "scored_at": "2026-09-05T18:32:11.079363Z"
-    },
-    "story_742f2663ddb9|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "调度器对Agent编排有用，但需看是否开源可自托管，先试再评。",
-      "title_hash": "4e87391f",
-      "scored_at": "2026-09-05T18:32:11.967875Z"
-    },
-    "story_e1e7a08cca0d|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "事故披露框架是流程改进，不直接影响选型，等具体规则出来再说。",
-      "title_hash": "5b4f4cf8",
-      "scored_at": "2026-09-05T19:44:30.243482Z"
-    },
-    "story_1997e8c82d30|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数学证明开源对AI验证有用，但非日常开发工具，暂不需行动。",
-      "title_hash": "6991c2bd",
-      "scored_at": "2026-09-05T19:44:31.133002Z"
-    },
-    "story_5110803ce212|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "形式化证明验证了推理能力，但暂无直接可用的工具或API，观望。",
-      "title_hash": "331a1a92",
-      "scored_at": "2026-09-05T19:44:32.038783Z"
-    },
-    "story_a03b9d86c084|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "融资消息不写代码，等它降价或开放再管。",
-      "title_hash": "7fd3ad31",
-      "scored_at": "2026-09-05T19:44:32.889267Z"
-    },
-    "story_5110803ce212|cynic|f4237a62": {
-      "score": 72,
-      "review": "机器校验证明是硬功夫，但别急着封神，先看看形式化范围有没有注水。",
-      "title_hash": "331a1a92",
-      "scored_at": "2026-09-05T19:44:33.820022Z"
-    },
-    "story_5110803ce212|paper-police|966065bf": {
-      "score": 10,
-      "review": "仅一条推特宣称，无论文无代码无验证，机器校验证明无从查证。",
-      "title_hash": "331a1a92",
-      "scored_at": "2026-09-05T19:44:34.679014Z"
-    },
     "story_f0b96624cb5e|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "纯学术警示，无工具无方案，等有干预措施再动。",
@@ -6090,6 +6030,72 @@
       "review": "一个吐槽缩写梗，没有工具没有代码，看完就忘。",
       "title_hash": "4e2176eb",
       "scored_at": "2026-09-26T17:22:32.793657Z"
+    },
+    "story_a7326ac13231|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "智能体乱点网站还泄图，提醒你给爬虫和Agent加白名单与权限隔离。",
+      "title_hash": "bda21920",
+      "scored_at": "2026-09-26T19:59:23.466831Z"
+    },
+    "story_29b2d1a4de1e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "智能体越权联网、泄 token 是真实攻击面，做 Agent 的今天该查自己的沙箱和凭证隔离。",
+      "title_hash": "5660da34",
+      "scored_at": "2026-09-26T19:59:24.548583Z"
+    },
+    "story_c75de04f82b4|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "榜单第一不等于能调用，等 API 开放和价格出来再决定换不换。",
+      "title_hash": "fae4dbcf",
+      "scored_at": "2026-09-26T19:59:25.371236Z"
+    },
+    "story_21d746909977|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "安全事件复盘，读读攻击链有收获，但没补丁没工具，今天不用改代码。",
+      "title_hash": "86bb00cd",
+      "scored_at": "2026-09-26T19:59:26.334508Z"
+    },
+    "story_84af222cad74|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "肖像权纠纷，跟写代码没关系，除非你在做数字人产品。",
+      "title_hash": "79a9561c",
+      "scored_at": "2026-09-26T19:59:27.302581Z"
+    },
+    "story_100d2be86f26|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "品牌退场不影响你手里的机器，NPU 该闲置还是闲置，买本子别为 AI 标签加钱。",
+      "title_hash": "0b91e89b",
+      "scored_at": "2026-09-26T19:59:28.503317Z"
+    },
+    "story_16720037ed48|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "论坛里的心态讨论，看完不涨技能也不改选型，扫一眼即可。",
+      "title_hash": "2ac5157b",
+      "scored_at": "2026-09-26T19:59:29.416125Z"
+    },
+    "story_07c3181c791a|cynic|f4237a62": {
+      "score": 72,
+      "review": "终于能在产品里自查托管配置了，省得改错一个字段全公司 CI 集体躺平。就是这功能早该有。",
+      "title_hash": "341e3254",
+      "scored_at": "2026-09-26T19:59:30.559623Z"
+    },
+    "story_07c3181c791a|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方更新有细节但无论文无代码，第三方无法复现验证。",
+      "title_hash": "341e3254",
+      "scored_at": "2026-09-26T19:59:31.482830Z"
+    },
+    "story_d32b9e9d97fb|cynic|f4237a62": {
+      "score": 72,
+      "review": "给指标加个阶段字段，实用但也就一行 changelog 的量，别当大版本吹。",
+      "title_hash": "9c040511",
+      "scored_at": "2026-09-26T19:59:32.228183Z"
+    },
+    "story_d32b9e9d97fb|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方 changelog 有接口细节但无独立验证，属有迹可循，等实测。",
+      "title_hash": "9c040511",
+      "scored_at": "2026-09-26T19:59:33.305599Z"
     }
   }
 }
