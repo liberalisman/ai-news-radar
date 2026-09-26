@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_eff828d39dac|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "算力基建动向，短期不直接影响开发，但可留意国产芯片生态进展。",
-      "title_hash": "a6e00549",
-      "scored_at": "2026-09-05T04:46:22.470988Z"
-    },
-    "story_b16389bef877|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "融资和估值不写代码，等有产品落地再看。",
-      "title_hash": "e58db53e",
-      "scored_at": "2026-09-05T06:36:34.439011Z"
-    },
-    "story_b5a6ce3538f8|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "设计参考可看，但无工具或方案，暂不影响开发选型。",
-      "title_hash": "e8587c1c",
-      "scored_at": "2026-09-05T06:36:35.307194Z"
-    },
     "story_a04d0bb5cd05|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "诉讼数量不改变API和模型，开发者无需行动。",
@@ -6156,6 +6138,30 @@
       "review": "官方 changelog 只列版本变更，无 benchmark 无复现步骤，等实测。",
       "title_hash": "09c82532",
       "scored_at": "2026-09-26T01:49:23.024624Z"
+    },
+    "story_a89ebe8c7e1a|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Opus 5.5 输入输出便宜 20%、缓存读便宜 60%，跑 Claude Code 的今天就能换，账单立省。",
+      "title_hash": "18c1297e",
+      "scored_at": "2026-09-26T07:55:24.612899Z"
+    },
+    "story_14f22bf5d953|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "对齐事故的推特讨论，没有可复现细节或修复方案，看完也改不了代码。",
+      "title_hash": "653b939f",
+      "scored_at": "2026-09-26T07:55:25.902611Z"
+    },
+    "story_a89ebe8c7e1a|cynic|f4237a62": {
+      "score": 72,
+      "review": "单价降20%、缓存读降60%是真数字，但只谈token价不谈任务重试率，成本账算一半。",
+      "title_hash": "18c1297e",
+      "scored_at": "2026-09-26T07:55:27.171141Z"
+    },
+    "story_a89ebe8c7e1a|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方推文给了降价百分比，但无定价页、无评测方法、无第三方复现，仅算说法。",
+      "title_hash": "18c1297e",
+      "scored_at": "2026-09-26T07:55:27.986996Z"
     }
   }
 }
