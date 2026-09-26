@@ -1,96 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_a04d0bb5cd05|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "诉讼数量不改变API和模型，开发者无需行动。",
-      "title_hash": "d404b30f",
-      "scored_at": "2026-09-05T09:32:47.002793Z"
-    },
-    "story_bf4a1e858a01|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "新模型上线但额度减半，重度用户先算成本再迁移。",
-      "title_hash": "a2b625f9",
-      "scored_at": "2026-09-05T09:32:47.975077Z"
-    },
-    "story_c77a7436b489|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "事故复盘和披露框架是流程改进，不直接影响选型，等具体规则落地再说。",
-      "title_hash": "b68c2638",
-      "scored_at": "2026-09-05T09:32:49.136989Z"
-    },
-    "story_9589adbbe695|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "概念讨论，不直接给工具或代码，但影响你对模型能力的理解。",
-      "title_hash": "e9c38af3",
-      "scored_at": "2026-09-05T09:32:50.488407Z"
-    },
-    "story_a4c37a83ad98|cynic|f4237a62": {
-      "score": 72,
-      "review": "隐私安全是遮羞布，历史数据照给，只是换个说法。",
-      "title_hash": "4834743f",
-      "scored_at": "2026-09-05T09:32:51.409517Z"
-    },
-    "story_a4c37a83ad98|paper-police|966065bf": {
-      "score": 50,
-      "review": "官方更新有细节，但无代码无benchmark，仅凭changelog难证隐私安全。",
-      "title_hash": "4834743f",
-      "scored_at": "2026-09-05T09:32:52.609127Z"
-    },
-    "story_a9bf5b8e0227|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "运维自动化趋势值得留意，但暂无具体工具或方案可抄，观望即可。",
-      "title_hash": "a342c48d",
-      "scored_at": "2026-09-05T11:22:41.775124Z"
-    },
-    "story_36edef5c4324|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "省 token 的代理方案，跑 Claude Code 的今天就能试，成本直降。",
-      "title_hash": "153e041c",
-      "scored_at": "2026-09-05T11:22:42.851317Z"
-    },
-    "story_36edef5c4324|cynic|f4237a62": {
-      "score": 72,
-      "review": "省90%代币听着唬人，先晒出对比基线和完整测试集再说。",
-      "title_hash": "153e041c",
-      "scored_at": "2026-09-05T11:22:44.103756Z"
-    },
-    "story_36edef5c4324|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方博客自报数字，无论文无代码无第三方验证，90%降幅待复现。",
-      "title_hash": "153e041c",
-      "scored_at": "2026-09-05T11:22:45.117879Z"
-    },
-    "story_a8e8b77962fd|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "承认错误不解决技术问题，等具体机制落地再说。",
-      "title_hash": "e6d4b2bc",
-      "scored_at": "2026-09-05T13:07:22.675605Z"
-    },
-    "story_051a98f64ffa|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "趋势确认，但无新工具或价格变化，暂不需行动。",
-      "title_hash": "e2a941e0",
-      "scored_at": "2026-09-05T13:07:23.524859Z"
-    },
-    "story_903604aee596|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "OpenRouter 已上线 GPT-6 Astra，今天就能调 API 试效果，跑任务前先测兼容性。",
-      "title_hash": "2f37b5b8",
-      "scored_at": "2026-09-05T13:07:24.418744Z"
-    },
-    "story_903604aee596|cynic|f4237a62": {
-      "score": 25,
-      "review": "OpenRouter 挂个名就敢叫 GPT-6 Astra，参数和测试数据呢？",
-      "title_hash": "2f37b5b8",
-      "scored_at": "2026-09-05T13:07:25.742963Z"
-    },
-    "story_903604aee596|paper-police|966065bf": {
-      "score": 10,
-      "review": "仅平台页面与论坛提及，无论文无代码无评测，查无实据。",
-      "title_hash": "2f37b5b8",
-      "scored_at": "2026-09-05T13:07:26.664915Z"
-    },
     "story_a23ce047f1f9|pragmatic|0a5c5b24": {
       "score": 45,
       "review": "提示词技巧和屏蔽词清单可参考，但非硬性工具更新，动手价值一般。",
@@ -6162,6 +6072,12 @@
       "review": "官方推文给了降价百分比，但无定价页、无评测方法、无第三方复现，仅算说法。",
       "title_hash": "18c1297e",
       "scored_at": "2026-09-26T07:55:27.986996Z"
+    },
+    "story_95c817af361a|pragmatic|0a5c5b24": {
+      "score": 12,
+      "review": "演员站台大会，跟你的代码和选型没半点关系。",
+      "title_hash": "13b4f21c",
+      "scored_at": "2026-09-26T13:19:25.759351Z"
     }
   }
 }
