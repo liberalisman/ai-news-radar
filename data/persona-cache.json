@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6b663a3b490f|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "Git原生记忆方案可抄，给Agent加持久上下文，今天能试。",
-      "title_hash": "915c407a",
-      "scored_at": "2026-09-06T01:07:28.874941Z"
-    },
-    "story_6b663a3b490f|cynic|f4237a62": {
-      "score": 72,
-      "review": "Git当记忆库不算新，但胜在实用。宣传别吹成革命，顶多算个正经工具。",
-      "title_hash": "915c407a",
-      "scored_at": "2026-09-06T01:07:29.821279Z"
-    },
-    "story_6b663a3b490f|paper-police|966065bf": {
-      "score": 35,
-      "review": "仅HN帖子宣称Git原生记忆，无论文无代码无评测，证据不足。",
-      "title_hash": "915c407a",
-      "scored_at": "2026-09-06T01:07:30.627762Z"
-    },
     "story_2c7dd97ccc7e|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "机械臂演示离可用还远，等API和文档再说。",
@@ -6066,6 +6048,48 @@
       "review": "媒体报道有具体事件细节，但无论文、无复现、无独立验证，仅单源转述。",
       "title_hash": "5660da34",
       "scored_at": "2026-09-26T22:56:52.418262Z"
+    },
+    "story_29d461ab8b07|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "调查数字再大也不改你的代码，等出安全接口或合规要求再说。",
+      "title_hash": "51a4a674",
+      "scored_at": "2026-09-27T01:30:22.600181Z"
+    },
+    "story_5bb17e238644|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "Marcus 喊召回，没数据没方案，先管好自己 agent 的权限再说。",
+      "title_hash": "9afb0063",
+      "scored_at": "2026-09-27T01:30:23.429210Z"
+    },
+    "story_a19c19544491|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全花絮，看个乐；做 Agent 沙箱的可以顺手查下 DNS 出口。",
+      "title_hash": "78ff5aed",
+      "scored_at": "2026-09-27T01:30:24.469085Z"
+    },
+    "story_c75de04f82b4|cynic|f4237a62": {
+      "score": 72,
+      "review": "1509分是真涨了，但Arena榜单一向偏爱长回答和自家风格，18分优势别急着当通用能力看。",
+      "title_hash": "fae4dbcf",
+      "scored_at": "2026-09-27T01:30:25.349588Z"
+    },
+    "story_c75de04f82b4|paper-police|966065bf": {
+      "score": 42,
+      "review": "Arena榜单分数可查，但无技术报告与复现细节，等第三方验证。",
+      "title_hash": "fae4dbcf",
+      "scored_at": "2026-09-27T01:30:26.169806Z"
+    },
+    "story_2d4d3338bea1|cynic|f4237a62": {
+      "score": 62,
+      "review": "把引擎分析包层 Claude 壳就叫 skill，棋力提升全靠 Stockfish，Claude 只负责写检讨。",
+      "title_hash": "f5bb1271",
+      "scored_at": "2026-09-27T01:30:27.246580Z"
+    },
+    "story_2d4d3338bea1|paper-police|966065bf": {
+      "score": 72,
+      "review": "GitHub 仓库开源可查，但无论文无 benchmark，评测方法未公开。",
+      "title_hash": "f5bb1271",
+      "scored_at": "2026-09-27T01:30:28.001369Z"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:14:22.546964Z",
+  "generated_at": "2026-09-27T01:30:28.001431Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,50 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_1b2804dac47a",
-      "title": "Codex CLI 0.157.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "版本号跳到0.157.1，更新日志却只有几行，这迭代速度是修bug还是刷存在感？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只列版本变更，无 benchmark 无复现步骤，等实测。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "小版本迭代，先看 changelog 有没有破坏性改动再升级。"
-        }
-      }
-    },
-    {
-      "story_id": "story_07c3181c791a",
-      "title": "企业托管设置的产品内验证器 / Enterprise managed settings in-product validator",
-      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "终于能在产品里自查托管配置了，省得改错一个字段全公司 CI 集体躺平。就是这功能早该有。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方更新有细节但无论文无代码，第三方无法复现验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业管理员配策略时能当场校验，省掉试错，普通开发者用不上。"
-        }
-      }
-    },
-    {
       "story_id": "story_29b2d1a4de1e",
       "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
       "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "rank": 3,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +33,46 @@
         "pragmatic": {
           "score": 72,
           "review": "智能体越权联网、泄 token 是真实攻击面，做 Agent 的今天该查自己的沙箱和凭证隔离。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c75de04f82b4",
+      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
+      "url": "https://x.com/arena/status/2103893011164017018",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1509分是真涨了，但Arena榜单一向偏爱长回答和自家风格，18分优势别急着当通用能力看。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "Arena榜单分数可查，但无技术报告与复现细节，等第三方验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "榜单第一不等于能调用，等 API 开放和价格出来再决定换不换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2d4d3338bea1",
+      "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code skill / Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "把引擎分析包层 Claude 壳就叫 skill，棋力提升全靠 Stockfish，Claude 只负责写检讨。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "GitHub 仓库开源可查，但无论文无 benchmark，评测方法未公开。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "开源可 clone，Claude Code 用户下棋复盘能直接用，非棋迷略过。"
         }
       }
     }
