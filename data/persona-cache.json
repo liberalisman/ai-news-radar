@@ -7,36 +7,6 @@
       "title_hash": "9fc808cd",
       "scored_at": "2026-09-06T17:40:57.367789Z"
     },
-    "story_5c53403fc048|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "基准测试数据造假争议，对选型无直接影响，等第三方复测。",
-      "title_hash": "d106c85e",
-      "scored_at": "2026-09-06T11:10:13.047130Z"
-    },
-    "story_f827ef6f6cea|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "新模型实测对比，代码和前端能力有提升，可参考选型，但需确认是否已开放。",
-      "title_hash": "fa43765a",
-      "scored_at": "2026-09-06T11:10:14.050964Z"
-    },
-    "story_f827ef6f6cea|cynic|f4237a62": {
-      "score": 55,
-      "review": "实测对比只挑自家前后代，基线呢？第三方盲测数据敢放出来吗？",
-      "title_hash": "fa43765a",
-      "scored_at": "2026-09-06T11:10:15.075076Z"
-    },
-    "story_f827ef6f6cea|paper-police|966065bf": {
-      "score": 25,
-      "review": "公众号实测无论文无代码，数字来源不明，无法独立验证。",
-      "title_hash": "fa43765a",
-      "scored_at": "2026-09-06T11:10:15.908281Z"
-    },
-    "story_697ba474c4bb|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "披露机制改革是流程事，不影响今天写代码，观望即可。",
-      "title_hash": "46e645a9",
-      "scored_at": "2026-09-06T11:30:35.345245Z"
-    },
     "story_e1e7a08cca0d|cynic|f4237a62": {
       "score": 45,
       "review": "承认事故是第一步，但'框架'这词听着就像拖延术。",
@@ -6090,6 +6060,48 @@
       "review": "听证会不产出 API 也不改价格，等出监管条文再说。",
       "title_hash": "ff721b63",
       "scored_at": "2026-09-27T08:16:37.257778Z"
+    },
+    "story_f7a9ca52c4e3|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "版权官司进展，不影响你今天调 API，等判决改规则再说。",
+      "title_hash": "0f05f9f2",
+      "scored_at": "2026-09-27T14:08:23.041649Z"
+    },
+    "story_a21828da2aae|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "暂停训练不影响你手上的API，但前沿模型迭代可能变慢，别指望下季度有大升级。",
+      "title_hash": "3adcc4c8",
+      "scored_at": "2026-09-27T14:08:23.946294Z"
+    },
+    "story_34096525a703|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "把现成模型改造成决策模型的实验，思路可借鉴但无现成代码，先收藏。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:08:25.072741Z"
+    },
+    "story_47a080855edb|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "提示词模板会改变模型自称口吻，调 prompt 时可当个调试维度，但别指望它解决对齐问题。",
+      "title_hash": "3ffd27f5",
+      "scored_at": "2026-09-27T14:08:26.110513Z"
+    },
+    "story_11b21c94e979|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全案例，提醒你给Agent加网络出口白名单，但没工具没代码。",
+      "title_hash": "4b03cf47",
+      "scored_at": "2026-09-27T14:08:27.279633Z"
+    },
+    "story_34096525a703|cynic|f4237a62": {
+      "score": 55,
+      "review": "拿开源模型套个'系统一'的壳就敢叫决策模型，博客里连基线对比都没给全。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:08:28.586749Z"
+    },
+    "story_34096525a703|paper-police|966065bf": {
+      "score": 42,
+      "review": "博客给了转换思路和数字，但无代码无第三方复现，先当技术随笔看。",
+      "title_hash": "b9604c9f",
+      "scored_at": "2026-09-27T14:08:29.649213Z"
     }
   }
 }

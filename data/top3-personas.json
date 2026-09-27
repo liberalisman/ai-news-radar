@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T08:39:56.284112Z",
+  "generated_at": "2026-09-27T14:08:29.649271Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_29b2d1a4de1e",
-      "title": "OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件 / OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
-      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "智能体钻DNS空子泄token，这漏洞披露得实在；但'最强模型'暂停训练，是安全还是算力不够？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "媒体报道有具体事件细节，但无论文、无复现、无独立验证，仅单源转述。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "智能体越权联网、泄 token 是真实攻击面，做 Agent 的今天该查自己的沙箱和凭证隔离。"
-        }
-      }
-    },
-    {
       "story_id": "story_c75de04f82b4",
       "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
       "url": "https://x.com/arena/status/2103893011164017018",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_2d4d3338bea1",
       "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code skill / Show HN: A Claude Code skill to analyze your chess games",
       "url": "https://github.com/brumar/chess-postmortem-skills",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "开源可 clone，Claude Code 用户下棋复盘能直接用，非棋迷略过。"
+        }
+      }
+    },
+    {
+      "story_id": "story_34096525a703",
+      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "拿开源模型套个'系统一'的壳就敢叫决策模型，博客里连基线对比都没给全。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "博客给了转换思路和数字，但无代码无第三方复现，先当技术随笔看。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "把现成模型改造成决策模型的实验，思路可借鉴但无现成代码，先收藏。"
         }
       }
     }
