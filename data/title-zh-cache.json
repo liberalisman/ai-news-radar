@@ -52605,5 +52605,9 @@
   "re1|d7682e0a98b93c387a5bb18b13453489009dc326": "这篇实测对比 Gemini Live 与 ChatGPT Voice：ChatGPT Voice 会用 mhmm 和句中停顿模拟思考并更主动联网，问 Gemini 3.8 Live 时 Gemini 称不存在，ChatGPT 搜索几秒后给出正确答案。",
   "re1|503af2cd495945d104206dc23d3a543dd87b3658": "",
   "re1|36cc303bfb36fba5271be4a85bbf331051eb289e": "文章梳理 Authors’ Guild 诉 Microsoft/OpenAI 案解封简报，作者愤怒的是作品被无偿用于训练模型而非担心被取代，并借 Tolstoy 论艺术质疑 AI 研究者不懂人为何读小说。",
-  "re1|971a00995f04e520bbd33b30539d91f628a5b1ad": "文章介绍 llama.cpp 对 context、dynamic、static 三类 n-gram cache 的四项优化，使 prompt lookup decoding 的 drafting 每个 token 最多快 41.6 倍，static cache 加载快 23.5 倍，峰值内存降 2.65 倍，Daniel Lemire 的 PR 叠加后总加速达 140 倍。"
+  "re1|971a00995f04e520bbd33b30539d91f628a5b1ad": "文章介绍 llama.cpp 对 context、dynamic、static 三类 n-gram cache 的四项优化，使 prompt lookup decoding 的 drafting 每个 token 最多快 41.6 倍，static cache 加载快 23.5 倍，峰值内存降 2.65 倍，Daniel Lemire 的 PR 叠加后总加速达 140 倍。",
+  "ds1|Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20%",
+  "re1|6c73680bc1a2494f46030d9b4888d7ce7e20a3b3": "文章测试 web extraction 是否会编造页面缺失字段：给 extractor 加入“Do not guess”后，编造率从71%降到20%；GPT-6 Luna 在 Firecrawl 的24个编造值中抓住20个，核查126个返回值仅需 $0.0049。",
+  "re1|6aee9a7087fe9de76aac2b67474f212522a7a44d": "在提示词中加入一句\"Do not guess\"，AI编造字段的比例就从71%降到20%，文章用实测数据说明：一句明确指令就能显著减少模型凭空捏造字段的情况。",
+  "re1|9f971c93c3422d4f105b997797ea82a39e5f3444": "llama.cpp 的 prompt lookup drafting 加速：作者无法提 PR 或 issue，评论区有人承诺 benchmark 并写进文章、署名致谢。"
 }

@@ -6108,6 +6108,42 @@
       "review": "法院文件属公开证据，但仅指控未判决，无代码无复现，等庭审结果。",
       "title_hash": "0f05f9f2",
       "scored_at": "2026-09-27T18:33:29.315710Z"
+    },
+    "story_2ab0f3547302|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "一句提示词降幻觉，今天就能抄进 system prompt，成本为零。",
+      "title_hash": "1a8ae3b6",
+      "scored_at": "2026-09-27T18:41:10.231323Z"
+    },
+    "story_f08a56d3c5d0|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "llama.cpp 本地推理提速，用 prompt lookup 草稿的可以直接拉最新代码试。",
+      "title_hash": "ac667731",
+      "scored_at": "2026-09-27T18:41:11.252451Z"
+    },
+    "story_2ab0f3547302|cynic|f4237a62": {
+      "score": 58,
+      "review": "一句提示词降51个百分点，听着像论文摘要；基线模型、任务集、评判标准全没影，先晒出来再吹。",
+      "title_hash": "1a8ae3b6",
+      "scored_at": "2026-09-27T18:41:12.459340Z"
+    },
+    "story_2ab0f3547302|paper-police|966065bf": {
+      "score": 35,
+      "review": "只有博客宣称71%降到20%，无论文无代码无第三方复现，数字来源不明。",
+      "title_hash": "1a8ae3b6",
+      "scored_at": "2026-09-27T18:41:13.538328Z"
+    },
+    "story_f08a56d3c5d0|cynic|f4237a62": {
+      "score": 78,
+      "review": "prompt lookup 加速是实打实的工程优化，但博客只谈吞吐不提命中率下降时的退化，水分在选择性展示。",
+      "title_hash": "ac667731",
+      "scored_at": "2026-09-27T18:41:14.560394Z"
+    },
+    "story_f08a56d3c5d0|paper-police|966065bf": {
+      "score": 48,
+      "review": "博客给了实现细节和数字，但无独立复现与基准对比，等 PR 合并跑分。",
+      "title_hash": "ac667731",
+      "scored_at": "2026-09-27T18:41:15.638730Z"
     }
   }
 }
