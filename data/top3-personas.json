@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:19:58.293803Z",
+  "generated_at": "2026-09-27T18:33:29.315768Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_c75de04f82b4",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-      "url": "https://x.com/arena/status/2103893011164017018",
+      "story_id": "story_c9d61f225fe5",
+      "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "1509分是真涨了，但Arena榜单一向偏爱长回答和自家风格，18分优势别急着当通用能力看。"
+          "score": 45,
+          "review": "又一个Agent竞技场，榜单规则、评测集、成本全没影，先看个热闹吧。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "Arena榜单分数可查，但无技术报告与复现细节，等第三方验证。"
+          "score": 30,
+          "review": "只有个网站和HN帖，无论文无代码无评测方法，看热闹可以，验证免谈。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "榜单第一不等于能调用，等 API 开放和价格出来再决定换不换。"
+          "score": 55,
+          "review": "看 Agent 互斗的玩具站，图个乐可以，别指望拿来选型。"
         }
       }
     },
     {
-      "story_id": "story_2d4d3338bea1",
-      "title": "Show HN：一个用来分析你国际象棋对局的 Claude Code skill / Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "story_id": "story_47a080855edb",
+      "title": "作为一个 Language Model”：Chat Template 切换 LLM 自我指称口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "把引擎分析包层 Claude 壳就叫 skill，棋力提升全靠 Stockfish，Claude 只负责写检讨。"
+          "score": 58,
+          "review": "换个模板就换口吻，这发现值一篇论文？实验条件倒是写清楚了，勉强算及格。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "GitHub 仓库开源可查，但无论文无 benchmark，评测方法未公开。"
+          "score": 55,
+          "review": "有arXiv编号但未见代码与复现评测，两个来源同属HN，不算独立验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "开源可 clone，Claude Code 用户下棋复盘能直接用，非棋迷略过。"
+          "score": 55,
+          "review": "提示词模板会改变模型自称口吻，调 prompt 时可当个调试维度，但别指望它解决对齐问题。"
         }
       }
     },
     {
-      "story_id": "story_34096525a703",
-      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "story_id": "story_f7a9ca52c4e3",
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "拿开源模型套个'系统一'的壳就敢叫决策模型，博客里连基线对比都没给全。"
+          "score": 82,
+          "review": "法院文件不是PR稿，高管内部邮件比任何发布会都诚实——这次没法替他们洗。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "博客给了转换思路和数字，但无代码无第三方复现，先当技术随笔看。"
+          "score": 55,
+          "review": "法院文件属公开证据，但仅指控未判决，无代码无复现，等庭审结果。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "把现成模型改造成决策模型的实验，思路可借鉴但无现成代码，先收藏。"
+          "score": 35,
+          "review": "版权官司进展，不影响你今天调 API，等判决改规则再说。"
         }
       }
     }
