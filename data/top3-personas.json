@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:41:15.638807Z",
+  "generated_at": "2026-09-27T21:41:59.427212Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_f08a56d3c5d0",
-      "title": "llama.cpp 中更快的提示查找草稿生成 / Faster prompt lookup drafting in llama.cpp",
-      "url": "https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "prompt lookup 加速是实打实的工程优化，但博客只谈吞吐不提命中率下降时的退化，水分在选择性展示。"
-        },
-        "paper-police": {
-          "score": 48,
-          "review": "博客给了实现细节和数字，但无独立复现与基准对比，等 PR 合并跑分。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "llama.cpp 本地推理提速，用 prompt lookup 草稿的可以直接拉最新代码试。"
-        }
-      }
-    },
-    {
       "story_id": "story_c9d61f225fe5",
       "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
       "url": "https://tinyaiarena.com",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 55,
           "review": "看 Agent 互斗的玩具站，图个乐可以，别指望拿来选型。"
+        }
+      }
+    },
+    {
+      "story_id": "story_47a080855edb",
+      "title": "作为一个 Language Model”：Chat Template 切换 LLM 自我指称口吻 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "换个模板就换口吻，这发现值一篇论文？实验条件倒是写清楚了，勉强算及格。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "有arXiv编号但未见代码与复现评测，两个来源同属HN，不算独立验证。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "提示词模板会改变模型自称口吻，调 prompt 时可当个调试维度，但别指望它解决对齐问题。"
         }
       }
     }
