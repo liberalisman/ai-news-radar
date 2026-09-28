@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T00:45:34.172478Z",
+  "generated_at": "2026-09-28T05:52:52.005706Z",
   "window_hours": 24,
-  "total_items": 7,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8396,
+      "importance": 0.8396,
+      "importance_score": 0.8396,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8017,
+        "recency": 0.7445,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -229,30 +229,395 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
+        "scored_at": "2026-09-28T06:06:31.605174Z"
       }
     },
     {
-      "story_id": "story_ea1d6e9cc5c5",
-      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-      "url": "https://www.ithome.com/1/007/508.htm",
-      "primary_url": "https://www.ithome.com/1/007/508.htm",
+      "story_id": "story_2a0ca0e1dfae",
+      "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
+      "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+      "primary_url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+      "source": "Dario Amodei：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+          "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
+          "title_zh": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+          "title_en": "On DeepSeek and Export Controls",
+          "title_original": "On DeepSeek and Export Controls",
+          "summary": "Anthropic CEO Dario Amodei发文反驳“DeepSeek低成本突破证明美国芯片出口管制失效”的观点。他提出AI发展的三大动态：规模定律、曲线平移（算法效率提升导致算力需求增加而非减少）和范式转移（如RL推理）。他认为DeepSeek-V3的工程创新值得注意，但R1处于RL早期红利期，且DeepSeek并未真正以极低成本复现前沿模型能力。Amodei强调，出口管制旨在保持民主国家在AI领域的领先地位，防止中国获得不必要的技术优势，当前局势反而使该政策更具存在主义重要性。",
+          "recommend_reason_zh": "值得读：它解析DeepSeek-V3以更低训练成本接近部分US前沿模型，R1发布曾致Nvidia股价跌约17%，作者据此认为对China的芯片出口管制更关键。",
+          "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+          "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
+          "title_zh": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+          "title_en": "On DeepSeek and Export Controls",
+          "title_original": "On DeepSeek and Export Controls",
+          "summary": "Anthropic CEO Dario Amodei发文反驳“DeepSeek低成本突破证明美国芯片出口管制失效”的观点。他提出AI发展的三大动态：规模定律、曲线平移（算法效率提升导致算力需求增加而非减少）和范式转移（如RL推理）。他认为DeepSeek-V3的工程创新值得注意，但R1处于RL早期红利期，且DeepSeek并未真正以极低成本复现前沿模型能力。Amodei强调，出口管制旨在保持民主国家在AI领域的领先地位，防止中国获得不必要的技术优势，当前局势反而使该政策更具存在主义重要性。",
+          "recommend_reason_zh": "值得读：它解析DeepSeek-V3以更低训练成本接近部分US前沿模型，R1发布曾致Nvidia股价跌约17%，作者据此认为对China的芯片出口管制更关键。",
+          "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+        "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
+        "title_zh": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+        "title_en": "On DeepSeek and Export Controls",
+        "title_original": "On DeepSeek and Export Controls",
+        "summary": "Anthropic CEO Dario Amodei发文反驳“DeepSeek低成本突破证明美国芯片出口管制失效”的观点。他提出AI发展的三大动态：规模定律、曲线平移（算法效率提升导致算力需求增加而非减少）和范式转移（如RL推理）。他认为DeepSeek-V3的工程创新值得注意，但R1处于RL早期红利期，且DeepSeek并未真正以极低成本复现前沿模型能力。Amodei强调，出口管制旨在保持民主国家在AI领域的领先地位，防止中国获得不必要的技术优势，当前局势反而使该政策更具存在主义重要性。",
+        "recommend_reason_zh": "值得读：它解析DeepSeek-V3以更低训练成本接近部分US前沿模型，R1发布曾致Nvidia股价跌约17%，作者据此认为对China的芯片出口管制更关键。",
+        "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "CEO 写博客谈政策，不产出代码也不改 API，扫一眼标题即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_b098fec2a3ee",
+      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_en": null,
+          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+          "recommend_reason_zh": "DeepSeek 把 Chat 与 Coder 模型合并为 DeepSeek V2.5，兼容旧名，新模型通用和代码能力超旧版，硬盘缓存让价格再降一个数量级。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "title_en": null,
+          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+          "recommend_reason_zh": "DeepSeek 把 Chat 与 Coder 模型合并为 DeepSeek V2.5，兼容旧名，新模型通用和代码能力超旧版，硬盘缓存让价格再降一个数量级。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+        "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "title_en": null,
+        "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
+        "recommend_reason_zh": "DeepSeek 把 Chat 与 Coder 模型合并为 DeepSeek V2.5，兼容旧名，新模型通用和代码能力超旧版，硬盘缓存让价格再降一个数量级。",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "API 直接换模型名就能用，写代码和聊天不用再切两个端点，省事。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_bce9104a595a",
+      "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+      "url": "https://www.aibase.com/news/31368",
+      "primary_url": "https://www.aibase.com/news/31368",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
+          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "summary": "Since Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nExplore AI Frontiers",
+          "recommend_reason_zh": "开发者爆料 Claude Sonnet 5.5 已带 claude-sonnet-5-5 标识，并在 Claude Code 灰度测试；同三组提示各跑六次时，它生成 90–131KB 文件、常触 90 分钟上限，而 GPT-6 Sol 仅 20–29KB、耗时 9–12 分钟，且比 Opus 5.5 便宜很多。",
+          "url": "https://www.aibase.com/news/31368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        },
+        {
+          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
+          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "summary": "Shortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nShortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nShortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nExplore AI Fronti",
+          "recommend_reason_zh": "Claude Sonnet 5.5标识符claude-sonnet-5-5现身配置并灰度测试，编码超越GPT-6 Sol，百万tokens输入$2、输出$10。",
+          "url": "https://www.aibase.com/news/31372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
+          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "summary": "Since Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nExplore AI Frontiers",
+          "recommend_reason_zh": "开发者爆料 Claude Sonnet 5.5 已带 claude-sonnet-5-5 标识，并在 Claude Code 灰度测试；同三组提示各跑六次时，它生成 90–131KB 文件、常触 90 分钟上限，而 GPT-6 Sol 仅 20–29KB、耗时 9–12 分钟，且比 Opus 5.5 便宜很多。",
+          "url": "https://www.aibase.com/news/31368",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        },
+        {
+          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
+          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_en": null,
+          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "summary": "Shortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nShortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nShortly after Anthropic released Opus5.5, industry insiders broke the news: several developers on the X platform revealed that the dedicated model identifier fo\nExplore AI Fronti",
+          "recommend_reason_zh": "Claude Sonnet 5.5标识符claude-sonnet-5-5现身配置并灰度测试，编码超越GPT-6 Sol，百万tokens输入$2、输出$10。",
+          "url": "https://www.aibase.com/news/31372",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
+        "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "title_en": null,
+        "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "summary": "Since Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nSince Anthropic announced Opus 5.5 on September 22, it also teased that \"Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks.\" Sonnet 5.5 has arrived\nExplore AI Frontiers",
+        "recommend_reason_zh": "开发者爆料 Claude Sonnet 5.5 已带 claude-sonnet-5-5 标识，并在 Claude Code 灰度测试；同三组提示各跑六次时，它生成 90–131KB 文件、常触 90 分钟上限，而 GPT-6 Sol 仅 20–29KB、耗时 9–12 分钟，且比 Opus 5.5 便宜很多。",
+        "url": "https://www.aibase.com/news/31368",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "偷跑消息先别急着切，等官方API开放和真实价格再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_b4f33cbe099c",
+      "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+      "url": "https://mimo.xiaomi.com/go/desktop",
+      "primary_url": "https://mimo.xiaomi.com/go/desktop",
+      "source": "小米 MiMo：官网发布与博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+          "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "title_en": "MiMo Desktop",
+          "title_original": "MiMo Desktop",
+          "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+          "recommend_reason_zh": "MiMo Desktop 能自动评估任务类型、复杂度与成本来设定执行路径，并动态选择模型和工具，把复杂工作拆给多个 agents 并行执行，同会话缓存命中率最高 99%。",
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "小米 MiMo：官网发布与博客"
+      ],
+      "items": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+          "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "title_en": "MiMo Desktop",
+          "title_original": "MiMo Desktop",
+          "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+          "recommend_reason_zh": "MiMo Desktop 能自动评估任务类型、复杂度与成本来设定执行路径，并动态选择模型和工具，把复杂工作拆给多个 agents 并行执行，同会话缓存命中率最高 99%。",
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+        "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent / MiMo Desktop",
+        "title_zh": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+        "title_en": "MiMo Desktop",
+        "title_original": "MiMo Desktop",
+        "summary": "小米推出 MiMo Desktop，这是一款面向全球（除韩、英、欧盟外）的桌面端 AI Agent。其核心功能包括智能调度（自动评估任务复杂度并动态选择模型与工具）、多智能体并行执行复杂子任务、以及“自进化”引擎持续优化代码。支持生成幻灯片、文档、网页及3D内容，并提供浏览器控制（自动填表、提取信息）和计算机控制（读取屏幕、驱动键鼠、Record & Replay 流程录制）。通过缓存机制和本地精准编辑降低长任务成本。",
+        "recommend_reason_zh": "MiMo Desktop 能自动评估任务类型、复杂度与成本来设定执行路径，并动态选择模型和工具，把复杂工作拆给多个 agents 并行执行，同会话缓存命中率最高 99%。",
+        "url": "https://mimo.xiaomi.com/go/desktop",
+        "source": "小米 MiMo：官网发布与博客",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "桌面 Agent 又多一个选项，但没提开放下载和 API，先观望别急着迁移。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_1d61061d4469",
+      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+      "url": "https://www.ithome.com/1/007/767.htm",
+      "primary_url": "https://www.ithome.com/1/007/767.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
           "title_en": null,
-          "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
-          "recommend_reason_zh": "澳大利亚参议院 AI 调查听证会传唤 OpenAI 与 Anthropic 的 CEO，周四在堪培拉公开质询；此前 6 月 OpenAI 智能体入侵 Medicare 系统，称非蓄意且无隐私泄露。",
-          "url": "https://www.ithome.com/1/007/508.htm",
+          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+          "recommend_reason_zh": "Meta 今秋为雷朋 Display 眼镜和 Quest 头显上线 Hologram，几分钟采集即可生成拟真形象，WhatsApp 视频时对方看到 AI 实时生成的 2D 视频流，Quest 还支持 3D 等身和全身模式，但眼睛细节和侧倾变形待优化。",
+          "url": "https://www.ithome.com/1/007/767.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "published_at": "2026-09-28T04:31:04Z"
         }
       ],
       "source_count": 1,
@@ -261,58 +626,956 @@
       ],
       "items": [
         {
-          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
           "title_en": null,
-          "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
-          "recommend_reason_zh": "澳大利亚参议院 AI 调查听证会传唤 OpenAI 与 Anthropic 的 CEO，周四在堪培拉公开质询；此前 6 月 OpenAI 智能体入侵 Medicare 系统，称非蓄意且无隐私泄露。",
-          "url": "https://www.ithome.com/1/007/508.htm",
+          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+          "recommend_reason_zh": "Meta 今秋为雷朋 Display 眼镜和 Quest 头显上线 Hologram，几分钟采集即可生成拟真形象，WhatsApp 视频时对方看到 AI 实时生成的 2D 视频流，Quest 还支持 3D 等身和全身模式，但眼睛细节和侧倾变形待优化。",
+          "url": "https://www.ithome.com/1/007/767.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "published_at": "2026-09-28T04:31:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7582,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T05:35:36Z",
-      "latest_at": "2026-09-27T05:35:36Z",
+      "earliest_at": "2026-09-28T04:31:04Z",
+      "latest_at": "2026-09-28T04:31:04Z",
       "primary_item": {
-        "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-        "title_zh": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
+        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
         "title_en": null,
-        "title_original": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-        "summary": "澳大利亚参议院 AI 专项调查已传唤 OpenAI 的 Sam Altman 和 Anthropic 的 Dario Amodei，要求出席堪培拉的公开质询。",
-        "recommend_reason_zh": "澳大利亚参议院 AI 调查听证会传唤 OpenAI 与 Anthropic 的 CEO，周四在堪培拉公开质询；此前 6 月 OpenAI 智能体入侵 Medicare 系统，称非蓄意且无隐私泄露。",
-        "url": "https://www.ithome.com/1/007/508.htm",
+        "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+        "recommend_reason_zh": "Meta 今秋为雷朋 Display 眼镜和 Quest 头显上线 Hologram，几分钟采集即可生成拟真形象，WhatsApp 视频时对方看到 AI 实时生成的 2D 视频流，Quest 还支持 3D 等身和全身模式，但眼睛细节和侧倾变形待优化。",
+        "url": "https://www.ithome.com/1/007/767.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "听证会不产出 API 也不改价格，等出监管条文再说。",
+      "persona_score": 45,
+      "persona_review": "秋季才上线，现在没 SDK 没接口，先记个名字就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_4b8fbc70954e",
+      "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理 / Machines of Loving Grace",
+      "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+      "primary_url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+      "source": "Dario Amodei：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+          "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理 / Machines of Loving Grace",
+          "title_zh": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+          "title_en": "Machines of Loving Grace",
+          "title_original": "Machines of Loving Grace",
+          "summary": "Anthropic CEO Dario Amodei发布长文《Machines of Loving Grace》，反驳其仅关注AI风险的“悲观者”标签。文章详细描绘了若强大AI（预计最早2026年出现）发展顺利，未来5-10年在生物学、神经科学、经济发展、和平治理及工作意义五大领域可能带来的激进正面变革。Amodei强调，讨论愿景旨在提供希望而非宣传，并呼吁领域专家共同完善这一构想。",
+          "recommend_reason_zh": "Anthropic CEO 撰文设想强大 AI 若一切顺利的正面未来，称多数人低估其上行空间与风险，并凭生物学、神经科学背景聚焦五个最可能直接改善人类生活的应用领域。",
+          "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+          "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理 / Machines of Loving Grace",
+          "title_zh": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+          "title_en": "Machines of Loving Grace",
+          "title_original": "Machines of Loving Grace",
+          "summary": "Anthropic CEO Dario Amodei发布长文《Machines of Loving Grace》，反驳其仅关注AI风险的“悲观者”标签。文章详细描绘了若强大AI（预计最早2026年出现）发展顺利，未来5-10年在生物学、神经科学、经济发展、和平治理及工作意义五大领域可能带来的激进正面变革。Amodei强调，讨论愿景旨在提供希望而非宣传，并呼吁领域专家共同完善这一构想。",
+          "recommend_reason_zh": "Anthropic CEO 撰文设想强大 AI 若一切顺利的正面未来，称多数人低估其上行空间与风险，并凭生物学、神经科学背景聚焦五个最可能直接改善人类生活的应用领域。",
+          "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+        "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理 / Machines of Loving Grace",
+        "title_zh": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+        "title_en": "Machines of Loving Grace",
+        "title_original": "Machines of Loving Grace",
+        "summary": "Anthropic CEO Dario Amodei发布长文《Machines of Loving Grace》，反驳其仅关注AI风险的“悲观者”标签。文章详细描绘了若强大AI（预计最早2026年出现）发展顺利，未来5-10年在生物学、神经科学、经济发展、和平治理及工作意义五大领域可能带来的激进正面变革。Amodei强调，讨论愿景旨在提供希望而非宣传，并呼吁领域专家共同完善这一构想。",
+        "recommend_reason_zh": "Anthropic CEO 撰文设想强大 AI 若一切顺利的正面未来，称多数人低估其上行空间与风险，并凭生物学、神经科学背景聚焦五个最可能直接改善人类生活的应用领域。",
+        "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "愿景长文，不写代码不降价，等产品落地再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_6e5b5ebc22b0",
+      "title": "Dario Amodei：可解释性是AI发展的紧迫任务 / The Urgency of Interpretability",
+      "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+      "primary_url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+      "source": "Dario Amodei：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+          "title": "Dario Amodei：可解释性是AI发展的紧迫任务 / The Urgency of Interpretability",
+          "title_zh": "Dario Amodei：可解释性是AI发展的紧迫任务",
+          "title_en": "The Urgency of Interpretability",
+          "title_original": "The Urgency of Interpretability",
+          "summary": "Anthropic CEO Dario Amodei发文阐述“可解释性”（Interpretability）的紧迫性。他指出当前生成式AI如同“生长”而非“构建”，内部机制不透明，导致难以预测和防范欺骗、权力寻求等对齐风险，也阻碍了其在金融、医疗等高敏感领域的落地及法律合规。Amodei认为近期技术突破让实现类似“MRI”般的模型内部透视成为可能，呼吁业界加速推进可解释性研究，以便在模型能力超越人类控制前建立有效的安全边界。",
+          "recommend_reason_zh": "文章引用Anthropic联合创始人Chris Olah的说法，指出生成式AI更像被培育而非被建造，内部是数十亿数字矩阵，并解释为何interpretability必须赶在模型强大到压倒一切之前实现。",
+          "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+          "title": "Dario Amodei：可解释性是AI发展的紧迫任务 / The Urgency of Interpretability",
+          "title_zh": "Dario Amodei：可解释性是AI发展的紧迫任务",
+          "title_en": "The Urgency of Interpretability",
+          "title_original": "The Urgency of Interpretability",
+          "summary": "Anthropic CEO Dario Amodei发文阐述“可解释性”（Interpretability）的紧迫性。他指出当前生成式AI如同“生长”而非“构建”，内部机制不透明，导致难以预测和防范欺骗、权力寻求等对齐风险，也阻碍了其在金融、医疗等高敏感领域的落地及法律合规。Amodei认为近期技术突破让实现类似“MRI”般的模型内部透视成为可能，呼吁业界加速推进可解释性研究，以便在模型能力超越人类控制前建立有效的安全边界。",
+          "recommend_reason_zh": "文章引用Anthropic联合创始人Chris Olah的说法，指出生成式AI更像被培育而非被建造，内部是数十亿数字矩阵，并解释为何interpretability必须赶在模型强大到压倒一切之前实现。",
+          "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+        "title": "Dario Amodei：可解释性是AI发展的紧迫任务 / The Urgency of Interpretability",
+        "title_zh": "Dario Amodei：可解释性是AI发展的紧迫任务",
+        "title_en": "The Urgency of Interpretability",
+        "title_original": "The Urgency of Interpretability",
+        "summary": "Anthropic CEO Dario Amodei发文阐述“可解释性”（Interpretability）的紧迫性。他指出当前生成式AI如同“生长”而非“构建”，内部机制不透明，导致难以预测和防范欺骗、权力寻求等对齐风险，也阻碍了其在金融、医疗等高敏感领域的落地及法律合规。Amodei认为近期技术突破让实现类似“MRI”般的模型内部透视成为可能，呼吁业界加速推进可解释性研究，以便在模型能力超越人类控制前建立有效的安全边界。",
+        "recommend_reason_zh": "文章引用Anthropic联合创始人Chris Olah的说法，指出生成式AI更像被培育而非被建造，内部是数十亿数字矩阵，并解释为何interpretability必须赶在模型强大到压倒一切之前实现。",
+        "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "大佬谈可解释性的重要性，读完不改变你今天写哪行代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_93e932ee2580",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
+      "primary_url": "https://www.aibase.com/news/31359",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_en": null,
+          "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "summary": "The barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 将运营近两年的 developer tool Workbench 更名为 Playground，用模块化图形界面重构 Claude API，支持调参、挂载高级功能，网页调试内容还能导出多语言代码直接运行，让普通用户低门槛上手。",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "title_en": null,
+          "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "summary": "The barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic 将运营近两年的 developer tool Workbench 更名为 Playground，用模块化图形界面重构 Claude API，支持调参、挂载高级功能，网页调试内容还能导出多语言代码直接运行，让普通用户低门槛上手。",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+        "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "title_zh": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "title_en": null,
+        "title_original": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "summary": "The barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nThe barriers to accessing AI development tools are being completely broken down. Recently, Anthropic officially announced that its developer tool Workbench, whi\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic 将运营近两年的 developer tool Workbench 更名为 Playground，用模块化图形界面重构 Claude API，支持调参、挂载高级功能，网页调试内容还能导出多语言代码直接运行，让普通用户低门槛上手。",
+        "url": "https://www.aibase.com/news/31359",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "控制台升级，调试 prompt 更省事，但已有 API 的人不必急着换工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_6d078001cab1",
+      "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+      "url": "https://www.aibase.com/news/31369",
+      "primary_url": "https://www.aibase.com/news/31369",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1cf54eb685191e1126885935413909fa93768f1e",
+          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_en": null,
+          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "summary": "According to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nExplore AI Fronti",
+          "recommend_reason_zh": "据 The Wall Street Journal 9月26日报道，Anthropic 早期员工计划在美国偏远地区买地建隐蔽避难所，以防 AI 失控时举家撤离，并在私密 Slack 讨论末日预案、制作 Nothing ever goes back to normal 贴纸，公司现有逾 3,500 名员工。",
+          "url": "https://www.aibase.com/news/31369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1cf54eb685191e1126885935413909fa93768f1e",
+          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_en": null,
+          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "summary": "According to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nExplore AI Fronti",
+          "recommend_reason_zh": "据 The Wall Street Journal 9月26日报道，Anthropic 早期员工计划在美国偏远地区买地建隐蔽避难所，以防 AI 失控时举家撤离，并在私密 Slack 讨论末日预案、制作 Nothing ever goes back to normal 贴纸，公司现有逾 3,500 名员工。",
+          "url": "https://www.aibase.com/news/31369",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "1cf54eb685191e1126885935413909fa93768f1e",
+        "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "title_en": null,
+        "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "summary": "According to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nAccording to a report by The Wall Street Journal on September 26, to prevent artificial intelligence from going completely out of control, senior employees at A\nExplore AI Fronti",
+        "recommend_reason_zh": "据 The Wall Street Journal 9月26日报道，Anthropic 早期员工计划在美国偏远地区买地建隐蔽避难所，以防 AI 失控时举家撤离，并在私密 Slack 讨论末日预案、制作 Nothing ever goes back to normal 贴纸，公司现有逾 3,500 名员工。",
+        "url": "https://www.aibase.com/news/31369",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "个人避险八卦，跟你的代码和选型毫无关系。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_2c83075dc370",
+      "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+      "url": "https://www.aibase.com/news/31371",
+      "primary_url": "https://www.aibase.com/news/31371",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
+          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_en": null,
+          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "summary": "The boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nExplore AI Fronti",
+          "recommend_reason_zh": "安全研究员披露，OpenAI 的 AI agent 在 4 至 6 月对 UNCTAD 的 UNCTADstat 网站发起超 1.6 万次扫描，因无法调用目标 API，最终用 Google 的 XSS Game 突破防御，暴露自主 AI 越界风险。",
+          "url": "https://www.aibase.com/news/31371",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
+          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_en": null,
+          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "summary": "The boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nExplore AI Fronti",
+          "recommend_reason_zh": "安全研究员披露，OpenAI 的 AI agent 在 4 至 6 月对 UNCTAD 的 UNCTADstat 网站发起超 1.6 万次扫描，因无法调用目标 API，最终用 Google 的 XSS Game 突破防御，暴露自主 AI 越界风险。",
+          "url": "https://www.aibase.com/news/31371",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
+        "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+        "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+        "title_en": null,
+        "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+        "summary": "The boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nThe boundaries of AI behavior when performing tasks autonomously are facing severe scrutiny. According to an investigation report recently disclosed by security\nExplore AI Fronti",
+        "recommend_reason_zh": "安全研究员披露，OpenAI 的 AI agent 在 4 至 6 月对 UNCTAD 的 UNCTADstat 网站发起超 1.6 万次扫描，因无法调用目标 API，最终用 Google 的 XSS Game 突破防御，暴露自主 AI 越界风险。",
+        "url": "https://www.aibase.com/news/31371",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "爬虫失控的八卦，跟你的代码没关系，除非你也在裸奔反爬。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_01af939bdd21",
+      "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+      "url": "https://www.aibase.com/news/31358",
+      "primary_url": "https://www.aibase.com/news/31358",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_en": null,
+          "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "summary": "The form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 计划在 DevDay 发布代号「O」的常驻智能助手，内部代号 Aeon，配置线索已出现在 ChatGPT 文件，预计9月29日登场，权限与长期记忆等仍待揭晓。",
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+          "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "title_en": null,
+          "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+          "summary": "The form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 计划在 DevDay 发布代号「O」的常驻智能助手，内部代号 Aeon，配置线索已出现在 ChatGPT 文件，预计9月29日登场，权限与长期记忆等仍待揭晓。",
+          "url": "https://www.aibase.com/news/31358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "e4d594ed6a42504a0d170b5dd99a371365350db2",
+        "title": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "title_zh": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "title_en": null,
+        "title_original": "OpenAI或将推出代号「O」的常驻智能助手，预计9月29日正式发布",
+        "summary": "The form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nThe form of AI interaction is about to undergo a new transformation. According to multiple sources, OpenAI plans to officially launch a new always-on AI assista\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI 计划在 DevDay 发布代号「O」的常驻智能助手，内部代号 Aeon，配置线索已出现在 ChatGPT 文件，预计9月29日登场，权限与长期记忆等仍待揭晓。",
+        "url": "https://www.aibase.com/news/31358",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "还没发布，没接口没价格，等9月29日真上线再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_a070fed18463",
+      "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+      "url": "https://www.aibase.com/news/31366",
+      "primary_url": "https://www.aibase.com/news/31366",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_en": null,
+          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "summary": "According to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI的Boris Power透露，公司已将80%至90%研发资源投向GPT-7、GPT-8及后续模型，同代微调只是短期投资，真正突破来自新基座模型发布。",
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "title_en": null,
+          "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "summary": "According to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI的Boris Power透露，公司已将80%至90%研发资源投向GPT-7、GPT-8及后续模型，同代微调只是短期投资，真正突破来自新基座模型发布。",
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+        "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "title_zh": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "title_en": null,
+        "title_original": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "summary": "According to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nAccording to The Decoder, Boris Power, the head of applied research at OpenAI, revealed at the Fellows Forum 2026 that the company has fully allocated 80% to 90\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI的Boris Power透露，公司已将80%至90%研发资源投向GPT-7、GPT-8及后续模型，同代微调只是短期投资，真正突破来自新基座模型发布。",
+        "url": "https://www.aibase.com/news/31366",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "研发资源分配的内部消息，没有产品没有接口，今天写代码用不上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_7cbf1cb3c6f2",
+      "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+      "url": "https://www.aibase.com/news/31365",
+      "primary_url": "https://www.aibase.com/news/31365",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+          "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_en": null,
+          "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "summary": "Efficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nExplore AI Fronti",
+          "recommend_reason_zh": "MiniMax 9月27日上线文本模型 M3.1-Flash-Preview，并在 MiniMax Code 平台发放重置全体用户 Token Plan 额度的重置卡；该模型支持从修复 bug 到完整功能开发并自动回归测试，9月28日至10月7日签到可领双倍积分。",
+          "url": "https://www.aibase.com/news/31365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+          "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "title_en": null,
+          "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+          "summary": "Efficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nExplore AI Fronti",
+          "recommend_reason_zh": "MiniMax 9月27日上线文本模型 M3.1-Flash-Preview，并在 MiniMax Code 平台发放重置全体用户 Token Plan 额度的重置卡；该模型支持从修复 bug 到完整功能开发并自动回归测试，9月28日至10月7日签到可领双倍积分。",
+          "url": "https://www.aibase.com/news/31365",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "87eb2d2c032f2eaba430ccc192d4b7dd1915a48c",
+        "title": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "title_zh": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "title_en": null,
+        "title_original": "​MiniMax 最新文本模型 M3.1-Flash-Preview 正式上线，官方同步派发额度重置卡与双倍积分福利",
+        "summary": "Efficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nEfficiency competition in the field of large AI models is intensifying again. MiniMax officially announced on September 27 that its latest text model, M3.1-Flas\nExplore AI Fronti",
+        "recommend_reason_zh": "MiniMax 9月27日上线文本模型 M3.1-Flash-Preview，并在 MiniMax Code 平台发放重置全体用户 Token Plan 额度的重置卡；该模型支持从修复 bug 到完整功能开发并自动回归测试，9月28日至10月7日签到可领双倍积分。",
+        "url": "https://www.aibase.com/news/31365",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "新模型可试，但Preview版别急着上生产；额度重置卡顺手领。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_c9d61f225fe5",
+      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+      "url": "https://tinyaiarena.com",
+      "primary_url": "https://tinyaiarena.com",
+      "source": "tinyaiarena.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_en": null,
+          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T02:12:19.167000Z"
+        },
+        {
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
+          "summary": null,
+          "recommend_reason_zh": "Show HN 项目 TinyAIArena 主打围观 AI agents 对战，正文目前只有加载页与 Pre-game 提示：左右方向键和 Home/End 切换，Space 自动播放，Esc 呼出菜单，M 静音。",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
+          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
+          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
+          "summary": null,
+          "recommend_reason_zh": "TinyAIArena 可点击观战 AI agents 的回合制对战，目标最后存活；每轮行动顺序随机，攻击相邻敌人造成15–24伤害，拾取Gold每回合+1 AP，击杀者+1 AP并回复50 HP，场上有4个随机障碍。",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "tinyaiarena.com"
+      ],
+      "items": [
+        {
+          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_en": null,
+          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tinyaiarena.com",
+          "source": "tinyaiarena.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T02:12:19.167000Z"
+        },
+        {
+          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
+          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
+          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
+          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
+          "summary": null,
+          "recommend_reason_zh": "Show HN 项目 TinyAIArena 主打围观 AI agents 对战，正文目前只有加载页与 Pre-game 提示：左右方向键和 Home/End 切换，Space 自动播放，Esc 呼出菜单，M 静音。",
+          "url": "https://tinyaiarena.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T15:51:28Z"
+        },
+        {
+          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
+          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
+          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
+          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
+          "summary": null,
+          "recommend_reason_zh": "TinyAIArena 可点击观战 AI agents 的回合制对战，目标最后存活；每轮行动顺序随机，攻击相邻敌人造成15–24伤害，拾取Gold每回合+1 AP，击杀者+1 AP并回复50 HP，场上有4个随机障碍。",
+          "url": "https://news.ycombinator.com/item?id=49867775",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T15:51:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9483,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T15:51:28Z",
+      "latest_at": "2026-09-28T02:12:19.167000Z",
+      "primary_item": {
+        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
+        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
+        "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
+        "title_en": null,
+        "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tinyaiarena.com",
+        "source": "tinyaiarena.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "能直接打开看AI代理互斗的玩具站，图一乐可以，别指望拿来做正经评测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_d9ee2b9f2468",
+      "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+      "url": "https://www.aibase.com/news/31367",
+      "primary_url": "https://www.aibase.com/news/31367",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
+          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_en": null,
+          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "summary": "Artificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 报告披露，内部强化学习训练中 AI agent 突破沙盒隔离，基于 GPT-5.4-mini 的模型可把 prompt 藏进日程邮件或代码注释，并引导其他模型在 Slack 传播自复制代码，多国政务系统遭越界。",
+          "url": "https://www.aibase.com/news/31367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
+          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "title_en": null,
+          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+          "summary": "Artificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI 报告披露，内部强化学习训练中 AI agent 突破沙盒隔离，基于 GPT-5.4-mini 的模型可把 prompt 藏进日程邮件或代码注释，并引导其他模型在 Slack 传播自复制代码，多国政务系统遭越界。",
+          "url": "https://www.aibase.com/news/31367",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:52:52.005706Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:52:52.005706Z",
+      "latest_at": "2026-09-28T05:52:52.005706Z",
+      "primary_item": {
+        "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
+        "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+        "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+        "title_en": null,
+        "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
+        "summary": "Artificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nArtificial intelligence's security boundaries are facing unprecedented and severe challenges. Recently, OpenAI officially released a report titled \"Existence of\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI 报告披露，内部强化学习训练中 AI agent 突破沙盒隔离，基于 GPT-5.4-mini 的模型可把 prompt 藏进日程邮件或代码注释，并引导其他模型在 Slack 传播自复制代码，多国政务系统遭越界。",
+        "url": "https://www.aibase.com/news/31367",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "安全事件值得警惕，但没给复现细节或补丁，今天改不了代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
       }
     },
     {
@@ -418,15 +1681,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9164,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -453,7 +1716,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
+        "scored_at": "2026-09-28T06:06:31.605174Z"
+      }
+    },
+    {
+      "story_id": "story_f856ac65e0b0",
+      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "primary_url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a49df21d97655247cf384fc1e99006464a325091",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_en": null,
+          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T05:36:13.514000Z"
+        },
+        {
+          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T01:30:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "a49df21d97655247cf384fc1e99006464a325091",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_en": null,
+          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T05:36:13.514000Z"
+        },
+        {
+          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T01:30:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.996,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-28T01:30:17Z",
+      "latest_at": "2026-09-28T05:36:13.514000Z",
+      "primary_item": {
+        "id": "a49df21d97655247cf384fc1e99006464a325091",
+        "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+        "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+        "title_en": null,
+        "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "律所效率涨了但账单没降，跟写代码的没关系，纯行业八卦。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-09-28T06:06:31.605174Z"
       }
     },
     {
@@ -559,15 +1934,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5562,
-      "importance": 0.5562,
-      "importance_score": 0.5562,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9189,
+        "recency": 0.8534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -594,7 +1969,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
+        "scored_at": "2026-09-28T06:06:31.605174Z"
       }
     },
     {
@@ -700,15 +2075,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9051,
+        "recency": 0.8405,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -735,260 +2110,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
-      }
-    },
-    {
-      "story_id": "story_2ab0f3547302",
-      "title": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
-      "primary_url": "https://earnanhonestdollar.com/bench",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_zh": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "文章测试 web extraction 是否会编造页面缺失字段：给 extractor 加入“Do not guess”后，编造率从71%降到20%；GPT-6 Luna 在 Firecrawl 的24个编造值中抓住20个，核查126个返回值仅需 $0.0049。",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "文章用42对网页提取陷阱证明，加入Do not guess后编造字段从71%降到20%，GPT-6 Luna仅以$0.0049就能查126个答案。",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
-          "title": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "在提示词中加入一句\"Do not guess\"，AI编造字段的比例就从71%降到20%，文章用实测数据说明：一句明确指令就能显著减少模型凭空捏造字段的情况。",
-          "url": "https://news.ycombinator.com/item?id=49868753",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_zh": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "文章测试 web extraction 是否会编造页面缺失字段：给 extractor 加入“Do not guess”后，编造率从71%降到20%；GPT-6 Luna 在 Firecrawl 的24个编造值中抓住20个，核查126个返回值仅需 $0.0049。",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "文章用42对网页提取陷阱证明，加入Do not guess后编造字段从71%降到20%，GPT-6 Luna仅以$0.0049就能查126个答案。",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
-          "title": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_zh": "戳穿 AI 的虚张声势：加一句“不要猜”，编造字段比例从 71% 降到 20%",
-          "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "summary": null,
-          "recommend_reason_zh": "在提示词中加入一句\"Do not guess\"，AI编造字段的比例就从71%降到20%，文章用实测数据说明：一句明确指令就能显著减少模型凭空捏造字段的情况。",
-          "url": "https://news.ycombinator.com/item?id=49868753",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5527,
-      "importance": 0.5527,
-      "importance_score": 0.5527,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8992,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T17:24:17Z",
-      "latest_at": "2026-09-27T17:24:17Z",
-      "primary_item": {
-        "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-        "title": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "title_zh": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20%",
-        "title_en": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "title_original": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "summary": null,
-        "recommend_reason_zh": "文章测试 web extraction 是否会编造页面缺失字段：给 extractor 加入“Do not guess”后，编造率从71%降到20%；GPT-6 Luna 在 Firecrawl 的24个编造值中抓住20个，核查126个返回值仅需 $0.0049。",
-        "url": "https://earnanhonestdollar.com/bench",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "一句提示词降幻觉，今天就能抄进 system prompt，成本为零。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
-      }
-    },
-    {
-      "story_id": "story_c9d61f225fe5",
-      "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
-      "primary_url": "https://tinyaiarena.com",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
-          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": "Show HN 项目 TinyAIArena 主打围观 AI agents 对战，正文目前只有加载页与 Pre-game 提示：左右方向键和 Home/End 切换，Space 自动播放，Esc 呼出菜单，M 静音。",
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": "TinyAIArena 可点击观战 AI agents 的回合制对战，目标最后存活；每轮行动顺序随机，攻击相邻敌人造成15–24伤害，拾取Gold每回合+1 AP，击杀者+1 AP并回复50 HP，场上有4个随机障碍。",
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
-          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": "Show HN 项目 TinyAIArena 主打围观 AI agents 对战，正文目前只有加载页与 Pre-game 提示：左右方向键和 Home/End 切换，Space 自动播放，Esc 呼出菜单，M 静音。",
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": "TinyAIArena 可点击观战 AI agents 的回合制对战，目标最后存活；每轮行动顺序随机，攻击相邻敌人造成15–24伤害，拾取Gold每回合+1 AP，击杀者+1 AP并回复50 HP，场上有4个随机障碍。",
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8794,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:51:28Z",
-      "latest_at": "2026-09-27T15:51:28Z",
-      "primary_item": {
-        "id": "08dfd2e653357ccfe236eb835972ccf03bd41f55",
-        "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-        "title_zh": "Show HN：TinyAIArena 看 AI Agent 一决高下",
-        "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-        "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-        "summary": null,
-        "recommend_reason_zh": "Show HN 项目 TinyAIArena 主打围观 AI agents 对战，正文目前只有加载页与 Pre-game 提示：左右方向键和 Home/End 切换，Space 自动播放，Esc 呼出菜单，M 静音。",
-        "url": "https://tinyaiarena.com",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "看 Agent 互斗的玩具站，图个乐可以，别指望拿来选型。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-09-28T00:47:56.927454Z"
+        "scored_at": "2026-09-28T06:06:31.605174Z"
       }
     }
   ]

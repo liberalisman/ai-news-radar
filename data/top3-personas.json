@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T00:47:56.927594Z",
+  "generated_at": "2026-09-28T06:06:56.147408Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_2ab0f3547302",
-      "title": "叫AI别 bluff：加一句“不要猜测”，凭空捏造的说法从71%降到20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
+      "story_id": "story_b098fec2a3ee",
+      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "一句提示词降51个百分点，听着像论文摘要；基线模型、任务集、评判标准全没影，先晒出来再吹。"
+          "score": 62,
+          "review": "合并两个模型改个版本号，基准测试和价格一个字没提，先当它是省了次调参。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "只有博客宣称71%降到20%，无论文无代码无第三方复现，数字来源不明。"
+          "score": 38,
+          "review": "官方更新日志只报合并与版本号，无论文、无代码、无第三方评测，证据不足。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "一句提示词降幻觉，今天就能抄进 system prompt，成本为零。"
+          "review": "API 直接换模型名就能用，写代码和聊天不用再切两个端点，省事。"
         }
       }
     },
     {
-      "story_id": "story_c9d61f225fe5",
-      "title": "Show HN：TinyAIArena 看 AI Agent 一决高下 / Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com",
+      "story_id": "story_bce9104a595a",
+      "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+      "url": "https://www.aibase.com/news/31368",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "又一个Agent竞技场，榜单规则、评测集、成本全没影，先看个热闹吧。"
+          "score": 42,
+          "review": "偷跑、暴打、直逼，三个词凑不出一份基准表；价格倒是真敢写，先等官方认领。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有个网站和HN帖，无论文无代码无评测方法，看热闹可以，验证免谈。"
+          "score": 12,
+          "review": "偷跑实测无论文无代码无benchmark，两个来源同属一家，查无实据。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "看 Agent 互斗的玩具站，图个乐可以，别指望拿来选型。"
+          "score": 72,
+          "review": "偷跑消息先别急着切，等官方API开放和真实价格再动手。"
         }
       }
     },
     {
-      "story_id": "story_47a080855edb",
-      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-      "url": "https://arxiv.org/abs/2609.25021",
+      "story_id": "story_93e932ee2580",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "发现聊天模板能改自指语气，算个真现象；但arXiv编号2609，这论文是穿越来的？"
+          "score": 45,
+          "review": "Playground 换个名字叫 Workbench，\"普通人\"还是得先有 API key 和额度。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "arXiv论文可查，但未见代码与复现评测，证据缺一角。"
+          "score": 30,
+          "review": "官方博客宣称升级，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
-          "score": 42,
-          "review": "学术观察，知道就行：改模板能改模型自称，但今天不解决任何工程问题。"
+          "score": 72,
+          "review": "控制台升级，调试 prompt 更省事，但已有 API 的人不必急着换工作流。"
         }
       }
     }
