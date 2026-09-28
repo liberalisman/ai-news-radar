@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:35:03.744581Z",
+  "generated_at": "2026-09-28T21:06:48.680538Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_9c7e3615c5ec",
+      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "模型是真上了，但\"5.5\"这半级跳更像版本号营销，等独立跑分再说。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方更新加多源报道，但无论文、无开源、无公开跑分，仅集成公告。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "Copilot 里直接能选新模型，写代码的今天就能切过去试。"
+        }
+      }
+    },
+    {
       "story_id": "story_d7df3ea255b1",
       "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
       "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_299644506077",
       "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
       "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "权重已上 HF，做 computer-use agent 的可以直接拉下来跑，27B 本地能扛。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b098fec2a3ee",
-      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "合并两个模型改个版本号，基准测试和价格一个字没提，先当它是省了次调参。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方更新日志只报合并与版本号，无论文、无代码、无第三方评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "API 直接换模型名就能用，写代码和聊天不用再切两个端点，省事。"
         }
       }
     }

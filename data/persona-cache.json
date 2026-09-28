@@ -1,65 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_89772b9cda52|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "AMD上vLLM提速方案，有仓库可测，但非主流卡慎入。",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T18:43:01.484293Z"
-    },
-    "story_89772b9cda52|cynic|f4237a62": {
-      "score": 72,
-      "review": "AMD上跑通推测解码是实打实的，但别急着吹，先看看通用性再说。",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T18:43:02.391164Z"
-    },
-    "story_89772b9cda52|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客给了技术细节和数字，但无代码无独立验证，等开源或第三方复现。",
-      "title_hash": "d6ce774a",
-      "scored_at": "2026-09-07T18:43:03.387578Z"
-    },
-    "story_fb302e7d3b11|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "世界模型是研究热点，但没开源没API，今天用不上。",
-      "title_hash": "76a4d125",
-      "scored_at": "2026-09-07T16:46:08.422644Z"
-    },
-    "story_d83ab5c62da4|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "算力军备竞赛的账单，跟开发者今天写代码没关系。",
-      "title_hash": "64f4bd5a",
-      "scored_at": "2026-09-07T20:48:35.530849Z"
-    },
     "story_5d4d715437bd|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "冷水澡是情绪不是工具，等具体案例再动手。",
       "title_hash": "9f1c354a",
       "scored_at": "2026-09-08T10:31:49.277789Z"
-    },
-    "story_0d185dfe820c|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "重度用户得算着额度用，轻量用户影响不大，API 调用不受限。",
-      "title_hash": "a3994abb",
-      "scored_at": "2026-09-07T20:48:37.137402Z"
-    },
-    "story_8b01a7e80019|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "宏观就业评论，不写代码不选型，等具体岗位数据再说。",
-      "title_hash": "01d128f5",
-      "scored_at": "2026-09-07T20:48:37.919389Z"
-    },
-    "story_0d185dfe820c|cynic|f4237a62": {
-      "score": 35,
-      "review": "限制回归，宣传的'无限'又缩水了，先解释清楚再谈创新。",
-      "title_hash": "a3994abb",
-      "scored_at": "2026-09-07T20:48:38.781460Z"
-    },
-    "story_0d185dfe820c|paper-police|966065bf": {
-      "score": 20,
-      "review": "仅论坛消息称限制恢复，无官方公告或数据，证据不足。",
-      "title_hash": "a3994abb",
-      "scored_at": "2026-09-07T20:48:39.690450Z"
     },
     "story_2791ef2d9ffb|pragmatic|0a5c5b24": {
       "score": 60,
@@ -6114,6 +6060,66 @@
       "review": "融资新闻，产品没开源也没降价，做语音的暂时不用动。",
       "title_hash": "b1cc1c54",
       "scored_at": "2026-09-28T15:35:03.744411Z"
+    },
+    "story_9c7e3615c5ec|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Copilot 里直接能选新模型，写代码的今天就能切过去试。",
+      "title_hash": "9c62b5c8",
+      "scored_at": "2026-09-28T21:06:40.578846Z"
+    },
+    "story_75870866258f|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "获奖预告片，跟写代码没关系，扫一眼标题就行。",
+      "title_hash": "869173e0",
+      "scored_at": "2026-09-28T21:06:41.650156Z"
+    },
+    "story_4db9d5cf74c5|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "资助新闻机构用AI，跟开发者日常没关系，等有开源工具再说。",
+      "title_hash": "f6adef44",
+      "scored_at": "2026-09-28T21:06:42.505490Z"
+    },
+    "story_aee032fed00c|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "自托管 runner 强制升级期限推迟，CI 运维能松口气，但记得盯新日期别拖。",
+      "title_hash": "6dcbdbbc",
+      "scored_at": "2026-09-28T21:06:43.174810Z"
+    },
+    "story_235ccfd8376d|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全报告值得一读，但没接口没工具，今天代码照写。",
+      "title_hash": "09dc2d8e",
+      "scored_at": "2026-09-28T21:06:44.058864Z"
+    },
+    "story_f1e181197209|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "你依赖的 benchmark 分数可能全是水，选型前先查评测是否可被 hack。",
+      "title_hash": "ef786f0a",
+      "scored_at": "2026-09-28T21:06:44.858564Z"
+    },
+    "story_520fa3c8afe1|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "训练暂停不影响现有API，但下一代模型可能延期，别把路线图押在它身上。",
+      "title_hash": "337e774c",
+      "scored_at": "2026-09-28T21:06:45.885075Z"
+    },
+    "story_b73aec0b4852|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "开源安全 Agent 能直接 clone 跑，做移动安全的今天就能试。",
+      "title_hash": "bd27d543",
+      "scored_at": "2026-09-28T21:06:46.779065Z"
+    },
+    "story_9c7e3615c5ec|cynic|f4237a62": {
+      "score": 72,
+      "review": "模型是真上了，但\"5.5\"这半级跳更像版本号营销，等独立跑分再说。",
+      "title_hash": "9c62b5c8",
+      "scored_at": "2026-09-28T21:06:47.694060Z"
+    },
+    "story_9c7e3615c5ec|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方更新加多源报道，但无论文、无开源、无公开跑分，仅集成公告。",
+      "title_hash": "9c62b5c8",
+      "scored_at": "2026-09-28T21:06:48.680426Z"
     }
   }
 }
