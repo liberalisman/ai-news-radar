@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:06:56.147408Z",
+  "generated_at": "2026-09-28T07:01:47.277144Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_bce9104a595a",
-      "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-      "url": "https://www.aibase.com/news/31368",
+      "story_id": "story_7cbf1cb3c6f2",
+      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+      "url": "https://www.aibase.com/news/31383",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "偷跑、暴打、直逼，三个词凑不出一份基准表；价格倒是真敢写，先等官方认领。"
+          "score": 45,
+          "review": "名字带Flash又带Preview，参数、价格、对比基线一个没给，公测先测个寂寞。"
         },
         "paper-police": {
-          "score": 12,
-          "review": "偷跑实测无论文无代码无benchmark，两个来源同属一家，查无实据。"
+          "score": 30,
+          "review": "公测公告而已，论文、代码、benchmark三样全无，跑分数据也没给。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "偷跑消息先别急着切，等官方API开放和真实价格再动手。"
+          "score": 82,
+          "review": "新文本模型公测，能直接调 API 试效果，做选型对比的可以上手跑一轮。"
         }
       }
     },
     {
-      "story_id": "story_93e932ee2580",
-      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
-      "url": "https://www.aibase.com/news/31359",
+      "story_id": "story_9117f82403b6",
+      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+      "url": "https://www.aibase.com/news/31382",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "Playground 换个名字叫 Workbench，\"普通人\"还是得先有 API key 和额度。"
+          "score": 62,
+          "review": "1亿参数在2025年算小模型，8人语音分割是真场景，但免费不等于开源，权重和训练数据敢晒吗？"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称升级，无论文无代码无第三方评测，证据不足。"
+          "score": 38,
+          "review": "只有媒体转述，无论文、无开源仓库、无第三方评测，1亿参数和8人分割都无从复现。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "控制台升级，调试 prompt 更省事，但已有 API 的人不必急着换工作流。"
+          "score": 82,
+          "review": "1亿参数免费可商用，语音分割场景能直接试，先看权重和许可证。"
         }
       }
     }
