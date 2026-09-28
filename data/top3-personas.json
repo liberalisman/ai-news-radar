@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:01:47.277144Z",
+  "generated_at": "2026-09-28T14:38:57.563602Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_d7df3ea255b1",
+      "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "官方文档讲迁移差异，比发布会实在；但版本号小数点后加一位就叫新模型，这招学得挺快。"
+        },
+        "paper-police": {
+          "score": 58,
+          "review": "官方文档给了迁移细节，但无独立评测与开源复现，先按官方说法记。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "官方迁移指南，用 Opus 5.5 的今天照着改提示词就能少踩坑。"
+        }
+      }
+    },
+    {
+      "story_id": "story_299644506077",
+      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "MoE 架构加 27B 双版本算有诚意，但\"通用计算机智能体\"的 demo 挑了多少次才成一次？"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客给了模型规格，但无论文、无开源权重、无第三方评测，先观望。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "权重已上 HF，做 computer-use agent 的可以直接拉下来跑，27B 本地能扛。"
+        }
+      }
+    },
+    {
       "story_id": "story_b098fec2a3ee",
       "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
       "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "API 直接换模型名就能用，写代码和聊天不用再切两个端点，省事。"
-        }
-      }
-    },
-    {
-      "story_id": "story_7cbf1cb3c6f2",
-      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-      "url": "https://www.aibase.com/news/31383",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "名字带Flash又带Preview，参数、价格、对比基线一个没给，公测先测个寂寞。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "公测公告而已，论文、代码、benchmark三样全无，跑分数据也没给。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "新文本模型公测，能直接调 API 试效果，做选型对比的可以上手跑一轮。"
-        }
-      }
-    },
-    {
-      "story_id": "story_9117f82403b6",
-      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-      "url": "https://www.aibase.com/news/31382",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "1亿参数在2025年算小模型，8人语音分割是真场景，但免费不等于开源，权重和训练数据敢晒吗？"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "只有媒体转述，无论文、无开源仓库、无第三方评测，1亿参数和8人分割都无从复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "1亿参数免费可商用，语音分割场景能直接试，先看权重和许可证。"
         }
       }
     }
