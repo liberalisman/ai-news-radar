@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T16:01:03.274653Z",
+  "generated_at": "2026-09-29T20:03:00.425657Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_9c7e3615c5ec",
-      "title": "GitHub Copilot 现已接入 Claude Sonnet 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+      "story_id": "story_fc901d8a6f98",
+      "title": "Claude Sonnet5.5发布:编程能力反超旗舰，API价格腰斩",
+      "url": "https://www.aibase.com/news/31398",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "接入是真事，但版本号跳得比模型迭代还快，先看它写代码时还胡不胡编。"
+          "review": "价格腰斩是真的香，但'反超旗舰'的基准测试敢不敢把完整榜单和成本一起晒出来？"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方changelog确认接入，但无模型卡、无benchmark、无代码，性能数字全凭第三方转述。"
+          "score": 38,
+          "review": "只有媒体转述和推文，无论文无代码无独立跑分，价格腰斩也待官方文档核实。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "Copilot 里直接切模型，写代码的今天就能试，顺手对比下和 GPT 的差距。"
+          "score": 92,
+          "review": "编程更强还便宜一半，今天就能换模型省账单。"
         }
       }
     },
     {
-      "story_id": "story_50ef4ffd56be",
-      "title": "OpenAI明日重启200美元Pro订阅:API配额减半，取消5小时限制",
-      "url": "https://www.aibase.com/news/31413",
+      "story_id": "story_692c49157729",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 42,
-          "review": "配额减半还叫重启，取消个限制就当福利，涨价的事一个字没提。"
+          "score": 55,
+          "review": "版本号从6跳到6.1，发布会形容词比基准测试数字还多，先等第三方复现。"
         },
         "paper-police": {
-          "score": 18,
-          "review": "订阅政策传闻，无官方公告链接，配额数字无法核实，等OpenAI官方页面。"
+          "score": 30,
+          "review": "只有官方发布页和媒体转述，无论文、无代码、无第三方跑分，先当宣传看。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "200美元档API配额砍半但取消5小时限制，重度用户得重算成本账。"
+          "score": 88,
+          "review": "新模型发布，先看API价格和上下文窗口，能换就换。"
         }
       }
     },
     {
-      "story_id": "story_b73aec0b4852",
-      "title": "GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞 / How we found 24 Android vulnerabilities using our open source AI security agent",
-      "url": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent",
+      "story_id": "story_5e8fdb7e624e",
+      "title": "GPT-6.1 Sol 在 GitHub Copilot 中上线 / GPT-6.1 Sol in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "24个CVE和开源Agent都摆出来了，但别急着封神——挑的什么难度的洞、误报率多少，博客里可没细说。"
+          "score": 62,
+          "review": "版本号从6跳到6.1，更新日志却只写'上线'，改了什么全靠用户自己猜。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "开源Agent加24个漏洞清单可查，但缺独立复现与基准对比。"
+          "score": 42,
+          "review": "官方更新属实，但无论文、无代码、无公开评测，仅上线公告。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源安全 Agent 能直接 clone 跑，做移动安全的今天就能试。"
+          "score": 88,
+          "review": "Copilot 里直接能切新模型，写代码的今天就能试，先拿小项目对比下效果。"
         }
       }
     }

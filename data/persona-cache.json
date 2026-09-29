@@ -1,78 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_e9c8b7eef4d1|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全策略细化思路，但无工具无代码，暂不影响选型。",
-      "title_hash": "5a13586d",
-      "scored_at": "2026-09-08T18:31:14.308121Z"
-    },
-    "story_bac4ec48b080|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "新闻业合作是公关动作，不写代码的不用管。",
-      "title_hash": "161243a0",
-      "scored_at": "2026-09-08T18:31:20.220992Z"
-    },
-    "story_dc315e1882c1|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "数学证明离工程太远，等代码和API再说。",
-      "title_hash": "778a8b2a",
-      "scored_at": "2026-09-08T19:01:54.701762Z"
-    },
-    "story_8f80342078b7|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "省去手动配 token，依赖扫描今天就能少踩坑。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T18:31:15.025489Z"
-    },
-    "story_d9a44d1c17f0|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "学术竞赛口水战，不写代码不发布工具，开发者不用管。",
-      "title_hash": "0c6ca058",
-      "scored_at": "2026-09-08T18:31:15.802801Z"
-    },
-    "story_d7d617c533bb|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "官方优化建议，偏方法论，具体效果待验证，可参考但不必立即行动。",
-      "title_hash": "06ca99ce",
-      "scored_at": "2026-09-08T18:31:16.763598Z"
-    },
-    "story_5e97ad7fadc2|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "成本下降趋势对算力规划有参考，但当前无直接可用的工具或方案。",
-      "title_hash": "7d1287bd",
-      "scored_at": "2026-09-08T18:31:17.694568Z"
-    },
-    "story_0959e7bd019e|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "研究资助离动手远，等出结论再看不迟。",
-      "title_hash": "b55586ac",
-      "scored_at": "2026-09-08T18:31:18.514867Z"
-    },
-    "story_ffc737da7bf9|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "数据质量是瓶颈，调模型不如先清洗数据，但暂无直接可抄方案。",
-      "title_hash": "e9e1f158",
-      "scored_at": "2026-09-08T18:31:19.419142Z"
-    },
-    "story_8f80342078b7|cynic|f4237a62": {
-      "score": 72,
-      "review": "省了配置功夫，但只对自家仓库有效，别吹成通用方案。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T18:31:21.042816Z"
-    },
-    "story_8f80342078b7|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方更新但无技术细节，仅声明功能，缺论文代码验证。",
-      "title_hash": "4c3bc374",
-      "scored_at": "2026-09-08T18:31:21.871909Z"
-    },
-    "story_8bc5596ddee1|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "口水战与证明争议，对开发无直接用处，等论文和代码。",
-      "title_hash": "7ed178a3",
-      "scored_at": "2026-09-08T19:01:55.570088Z"
-    },
     "story_d1fac00d58a7|pragmatic|0a5c5b24": {
       "score": 60,
       "review": "GitHub 换帮助文档入口，查 API 的路径变了，书签得改。",
@@ -6086,10 +6014,10 @@
       "scored_at": "2026-09-29T14:40:05.905093Z"
     },
     "story_a12eaf57e6f0|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "表格任务的新SOTA，做风控/推荐的可试，但先看是否开源权重。",
-      "title_hash": "ae3ba301",
-      "scored_at": "2026-09-29T16:00:58.754172Z"
+      "score": 82,
+      "review": "表格任务可直接换模型，HuggingFace 上能拉，先拿自己的数据跑个 baseline。",
+      "title_hash": "4971083c",
+      "scored_at": "2026-09-29T20:02:47.984207Z"
     },
     "story_d382e96feb8c|pragmatic|0a5c5b24": {
       "score": 45,
@@ -6102,6 +6030,126 @@
       "review": "生物专用AI系统，非通用工具，普通开发者用不上，做生信的可以看看。",
       "title_hash": "f80989e9",
       "scored_at": "2026-09-29T16:01:01.117316Z"
+    },
+    "story_692c49157729|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型发布，先看API价格和上下文窗口，能换就换。",
+      "title_hash": "b466ba5c",
+      "scored_at": "2026-09-29T20:02:43.355897Z"
+    },
+    "story_5e8fdb7e624e|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "Copilot 里直接能切新模型，写代码的今天就能试，先拿小项目对比下效果。",
+      "title_hash": "bc5ac58d",
+      "scored_at": "2026-09-29T20:02:44.229924Z"
+    },
+    "story_83e2e2180846|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "OpenAI 官方新东西，但标题看不出是模型还是玩具，等有 API 文档再说。",
+      "title_hash": "f7983887",
+      "scored_at": "2026-09-29T20:02:45.172864Z"
+    },
+    "story_97c39538f06b|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "榜单第4不等于好用，等API开放和实测对比再决定换不换。",
+      "title_hash": "8e65d031",
+      "scored_at": "2026-09-29T20:02:46.128777Z"
+    },
+    "story_4958fb2aa897|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Codex CLI 小版本更新，先看 changelog 有没有改配置或破坏性变更再升。",
+      "title_hash": "2488114f",
+      "scored_at": "2026-09-29T20:02:46.803554Z"
+    },
+    "story_ea535c078900|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "GitHub 自定义属性可接外部数据源，做权限和合规分组的团队能省一套同步脚本。",
+      "title_hash": "31191fd7",
+      "scored_at": "2026-09-29T20:02:48.699892Z"
+    },
+    "story_275cdbd3d9e4|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "收购传闻加十年愿景，没产品没接口，今天该干嘛干嘛。",
+      "title_hash": "d593d77f",
+      "scored_at": "2026-09-29T20:02:49.483817Z"
+    },
+    "story_fc901d8a6f98|pragmatic|0a5c5b24": {
+      "score": 92,
+      "review": "编程更强还便宜一半，今天就能换模型省账单。",
+      "title_hash": "b89daec1",
+      "scored_at": "2026-09-29T20:02:50.502267Z"
+    },
+    "story_f4ffcf5faee6|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "云端跑 Agent 不用挂本地机器，长任务终于能关笔记本了，值得试。",
+      "title_hash": "493cf8ef",
+      "scored_at": "2026-09-29T20:02:51.120616Z"
+    },
+    "story_85bf56f12422|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "插件和共享工作区能马上试，但企业市场得看定价和权限细节。",
+      "title_hash": "260c4377",
+      "scored_at": "2026-09-29T20:02:51.949748Z"
+    },
+    "story_b740e7f2bda0|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Dependabot 现在能跑自建 runner，私有依赖多的仓库可以省下 Actions 额度。",
+      "title_hash": "240f51a2",
+      "scored_at": "2026-09-29T20:02:52.870779Z"
+    },
+    "story_47cf4c0e2552|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "跨端方案选型风向标，但没给出可抄的迁移方案，先观望。",
+      "title_hash": "025707f7",
+      "scored_at": "2026-09-29T20:02:53.770938Z"
+    },
+    "story_98244353a42e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "订阅额度能跨 60 家产品用，先查你常用工具在不在名单里，能省一笔 API 费。",
+      "title_hash": "66708ff3",
+      "scored_at": "2026-09-29T20:02:54.656663Z"
+    },
+    "story_887ed3023b60|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "用户数再大也不影响你写代码，Codex 有更新才值得看。",
+      "title_hash": "53d3408c",
+      "scored_at": "2026-09-29T20:02:55.516343Z"
+    },
+    "story_fc901d8a6f98|cynic|f4237a62": {
+      "score": 72,
+      "review": "价格腰斩是真的香，但'反超旗舰'的基准测试敢不敢把完整榜单和成本一起晒出来？",
+      "title_hash": "b89daec1",
+      "scored_at": "2026-09-29T20:02:56.581139Z"
+    },
+    "story_fc901d8a6f98|paper-police|966065bf": {
+      "score": 38,
+      "review": "只有媒体转述和推文，无论文无代码无独立跑分，价格腰斩也待官方文档核实。",
+      "title_hash": "b89daec1",
+      "scored_at": "2026-09-29T20:02:57.504123Z"
+    },
+    "story_692c49157729|cynic|f4237a62": {
+      "score": 55,
+      "review": "版本号从6跳到6.1，发布会形容词比基准测试数字还多，先等第三方复现。",
+      "title_hash": "b466ba5c",
+      "scored_at": "2026-09-29T20:02:58.143982Z"
+    },
+    "story_692c49157729|paper-police|966065bf": {
+      "score": 30,
+      "review": "只有官方发布页和媒体转述，无论文、无代码、无第三方跑分，先当宣传看。",
+      "title_hash": "b466ba5c",
+      "scored_at": "2026-09-29T20:02:58.819386Z"
+    },
+    "story_5e8fdb7e624e|cynic|f4237a62": {
+      "score": 62,
+      "review": "版本号从6跳到6.1，更新日志却只写'上线'，改了什么全靠用户自己猜。",
+      "title_hash": "bc5ac58d",
+      "scored_at": "2026-09-29T20:02:59.585513Z"
+    },
+    "story_5e8fdb7e624e|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方更新属实，但无论文、无代码、无公开评测，仅上线公告。",
+      "title_hash": "bc5ac58d",
+      "scored_at": "2026-09-29T20:03:00.425607Z"
     }
   }
 }
