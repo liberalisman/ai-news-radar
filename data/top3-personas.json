@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T21:08:42.520381Z",
+  "generated_at": "2026-09-29T23:33:15.093678Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_fc901d8a6f98",
-      "title": "Claude Sonnet5.5发布:编程能力反超旗舰，API价格腰斩",
-      "url": "https://www.aibase.com/news/31398",
+      "story_id": "story_692c49157729",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "价格腰斩是真的香，但'反超旗舰'的基准测试敢不敢把完整榜单和成本一起晒出来？"
+          "review": "五分之一价格换\"接近\"智能，那个\"接近\"差多少、贵在哪，官方博客一个字没提。"
         },
         "paper-police": {
           "score": 38,
-          "review": "只有媒体转述和推文，无论文无代码无独立跑分，价格腰斩也待官方文档核实。"
+          "review": "官方博客宣称五分之一价格接近旗舰，无论文无开源无第三方复现，先当营销看。"
         },
         "pragmatic": {
           "score": 92,
-          "review": "编程更强还便宜一半，今天就能换模型省账单。"
-        }
-      }
-    },
-    {
-      "story_id": "story_692c49157729",
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "版本号从6跳到6.1，发布会形容词比基准测试数字还多，先等第三方复现。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "只有官方发布页和媒体转述，无论文、无代码、无第三方跑分，先当宣传看。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "新模型发布，先看API价格和上下文窗口，能换就换。"
+          "review": "五分之一价格拿到接近旗舰的智能，API 一开就换模型跑基准。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_5e8fdb7e624e",
       "title": "GPT-6.1 Sol 在 GitHub Copilot 中上线 / GPT-6.1 Sol in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "Copilot 里直接能切新模型，写代码的今天就能试，先拿小项目对比下效果。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a12eaf57e6f0",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "四项基准第一是真的，但表格模型这赛道本来就冷清，赢一群小作坊不算封神。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "开源模型加四项基准第一，但缺论文与第三方复现，等独立跑分。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "表格任务可直接换模型，HuggingFace 上能拉，先拿自己的数据跑个 baseline。"
         }
       }
     }
