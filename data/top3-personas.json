@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:30:48.522437Z",
+  "generated_at": "2026-09-29T02:12:31.889112Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_24e5f8845a10",
+      "title": "Claude Sonnet5.5发布:编程能力反超旗舰，API价格腰斩",
+      "url": "https://www.aibase.com/news/31398",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "价格腰斩是真的，但'反超旗舰'的对比基线是谁家旗舰？榜单没晒全。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "只有单一媒体转述，无论文、无代码、无第三方跑分，价格腰斩也无账单可查。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "编程反超旗舰还降价一半，今天就能换模型省账单。"
+        }
+      }
+    },
+    {
       "story_id": "story_9c7e3615c5ec",
       "title": "Claude Sonnet 5.5 in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_d7df3ea255b1",
       "title": "Claude Opus 5.5 提示词指南：与 Opus 5 的行为差异及迁移模式 / Prompting Claude Opus 5.5",
       "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "官方迁移指南，用 Opus 5.5 的今天照着改提示词就能少踩坑。"
-        }
-      }
-    },
-    {
-      "story_id": "story_299644506077",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "MoE 架构加 27B 双版本算有诚意，但\"通用计算机智能体\"的 demo 挑了多少次才成一次？"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方博客给了模型规格，但无论文、无开源权重、无第三方评测，先观望。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "权重已上 HF，做 computer-use agent 的可以直接拉下来跑，27B 本地能扛。"
         }
       }
     }
