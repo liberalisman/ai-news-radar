@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T14:40:05.905150Z",
+  "generated_at": "2026-09-29T16:01:03.274653Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -18,21 +18,21 @@
   "items": [
     {
       "story_id": "story_9c7e3615c5ec",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "title": "GitHub Copilot 现已接入 Claude Sonnet 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "模型是真上了，但\"5.5\"这半级跳更像版本号营销，等独立跑分再说。"
+          "review": "接入是真事，但版本号跳得比模型迭代还快，先看它写代码时还胡不胡编。"
         },
         "paper-police": {
           "score": 42,
-          "review": "官方更新加多源报道，但无论文、无开源、无公开跑分，仅集成公告。"
+          "review": "官方changelog确认接入，但无模型卡、无benchmark、无代码，性能数字全凭第三方转述。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "Copilot 里直接能选新模型，写代码的今天就能切过去试。"
+          "review": "Copilot 里直接切模型，写代码的今天就能试，顺手对比下和 GPT 的差距。"
         }
       }
     },
