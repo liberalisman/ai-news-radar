@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:42:36.069961Z",
+  "generated_at": "2026-09-30T21:24:50.397245Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_7be76ad26106",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "Dots、Sol、500美元三件套齐发，可基准、延迟、成本一个没晒，先看账单再鼓掌。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "发布会通稿堆砌，无论文无代码无第三方跑分，GPT-6.1 性能数字全凭官方自述。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "GPT-6.1 Sol 和 Dots 若已开放 API 就值得今天试；500 美元订阅先看额度再决定。"
-        }
-      }
-    },
-    {
       "story_id": "story_a67dcb1766e6",
       "title": "VS Code 与 GitHub Copilot 应用中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -60,7 +40,7 @@
       "story_id": "story_855109885f33",
       "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "选 TTS 模型前先看榜，多语言和克隆效果有统一对比，省得自己搭评测。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1cd68fc19b7b",
+      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "一次发四样，样样都留半句：Sol 的评测基线、Dots 的定价、500 刀谁买单，全等下一场发布会。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "发布会通稿堆参数，无论文无代码无第三方跑分，等实测再说。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "GPT-6.1 若已开放 API，今天就能测；500 美元订阅先看额度再决定。"
         }
       }
     }

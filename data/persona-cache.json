@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_2d7c9d621d9e|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "对齐评估是过程文档，不直接影响选型，等METR结论再动。",
-      "title_hash": "fa039fb4",
-      "scored_at": "2026-09-09T20:26:33.756587Z"
-    },
-    "story_ddf3578155d9|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Fortran迁移案例可参考，但非通用方案，动手前先评估代码复杂度。",
-      "title_hash": "393a09e4",
-      "scored_at": "2026-09-09T20:26:34.784640Z"
-    },
-    "story_291c49ac92b2|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "人事变动不写代码，等安全策略落地再说。",
-      "title_hash": "76cfcdfb",
-      "scored_at": "2026-09-09T20:26:35.842220Z"
-    },
-    "story_b7ee3ac059a5|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "硬件发布对AI从业者无直接API影响，除非有本地模型部署细节，否则看看就好。",
-      "title_hash": "abd140f0",
-      "scored_at": "2026-09-09T20:26:37.198461Z"
-    },
     "story_b361718ee020|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。",
@@ -6108,6 +6084,36 @@
       "review": "官方更新只给功能说明，无论文无代码无第三方评测，性能宣称无法复现。",
       "title_hash": "21f77fdb",
       "scored_at": "2026-09-30T19:42:36.069892Z"
+    },
+    "story_8db3959cb7d3|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新旗舰但只给防御者先用，普通人暂时调不到API，先观望。",
+      "title_hash": "71c2efa2",
+      "scored_at": "2026-09-30T21:24:46.171911Z"
+    },
+    "story_1cd68fc19b7b|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "GPT-6.1 若已开放 API，今天就能测；500 美元订阅先看额度再决定。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T21:24:47.101466Z"
+    },
+    "story_5d1c15f30792|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "同智能水平成本砍四成，批量推理的可以准备切模型了。",
+      "title_hash": "83f66952",
+      "scored_at": "2026-09-30T21:24:48.150706Z"
+    },
+    "story_1cd68fc19b7b|cynic|f4237a62": {
+      "score": 55,
+      "review": "一次发四样，样样都留半句：Sol 的评测基线、Dots 的定价、500 刀谁买单，全等下一场发布会。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T21:24:49.287044Z"
+    },
+    "story_1cd68fc19b7b|paper-police|966065bf": {
+      "score": 30,
+      "review": "发布会通稿堆参数，无论文无代码无第三方跑分，等实测再说。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T21:24:50.397193Z"
     }
   }
 }
