@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6c71d9371c7c|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "量子实验跑通案例，若 API 开放可直接抄，先查文档再动手。",
-      "title_hash": "00f4b4bf",
-      "scored_at": "2026-09-09T15:10:46.647479Z"
-    },
-    "story_6c71d9371c7c|cynic|f4237a62": {
-      "score": 55,
-      "review": "量子实验demo挺炫，但没给对比基线，水分得自己挤。",
-      "title_hash": "00f4b4bf",
-      "scored_at": "2026-09-09T15:10:51.015457Z"
-    },
-    "story_6c71d9371c7c|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方博客宣称量子计算助力，无论文无代码无第三方复现，证据不足。",
-      "title_hash": "00f4b4bf",
-      "scored_at": "2026-09-09T15:10:52.097775Z"
-    },
-    "story_fee049a1c565|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "GitHub 官方功能，能自动修代码质量，CI 流程可省人工，值得试。",
-      "title_hash": "3dbaea7b",
-      "scored_at": "2026-09-09T15:10:47.659026Z"
-    },
-    "story_1e0e5586f10e|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "宏观推演离代码太远，做AI应用的不必现在行动。",
-      "title_hash": "aac70c64",
-      "scored_at": "2026-09-09T15:10:48.670880Z"
-    },
-    "story_f8d7f4981a15|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "黑客松热闹但无技术细节，对选型无参考，看看就好。",
-      "title_hash": "4e338f22",
-      "scored_at": "2026-09-09T15:10:49.832757Z"
-    },
-    "story_fee049a1c565|cynic|f4237a62": {
-      "score": 72,
-      "review": "自动修代码是好事，但别吹成万能，复杂逻辑还得人盯。",
-      "title_hash": "3dbaea7b",
-      "scored_at": "2026-09-09T15:10:53.030006Z"
-    },
-    "story_fee049a1c565|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方博客宣称功能，无论文代码评测，仅 changelog 难证实效。",
-      "title_hash": "3dbaea7b",
-      "scored_at": "2026-09-09T15:10:54.122901Z"
-    },
     "story_ea4f77cf3524|pragmatic|0a5c5b24": {
       "score": 82,
       "review": "时间序列模型开源可商用，做预测的直接拿去跑benchmark。",
@@ -6108,6 +6060,66 @@
       "review": "官方发布加多家媒体转述，但无论文无开源，评测数字待第三方复现。",
       "title_hash": "8ca9dfce",
       "scored_at": "2026-09-30T14:10:30.245669Z"
+    },
+    "story_3b1c935eea0a|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "常驻智能体是新形态，但没给API和价格，先看能不能真接进工作流。",
+      "title_hash": "86b5bdda",
+      "scored_at": "2026-09-30T16:31:48.963624Z"
+    },
+    "story_0d7ed6e47e0a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "生物安全向的水印，做蛋白质设计的团队才用得上，普通开发者先记个名字。",
+      "title_hash": "228f4149",
+      "scored_at": "2026-09-30T16:31:49.838292Z"
+    },
+    "story_01ea8e57038e|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "面向小企业的落地指引，没新工具没降价，扫一眼即可。",
+      "title_hash": "c25bd02d",
+      "scored_at": "2026-09-30T16:31:50.785243Z"
+    },
+    "story_855109885f33|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "选 TTS 模型前先看榜，多语言和克隆效果有统一对比，省得自己搭评测。",
+      "title_hash": "21347f07",
+      "scored_at": "2026-09-30T16:31:51.561868Z"
+    },
+    "story_4fbbd781192d|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "GPT-6.1 和 500 美元订阅直接关系到选型和预算，先看 API 定价再决定换不换。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T16:31:52.614095Z"
+    },
+    "story_54fc7d41042a|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "48小时窗口，能白嫖就赶紧测，顺便对比下自家prompt效果。",
+      "title_hash": "f4a4f3dc",
+      "scored_at": "2026-09-30T16:31:53.840234Z"
+    },
+    "story_855109885f33|cynic|f4237a62": {
+      "score": 78,
+      "review": "排行榜本身是硬货，但'可扩展评估'听着像给自家模型量身定做的赛道。",
+      "title_hash": "21347f07",
+      "scored_at": "2026-09-30T16:31:54.465103Z"
+    },
+    "story_855109885f33|paper-police|966065bf": {
+      "score": 78,
+      "review": "排行榜公开可查，评测方法透明，但缺论文与代码仓库，复现性待验证。",
+      "title_hash": "21347f07",
+      "scored_at": "2026-09-30T16:31:55.618594Z"
+    },
+    "story_4fbbd781192d|cynic|f4237a62": {
+      "score": 55,
+      "review": "GPT-6.1 的 .1 是版本号还是凑数？500 美元订阅先解释下比 20 刀多了啥。",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T16:31:56.446961Z"
+    },
+    "story_4fbbd781192d|paper-police|966065bf": {
+      "score": 20,
+      "review": "发布会通稿堆砌，无论文无代码无benchmark，GPT-6.1拿什么复现？",
+      "title_hash": "fb17b619",
+      "scored_at": "2026-09-30T16:31:57.168596Z"
     }
   }
 }

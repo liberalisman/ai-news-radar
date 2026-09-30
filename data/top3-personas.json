@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:10:30.245766Z",
+  "generated_at": "2026-09-30T16:31:57.168652Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_df96b073d4af",
-      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "五分之一价格是真的，但\"接近Astra\"的基准线是谁定的？等第三方复现再吹。"
-        },
-        "paper-police": {
-          "score": 62,
-          "review": "官方发布加多家媒体转述，但无论文无开源，评测数字待第三方复现。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "五分之一价格拿到接近旗舰的智能，API 用户今天就能切过去省钱。"
-        }
-      }
-    },
-    {
       "story_id": "story_5e8fdb7e624e",
       "title": "GPT-6.1 Sol 在 GitHub Copilot 中上线 / GPT-6.1 Sol in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_a12eaf57e6f0",
-      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "rank": 3,
+      "story_id": "story_855109885f33",
+      "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "四项基准第一是真的，但表格模型这赛道本来就冷清，赢一群小作坊不算封神。"
+          "score": 78,
+          "review": "排行榜本身是硬货，但'可扩展评估'听着像给自家模型量身定做的赛道。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "开源模型加四项基准第一，但缺论文与第三方复现，等独立跑分。"
+          "score": 78,
+          "review": "排行榜公开可查，评测方法透明，但缺论文与代码仓库，复现性待验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "表格任务可直接换模型，HuggingFace 上能拉，先拿自己的数据跑个 baseline。"
+          "review": "选 TTS 模型前先看榜，多语言和克隆效果有统一对比，省得自己搭评测。"
+        }
+      }
+    },
+    {
+      "story_id": "story_4fbbd781192d",
+      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "GPT-6.1 的 .1 是版本号还是凑数？500 美元订阅先解释下比 20 刀多了啥。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "发布会通稿堆砌，无论文无代码无benchmark，GPT-6.1拿什么复现？"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "GPT-6.1 和 500 美元订阅直接关系到选型和预算，先看 API 定价再决定换不换。"
         }
       }
     }
