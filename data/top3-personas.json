@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:31:57.168652Z",
+  "generated_at": "2026-09-30T19:42:36.069961Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_5e8fdb7e624e",
-      "title": "GPT-6.1 Sol 在 GitHub Copilot 中上线 / GPT-6.1 Sol in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+      "story_id": "story_7be76ad26106",
+      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "版本号从6跳到6.1，更新日志却只写'上线'，改了什么全靠用户自己猜。"
+          "review": "Dots、Sol、500美元三件套齐发，可基准、延迟、成本一个没晒，先看账单再鼓掌。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方更新属实，但无论文、无代码、无公开评测，仅上线公告。"
+          "score": 30,
+          "review": "发布会通稿堆砌，无论文无代码无第三方跑分，GPT-6.1 性能数字全凭官方自述。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "Copilot 里直接能切新模型，写代码的今天就能试，先拿小项目对比下效果。"
+          "score": 82,
+          "review": "GPT-6.1 Sol 和 Dots 若已开放 API 就值得今天试；500 美元订阅先看额度再决定。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a67dcb1766e6",
+      "title": "VS Code 与 GitHub Copilot 应用中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 58,
+          "review": "官方 changelog 就一行标题，连 HydraFusion 是什么都没说清，先别急着叫更新。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方更新只给功能说明，无论文无代码无第三方评测，性能宣称无法复现。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Copilot 用户直接更新插件就能用，先试小项目看补全质量再决定留不留。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_855109885f33",
       "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
       "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "选 TTS 模型前先看榜，多语言和克隆效果有统一对比，省得自己搭评测。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4fbbd781192d",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "GPT-6.1 的 .1 是版本号还是凑数？500 美元订阅先解释下比 20 刀多了啥。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "发布会通稿堆砌，无论文无代码无benchmark，GPT-6.1拿什么复现？"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "GPT-6.1 和 500 美元订阅直接关系到选型和预算，先看 API 定价再决定换不换。"
         }
       }
     }
