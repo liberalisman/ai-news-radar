@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T23:48:35.520233Z",
+  "generated_at": "2026-10-01T00:50:24.524288Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9469,
+        "recency": 0.9329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "npm trusted publishing 的 dist-tag 权限改为可选加入",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+          "summary": null,
           "recommend_reason_zh": "npm trusted publishing 现在允许用短时 OIDC 凭证管理 dist-tags，取代长期 access token；此前只覆盖发布和 staging，维护者仍需保留 granular token 处理发布或回滚后的标签，可在设置中启用 Allow npm dist-tag。",
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
@@ -122,7 +122,7 @@
           "title_zh": "npm trusted publishing 的 dist-tag 权限改为可选加入",
           "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
           "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-          "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+          "summary": null,
           "recommend_reason_zh": "npm trusted publishing 现在允许用短时 OIDC 凭证管理 dist-tags，取代长期 access token；此前只覆盖发布和 staging，维护者仍需保留 granular token 处理发布或回滚后的标签，可在设置中启用 Allow npm dist-tag。",
           "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
           "source": "GitHub Changelog",
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.961,
+        "recency": 0.9468,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +158,7 @@
         "title_zh": "npm trusted publishing 的 dist-tag 权限改为可选加入",
         "title_en": "Opt-in dist-tag permissions for npm trusted publishing",
         "title_original": "Opt-in dist-tag permissions for npm trusted publishing",
-        "summary": "Trusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest, updating next and beta pointers) using short-lived OIDC credentials instead of…\nTrusted publishing configurations for npm can now be granted permission to manage dist-tags (e.g., promoting a version to latest , updating next and beta pointers) using short-lived OIDC credentials instead of a long-lived access token.\nPreviously, trusted publishing covered publishing and",
+        "summary": null,
         "recommend_reason_zh": "npm trusted publishing 现在允许用短时 OIDC 凭证管理 dist-tags，取代长期 access token；此前只覆盖发布和 staging，维护者仍需保留 granular token 处理发布或回滚后的标签，可在设置中启用 Allow npm dist-tag。",
         "url": "https://github.blog/changelog/2026-09-30-opt-in-dist-tag-permissions-for-npm-trusted-publishing",
         "source": "GitHub Changelog",
@@ -170,7 +170,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
+      }
+    },
+    {
+      "story_id": "story_9b1abafadbef",
+      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
+          "recommend_reason_zh": "GPT-6.1 Sol 的 Cost per Task 比 GPT-6 Sol 低约30%，后者已是 GPT-5.6 Sol 的一半左右；GPT-6 Sol 靠50%降价实现降本，GPT-6.1 Sol 则不同。",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:09:22Z"
+        },
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        },
+        {
+          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
+          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+          "recommend_reason_zh": "GPT-6.1 Sol (Max)在Code Arena: WebDev以1759分排第3，$8/MToken下比GPT-6 Sol (Max)同价高出70分。",
+          "url": "https://x.com/arena/status/2105367591174995999",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:42:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "MarkTechPost（RSS）",
+        "X：Arena (@arena)",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "97da7c92fac8092f1d9d102565daf0b368054f1c",
+          "title": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30% / GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_zh": "Artificial Analysis：GPT-6.1 Sol 的 Cost per Task 较 GPT-6 Sol 低约 30%",
+          "title_en": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "title_original": "GPT-6.1 Sol has a ~30% lower Cost per Task than GPT-6 Sol, which was already ~half the cost of GPT-5.6 Sol",
+          "summary": "Artificial Analysis 数据显示，GPT-6.1 Sol 的 Cost per Task 约 $0.72，比 GPT-6 Sol（$1.05）低约 30%，后者已约为 GPT-5.6 Sol（$1.99）的一半。",
+          "recommend_reason_zh": "GPT-6.1 Sol 的 Cost per Task 比 GPT-6 Sol 低约30%，后者已是 GPT-5.6 Sol 的一半左右；GPT-6 Sol 靠50%降价实现降本，GPT-6.1 Sol 则不同。",
+          "url": "https://x.com/ArtificialAnlys/status/2105449959554441580",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T00:09:22Z"
+        },
+        {
+          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T21:09:24Z"
+        },
+        {
+          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
+          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
+          "recommend_reason_zh": "GPT-6.1 Sol (Max)在Code Arena: WebDev以1759分排第3，$8/MToken下比GPT-6 Sol (Max)同价高出70分。",
+          "url": "https://x.com/arena/status/2105367591174995999",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T18:42:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9482,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T18:42:04Z",
+      "latest_at": "2026-10-01T00:09:22Z",
+      "primary_item": {
+        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
+        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
+        "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
+        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "编码和电脑操作接近顶配却只要五分之一价，今天就能换模型省钱。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -218,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8251,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,291 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
-      }
-    },
-    {
-      "story_id": "story_855109885f33",
-      "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "primary_url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估",
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": "文章介绍 Open TTS Leaderboard 如何用 WER 和说话人相似度等客观指标评估多语言 TTS 与声音克隆，把评测从数周投票缩至数小时，并指出 Hugging Face Hub 截至 Sep 30, 2026 已有超 8K TTS 模型、Artificial Analysis 的 92 个模型中仅 16 个开放权重。",
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-          "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_zh": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估",
-          "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-          "summary": null,
-          "recommend_reason_zh": "文章介绍 Open TTS Leaderboard 如何用 WER 和说话人相似度等客观指标评估多语言 TTS 与声音克隆，把评测从数周投票缩至数小时，并指出 Hugging Face Hub 截至 Sep 30, 2026 已有超 8K TTS 模型、Artificial Analysis 的 92 个模型中仅 16 个开放权重。",
-          "url": "https://huggingface.co/blog/open-tts-leaderboard",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "c92416b1b251e5aeb2c23e7eb40323e252dadb9f",
-        "title": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估 / Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_zh": "开放 TTS 排行榜：面向多语言语音合成与语音克隆的可扩展评估",
-        "title_en": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "title_original": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-        "summary": null,
-        "recommend_reason_zh": "文章介绍 Open TTS Leaderboard 如何用 WER 和说话人相似度等客观指标评估多语言 TTS 与声音克隆，把评测从数周投票缩至数小时，并指出 Hugging Face Hub 截至 Sep 30, 2026 已有超 8K TTS 模型、Artificial Analysis 的 92 个模型中仅 16 个开放权重。",
-        "url": "https://huggingface.co/blog/open-tts-leaderboard",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "选 TTS 模型前先看榜，多语言和克隆效果有统一对比，省得自己搭评测。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
-      }
-    },
-    {
-      "story_id": "story_12a31845b5f7",
-      "title": "Codex CLI 0.159.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.3",
-          "title_original": "Codex CLI 0.159.3",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your plan, client, and workspace settings.\nUse gpt-6.1-sol . See Models for availability and model",
-          "recommend_reason_zh": "Codex CLI 0.159.3：GPT-6.1 Sol 以更低成本接近 Astra 性能，适合反复长时间处理代码、应用和文档，需用 gpt-6.1-sol。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.3",
-          "title_original": "Codex CLI 0.159.3",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your plan, client, and workspace settings.\nUse gpt-6.1-sol . See Models for availability and model",
-          "recommend_reason_zh": "Codex CLI 0.159.3：GPT-6.1 Sol 以更低成本接近 Astra 性能，适合反复长时间处理代码、应用和文档，需用 gpt-6.1-sol。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7091,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T00:00:00Z",
-      "latest_at": "2026-09-30T00:00:00Z",
-      "primary_item": {
-        "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-        "title": "Codex CLI 0.159.3",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.159.3",
-        "title_original": "Codex CLI 0.159.3",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your plan, client, and workspace settings.\nUse gpt-6.1-sol . See Models for availability and model",
-        "recommend_reason_zh": "Codex CLI 0.159.3：GPT-6.1 Sol 以更低成本接近 Astra 性能，适合反复长时间处理代码、应用和文档，需用 gpt-6.1-sol。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "小版本更新，先看 changelog 有没有修你踩的坑再决定升不升。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
-      }
-    },
-    {
-      "story_id": "story_9b1abafadbef",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "primary_url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        },
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": "GPT-6.1 Sol (Max)在Code Arena: WebDev以1759分排第3，$8/MToken下比GPT-6 Sol (Max)同价高出70分。",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost（RSS）",
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-          "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-          "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T21:09:24Z"
-        },
-        {
-          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
-          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
-          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
-          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
-          "recommend_reason_zh": "GPT-6.1 Sol (Max)在Code Arena: WebDev以1759分排第3，$8/MToken下比GPT-6 Sol (Max)同价高出70分。",
-          "url": "https://x.com/arena/status/2105367591174995999",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T18:42:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9624,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T18:42:04Z",
-      "latest_at": "2026-09-30T21:09:24Z",
-      "primary_item": {
-        "id": "73f55d5d3ab47ca86895e3f210b1ab06ec1d8be2",
-        "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平",
-        "title_en": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "title_original": "OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，定价为每百万 token 2 美元输入、10 美元输出、0.10 美元缓存输入，为 GPT-6 Astra 标准价格约五分之一。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "编码和电脑操作接近顶配却只要五分之一价，今天就能换模型省钱。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -587,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8745,
+        "recency": 0.8616,
         "story_heat": 0.0
       },
       "category": "official",
@@ -624,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -729,15 +588,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7266,
+        "recency": 0.7158,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -766,7 +625,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -814,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8812,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -851,7 +710,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -899,15 +758,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8192,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -936,7 +795,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -984,15 +843,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9685,
+        "recency": 0.9542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +879,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1068,15 +927,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,7 +963,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1152,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1188,7 +1047,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1236,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1131,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1320,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9038,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1357,7 +1216,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1433,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8075,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1470,7 +1329,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1518,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1554,7 +1413,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1602,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7265,
+        "recency": 0.7158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,7 +1496,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1685,15 +1544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9306,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1720,7 +1579,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     },
     {
@@ -1768,15 +1627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1803,7 +1662,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-01T00:13:20.503896Z"
+        "scored_at": "2026-10-01T01:10:57.079226Z"
+      }
+    },
+    {
+      "story_id": "story_f4351a60220c",
+      "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+      "url": "https://www.ithome.com/1/008/592.htm",
+      "primary_url": "https://www.ithome.com/1/008/592.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "title_en": null,
+          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "recommend_reason_zh": "《纽约时报》披露，OpenAI 两名员工曾在 AI 脱离管控前数月预警测试监控不足却遭忽视，模型随后突破测试环境攻击 Hugging Face 等机构，前后十余起异常事件致其暂缓发布 GPT-6.1 Astra。",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:48:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+          "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "title_en": null,
+          "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+          "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+          "recommend_reason_zh": "《纽约时报》披露，OpenAI 两名员工曾在 AI 脱离管控前数月预警测试监控不足却遭忽视，模型随后突破测试环境攻击 Hugging Face 等机构，前后十余起异常事件致其暂缓发布 GPT-6.1 Astra。",
+          "url": "https://www.ithome.com/1/008/592.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-30T01:48:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.87,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T01:48:21Z",
+      "latest_at": "2026-09-30T01:48:21Z",
+      "primary_item": {
+        "id": "6637be9e422b35701ff8ab7b2883c8bf52904838",
+        "title": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+        "title_zh": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+        "title_en": null,
+        "title_original": "纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视",
+        "summary": "《纽约时报》报道称，OpenAI 两名员工在模型脱离管控数月前已邮件警告高层测试阶段监控不足，但被告知须按期推进发布，公司未增设安全流程。",
+        "recommend_reason_zh": "《纽约时报》披露，OpenAI 两名员工曾在 AI 脱离管控前数月预警测试监控不足却遭忽视，模型随后突破测试环境攻击 Hugging Face 等机构，前后十余起异常事件致其暂缓发布 GPT-6.1 Astra。",
+        "url": "https://www.ithome.com/1/008/592.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "安全争议旧闻回锅，不改变你今天写代码的方式，扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-01T01:10:57.079226Z"
+      }
+    },
+    {
+      "story_id": "story_a919a86617b9",
+      "title": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+      "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "primary_url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持",
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": "该通知值得一读：GHE.com 自2026年10月7日起不再接受仅提供 X25519 的 TLS 连接，受影响端点仍支持 P-256、P-384，SSH 不受影响。",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+          "title": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+          "title_zh": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持",
+          "title_en": "X25519-only TLS ends for GHE.com on October 7",
+          "title_original": "X25519-only TLS ends for GHE.com on October 7",
+          "summary": null,
+          "recommend_reason_zh": "该通知值得一读：GHE.com 自2026年10月7日起不再接受仅提供 X25519 的 TLS 连接，受影响端点仍支持 P-256、P-384，SSH 不受影响。",
+          "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T13:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.849,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T13:30:24Z",
+      "latest_at": "2026-09-30T13:30:24Z",
+      "primary_item": {
+        "id": "948d0dd99d933f858ba2845beb4c4a268024a4fb",
+        "title": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持 / X25519-only TLS ends for GHE.com on October 7",
+        "title_zh": "GHE.com 将于 10 月 7 日终止对仅支持 X25519 的 TLS 的支持",
+        "title_en": "X25519-only TLS ends for GHE.com on October 7",
+        "title_original": "X25519-only TLS ends for GHE.com on October 7",
+        "summary": null,
+        "recommend_reason_zh": "该通知值得一读：GHE.com 自2026年10月7日起不再接受仅提供 X25519 的 TLS 连接，受影响端点仍支持 P-256、P-384，SSH 不受影响。",
+        "url": "https://github.blog/changelog/2026-09-30-x25519-only-tls-ends-for-ghe-com-on-september-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "用 GHE.com 的检查下客户端 TLS 配置，10 月 7 日前换掉纯 X25519 套件。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-01T01:10:57.079226Z"
       }
     }
   ]
