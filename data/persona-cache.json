@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_b361718ee020|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "企业管控Copilot agent权限，合规团队今天能配置，开发流程更稳。",
-      "title_hash": "81d15fa1",
-      "scored_at": "2026-09-09T22:14:20.351141Z"
-    },
-    "story_b361718ee020|cynic|f4237a62": {
-      "score": 72,
-      "review": "权限管理总算跟上，但别吹成安全革命，默认配置下agent照样能闯祸。",
-      "title_hash": "81d15fa1",
-      "scored_at": "2026-09-09T22:14:21.451699Z"
-    },
-    "story_b361718ee020|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方更新给了细节，但无代码无benchmark，等实际验证。",
-      "title_hash": "81d15fa1",
-      "scored_at": "2026-09-09T22:14:22.851438Z"
-    },
-    "story_7909c6cf5087|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "新模型发布即用，专业场景API已开放，今天就能测效果。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:13:58.310850Z"
-    },
-    "story_218a1539238c|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "ARM64 CI 跑代码扫描的今天就能换，省成本提速。",
-      "title_hash": "1064037e",
-      "scored_at": "2026-09-09T23:13:59.734098Z"
-    },
-    "story_7909c6cf5087|cynic|f4237a62": {
-      "score": 75,
-      "review": "专业场景的定位比全能吹嘘务实，但没给基准数据，先信一半。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:14:01.216615Z"
-    },
-    "story_7909c6cf5087|paper-police|966065bf": {
-      "score": 10,
-      "review": "仅官网公告，无论文无代码无评测，GPT-6名号难证。",
-      "title_hash": "96bc3114",
-      "scored_at": "2026-09-09T23:14:02.473676Z"
-    },
     "story_266dc2269e8a|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "政策喊话不写代码，合规团队看看即可，开发者今天照常交付。",
@@ -6027,9 +5985,9 @@
     },
     "story_0cb3c1ba901d|pragmatic|0a5c5b24": {
       "score": 72,
-      "review": "Team 版可免费试用代码扫描和密钥检测，小团队值得开一轮评估。",
-      "title_hash": "7b030707",
-      "scored_at": "2026-09-30T19:42:28.753511Z"
+      "review": "Team 版可免费试 GHAS，小团队能先跑一轮代码扫描再决定要不要买。",
+      "title_hash": "53939f97",
+      "scored_at": "2026-10-01T00:13:24.108031Z"
     },
     "story_d4acd3dc42b9|pragmatic|0a5c5b24": {
       "score": 22,
@@ -6114,6 +6072,48 @@
       "review": "发布会通稿堆参数，无论文无代码无第三方跑分，等实测再说。",
       "title_hash": "fb17b619",
       "scored_at": "2026-09-30T21:24:50.397193Z"
+    },
+    "story_3dc27c9fc0cd|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "用 trusted publishing 发 npm 包的，dist-tag 权限现在要手动开，CI 配置得检查一下。",
+      "title_hash": "24945f4e",
+      "scored_at": "2026-10-01T00:13:21.210494Z"
+    },
+    "story_12a31845b5f7|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "小版本更新，先看 changelog 有没有修你踩的坑再决定升不升。",
+      "title_hash": "2412208b",
+      "scored_at": "2026-10-01T00:13:21.899633Z"
+    },
+    "story_9b1abafadbef|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "编码和电脑操作接近顶配却只要五分之一价，今天就能换模型省钱。",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T00:13:22.568821Z"
+    },
+    "story_543034a71340|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "榜单位次而已，没开放接口也没价格，等能调 API 再说。",
+      "title_hash": "6b23e69a",
+      "scored_at": "2026-10-01T00:13:23.494350Z"
+    },
+    "story_dd1cd653606b|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "免账号、邮件就能派任务，限时免费，今天就能试一把自动化。",
+      "title_hash": "ad3f0d7c",
+      "scored_at": "2026-10-01T00:13:25.009157Z"
+    },
+    "story_9b1abafadbef|cynic|f4237a62": {
+      "score": 58,
+      "review": "「接近」和「五分之一」都是公关词，基准表没晒，Astra 是谁家也没说清。",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T00:13:25.740879Z"
+    },
+    "story_9b1abafadbef|paper-police|966065bf": {
+      "score": 38,
+      "review": "只有媒体稿和推文，无论文、无代码、无第三方跑分，价格对比无法复现。",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T00:13:26.527045Z"
     }
   }
 }
