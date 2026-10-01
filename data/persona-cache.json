@@ -1,120 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_5719390a8fd1|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "科研案例，方法可借鉴但无工具开放，普通开发者看完就忘。",
-      "title_hash": "b9f3167f",
-      "scored_at": "2026-09-10T18:13:37.398069Z"
-    },
-    "story_8435ae56fbea|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "模型下线，用它的项目得赶紧换模型，查下迁移建议。",
-      "title_hash": "da404098",
-      "scored_at": "2026-09-10T18:13:38.148874Z"
-    },
-    "story_d977d81c5d9f|pragmatic|0a5c5b24": {
-      "score": 12,
-      "review": "Google 教你用搜索查跑步训练，跟开发者没半点关系。",
-      "title_hash": "e70e438f",
-      "scored_at": "2026-09-10T18:13:39.073022Z"
-    },
-    "story_b2726331d325|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "ChatGPT 里直接跑数据分析，做报表的可以先试，但别急着替掉现有 BI 流程。",
-      "title_hash": "4f9b2c7c",
-      "scored_at": "2026-09-10T18:13:40.102588Z"
-    },
-    "story_b31c189fce1b|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "安全圈动向，没工具没补丁，知道有这回事就行。",
-      "title_hash": "17a650a3",
-      "scored_at": "2026-09-10T18:13:41.043552Z"
-    },
-    "story_3c58fa4bee9b|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CI 跑 iOS 构建的可以升了，但先确认依赖工具链兼容性。",
-      "title_hash": "9a4bd40a",
-      "scored_at": "2026-09-10T18:13:41.979434Z"
-    },
-    "story_92e4d9f147fc|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "跨端选型的反面教材，用 RN 的团队该读读他们的迁移成本清单。",
-      "title_hash": "906e2430",
-      "scored_at": "2026-09-10T18:13:43.136987Z"
-    },
-    "story_86ba7807178e|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "安全评估报告，不改变你今天的代码和选型，知道有这回事就行。",
-      "title_hash": "8d6ee78a",
-      "scored_at": "2026-09-10T18:13:44.105619Z"
-    },
-    "story_e3a5af60314a|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "政府采购通道，跟个人开发者没关系，等具体API条款再说。",
-      "title_hash": "0188ae19",
-      "scored_at": "2026-09-10T18:13:45.637617Z"
-    },
-    "story_b9e3da285041|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "对齐评估报告，读不读都不影响你今天写代码，等 METR 结论再说。",
-      "title_hash": "4a68a46e",
-      "scored_at": "2026-09-10T18:13:46.639920Z"
-    },
-    "story_56692de3b9bc|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "Nano Banana 图像编辑能力不错，但 Pics 还没开放入口，先记着别急着换工作流。",
-      "title_hash": "5bbf973a",
-      "scored_at": "2026-09-10T18:13:47.774414Z"
-    },
-    "story_93498211a2a0|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "npm 账号安全策略收紧，CI 里用恢复码登录的流水线可能被冻结，先检查发布脚本。",
-      "title_hash": "8fba55ef",
-      "scored_at": "2026-09-10T18:13:48.778851Z"
-    },
-    "story_b2726331d325|cynic|f4237a62": {
-      "score": 62,
-      "review": "官方博客只给场景不给基准，企业级数据接入的权限和成本一字未提。",
-      "title_hash": "4f9b2c7c",
-      "scored_at": "2026-09-10T18:13:49.937054Z"
-    },
-    "story_b2726331d325|paper-police|966065bf": {
-      "score": 38,
-      "review": "官方博客宣称功能，无论文无代码无第三方评测，仅算有说法。",
-      "title_hash": "4f9b2c7c",
-      "scored_at": "2026-09-10T18:13:51.005645Z"
-    },
-    "story_6c68adbdb622|cynic|f4237a62": {
-      "score": 62,
-      "review": "降 KV cache 是真需求，但'大幅'是多少？没给基线对比和实测吞吐，先别急着鼓掌。",
-      "title_hash": "5bb29f06",
-      "scored_at": "2026-09-10T18:13:51.925124Z"
-    },
-    "story_6c68adbdb622|paper-police|966065bf": {
-      "score": 38,
-      "review": "仅媒体报道，无论文、无代码、无第三方复现，内存降幅数字待验证。",
-      "title_hash": "5bb29f06",
-      "scored_at": "2026-09-10T18:13:52.872303Z"
-    },
-    "story_d376123c7d4c|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "CI 缓存权限能细粒度控制了，多环境仓库今天就能改配置收紧访问。",
-      "title_hash": "9d73a18c",
-      "scored_at": "2026-09-10T18:45:36.736480Z"
-    },
-    "story_d376123c7d4c|cynic|f4237a62": {
-      "score": 78,
-      "review": "给缓存加个开关算实用，但别指望它解决串味和投毒，changelog 写得像安全大补丁。",
-      "title_hash": "9d73a18c",
-      "scored_at": "2026-09-10T18:45:37.979391Z"
-    },
-    "story_d376123c7d4c|paper-police|966065bf": {
-      "score": 55,
-      "review": "官方 changelog 有功能说明，但无独立评测与复现步骤，属有迹可循。",
-      "title_hash": "9d73a18c",
-      "scored_at": "2026-09-10T18:45:39.363489Z"
-    },
     "story_353d7797f4fb|pragmatic|0a5c5b24": {
       "score": 82,
       "review": "PR 里能直接跑 AI 扫描了，公开预览可申请，CI 流程可以试接。",
@@ -6174,6 +6060,96 @@
       "review": "官方 changelog 有 API 文档和发布说明，但无 benchmark、无第三方复现，属可查未验证。",
       "title_hash": "8dafad50",
       "scored_at": "2026-10-01T15:50:10.999936Z"
+    },
+    "story_25299d1ec50f|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "OpenAI 官网发的理念文章，没模型没API，看完不写一行代码。",
+      "title_hash": "9b2708a5",
+      "scored_at": "2026-10-01T19:17:33.670995Z"
+    },
+    "story_d6a6f0dfce45|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CI 日志和状态保留期变了，快去仓库设置里核对，别让审计记录提前消失。",
+      "title_hash": "bcb29719",
+      "scored_at": "2026-10-01T19:17:34.822124Z"
+    },
+    "story_8116becccb3e|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "零售巨头的AI应用案例，看完也抄不到自己项目里，跳过。",
+      "title_hash": "9bdfd89b",
+      "scored_at": "2026-10-01T19:17:35.967995Z"
+    },
+    "story_ca15d7ba627d|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "不活跃仓库不再跑扫描，省 CI 额度，但老项目安全告警会静默消失，记得手动查。",
+      "title_hash": "49cc4958",
+      "scored_at": "2026-10-01T19:17:37.363036Z"
+    },
+    "story_a804da4308ce|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "能写 TS 改 CLI 行为和界面，重度用户今天就能折腾插件了。",
+      "title_hash": "d6a87ef9",
+      "scored_at": "2026-10-01T19:17:38.546898Z"
+    },
+    "story_bb25c57ef66e|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "五分之一价格拿到接近顶级的编码和操作能力，今天就能换模型省账单。",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T19:17:39.811789Z"
+    },
+    "story_e4ed42a08a07|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新分支 CI 不再因覆盖率上传失败，少踩一个坑，但别指望它帮你提升覆盖率。",
+      "title_hash": "f4fca8c6",
+      "scored_at": "2026-10-01T19:17:40.988828Z"
+    },
+    "story_6b623c4d0459|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "榜单第三而已，没开放新接口也没降价，选型时多一个参考项。",
+      "title_hash": "8ae6da6a",
+      "scored_at": "2026-10-01T19:17:42.215905Z"
+    },
+    "story_efca02b8eca0|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "官方教程，想省 token 成本、按任务分流模型的可以直接抄。",
+      "title_hash": "c163dee8",
+      "scored_at": "2026-10-01T19:17:43.471377Z"
+    },
+    "story_714f9dbcfc64|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "GitHub 仪表盘换默认样式，不影响 API 和仓库，扫一眼知道就行。",
+      "title_hash": "87a5ad71",
+      "scored_at": "2026-10-01T19:17:44.620139Z"
+    },
+    "story_5548434c147f|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Claude Code 插件开发教程，想给编辑器加自定义功能的可以照着抄。",
+      "title_hash": "678d1afc",
+      "scored_at": "2026-10-01T19:17:45.747993Z"
+    },
+    "story_bb25c57ef66e|cynic|f4237a62": {
+      "score": 58,
+      "review": "五分之一价格配'接近'二字，说明差距还在，只是便宜到让人不计较。",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T19:17:46.844715Z"
+    },
+    "story_bb25c57ef66e|paper-police|966065bf": {
+      "score": 38,
+      "review": "只有发布稿和价格宣称，无论文、无开源、无第三方复现，编码水平拿什么证明？",
+      "title_hash": "50234c6b",
+      "scored_at": "2026-10-01T19:17:48.026022Z"
+    },
+    "story_a804da4308ce|cynic|f4237a62": {
+      "score": 68,
+      "review": "TypeScript 定制 UI 是真扩展点，但一条推文当发布，文档和 API 稳定性呢？",
+      "title_hash": "d6a87ef9",
+      "scored_at": "2026-10-01T19:17:49.389989Z"
+    },
+    "story_a804da4308ce|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方推文宣布功能，无论文无仓库无评测，等文档和示例代码再评。",
+      "title_hash": "d6a87ef9",
+      "scored_at": "2026-10-01T19:17:50.546113Z"
     }
   }
 }

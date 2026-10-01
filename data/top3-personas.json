@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:50:10.999994Z",
+  "generated_at": "2026-10-01T19:17:50.546175Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_9b1abafadbef",
+      "story_id": "story_bb25c57ef66e",
       "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
       "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 58,
-          "review": "「接近」和「五分之一」都是公关词，基准表没晒，Astra 是谁家也没说清。"
+          "review": "五分之一价格配'接近'二字，说明差距还在，只是便宜到让人不计较。"
         },
         "paper-police": {
           "score": 38,
-          "review": "只有媒体稿和推文，无论文、无代码、无第三方跑分，价格对比无法复现。"
+          "review": "只有发布稿和价格宣称，无论文、无开源、无第三方复现，编码水平拿什么证明？"
         },
         "pragmatic": {
           "score": 88,
-          "review": "编码和电脑操作接近顶配却只要五分之一价，今天就能换模型省钱。"
+          "review": "五分之一价格拿到接近顶级的编码和操作能力，今天就能换模型省账单。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_9cc7967eae69",
-      "title": "GitHub 异步合并 API 正式发布 / GitHub async merge API generally available",
-      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
+      "story_id": "story_a804da4308ce",
+      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
+      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "合并请求终于不用干等了，但异步了也得自己轮询状态，省的是连接不是心智。"
+          "score": 68,
+          "review": "TypeScript 定制 UI 是真扩展点，但一条推文当发布，文档和 API 稳定性呢？"
         },
         "paper-police": {
-          "score": 58,
-          "review": "官方 changelog 有 API 文档和发布说明，但无 benchmark、无第三方复现，属可查未验证。"
+          "score": 38,
+          "review": "官方推文宣布功能，无论文无仓库无评测，等文档和示例代码再评。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "合并请求不用再同步等，CI 脚本和自动化流水线今天就能改。"
+          "review": "能写 TS 改 CLI 行为和界面，重度用户今天就能折腾插件了。"
         }
       }
     }
