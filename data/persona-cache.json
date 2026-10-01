@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_15857ddbbec1|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "用 Gradio 复刻 A1111 界面，想自建 WebUI 的可以抄这套工作流。",
-      "title_hash": "2a539f1e",
-      "scored_at": "2026-09-10T15:04:53.577872Z"
-    },
-    "story_6c68adbdb622|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "KV cache 降内存直接省显存，长上下文 Agent 部署成本能砍一截，等权重和 API 开放就试。",
-      "title_hash": "5bb29f06",
-      "scored_at": "2026-09-10T15:04:54.291540Z"
-    },
-    "story_ce9846509246|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "算力炫技，Devin 日常写业务代码还是另一回事，看看就好。",
-      "title_hash": "a6d0a325",
-      "scored_at": "2026-09-10T15:04:55.773936Z"
-    },
-    "story_74f7eba24928|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "减重数字是营销话术，没接口没模型，开发者今天无事可做。",
-      "title_hash": "045112bf",
-      "scored_at": "2026-09-10T15:04:56.994330Z"
-    },
-    "story_6d252cc42595|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "大会观察稿，没有可用的产品、价格或接口，扫一眼标题就够了。",
-      "title_hash": "3d272e24",
-      "scored_at": "2026-09-10T15:04:58.093345Z"
-    },
     "story_5719390a8fd1|pragmatic|0a5c5b24": {
       "score": 42,
       "review": "科研案例，方法可借鉴但无工具开放，普通开发者看完就忘。",
@@ -6138,6 +6108,72 @@
       "review": "标题党味重，Opus 5.5 没这能力，看完也学不到能跑的东西。",
       "title_hash": "7e99f2e9",
       "scored_at": "2026-10-01T13:36:57.461449Z"
+    },
+    "story_a97a1140e735|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "MoE 训练基建开源可 clone，想自己训大稀疏模型的可以直接抄。",
+      "title_hash": "e5532b77",
+      "scored_at": "2026-10-01T15:50:01.176061Z"
+    },
+    "story_9cc7967eae69|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "合并请求不用再同步等，CI 脚本和自动化流水线今天就能改。",
+      "title_hash": "8dafad50",
+      "scored_at": "2026-10-01T15:50:02.027960Z"
+    },
+    "story_e79047166a33|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "自建 GitHub Actions runner 的可以升，先看 breaking change 再动。",
+      "title_hash": "ecc6d806",
+      "scored_at": "2026-10-01T15:50:03.208617Z"
+    },
+    "story_6f6508ae55fd|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "税务操作跟写代码没关系，除非你在做财务系统，否则扫一眼就过。",
+      "title_hash": "aaeb8253",
+      "scored_at": "2026-10-01T15:50:04.131332Z"
+    },
+    "story_91de62452fe7|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "EDA 工具链的 AI 集成，方向重要但没开放接口，先观望。",
+      "title_hash": "9daa5ef7",
+      "scored_at": "2026-10-01T15:50:04.942679Z"
+    },
+    "story_feed4e172225|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "政策口水战，没新接口没新工具，选型和交付都不受影响。",
+      "title_hash": "6be296ab",
+      "scored_at": "2026-10-01T15:50:05.872856Z"
+    },
+    "story_4f0ab61105fd|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资新闻，产品还没开放，等有 SDK 和文档再说。",
+      "title_hash": "d9086ab7",
+      "scored_at": "2026-10-01T15:50:07.014754Z"
+    },
+    "story_a97a1140e735|cynic|f4237a62": {
+      "score": 78,
+      "review": "训练框架开源是真货，但MoE的通信开销和显存账单一个字没提，先别急着封神。",
+      "title_hash": "e5532b77",
+      "scored_at": "2026-10-01T15:50:07.807757Z"
+    },
+    "story_a97a1140e735|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方博客给了架构细节，但缺论文与开源仓库链接，复现路径不明。",
+      "title_hash": "e5532b77",
+      "scored_at": "2026-10-01T15:50:08.985564Z"
+    },
+    "story_9cc7967eae69|cynic|f4237a62": {
+      "score": 78,
+      "review": "合并请求终于不用干等了，但异步了也得自己轮询状态，省的是连接不是心智。",
+      "title_hash": "8dafad50",
+      "scored_at": "2026-10-01T15:50:09.825683Z"
+    },
+    "story_9cc7967eae69|paper-police|966065bf": {
+      "score": 58,
+      "review": "官方 changelog 有 API 文档和发布说明，但无 benchmark、无第三方复现，属可查未验证。",
+      "title_hash": "8dafad50",
+      "scored_at": "2026-10-01T15:50:10.999936Z"
     }
   }
 }

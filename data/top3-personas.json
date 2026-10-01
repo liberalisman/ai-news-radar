@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:36:57.461612Z",
+  "generated_at": "2026-10-01T15:50:10.999994Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_a67dcb1766e6",
-      "title": "VS Code 与 GitHub Copilot 应用中的 HydraFusion / HydraFusion in VS Code and the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-30-hydrafusion-in-vs-code-and-the-github-copilot-app",
+      "story_id": "story_a97a1140e735",
+      "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "官方 changelog 就一行标题，连 HydraFusion 是什么都没说清，先别急着叫更新。"
+          "score": 78,
+          "review": "训练框架开源是真货，但MoE的通信开销和显存账单一个字没提，先别急着封神。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方更新只给功能说明，无论文无代码无第三方评测，性能宣称无法复现。"
+          "score": 72,
+          "review": "官方博客给了架构细节，但缺论文与开源仓库链接，复现路径不明。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "Copilot 用户直接更新插件就能用，先试小项目看补全质量再决定留不留。"
+          "review": "MoE 训练基建开源可 clone，想自己训大稀疏模型的可以直接抄。"
         }
       }
     },
     {
-      "story_id": "story_b3f4baa4cfb3",
-      "title": "ChatGPT 现可直接构建并部署 MCP 服务器 / One more thing, you can now build and deploy MCP servers right through ChatGPT. And restrict its access to anyone you want or share it wi...",
-      "url": "https://x.com/thsottiaux/status/2105519215092584786",
+      "story_id": "story_9cc7967eae69",
+      "title": "GitHub 异步合并 API 正式发布 / GitHub async merge API generally available",
+      "url": "https://github.blog/changelog/2026-10-01-github-async-merge-api-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "在ChatGPT里搭MCP服务器，听着像把厨房搬进客厅——方便是真方便，权限边界和调试成本一个字没提。"
+          "score": 78,
+          "review": "合并请求终于不用干等了，但异步了也得自己轮询状态，省的是连接不是心智。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "只有一条推文宣称功能上线，无文档、无代码、无第三方验证，先拿证据再谈发布。"
+          "score": 58,
+          "review": "官方 changelog 有 API 文档和发布说明，但无 benchmark、无第三方复现，属可查未验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "ChatGPT 里直接建 MCP 服务器，省掉自建样板，权限可控，今天就能试。"
+          "review": "合并请求不用再同步等，CI 脚本和自动化流水线今天就能改。"
         }
       }
     }
