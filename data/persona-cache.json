@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_34ddc4e3132d|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "1M上下文加FP4 KV缓存，长文档和Agent场景直接省显存，API能调就换。",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-10T10:25:30.580725Z"
-    },
-    "story_5c0660d4ca4f|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "语音调GPT-6只对Pro开放，先看限额怎么算，别急着改架构。",
-      "title_hash": "1c9f8cf6",
-      "scored_at": "2026-09-10T10:25:31.651812Z"
-    },
-    "story_068c3c65edc6|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "学术口水战，没模型没代码，等真出论文再回来看。",
-      "title_hash": "d376f9b6",
-      "scored_at": "2026-09-10T10:25:32.768017Z"
-    },
-    "story_34ddc4e3132d|cynic|f4237a62": {
-      "score": 72,
-      "review": "1M上下文配FP4 KV缓存是真省显存，但Flash后缀通常意味着能力缩水，等实测再吹。",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-10T10:25:33.565425Z"
-    },
-    "story_34ddc4e3132d|paper-police|966065bf": {
-      "score": 42,
-      "review": "官方日志加媒体报道，参数亮眼但无论文无开源无第三方复现，先观望。",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-10T10:25:34.628406Z"
-    },
     "story_15857ddbbec1|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "用 Gradio 复刻 A1111 界面，想自建 WebUI 的可以抄这套工作流。",
@@ -6138,6 +6108,36 @@
       "review": "只有一条推文宣称功能上线，无文档、无代码、无第三方验证，先拿证据再谈发布。",
       "title_hash": "a86876fd",
       "scored_at": "2026-10-01T07:56:20.377818Z"
+    },
+    "story_9d8a37b506d5|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "推理内容可被蒸馏窃取，做API产品的该查查自己的日志和限流了。",
+      "title_hash": "94951f92",
+      "scored_at": "2026-10-01T13:36:53.594957Z"
+    },
+    "story_9db480c23ef4|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "管理哲学随笔，没有可跑的东西，看完也改不了代码。",
+      "title_hash": "f49e6623",
+      "scored_at": "2026-10-01T13:36:54.549469Z"
+    },
+    "story_fa117f7022c2|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CI 里加 LLM eval 门禁的实操教程，想给 prompt 改动上护栏的可以直接抄。",
+      "title_hash": "3a12c186",
+      "scored_at": "2026-10-01T13:36:55.700012Z"
+    },
+    "story_916ac2a835c6|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资估值跟写代码没关系，等它开源或出 API 再说。",
+      "title_hash": "2f0cd363",
+      "scored_at": "2026-10-01T13:36:56.652917Z"
+    },
+    "story_4bbc6ed4bc34|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "标题党味重，Opus 5.5 没这能力，看完也学不到能跑的东西。",
+      "title_hash": "7e99f2e9",
+      "scored_at": "2026-10-01T13:36:57.461449Z"
     }
   }
 }
