@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T19:17:50.546175Z",
+  "generated_at": "2026-10-01T23:32:13.537183Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_bb25c57ef66e",
-      "title": "OpenAI 发布 GPT-6.1 Sol：以 Astra 五分之一价格接近其编码与计算机操作水平 / OpenAI Releases GPT-6.1 Sol: Near-Astra Coding and Computer Use at One-Fifth of Astra’s Token Price",
-      "url": "https://www.marktechpost.com/2026/09/30/openai-releases-gpt-6-1-sol-near-astra-coding-and-computer-use-at-one-fifth-of-astras-token-price",
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 58,
-          "review": "五分之一价格配'接近'二字，说明差距还在，只是便宜到让人不计较。"
+          "score": 72,
+          "review": "官方 changelog 敢发就算数，但截图里点得动的应用，和真能替你干活的，中间还差几个权限弹窗。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方 changelog 有功能说明，但无论文无 benchmark，交互准确率无从验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。"
+        }
+      }
+    },
+    {
+      "story_id": "story_4360c0773884",
+      "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "官方 changelog 有真东西，但月度发布凑数条目不少，别把版本号当卖点。"
         },
         "paper-police": {
           "score": 38,
-          "review": "只有发布稿和价格宣称，无论文、无开源、无第三方复现，编码水平拿什么证明？"
+          "review": "官方 changelog 只列功能更新，无论文、无 benchmark、无第三方复现，属宣传口径。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "五分之一价格拿到接近顶级的编码和操作能力，今天就能换模型省账单。"
+          "score": 82,
+          "review": "Copilot 月度更新，装 VS Code 的顺手升级即可，具体改动看 changelog。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_a97a1140e735",
       "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
       "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "MoE 训练基建开源可 clone，想自己训大稀疏模型的可以直接抄。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a804da4308ce",
-      "title": "Claude Code 推出 mods 功能，可用 TypeScript 定制行为与 UI / You can now mod Claude Code:",
-      "url": "https://x.com/ClaudeDevs/status/2105721434807083061",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 68,
-          "review": "TypeScript 定制 UI 是真扩展点，但一条推文当发布，文档和 API 稳定性呢？"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方推文宣布功能，无论文无仓库无评测，等文档和示例代码再评。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "能写 TS 改 CLI 行为和界面，重度用户今天就能折腾插件了。"
         }
       }
     }

@@ -1,72 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_353d7797f4fb|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "PR 里能直接跑 AI 扫描了，公开预览可申请，CI 流程可以试接。",
-      "title_hash": "1082762e",
-      "scored_at": "2026-09-10T21:31:08.322772Z"
-    },
-    "story_18c966d78324|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "Cygwin 构建输入和源码，Windows 上折腾 Codex CLI 的少数人用得上，多数人跳过。",
-      "title_hash": "8b36e303",
-      "scored_at": "2026-09-10T21:31:09.136217Z"
-    },
-    "story_f77d111a864e|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "口水仗，不改变任何接口和价格，该调谁调谁。",
-      "title_hash": "d230d441",
-      "scored_at": "2026-09-10T21:31:10.580925Z"
-    },
-    "story_cb7d0c198e24|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "全双工语音 API 已开放，做实时对话的今天就能接，延迟和打断体验值得实测。",
-      "title_hash": "d637ce93",
-      "scored_at": "2026-09-10T21:31:11.772788Z"
-    },
-    "story_66723f7214d7|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Python SDK 小版本更新，用 Codex CLI 的可以顺手升，没用的不用看。",
-      "title_hash": "ebfb047b",
-      "scored_at": "2026-09-10T21:31:12.700283Z"
-    },
-    "story_ee45c8b26d46|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "金融垂直版，多数人用不上；做金融AI的可以看接口和合规限制。",
-      "title_hash": "34b786f1",
-      "scored_at": "2026-09-10T21:31:13.867533Z"
-    },
-    "story_cb7d0c198e24|cynic|f4237a62": {
-      "score": 72,
-      "review": "全双工是真本事，但延迟、打断率和每千token价格一个没提，发布会式官宣。",
-      "title_hash": "d637ce93",
-      "scored_at": "2026-09-10T21:31:14.647565Z"
-    },
-    "story_cb7d0c198e24|paper-police|966065bf": {
-      "score": 38,
-      "review": "官网发布属实，但无论文、无开源、无第三方评测，全双工性能无从复现。",
-      "title_hash": "d637ce93",
-      "scored_at": "2026-09-10T21:31:15.659750Z"
-    },
-    "story_353d7797f4fb|cynic|f4237a62": {
-      "score": 72,
-      "review": "GitHub 官方功能，公开预览算实在，但 changelog 通篇没给误报率和定价，先别急着吹。",
-      "title_hash": "1082762e",
-      "scored_at": "2026-09-10T21:31:16.576905Z"
-    },
-    "story_353d7797f4fb|paper-police|966065bf": {
-      "score": 40,
-      "review": "官方changelog只说公开预览，无论文无benchmark，效果全靠自证。",
-      "title_hash": "1082762e",
-      "scored_at": "2026-09-10T21:31:17.386425Z"
-    },
-    "story_01060d22a981|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "官方教程，教 Copilot 应用里看 diff、跑终端、开浏览器，新手能直接跟着做。",
-      "title_hash": "667eba60",
-      "scored_at": "2026-09-10T21:56:05.042033Z"
-    },
     "story_b2b031fb6942|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "PR 页面改版，日常提审体验会变，先别急着教团队新布局。",
@@ -6150,6 +6084,96 @@
       "review": "官方推文宣布功能，无论文无仓库无评测，等文档和示例代码再评。",
       "title_hash": "d6a87ef9",
       "scored_at": "2026-10-01T19:17:50.546113Z"
+    },
+    "story_a8a59d3ec43f|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。",
+      "title_hash": "d5395e1b",
+      "scored_at": "2026-10-01T23:31:58.858465Z"
+    },
+    "story_e00f099b506f|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Codex CLI 小版本更新，先看 changelog 有没有破坏性改动再升。",
+      "title_hash": "fd6f9259",
+      "scored_at": "2026-10-01T23:31:59.793089Z"
+    },
+    "story_4360c0773884|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Copilot 月度更新，装 VS Code 的顺手升级即可，具体改动看 changelog。",
+      "title_hash": "c33a0b77",
+      "scored_at": "2026-10-01T23:32:01.099091Z"
+    },
+    "story_025446a84602|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "维护开源项目的可以配一下表单，漏洞报告质量能省不少来回追问。",
+      "title_hash": "cb8bc71f",
+      "scored_at": "2026-10-01T23:32:02.629719Z"
+    },
+    "story_e76e1afc67f1|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "OpenRouter 上就能直接调，原生 4K 加多参考编辑，做图工作流今天可试。",
+      "title_hash": "96fec078",
+      "scored_at": "2026-10-01T23:32:03.629784Z"
+    },
+    "story_cff870b7e5ae|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源权重登顶图像榜，做文生图的可以拉下来对比现有管线了。",
+      "title_hash": "ef121cdc",
+      "scored_at": "2026-10-01T23:32:04.776715Z"
+    },
+    "story_f210109d12e4|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "客户案例软文，没新功能没价格，看完也抄不到东西。",
+      "title_hash": "e96bfabb",
+      "scored_at": "2026-10-01T23:32:05.938581Z"
+    },
+    "story_f107a55898ee|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Copilot CLI 能跑动态工作流了，终端里编排多步任务，今天就能试。",
+      "title_hash": "0f9cc34c",
+      "scored_at": "2026-10-01T23:32:06.651789Z"
+    },
+    "story_708891e813ee|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "开源榜第5第9，能下载试跑，但没提价格和许可，先看权重再决定换不换。",
+      "title_hash": "a17d21d2",
+      "scored_at": "2026-10-01T23:32:07.411028Z"
+    },
+    "story_0b2fa78755e5|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CI 里写死 macos-14 的流水线会挂，趁早改到 macos-15 或 latest。",
+      "title_hash": "630f78cb",
+      "scored_at": "2026-10-01T23:32:08.193162Z"
+    },
+    "story_5dd29c996a75|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "成本再降三成，跑批量推理的可以重新算账换模型了。",
+      "title_hash": "cd29467b",
+      "scored_at": "2026-10-01T23:32:09.377238Z"
+    },
+    "story_a8a59d3ec43f|cynic|f4237a62": {
+      "score": 72,
+      "review": "官方 changelog 敢发就算数，但截图里点得动的应用，和真能替你干活的，中间还差几个权限弹窗。",
+      "title_hash": "d5395e1b",
+      "scored_at": "2026-10-01T23:32:10.630396Z"
+    },
+    "story_a8a59d3ec43f|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方 changelog 有功能说明，但无论文无 benchmark，交互准确率无从验证。",
+      "title_hash": "d5395e1b",
+      "scored_at": "2026-10-01T23:32:11.753235Z"
+    },
+    "story_4360c0773884|cynic|f4237a62": {
+      "score": 72,
+      "review": "官方 changelog 有真东西，但月度发布凑数条目不少，别把版本号当卖点。",
+      "title_hash": "c33a0b77",
+      "scored_at": "2026-10-01T23:32:12.560021Z"
+    },
+    "story_4360c0773884|paper-police|966065bf": {
+      "score": 38,
+      "review": "官方 changelog 只列功能更新，无论文、无 benchmark、无第三方复现，属宣传口径。",
+      "title_hash": "c33a0b77",
+      "scored_at": "2026-10-01T23:32:13.537102Z"
     }
   }
 }
