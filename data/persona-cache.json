@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d30641cfac8b|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "营销自动化案例，思路可抄但非通用工具，工程团队用不上。",
-      "title_hash": "986d4f05",
-      "scored_at": "2026-09-11T19:33:52.725408Z"
-    },
     "story_e95b34cb28f9|pragmatic|0a5c5b24": {
       "score": 32,
       "review": "纯理论口水战，没有可跑的代码或接口，扫一眼标题就够了。",
@@ -18,18 +12,6 @@
       "review": "情绪吐槽帖，看完不涨技能也不改选型，扫一眼标题就行。",
       "title_hash": "1e0e8d8d",
       "scored_at": "2026-09-12T00:31:41.615930Z"
-    },
-    "story_e4952151ab1e|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "陶哲轩的观察值得读，但没工具没代码，看完继续写你的 prompt。",
-      "title_hash": "b394ecb3",
-      "scored_at": "2026-09-11T19:33:54.014699Z"
-    },
-    "story_94d7dab25647|pragmatic|0a5c5b24": {
-      "score": 32,
-      "review": "数学家吵架不影响你调 API，除非你在做形式化证明，否则跳过。",
-      "title_hash": "64c6e9c2",
-      "scored_at": "2026-09-11T19:33:54.900870Z"
     },
     "story_adeb9fe0ee2f|pragmatic|0a5c5b24": {
       "score": 55,
@@ -6144,6 +6126,42 @@
       "review": "官方指南只教用法，无论文无代码无第三方评测，性能宣称无从验证。",
       "title_hash": "055c37d9",
       "scored_at": "2026-10-02T18:58:05.830468Z"
+    },
+    "story_aef691a327ab|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "查下你团队默认模型是否在列，被弃用的赶紧切，别等调用报错。",
+      "title_hash": "fe67af15",
+      "scored_at": "2026-10-02T21:00:28.190980Z"
+    },
+    "story_6ea06168ae24|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "论文成果展示，没模型没API，等能复现或开放权重再说。",
+      "title_hash": "5648a70a",
+      "scored_at": "2026-10-02T21:00:29.110974Z"
+    },
+    "story_cca0a3c50eed|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "榜单第5名而已，没开放接口没降价，先记着别急着换模型。",
+      "title_hash": "b1aaa4d1",
+      "scored_at": "2026-10-02T21:00:30.054970Z"
+    },
+    "story_3a793ac15e27|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新推理端点上线，GLM-5.3 可试；先比延迟和价格再决定换不换。",
+      "title_hash": "a0c03793",
+      "scored_at": "2026-10-02T21:00:30.955266Z"
+    },
+    "story_aef691a327ab|cynic|f4237a62": {
+      "score": 72,
+      "review": "弃用公告写得干净，但没说替代模型贵多少、延迟涨多少，用户自己踩坑。",
+      "title_hash": "fe67af15",
+      "scored_at": "2026-10-02T21:00:32.156350Z"
+    },
+    "story_aef691a327ab|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方变更日志，来源可信但只列弃用名单，无评测数据可复现。",
+      "title_hash": "fe67af15",
+      "scored_at": "2026-10-02T21:00:32.987768Z"
     }
   }
 }

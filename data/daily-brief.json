@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:41:20.668259Z",
+  "generated_at": "2026-10-02T20:44:16.442070Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
           "title_en": "A model guide for the GPT-6 family",
           "title_original": "A model guide for the GPT-6 family",
-          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nOctober 2, 2026\nPractical tips for getting the ",
+          "summary": null,
           "recommend_reason_zh": "这篇面向startups的指南教你在GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna间按推理、编码等任务选型，并用prompt caching把缓存输入token成本最多降低95%，还给出compaction和production部署建议。",
           "url": "https://openai.com/index/practical-guide-building-gpt-6",
           "source": "OpenAI News",
@@ -37,7 +37,7 @@
           "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
           "title_en": "A model guide for the GPT-6 family",
           "title_original": "A model guide for the GPT-6 family",
-          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nOctober 2, 2026\nPractical tips for getting the ",
+          "summary": null,
           "recommend_reason_zh": "这篇面向startups的指南教你在GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna间按推理、编码等任务选型，并用prompt caching把缓存输入token成本最多降低95%，还给出compaction和production部署建议。",
           "url": "https://openai.com/index/practical-guide-building-gpt-6",
           "source": "OpenAI News",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9654,
+        "recency": 0.9372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
         "title_en": "A model guide for the GPT-6 family",
         "title_original": "A model guide for the GPT-6 family",
-        "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nLearn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.\nOctober 2, 2026\nPractical tips for getting the ",
+        "summary": null,
         "recommend_reason_zh": "这篇面向startups的指南教你在GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna间按推理、编码等任务选型，并用prompt caching把缓存输入token成本最多降低95%，还给出compaction和production部署建议。",
         "url": "https://openai.com/index/practical-guide-building-gpt-6",
         "source": "OpenAI News",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8465,
+      "importance": 0.8465,
+      "importance_score": 0.8465,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9527,
+        "recency": 0.9249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
+      }
+    },
+    {
+      "story_id": "story_aef691a327ab",
+      "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "GitHub Copilot 中部分模型已弃用",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
+          "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
+          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "GitHub Copilot 中部分模型已弃用",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
+          "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
+          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T18:24:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9669,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T18:24:19Z",
+      "latest_at": "2026-10-02T18:24:19Z",
+      "primary_item": {
+        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+        "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+        "title_zh": "GitHub Copilot 中部分模型已弃用",
+        "title_en": "Selected models in GitHub Copilot deprecated",
+        "title_original": "Selected models in GitHub Copilot deprecated",
+        "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
+        "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "查下你团队默认模型是否在列，被弃用的赶紧切，别等调用报错。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -187,7 +272,7 @@
           "title_zh": "AI 正在改变开发者工作。以下是三项值得强化的技能。",
           "title_en": "AI is changing developer work. Here are three skills to strengthen.",
           "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-          "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nAI is changing how developers work and apply their skills. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate",
+          "summary": null,
           "recommend_reason_zh": "想了解 AI 重塑开发者工作时该强化哪些能力，这篇文章提炼三项技能：指挥 AI agents、批判性审查输出、把技术判断放在中心，并提到 GitHub Copilot 用第二个模型审查计划、代码和测试。",
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
           "source": "GitHub AI & ML",
@@ -207,7 +292,7 @@
           "title_zh": "AI 正在改变开发者工作。以下是三项值得强化的技能。",
           "title_en": "AI is changing developer work. Here are three skills to strengthen.",
           "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-          "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nAI is changing how developers work and apply their skills. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate",
+          "summary": null,
           "recommend_reason_zh": "想了解 AI 重塑开发者工作时该强化哪些能力，这篇文章提炼三项技能：指挥 AI agents、批判性审查输出、把技术判断放在中心，并提到 GitHub Copilot 用第二个模型审查计划、代码和测试。",
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
           "source": "GitHub AI & ML",
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9481,
+        "recency": 0.9205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,7 +328,7 @@
         "title_zh": "AI 正在改变开发者工作。以下是三项值得强化的技能。",
         "title_en": "AI is changing developer work. Here are three skills to strengthen.",
         "title_original": "AI is changing developer work. Here are three skills to strengthen.",
-        "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.\nAI is changing how developers work and apply their skills. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate",
+        "summary": null,
         "recommend_reason_zh": "想了解 AI 重塑开发者工作时该强化哪些能力，这篇文章提炼三项技能：指挥 AI agents、批判性审查输出、把技术判断放在中心，并提到 GitHub Copilot 用第二个模型审查计划、代码和测试。",
         "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
         "source": "GitHub AI & ML",
@@ -255,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -303,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9481,
+        "recency": 0.9205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -388,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9251,
+        "recency": 0.8982,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,92 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
-      }
-    },
-    {
-      "story_id": "story_8251eed32ade",
-      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9246,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T13:15:25Z",
-      "latest_at": "2026-10-02T13:15:25Z",
-      "primary_item": {
-        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-        "title_en": "Repository security advisory comments API in public preview",
-        "title_original": "Repository security advisory comments API in public preview",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -558,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8092,
+        "recency": 0.7856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +595,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
+      }
+    },
+    {
+      "story_id": "story_6ea06168ae24",
+      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+      "url": "https://x.com/AIatMeta/status/2106099776035152231",
+      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "recommend_reason_zh": "AI模型在数学、物理、化学五项竞赛中达到金牌级表现后，团队追问：面对没有现成解法路径的真正开放问题，AI能否作出贡献，并已让数学家与其合作数月。",
+          "url": "https://x.com/AIatMeta/status/2106099776035152231",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:11:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+          "recommend_reason_zh": "AI模型在数学、物理、化学五项竞赛中达到金牌级表现后，团队追问：面对没有现成解法路径的真正开放问题，AI能否作出贡献，并已让数学家与其合作数月。",
+          "url": "https://x.com/AIatMeta/status/2106099776035152231",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:11:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9779,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:11:30Z",
+      "latest_at": "2026-10-02T19:11:30Z",
+      "primary_item": {
+        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
+        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
+        "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
+        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
+        "recommend_reason_zh": "AI模型在数学、物理、化学五项竞赛中达到金牌级表现后，团队追问：面对没有现成解法路径的真正开放问题，AI能否作出贡献，并已让数学家与其合作数月。",
+        "url": "https://x.com/AIatMeta/status/2106099776035152231",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "论文成果展示，没模型没API，等能复现或开放权重再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T21:00:27.053833Z"
+      }
+    },
+    {
+      "story_id": "story_3f2245b761ea",
+      "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "primary_url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+          "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
+          "title_en": "Chatham scales its capital markets expertise with OpenAI",
+          "title_original": "Chatham scales its capital markets expertise with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+          "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+          "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
+          "title_en": "Chatham scales its capital markets expertise with OpenAI",
+          "title_original": "Chatham scales its capital markets expertise with OpenAI",
+          "summary": null,
+          "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
+          "url": "https://openai.com/index/chatham-financial",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7412,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T00:00:00Z",
+      "latest_at": "2026-10-02T00:00:00Z",
+      "primary_item": {
+        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
+        "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
+        "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
+        "title_en": "Chatham scales its capital markets expertise with OpenAI",
+        "title_original": "Chatham scales its capital markets expertise with OpenAI",
+        "summary": null,
+        "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
+        "url": "https://openai.com/index/chatham-financial",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "客户案例软文，没接口没价格，看完学不到能用的东西。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -643,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,63 +848,147 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
-      "story_id": "story_3f2245b761ea",
-      "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "primary_url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cca0a3c50eed",
+      "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+      "url": "https://x.com/arena/status/2106109027923140928",
+      "primary_url": "https://x.com/arena/status/2106109027923140928",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
-          "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
-          "title_en": "Chatham scales its capital markets expertise with OpenAI",
-          "title_original": "Chatham scales its capital markets expertise with OpenAI",
-          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nOctober 2, 2026\nChatham Financial uses Codex and GPT‑5.6 to build technology and redes",
-          "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z"
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+          "recommend_reason_zh": "@OpenAi 的 GPT-6.1 Sol (Max) 以每任务中位成本仅为 0.56 美元进入 Agent Arena 第 5、提升 11.23%，其性能距 GPT-6 Sol 和 GPT-6 Astra 只相差 2 个百分点，却比 GPT-6 Sol 便宜 39%，并重塑帕累托前沿。",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
-          "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
-          "title_en": "Chatham scales its capital markets expertise with OpenAI",
-          "title_original": "Chatham scales its capital markets expertise with OpenAI",
-          "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nOctober 2, 2026\nChatham Financial uses Codex and GPT‑5.6 to build technology and redes",
-          "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z"
+          "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+          "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+          "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+          "recommend_reason_zh": "@OpenAi 的 GPT-6.1 Sol (Max) 以每任务中位成本仅为 0.56 美元进入 Agent Arena 第 5、提升 11.23%，其性能距 GPT-6 Sol 和 GPT-6 Astra 只相差 2 个百分点，却比 GPT-6 Sol 便宜 39%，并重塑帕累托前沿。",
+          "url": "https://x.com/arena/status/2106109027923140928",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T19:48:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9866,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:48:16Z",
+      "latest_at": "2026-10-02T19:48:16Z",
+      "primary_item": {
+        "id": "448fbd384a7108fe2df37b8330ded3ee7b97a6b8",
+        "title": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型 / Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_zh": "GPT-6.1 Sol (Max) 进入 Agent Arena 第 5 名，以更低成本逼近前列模型",
+        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAi just landed in the Agent Arena at #5 (+11.23%) and reshaped the Pareto frontier!",
+        "summary": "Arena 宣布 OpenAI 的 GPT-6.1 Sol (Max) 在 Agent Arena 排名第 5（+11.23%），中位任务成本 $0.56，并重塑了 Pareto 前沿。",
+        "recommend_reason_zh": "@OpenAi 的 GPT-6.1 Sol (Max) 以每任务中位成本仅为 0.56 美元进入 Agent Arena 第 5、提升 11.23%，其性能距 GPT-6 Sol 和 GPT-6 Astra 只相差 2 个百分点，却比 GPT-6 Sol 便宜 39%，并重塑帕累托前沿。",
+        "url": "https://x.com/arena/status/2106109027923140928",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "榜单第5名而已，没开放接口没降价，先记着别急着换模型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T21:00:27.053833Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7635,
+        "ai_relevance": 0.87,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,27 +997,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T00:00:00Z",
-      "latest_at": "2026-10-02T00:00:00Z",
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
       "primary_item": {
-        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-        "title": "Chatham 借助 OpenAI 拓展其资本市场专业能力 / Chatham scales its capital markets expertise with OpenAI",
-        "title_zh": "Chatham 借助 OpenAI 拓展其资本市场专业能力",
-        "title_en": "Chatham scales its capital markets expertise with OpenAI",
-        "title_original": "Chatham scales its capital markets expertise with OpenAI",
-        "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nChatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.\nOctober 2, 2026\nChatham Financial uses Codex and GPT‑5.6 to build technology and redes",
-        "recommend_reason_zh": "Chatham Financial用Codex和GPT-5.6重构流程，Process Zero将trade validation从30分钟缩至4分钟内。",
-        "url": "https://openai.com/index/chatham-financial",
-        "source": "OpenAI News",
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "客户案例软文，没接口没价格，看完学不到能用的东西。",
+      "persona_score": 72,
+      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -812,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +1101,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -925,22 +1178,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7666,
+        "recency": 0.7443,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T00:17:12Z",
       "latest_at": "2026-10-02T02:14:51Z",
@@ -962,7 +1214,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -1010,21 +1262,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8494,
+        "recency": 0.8247,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T07:23:13Z",
       "latest_at": "2026-10-02T07:23:13Z",
@@ -1046,7 +1297,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -1094,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9324,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1129,92 +1380,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
-      }
-    },
-    {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
-      "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-        "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -1262,15 +1428,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7646,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1463,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
+      }
+    },
+    {
+      "story_id": "story_3a793ac15e27",
+      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+      "url": "https://www.primeintellect.ai/blog/prime-inference",
+      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
+      "source": "Prime Intellect（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "recommend_reason_zh": "Prime推出Prime Inference，跨数据中心为frontier开源模型提供serverless与reserved服务；其GLM-5.3于9月22日上线OpenRouter，工具调用错误率近零、100% uptime，并详解GB200 NVL72上的prefill/decode、NVFP4 KV压缩与NIXL传输。",
+          "url": "https://www.primeintellect.ai/blog/prime-inference",
+          "source": "Prime Intellect（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Prime Intellect（网页）"
+      ],
+      "items": [
+        {
+          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+          "recommend_reason_zh": "Prime推出Prime Inference，跨数据中心为frontier开源模型提供serverless与reserved服务；其GLM-5.3于9月22日上线OpenRouter，工具调用错误率近零、100% uptime，并详解GB200 NVL72上的prefill/decode、NVFP4 KV压缩与NIXL传输。",
+          "url": "https://www.primeintellect.ai/blog/prime-inference",
+          "source": "Prime Intellect（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T20:44:16.442070Z",
+      "latest_at": "2026-10-02T20:44:16.442070Z",
+      "primary_item": {
+        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
+        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
+        "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
+        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
+        "recommend_reason_zh": "Prime推出Prime Inference，跨数据中心为frontier开源模型提供serverless与reserved服务；其GLM-5.3于9月22日上线OpenRouter，工具调用错误率近零、100% uptime，并详解GB200 NVL72上的prefill/decode、NVFP4 KV压缩与NIXL传输。",
+        "url": "https://www.primeintellect.ai/blog/prime-inference",
+        "source": "Prime Intellect（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "新推理端点上线，GLM-5.3 可试；先比延迟和价格再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -1345,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9213,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,7 +1629,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     },
     {
@@ -1428,21 +1677,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7717,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T00:44:40Z",
       "latest_at": "2026-10-02T00:44:40Z",
@@ -1464,316 +1712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
-      }
-    },
-    {
-      "story_id": "story_025446a84602",
-      "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
-          "title_zh": "私密漏洞报告的结构化表单",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
-          "title_zh": "私密漏洞报告的结构化表单",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7202,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:57:28Z",
-      "latest_at": "2026-10-01T19:57:28Z",
-      "primary_item": {
-        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-        "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
-        "title_zh": "私密漏洞报告的结构化表单",
-        "title_en": "Structured forms for private vulnerability reports",
-        "title_original": "Structured forms for private vulnerability reports",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
-        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "维护开源项目的可以配一下表单，漏洞报告质量能省不少来回追问。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
-      }
-    },
-    {
-      "story_id": "story_0b2fa78755e5",
-      "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-          "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-          "title_en": "GitHub Actions: macOS 14 runner image retirement",
-          "title_original": "GitHub Actions: macOS 14 runner image retirement",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-          "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-          "title_en": "GitHub Actions: macOS 14 runner image retirement",
-          "title_original": "GitHub Actions: macOS 14 runner image retirement",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:23Z",
-      "latest_at": "2026-10-01T19:11:23Z",
-      "primary_item": {
-        "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-        "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-        "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-        "title_en": "GitHub Actions: macOS 14 runner image retirement",
-        "title_original": "GitHub Actions: macOS 14 runner image retirement",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CI 里写死 macos-14 的流水线会挂，趁早改到 macos-15 或 latest。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
-      }
-    },
-    {
-      "story_id": "story_72d50a4cd2b5",
-      "title": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头 / TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-      "primary_url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "469da61b4adf8094c5a6075b29dd7388bf57381c",
-          "title": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头 / TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "title_zh": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头",
-          "title_en": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "title_original": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "summary": null,
-          "recommend_reason_zh": "Blackstone’s Jas Khaira 将登上 TechCrunch Disrupt 2026 的 Builders Stage，围绕 next-gen AI 谈如何打造下一代 AI 巨头；活动还具体列出 demo 截止 Oct 2、面向 10,000+ tech leaders，门票最高省 $200 和第二张半价均截至 Sept 25 11:59 p.m. PT 等参会信息。",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:00:00Z"
-        },
-        {
-          "id": "c0b1b8bd780097bdd1f80d10864795b536d694d5",
-          "title": "TechCrunch Disrupt 2026：Clay 的 Kareem Amin 谈 GTM 工程师的崛起 / TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "title_zh": "TechCrunch Disrupt 2026：Clay 的 Kareem Amin 谈 GTM 工程师的崛起",
-          "title_en": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "title_original": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "summary": null,
-          "recommend_reason_zh": "文章预告 Clay 联合创始人兼 CEO Kareem Amin 登上 TechCrunch Disrupt 2026 的 AI Stage，探讨 GTM engineer 的崛起，并提醒 10 月 2 日是向 10,000+ 科技领袖演示的最后一天，9 月 25 日前购票最高省 $200、第二张半价。",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:30:00Z"
-        },
-        {
-          "id": "99259636c5b6f500b14a9def36716656bec6d597",
-          "title": "最后24小时：在 TechCrunch Disrupt 2026 参展，触达 10,000+ 科技领袖 / Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "title_zh": "最后24小时：在 TechCrunch Disrupt 2026 参展，触达 10,000+ 科技领袖",
-          "title_en": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "title_original": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026展位申请不足24小时就截止，十月十三至十五日在SF举行，预计吸引10K+科技领袖，想参展的一定要抓紧别错过。",
-          "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:00:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "469da61b4adf8094c5a6075b29dd7388bf57381c",
-          "title": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头 / TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "title_zh": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头",
-          "title_en": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "title_original": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-          "summary": null,
-          "recommend_reason_zh": "Blackstone’s Jas Khaira 将登上 TechCrunch Disrupt 2026 的 Builders Stage，围绕 next-gen AI 谈如何打造下一代 AI 巨头；活动还具体列出 demo 截止 Oct 2、面向 10,000+ tech leaders，门票最高省 $200 和第二张半价均截至 Sept 25 11:59 p.m. PT 等参会信息。",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T15:00:00Z"
-        },
-        {
-          "id": "c0b1b8bd780097bdd1f80d10864795b536d694d5",
-          "title": "TechCrunch Disrupt 2026：Clay 的 Kareem Amin 谈 GTM 工程师的崛起 / TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "title_zh": "TechCrunch Disrupt 2026：Clay 的 Kareem Amin 谈 GTM 工程师的崛起",
-          "title_en": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "title_original": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-          "summary": null,
-          "recommend_reason_zh": "文章预告 Clay 联合创始人兼 CEO Kareem Amin 登上 TechCrunch Disrupt 2026 的 AI Stage，探讨 GTM engineer 的崛起，并提醒 10 月 2 日是向 10,000+ 科技领袖演示的最后一天，9 月 25 日前购票最高省 $200、第二张半价。",
-          "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:30:00Z"
-        },
-        {
-          "id": "99259636c5b6f500b14a9def36716656bec6d597",
-          "title": "最后24小时：在 TechCrunch Disrupt 2026 参展，触达 10,000+ 科技领袖 / Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "title_zh": "最后24小时：在 TechCrunch Disrupt 2026 参展，触达 10,000+ 科技领袖",
-          "title_en": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "title_original": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-          "summary": null,
-          "recommend_reason_zh": "TechCrunch Disrupt 2026展位申请不足24小时就截止，十月十三至十五日在SF举行，预计吸引10K+科技领袖，想参展的一定要抓紧别错过。",
-          "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-02T14:00:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6644,
-      "importance": 0.6644,
-      "importance_score": 0.6644,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9481,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-02T14:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "469da61b4adf8094c5a6075b29dd7388bf57381c",
-        "title": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头 / TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "title_zh": "TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 谈如何打造下一代 AI 巨头",
-        "title_en": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "title_original": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "summary": null,
-        "recommend_reason_zh": "Blackstone’s Jas Khaira 将登上 TechCrunch Disrupt 2026 的 Builders Stage，围绕 next-gen AI 谈如何打造下一代 AI 巨头；活动还具体列出 demo 截止 Oct 2、面向 10,000+ tech leaders，门票最高省 $200 和第二张半价均截至 Sept 25 11:59 p.m. PT 等参会信息。",
-        "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "投资人谈怎么投AI，跟写代码的没关系，等有产品再管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T18:57:58.244074Z"
+        "scored_at": "2026-10-02T21:00:27.053833Z"
       }
     }
   ]

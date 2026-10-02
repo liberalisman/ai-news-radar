@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:58:05.830584Z",
+  "generated_at": "2026-10-02T21:00:32.987860Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "story_id": "story_aef691a327ab",
+      "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "官方 changelog 敢发就算数，但截图里点得动的应用，和真能替你干活的，中间还差几个权限弹窗。"
+          "review": "弃用公告写得干净，但没说替代模型贵多少、延迟涨多少，用户自己踩坑。"
         },
         "paper-police": {
           "score": 42,
-          "review": "官方 changelog 有功能说明，但无论文无 benchmark，交互准确率无从验证。"
+          "review": "官方变更日志，来源可信但只列弃用名单，无评测数据可复现。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。"
+          "score": 72,
+          "review": "查下你团队默认模型是否在列，被弃用的赶紧切，别等调用报错。"
         }
       }
     }
