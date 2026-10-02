@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:00:41.669164Z",
+  "generated_at": "2026-10-02T18:58:05.830584Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_87eab6a95e56",
+      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "指南写得挺细，但选型表里自家模型全占优，基准和成本口径倒是没提。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方指南只教用法，无论文无代码无第三方评测，性能宣称无从验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "官方选型+提示词指南，今天就能照着调参，省得自己踩坑。"
+        }
+      }
+    },
+    {
       "story_id": "story_2e2e433e3cb1",
       "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_a8a59d3ec43f",
       "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
       "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f107a55898ee",
-      "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "changelog 通篇形容词，没给延迟、token 成本或失败率，动态在哪全靠自证。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方changelog只讲功能，无benchmark无代码，效果全靠自己试。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot CLI 能跑动态工作流了，终端里编排多步任务，今天就能试。"
         }
       }
     }
