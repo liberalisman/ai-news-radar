@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_4f6a9ae0c6f7|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "1M上下文加FP4 KV缓存，长文档和Agent场景今天就能试，先测显存和成本。",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-11T06:52:21.072761Z"
-    },
-    "story_5da02e9477c9|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "六周就迭代，新架构加原生视觉，等 API 开放和价格出来再决定换不换。",
-      "title_hash": "e61a469f",
-      "scored_at": "2026-09-11T06:52:22.775326Z"
-    },
-    "story_4f6a9ae0c6f7|cynic|f4237a62": {
-      "score": 72,
-      "review": "1M上下文配FP4 KV缓存是真省显存，但跨层注意力复用这词儿，论文里敢不敢给消融实验？",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-11T06:52:24.042985Z"
-    },
-    "story_4f6a9ae0c6f7|paper-police|966065bf": {
-      "score": 38,
-      "review": "1M上下文和FP4缓存只有媒体转述，无论文、无开源、无第三方复现，先等实测。",
-      "title_hash": "87e71a7c",
-      "scored_at": "2026-09-11T06:52:25.162394Z"
-    },
     "story_ec5771586f98|pragmatic|0a5c5b24": {
       "score": 82,
       "review": "新模型能白嫖两周，先拿自己业务跑一轮再决定要不要迁。",
@@ -6162,6 +6138,18 @@
       "review": "做企业 Agent 微调的可以看，合成训练数据方案能省标注钱，先跑通再评估。",
       "title_hash": "1e60c8c9",
       "scored_at": "2026-10-02T06:21:59.188217Z"
+    },
+    "story_ba641315d711|pragmatic|0a5c5b24": {
+      "score": 22,
+      "review": "估值两万亿的IPO路演，跟写代码的没关系，等API降价再说。",
+      "title_hash": "af4097b9",
+      "scored_at": "2026-10-02T08:44:14.580951Z"
+    },
+    "story_51872f26e434|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "榜单换血但成本差大，选型前先算 token 账单，别只看排名。",
+      "title_hash": "506633c9",
+      "scored_at": "2026-10-02T08:44:15.700328Z"
     }
   }
 }
