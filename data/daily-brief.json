@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T20:44:16.442070Z",
+  "generated_at": "2026-10-02T22:33:40.710236Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9372,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
+      }
+    },
+    {
+      "story_id": "story_cc4a44476dc4",
+      "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持与新的默认 effort 级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nYou can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default review effort level. These changes are generally available to Copilot Pro, Pro+, Max, Business, and Enterprise plans.\nYou can now request a review from Copilot using t",
+          "recommend_reason_zh": "GitHub Copilot代码审查新增REST与GraphQL API支持，可逐次设置审查力度，Balanced自2026年9月28日起成为默认级别，值得读。",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+          "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持与新的默认 effort 级别",
+          "title_en": "Copilot code review: API support and new default effort level",
+          "title_original": "Copilot code review: API support and new default effort level",
+          "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nYou can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default review effort level. These changes are generally available to Copilot Pro, Pro+, Max, Business, and Enterprise plans.\nYou can now request a review from Copilot using t",
+          "recommend_reason_zh": "GitHub Copilot代码审查新增REST与GraphQL API支持，可逐次设置审查力度，Balanced自2026年9月28日起成为默认级别，值得读。",
+          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T19:13:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8435,
+      "importance": 0.8435,
+      "importance_score": 0.8435,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.953,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T19:13:50Z",
+      "latest_at": "2026-10-02T19:13:50Z",
+      "primary_item": {
+        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
+        "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
+        "title_zh": "Copilot 代码审查：API 支持与新的默认 effort 级别",
+        "title_en": "Copilot code review: API support and new default effort level",
+        "title_original": "Copilot code review: API support and new default effort level",
+        "summary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nYou can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default review effort level. These changes are generally available to Copilot Pro, Pro+, Max, Business, and Enterprise plans.\nYou can now request a review from Copilot using t",
+        "recommend_reason_zh": "GitHub Copilot代码审查新增REST与GraphQL API支持，可逐次设置审查力度，Balanced自2026年9月28日起成为默认级别，值得读。",
+        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "Copilot 代码审查开放 API 了，能接进 CI 流水线自动跑，团队今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9249,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
-      }
-    },
-    {
-      "story_id": "story_aef691a327ab",
-      "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "GitHub Copilot 中部分模型已弃用",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
-          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
-          "title_zh": "GitHub Copilot 中部分模型已弃用",
-          "title_en": "Selected models in GitHub Copilot deprecated",
-          "title_original": "Selected models in GitHub Copilot deprecated",
-          "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
-          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9669,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
-      "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
-        "title_zh": "GitHub Copilot 中部分模型已弃用",
-        "title_en": "Selected models in GitHub Copilot deprecated",
-        "title_original": "Selected models in GitHub Copilot deprecated",
-        "summary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nAs of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions).\nPlease update your workflows and integrations to use supported models. Copilot Enterprise administrators may ne",
-        "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "查下你团队默认模型是否在列，被弃用的赶紧切，别等调用报错。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9205,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9205,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,30 +425,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
-      "story_id": "story_14dc0c8581ff",
-      "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
-      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
-      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "story_id": "story_aef691a327ab",
+      "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
-          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
-          "title_en": "New fields for SecurityAdvisory GraphQL API",
-          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "GitHub Copilot 中部分模型已弃用",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
-          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
-          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:18:00Z"
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "source_count": 1,
@@ -457,31 +457,31 @@
       ],
       "items": [
         {
-          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
-          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
-          "title_en": "New fields for SecurityAdvisory GraphQL API",
-          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+          "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "GitHub Copilot 中部分模型已弃用",
+          "title_en": "Selected models in GitHub Copilot deprecated",
+          "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
-          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
-          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:18:00Z"
+          "published_at": "2026-10-02T18:24:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8982,
+        "ai_relevance": 0.91,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "official",
@@ -490,27 +490,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:18:00Z",
-      "latest_at": "2026-10-02T13:18:00Z",
+      "earliest_at": "2026-10-02T18:24:19Z",
+      "latest_at": "2026-10-02T18:24:19Z",
       "primary_item": {
-        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-        "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
-        "title_zh": "SecurityAdvisory GraphQL API 新增字段",
-        "title_en": "New fields for SecurityAdvisory GraphQL API",
-        "title_original": "New fields for SecurityAdvisory GraphQL API",
+        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
+        "title": "GitHub Copilot 中部分模型已弃用 / Selected models in GitHub Copilot deprecated",
+        "title_zh": "GitHub Copilot 中部分模型已弃用",
+        "title_en": "Selected models in GitHub Copilot deprecated",
+        "title_original": "Selected models in GitHub Copilot deprecated",
         "summary": null,
-        "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
-        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+        "recommend_reason_zh": "GitHub Copilot 2026年10月2日弃用部分模型，聊天、内联编辑、问答与代理、代码补全；管理员可能需在 Copilot settings 启用替代模型，用户需更新工作流。",
+        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "GitHub 安全公告 API 加字段，做依赖扫描和漏洞告警的可以顺手接一下。",
+      "persona_review": "查下你团队默认模型是否在列，被弃用的赶紧切，别等调用报错。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -558,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7856,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -643,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9779,
+        "recency": 0.9525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +679,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -727,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7412,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -764,7 +764,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -812,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -848,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -896,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,30 +932,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
-      "story_id": "story_8251eed32ade",
-      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "story_id": "story_14dc0c8581ff",
+      "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
+          "published_at": "2026-10-02T13:18:00Z"
         }
       ],
       "source_count": 1,
@@ -964,31 +964,31 @@
       ],
       "items": [
         {
-          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-          "title_en": "Repository security advisory comments API in public preview",
-          "title_original": "Repository security advisory comments API in public preview",
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:25Z"
+          "published_at": "2026-10-02T13:18:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8215,
+      "importance": 0.8215,
+      "importance_score": 0.8215,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8976,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -997,27 +997,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:15:25Z",
-      "latest_at": "2026-10-02T13:15:25Z",
+      "earliest_at": "2026-10-02T13:18:00Z",
+      "latest_at": "2026-10-02T13:18:00Z",
       "primary_item": {
-        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
-        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
-        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
-        "title_en": "Repository security advisory comments API in public preview",
-        "title_original": "Repository security advisory comments API in public preview",
+        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+        "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+        "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+        "title_en": "New fields for SecurityAdvisory GraphQL API",
+        "title_original": "New fields for SecurityAdvisory GraphQL API",
         "summary": null,
-        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
-        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
+      "persona_review": "GitHub 安全公告 API 加字段，做依赖扫描和漏洞告警的可以顺手接一下。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1065,15 +1065,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,7 +1101,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1178,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.7249,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1214,7 +1214,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1262,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8247,
+        "recency": 0.8032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1297,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
+      }
+    },
+    {
+      "story_id": "story_2987cb363021",
+      "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+      "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+      "primary_url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+      "source": "Baseten 工程博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+          "title_en": "Agentic inference optimization: 50-90% faster engines",
+          "title_original": "Agentic inference optimization: 50-90% faster engines",
+          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+          "recommend_reason_zh": "Baseten 团队实测用 Claude Code 与 Fable 5 借助 MetaInfer skill，在单张 B200 上以 NVFP4 精度为 Qwen-3.6-35B-A3B 自动生成推理引擎，单流解码速度最高超 vLLM 0.25.1 90%，TTFT 快 2.33 倍，并解释 agentic inference optimization 为何能落地。",
+          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+          "source": "Baseten 工程博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T21:09:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Baseten 工程博客（网页）"
+      ],
+      "items": [
+        {
+          "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+          "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+          "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+          "title_en": "Agentic inference optimization: 50-90% faster engines",
+          "title_original": "Agentic inference optimization: 50-90% faster engines",
+          "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+          "recommend_reason_zh": "Baseten 团队实测用 Claude Code 与 Fable 5 借助 MetaInfer skill，在单张 B200 上以 NVFP4 精度为 Qwen-3.6-35B-A3B 自动生成推理引擎，单流解码速度最高超 vLLM 0.25.1 90%，TTFT 快 2.33 倍，并解释 agentic inference optimization 为何能落地。",
+          "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+          "source": "Baseten 工程博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T21:09:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T21:09:34Z",
+      "latest_at": "2026-10-02T21:09:34Z",
+      "primary_item": {
+        "id": "f43c5a92ec39e2402584ef8b89a404e27c40873e",
+        "title": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90% / Agentic inference optimization: 50-90% faster engines",
+        "title_zh": "Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%",
+        "title_en": "Agentic inference optimization: 50-90% faster engines",
+        "title_original": "Agentic inference optimization: 50-90% faster engines",
+        "summary": "Baseten 工程师参考 MetaInfer 论文，让 Claude Code（Fable 5）为 Qwen-3.6-35B-A3B（NVFP4，单张 B200）自动构建推理引擎 VibeQwen，单流解码比 vLLM 0.25.1 快 90%，首 token 从 28ms 降至 12ms，并发 32 时吞吐高 71%。",
+        "recommend_reason_zh": "Baseten 团队实测用 Claude Code 与 Fable 5 借助 MetaInfer skill，在单张 B200 上以 NVFP4 精度为 Qwen-3.6-35B-A3B 自动生成推理引擎，单流解码速度最高超 vLLM 0.25.1 90%，TTFT 快 2.33 倍，并解释 agentic inference optimization 为何能落地。",
+        "url": "https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota",
+        "source": "Baseten 工程博客（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "推理引擎提速 50-90% 很诱人，但先看代码是否开源、能否复现再决定换不换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1345,15 +1428,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9324,
+        "recency": 0.9082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,7 +1463,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1428,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7423,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,7 +1546,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8743,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
+      "primary_item": {
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     },
     {
@@ -1511,15 +1679,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1546,173 +1714,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
-      }
-    },
-    {
-      "story_id": "story_d023c4690eff",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8944,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T13:00:39Z",
-      "latest_at": "2026-10-02T13:00:39Z",
-      "primary_item": {
-        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-        "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
-        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "4999刀买台本地跑大模型的桌面机，预算够的团队可评估，个人开发者偏贵。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
-      }
-    },
-    {
-      "story_id": "story_c29f7f8dd49f",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7492,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T00:44:40Z",
-      "latest_at": "2026-10-02T00:44:40Z",
-      "primary_item": {
-        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-        "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "卫星上跑芯片，跟你的训练和推理账单没关系，知道有这回事就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T21:00:27.053833Z"
+        "scored_at": "2026-10-02T22:49:59.681216Z"
       }
     }
   ]
