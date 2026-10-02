@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:30:22.401492Z",
+  "generated_at": "2026-10-02T16:00:41.669164Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_2e2e433e3cb1",
+      "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源权重值得肯定，但\"fast\"只跟自家旧版比，延迟和成本数据一个没给。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "开源模型已放出，但缺论文与第三方复现，跑分待验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "报告生成模型开源，能直接下载试跑，做自动摘要的可以拿来对比。"
+        }
+      }
+    },
+    {
       "story_id": "story_a8a59d3ec43f",
       "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
       "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_4360c0773884",
-      "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "官方 changelog 有真东西，但月度发布凑数条目不少，别把版本号当卖点。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方 changelog 只列功能更新，无论文、无 benchmark、无第三方复现，属宣传口径。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 月度更新，装 VS Code 的顺手升级即可，具体改动看 changelog。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a97a1140e735",
-      "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "story_id": "story_f107a55898ee",
+      "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "训练框架开源是真货，但MoE的通信开销和显存账单一个字没提，先别急着封神。"
+          "score": 62,
+          "review": "changelog 通篇形容词，没给延迟、token 成本或失败率，动态在哪全靠自证。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方博客给了架构细节，但缺论文与开源仓库链接，复现路径不明。"
+          "score": 38,
+          "review": "官方changelog只讲功能，无benchmark无代码，效果全靠自己试。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "MoE 训练基建开源可 clone，想自己训大稀疏模型的可以直接抄。"
+          "review": "Copilot CLI 能跑动态工作流了，终端里编排多步任务，今天就能试。"
         }
       }
     }

@@ -1,8 +1,433 @@
 {
-  "generated_at": "2026-10-02T13:11:22.578467Z",
+  "generated_at": "2026-10-02T15:48:38.887662Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2e2e433e3cb1",
+      "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief：Asta 中快速的报告生成模型",
+          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nTraining the model Collecting SFT training data Creating DPO pairs Filtering data for better attribution Validating the approach Where this goes next 🤗 Model | 📊 Data\nLanguage models can already help researchers search the literature, synthesize evidence, and work through complex questions. But scientific work places particular demands on these models—answers need to stay grounded in evidence, the models need to preserve what ",
+          "recommend_reason_zh": "Ai2 开源 AstaBrief 8B，用数万真实研究查询训练，将研究问题与文献摘录生成带引用报告；原文称其在 Asta 的 Fast mode 平均 51.1 秒/报告，比 Claude-powered Thinking mode 的 178.5 秒快约 3.5 倍，并公开权重与训练数据。",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:19:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief：Asta 中快速的报告生成模型",
+          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nTraining the model Collecting SFT training data Creating DPO pairs Filtering data for better attribution Validating the approach Where this goes next 🤗 Model | 📊 Data\nLanguage models can already help researchers search the literature, synthesize evidence, and work through complex questions. But scientific work places particular demands on these models—answers need to stay grounded in evidence, the models need to preserve what ",
+          "recommend_reason_zh": "Ai2 开源 AstaBrief 8B，用数万真实研究查询训练，将研究问题与文献摘录生成带引用报告；原文称其在 Asta 的 Fast mode 平均 51.1 秒/报告，比 Claude-powered Thinking mode 的 178.5 秒快约 3.5 倍，并公开权重与训练数据。",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:19:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:19:50Z",
+      "latest_at": "2026-10-02T15:19:50Z",
+      "primary_item": {
+        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+        "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "title_zh": "开源 AstaBrief：Asta 中快速的报告生成模型",
+        "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "summary": "A Blog post by Ai2 on Hugging Face\nA Blog post by Ai2 on Hugging Face\nTraining the model Collecting SFT training data Creating DPO pairs Filtering data for better attribution Validating the approach Where this goes next 🤗 Model | 📊 Data\nLanguage models can already help researchers search the literature, synthesize evidence, and work through complex questions. But scientific work places particular demands on these models—answers need to stay grounded in evidence, the models need to preserve what ",
+        "recommend_reason_zh": "Ai2 开源 AstaBrief 8B，用数万真实研究查询训练，将研究问题与文献摘录生成带引用报告；原文称其在 Asta 的 Fast mode 平均 51.1 秒/报告，比 Claude-powered Thinking mode 的 178.5 秒快约 3.5 倍，并公开权重与训练数据。",
+        "url": "https://huggingface.co/blog/allenai/astabrief",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "报告生成模型开源，能直接下载试跑，做自动摘要的可以拿来对比。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_8929dc6acd37",
+      "title": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nAI is changing what it takes to stand out—and move forward—as a developer. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate tra",
+          "recommend_reason_zh": "文章给出三种方法，教开发者在AI重塑开发时脱颖而出，并引用GitHub Copilot用第二模型审查计划、代码和测试，强调学会指挥AI、评估输出与做技术决策。",
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nAI is changing what it takes to stand out—and move forward—as a developer. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate tra",
+          "recommend_reason_zh": "文章给出三种方法，教开发者在AI重塑开发时脱颖而出，并引用GitHub Copilot用第二模型审查计划、代码和测试，强调学会指挥AI、评估输出与做技术决策。",
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9884,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "16e311d52410a05b592402e68322476c2a4512bd",
+        "title": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_zh": "AI正在改写开发者职业晋升路径，以下是如何脱颖而出。",
+        "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "summary": "Learn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nLearn three ways to get noticed and grow your career as AI reshapes how developers build software.\nAI is changing what it takes to stand out—and move forward—as a developer. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate tra",
+        "recommend_reason_zh": "文章给出三种方法，教开发者在AI重塑开发时脱颖而出，并引用GitHub Copilot用第二模型审查计划、代码和测试，强调学会指挥AI、评估输出与做技术决策。",
+        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "职业鸡汤，看完不涨一行代码，晋升还得靠交付。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_79c5530db8f1",
+      "title": "我们在 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "我们在 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们在 2026 年 9 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in September 2026",
+          "title_original": "The latest AI news we announced in September 2026",
+          "summary": "Here are Google’s latest AI updates from September 2026\nSee the full list of September AI updates.\nHere are Google’s latest AI updates from September 2026\nOct 02, 2026\nHere’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon,  new Connected Apps in the Gemini App, and WeatherNext 3.\nBlog Team\nYour browser does not support the audio element.\nGoogle just released a bunch of new AI updates, including the powerful Gemini 4 Argon model for solving complex problems. Th",
+          "recommend_reason_zh": "Google 2026年9月AI更新：Gemini 4 Argon具100万token上下文，主攻网络安全，经Fairwind Program向可信防御者开放。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "我们在 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们在 2026 年 9 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in September 2026",
+          "title_original": "The latest AI news we announced in September 2026",
+          "summary": "Here are Google’s latest AI updates from September 2026\nSee the full list of September AI updates.\nHere are Google’s latest AI updates from September 2026\nOct 02, 2026\nHere’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon,  new Connected Apps in the Gemini App, and WeatherNext 3.\nBlog Team\nYour browser does not support the audio element.\nGoogle just released a bunch of new AI updates, including the powerful Gemini 4 Argon model for solving complex problems. Th",
+          "recommend_reason_zh": "Google 2026年9月AI更新：Gemini 4 Argon具100万token上下文，主攻网络安全，经Fairwind Program向可信防御者开放。",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9884,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+        "title": "我们在 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+        "title_zh": "我们在 2026 年 9 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in September 2026",
+        "title_original": "The latest AI news we announced in September 2026",
+        "summary": "Here are Google’s latest AI updates from September 2026\nSee the full list of September AI updates.\nHere are Google’s latest AI updates from September 2026\nOct 02, 2026\nHere’s a recap of some of our biggest AI updates from September, including Gemini 4 Argon,  new Connected Apps in the Gemini App, and WeatherNext 3.\nBlog Team\nYour browser does not support the audio element.\nGoogle just released a bunch of new AI updates, including the powerful Gemini 4 Argon model for solving complex problems. Th",
+        "recommend_reason_zh": "Google 2026年9月AI更新：Gemini 4 Argon具100万token上下文，主攻网络安全，经Fairwind Program向可信防御者开放。",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "月度新闻汇总，没具体产品接口，扫一眼标题即可，别花时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_14dc0c8581ff",
+      "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nYou can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API.\nThe SecurityAdvisory object gained five new fields:\nThe securityAdvisories query also gained two new filters, severities and isWithdrawn , so you can narrow results on the server instead of downlo",
+          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nYou can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API.\nThe SecurityAdvisory object gained five new fields:\nThe securityAdvisories query also gained two new filters, severities and isWithdrawn , so you can narrow results on the server instead of downlo",
+          "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9644,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:18:00Z",
+      "latest_at": "2026-10-02T13:18:00Z",
+      "primary_item": {
+        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+        "title": "SecurityAdvisory GraphQL API 新增字段 / New fields for SecurityAdvisory GraphQL API",
+        "title_zh": "SecurityAdvisory GraphQL API 新增字段",
+        "title_en": "New fields for SecurityAdvisory GraphQL API",
+        "title_original": "New fields for SecurityAdvisory GraphQL API",
+        "summary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nYou can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API.\nThe SecurityAdvisory object gained five new fields:\nThe securityAdvisories query also gained two new filters, severities and isWithdrawn , so you can narrow results on the server instead of downlo",
+        "recommend_reason_zh": "GitHub Advisory Database 现在可直接通过 GraphQL API 读取更多内容，SecurityAdvisory 新增五个字段，securityAdvisories 查询增加 severities 和 isWithdrawn 两个过滤器，让集成方减少回退 REST API、请求往返和限流负担。",
+        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "GitHub 安全公告 API 加字段，做依赖扫描和漏洞告警的可以顺手接一下。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nYou can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.\nUntil now, the discussion on an advisory was only reachable in the web UI, even though it often holds the most useful triage context on a ",
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nYou can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.\nUntil now, the discussion on an advisory was only reachable in the web UI, even though it often holds the most useful triage context on a ",
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9638,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
+      "primary_item": {
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nYou can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports.\nUntil now, the discussion on an advisory was only reachable in the web UI, even though it often holds the most useful triage context on a ",
+        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
     {
       "story_id": "story_7d80f29039e4",
       "title": "AutoSynthData：为企业级 Agent 生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
@@ -48,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.876,
+        "recency": 0.8435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,92 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7711,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
-      "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
-        "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
-        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -218,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7471,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,177 +595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_4360c0773884",
-      "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "title_zh": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布",
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-          "summary": null,
-          "recommend_reason_zh": "2026 年 9 月这份 changelog 覆盖 VS Code v1.136 到 v1.140，重点介绍 automations 预览与 agent merge 预览：前者可按时、日、周运行任务，后者能处理评审反馈、失败检查和合并冲突，并支持从 Copilot、Claude 或 Codex 会话创建 pull request。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "title_zh": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布",
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-          "summary": null,
-          "recommend_reason_zh": "2026 年 9 月这份 changelog 覆盖 VS Code v1.136 到 v1.140，重点介绍 automations 预览与 agent merge 预览：前者可按时、日、周运行任务，后者能处理评审反馈、失败检查和合并冲突，并支持从 Copilot、Claude 或 Codex 会话创建 pull request。",
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7707,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:09:10Z",
-      "latest_at": "2026-10-01T19:09:10Z",
-      "primary_item": {
-        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-        "title": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布 / GitHub Copilot in VS Code, September 2026 releases",
-        "title_zh": "VS Code 中的 GitHub Copilot：2026 年 9 月版本发布",
-        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-        "summary": null,
-        "recommend_reason_zh": "2026 年 9 月这份 changelog 覆盖 VS Code v1.136 到 v1.140，重点介绍 automations 预览与 agent merge 预览：前者可按时、日、周运行任务，后者能处理评审反馈、失败检查和合并冲突，并支持从 Copilot、Claude 或 Codex 会话创建 pull request。",
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Copilot 月度更新，装 VS Code 的顺手升级即可，具体改动看 changelog。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_a97a1140e735",
-      "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": "Ai2发布Olmo-core 3，MoE从FSDP改为DDP，8块NVIDIA B300上47B模型达52,000tokens/s/GPU，较旧实现约2.7倍。",
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": "Ai2发布Olmo-core 3，MoE从FSDP改为DDP，8块NVIDIA B300上47B模型达52,000tokens/s/GPU，较旧实现约2.7倍。",
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7261,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": "介绍 Olmo-core 3：面向大型 MoE 的开放、可扩展训练基础设施",
-        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "summary": null,
-        "recommend_reason_zh": "Ai2发布Olmo-core 3，MoE从FSDP改为DDP，8块NVIDIA B300上47B模型达52,000tokens/s/GPU，较旧实现约2.7倍。",
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "MoE 训练基建开源可 clone，想自己训大稀疏模型的可以直接抄。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -473,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7364,
+        "recency": 0.709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,91 +680,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_ba641315d711",
-      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-          "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-          "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
-          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T07:23:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9196,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T07:23:13Z",
-      "latest_at": "2026-10-02T07:23:13Z",
-      "primary_item": {
-        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
-        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
-        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
-        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
-        "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
-        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "估值两万亿的IPO路演，跟写代码的没关系，等API降价再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -671,15 +757,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -708,7 +794,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_ba641315d711",
+      "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+      "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T07:23:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+          "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+          "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+          "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+          "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
+          "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T07:23:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8855,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T07:23:13Z",
+      "latest_at": "2026-10-02T07:23:13Z",
+      "primary_item": {
+        "id": "80379d05868b888bce46fe2c5c3842db5998b24f",
+        "title": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管 / Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_zh": "Bloomberg：Anthropic 为可能估值近 2 万亿美元的 IPO 邀请机构投资者质询高管",
+        "title_en": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "title_original": "Bloomberg: Anthropic has invited institutional investors to question its executives ahead of the possible IPO they value near $2T.",
+        "summary": "Bloomberg 报道，Anthropic 已邀请机构投资者在其可能估值近 2 万亿美元的 IPO 前质询高管。10 月 14 日的会议之后，最早 11 月 9 日当周启动正式路演，感恩节前上市；按 SEC 规则需在 10 月下旬公布 S-1 文件。OpenAI 则相反，以安全担忧为由排除 2026 年上市，正以约 1.4 万亿美元估值私下寻求至少 300 亿美元融资。",
+        "recommend_reason_zh": "据 Bloomberg 报道，Anthropic 在估值近 $2T 的可能 IPO 前，邀机构投资者于 Oct 14 会议质询高管；该会议或最早在 Nov 9 当周促成正式营销，Thanksgiving 前交易，OpenAI 则走了相反路线。",
+        "url": "https://x.com/rohanpaul_ai/status/2105921530211508488",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "估值两万亿的IPO路演，跟写代码的没关系，等API降价再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -756,15 +926,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7595,
+        "recency": 0.7312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -792,7 +962,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -840,21 +1010,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T00:06:15Z",
       "latest_at": "2026-10-02T00:06:15Z",
@@ -876,30 +1045,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
-      "story_id": "story_f107a55898ee",
-      "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
@@ -908,31 +1077,31 @@
       ],
       "items": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7418,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -941,27 +1110,110 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:30:10Z",
-      "latest_at": "2026-10-01T16:30:10Z",
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
       "primary_item": {
-        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-        "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
-        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互 / GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": "GitHub Copilot 现在可以通过 computer use 与桌面应用交互",
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
         "summary": null,
-        "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
-        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+        "recommend_reason_zh": "GitHub Copilot 的 computer use 已在 CLI 及 macOS、Windows 应用中公开预览，能读取界面、点击控件、输入文字并跨应用导航，还支持没有 API、CLI 或 MCP 的 GUI 软件，但控制应用前需用户批准。",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 82,
-      "persona_review": "Copilot CLI 能跑动态工作流了，终端里编排多步任务，今天就能试。",
+      "persona_review": "Copilot 能操作桌面应用了，自动化测试和 GUI 流程可试，但先看权限和稳定性。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_d023c4690eff",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
+          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T13:00:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
+          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T13:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9604,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T13:00:39Z",
+      "latest_at": "2026-10-02T13:00:39Z",
+      "primary_item": {
+        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+        "recommend_reason_zh": "NVIDIA DGX Spark 新增 64GB 统一内存版本，本地可跑 1000 亿参数模型；两台经 NVIDIA Sync 组集群后内存达 128GB，Qwen 3.8 27B 测试性能提升 1.7 倍。",
+        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "4999刀买台本地跑大模型的桌面机，预算够的团队可评估，个人开发者偏贵。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -1009,15 +1261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.8045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,7 +1297,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -1093,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7293,
-      "importance": 0.7293,
-      "importance_score": 0.7293,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7873,
+        "recency": 0.758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1128,90 +1380,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_692907dc8e4e",
-      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-          "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
-          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T23:44:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-          "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-          "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-          "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
-          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T23:44:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8234,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T23:44:13Z",
-      "latest_at": "2026-10-01T23:44:13Z",
-      "primary_item": {
-        "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
-        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-        "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
-        "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-        "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
-        "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
-        "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
-        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "厂商联合软文，没有可用的API、价格或benchmark，看完也动不了手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
@@ -1259,15 +1428,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7868,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,30 +1463,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
-      "story_id": "story_2b054efbb49a",
-      "title": "私密漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "story_id": "story_f107a55898ee",
+      "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
+      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私密漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私密漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在 Private vulnerability reporting 中加入 rate limits，限制单个账号每天提交的新报告数量，覆盖仓库与全站，以阻挡低质量和自动化报告埋没有效报告。",
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "source_count": 1,
@@ -1326,31 +1495,31 @@
       ],
       "items": [
         {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私密漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私密漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
+          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+          "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
+          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在 Private vulnerability reporting 中加入 rate limits，限制单个账号每天提交的新报告数量，覆盖仓库与全站，以阻挡低质量和自动化报告埋没有效报告。",
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
+          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
+          "published_at": "2026-10-01T16:30:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7797,
+        "ai_relevance": 0.91,
+        "recency": 0.7142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1359,423 +1528,195 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:39Z",
-      "latest_at": "2026-10-01T19:57:39Z",
+      "earliest_at": "2026-10-01T16:30:10Z",
+      "latest_at": "2026-10-01T16:30:10Z",
       "primary_item": {
-        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-        "title": "私密漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-        "title_zh": "私密漏洞报告的速率限制",
-        "title_en": "Rate limits for private vulnerability reports",
-        "title_original": "Rate limits for private vulnerability reports",
+        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
+        "title": "Copilot CLI 和 Copilot 应用中的动态工作流 / Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_zh": "Copilot CLI 和 Copilot 应用中的动态工作流",
+        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
         "summary": null,
-        "recommend_reason_zh": "GitHub 在 Private vulnerability reporting 中加入 rate limits，限制单个账号每天提交的新报告数量，覆盖仓库与全站，以阻挡低质量和自动化报告埋没有效报告。",
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "recommend_reason_zh": "GitHub 在 Copilot CLI、GitHub Copilot app 和 GitHub Copilot SDK 推出 public preview 的 Dynamic workflows，用代码定义多 agent 编排，步骤可串行或并行；它适合服务事件调查，合并 agents 的结构化发现为 timeline 和根因报告。",
+        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "安全团队提交漏洞报告可能被限流，非安全岗基本无感。",
+      "persona_score": 82,
+      "persona_review": "Copilot CLI 能跑动态工作流了，终端里编排多步任务，今天就能试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     },
     {
-      "story_id": "story_0b2fa78755e5",
-      "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-      "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_692907dc8e4e",
+      "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+      "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "primary_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-          "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-          "title_en": "GitHub Actions: macOS 14 runner image retirement",
-          "title_original": "GitHub Actions: macOS 14 runner image retirement",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
+          "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "NVIDIA Blog（RSS）"
       ],
       "items": [
         {
-          "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-          "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-          "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-          "title_en": "GitHub Actions: macOS 14 runner image retirement",
-          "title_original": "GitHub Actions: macOS 14 runner image retirement",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-          "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:23Z"
+          "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+          "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+          "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+          "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
+          "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
+          "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T23:44:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
-      "importance_label": "官方更新",
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7711,
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-01T19:11:23Z",
-      "latest_at": "2026-10-01T19:11:23Z",
+      "earliest_at": "2026-10-01T23:44:13Z",
+      "latest_at": "2026-10-01T23:44:13Z",
       "primary_item": {
-        "id": "05254a7af6bf234c903a7d53a1f88986f2d1af5a",
-        "title": "GitHub Actions：macOS 14 runner 镜像退役 / GitHub Actions: macOS 14 runner image retirement",
-        "title_zh": "GitHub Actions：macOS 14 runner 镜像退役",
-        "title_en": "GitHub Actions: macOS 14 runner image retirement",
-        "title_original": "GitHub Actions: macOS 14 runner image retirement",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 宣布 macOS 14 runner image 将于 2026 年 11 月 2 日退役，并会在预定的 brownout 时段让使用该标签的 jobs 临时失败，还可能缩减容量导致排队变长，建议尽快更新 workflow files 改用 macOS arm64 labels。",
-        "url": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CI 里写死 macos-14 的流水线会挂，趁早改到 macos-15 或 latest。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_be7b746442ad",
-      "title": "仓库概览页突出显示无障碍声明 / Accessibility statements highlighted on repository overview",
-      "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "仓库概览页突出显示无障碍声明 / Accessibility statements highlighted on repository overview",
-          "title_zh": "仓库概览页突出显示无障碍声明",
-          "title_en": "Accessibility statements highlighted on repository overview",
-          "title_original": "Accessibility statements highlighted on repository overview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 仓库概览现在会高亮根目录、.github/ 或 docs/ 里的 ACCESSIBILITY.md，公开仓库可从 Community Standards 页添加或提议无障碍声明，该功能覆盖 github.com 所有套餐，并将在 GitHub Enterprise Server 3.24 推出。",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-          "title": "仓库概览页突出显示无障碍声明 / Accessibility statements highlighted on repository overview",
-          "title_zh": "仓库概览页突出显示无障碍声明",
-          "title_en": "Accessibility statements highlighted on repository overview",
-          "title_original": "Accessibility statements highlighted on repository overview",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 仓库概览现在会高亮根目录、.github/ 或 docs/ 里的 ACCESSIBILITY.md，公开仓库可从 Community Standards 页添加或提议无障碍声明，该功能覆盖 github.com 所有套餐，并将在 GitHub Enterprise Server 3.24 推出。",
-          "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7698,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:04:32Z",
-      "latest_at": "2026-10-01T19:04:32Z",
-      "primary_item": {
-        "id": "f3074555f3facc02020dd6d7e8ef078c96c866f9",
-        "title": "仓库概览页突出显示无障碍声明 / Accessibility statements highlighted on repository overview",
-        "title_zh": "仓库概览页突出显示无障碍声明",
-        "title_en": "Accessibility statements highlighted on repository overview",
-        "title_original": "Accessibility statements highlighted on repository overview",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 仓库概览现在会高亮根目录、.github/ 或 docs/ 里的 ACCESSIBILITY.md，公开仓库可从 Community Standards 页添加或提议无障碍声明，该功能覆盖 github.com 所有套餐，并将在 GitHub Enterprise Server 3.24 推出。",
-        "url": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "GitHub 加个无障碍声明展示位，跟写代码关系不大，知道就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_d6a6f0dfce45",
-      "title": "Actions 保留策略现已涵盖检查、运行和状态 / Actions retention now covers checks, runs, and statuses",
-      "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "primary_url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions 保留策略现已涵盖检查、运行和状态 / Actions retention now covers checks, runs, and statuses",
-          "title_zh": "Actions 保留策略现已涵盖检查、运行和状态",
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd680e642074865eae97e27770212465ae6180e3",
-          "title": "Actions 保留策略现已涵盖检查、运行和状态 / Actions retention now covers checks, runs, and statuses",
-          "title_zh": "Actions 保留策略现已涵盖检查、运行和状态",
-          "title_en": "Actions retention now covers checks, runs, and statuses",
-          "title_original": "Actions retention now covers checks, runs, and statuses",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:59:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T17:59:54Z",
-      "latest_at": "2026-10-01T17:59:54Z",
-      "primary_item": {
-        "id": "bd680e642074865eae97e27770212465ae6180e3",
-        "title": "Actions 保留策略现已涵盖检查、运行和状态 / Actions retention now covers checks, runs, and statuses",
-        "title_zh": "Actions 保留策略现已涵盖检查、运行和状态",
-        "title_en": "Actions retention now covers checks, runs, and statuses",
-        "title_original": "Actions retention now covers checks, runs, and statuses",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CI 日志和状态保留期变了，快去仓库设置里核对，别让审计记录提前消失。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
-      }
-    },
-    {
-      "story_id": "story_6986dfb7ca88",
-      "title": "Sony 将 AI 图形增强技术引入普通版 PS5 / Sony brings AI graphics upscaling to the regular PS5",
-      "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-      "primary_url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "46657d9121e6910f6fc33349ed00d87da58fed1f",
-          "title": "Sony 将 AI 图形增强技术引入普通版 PS5 / Sony brings AI graphics upscaling to the regular PS5",
-          "title_zh": "Sony 将 AI 图形增强技术引入普通版 PS5",
-          "title_en": "Sony brings AI graphics upscaling to the regular PS5",
-          "title_original": "Sony brings AI graphics upscaling to the regular PS5",
-          "summary": null,
-          "recommend_reason_zh": "Sony为普通PS5推出与AMD Project Amethyst合作的AI超分技术QSSR，今天以补丁登陆Marvel’s Wolverine和Ghost of Yōtei；因无专用ML硬件，画质预期接近1440p而非PS5 Pro的4K，并可在少量调校后替换PSSR。",
-          "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-01T16:53:39Z"
-        },
-        {
-          "id": "9384982303c1d553395a20b568cc492d40e289e9",
-          "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "title_zh": null,
-          "title_en": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "title_original": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261001/p30",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-01T17:15:03Z"
-        },
-        {
-          "id": "fb6a74c5e094d9d4105200668c8b67e6de613ef0",
-          "title": "Sony 将 AI 超分辨率技术下放到基础款 PS5 / Sony brings AI upscaling to the base PS5",
-          "title_zh": "Sony 将 AI 超分辨率技术下放到基础款 PS5",
-          "title_en": "Sony brings AI upscaling to the base PS5",
-          "title_original": "Sony brings AI upscaling to the base PS5",
-          "summary": null,
-          "recommend_reason_zh": "Sony为普通版PS5加入AI超分，今日推送补丁让Marvel’s Wolverine和Ghost of Yōtei首批支持QSSR，该技术源自与AMD合作。",
-          "url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-01T17:00:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Engadget",
-        "Techmeme",
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "46657d9121e6910f6fc33349ed00d87da58fed1f",
-          "title": "Sony 将 AI 图形增强技术引入普通版 PS5 / Sony brings AI graphics upscaling to the regular PS5",
-          "title_zh": "Sony 将 AI 图形增强技术引入普通版 PS5",
-          "title_en": "Sony brings AI graphics upscaling to the regular PS5",
-          "title_original": "Sony brings AI graphics upscaling to the regular PS5",
-          "summary": null,
-          "recommend_reason_zh": "Sony为普通PS5推出与AMD Project Amethyst合作的AI超分技术QSSR，今天以补丁登陆Marvel’s Wolverine和Ghost of Yōtei；因无专用ML硬件，画质预期接近1440p而非PS5 Pro的4K，并可在少量调校后替换PSSR。",
-          "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-01T16:53:39Z"
-        },
-        {
-          "id": "9384982303c1d553395a20b568cc492d40e289e9",
-          "title": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "title_zh": null,
-          "title_en": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "title_original": "Sony launches Quick Spectral Super Resolution, a \"new performance tier of AI upscaling\" for the standard PS5 developed in collaboration with AMD (Jay Peters/The Verge)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261001/p30",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-01T17:15:03Z"
-        },
-        {
-          "id": "fb6a74c5e094d9d4105200668c8b67e6de613ef0",
-          "title": "Sony 将 AI 超分辨率技术下放到基础款 PS5 / Sony brings AI upscaling to the base PS5",
-          "title_zh": "Sony 将 AI 超分辨率技术下放到基础款 PS5",
-          "title_en": "Sony brings AI upscaling to the base PS5",
-          "title_original": "Sony brings AI upscaling to the base PS5",
-          "summary": null,
-          "recommend_reason_zh": "Sony为普通版PS5加入AI超分，今日推送补丁让Marvel’s Wolverine和Ghost of Yōtei首批支持QSSR，该技术源自与AMD合作。",
-          "url": "https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-01T17:00:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.746,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-01T16:53:39Z",
-      "latest_at": "2026-10-01T17:15:03Z",
-      "primary_item": {
-        "id": "46657d9121e6910f6fc33349ed00d87da58fed1f",
-        "title": "Sony 将 AI 图形增强技术引入普通版 PS5 / Sony brings AI graphics upscaling to the regular PS5",
-        "title_zh": "Sony 将 AI 图形增强技术引入普通版 PS5",
-        "title_en": "Sony brings AI graphics upscaling to the regular PS5",
-        "title_original": "Sony brings AI graphics upscaling to the regular PS5",
-        "summary": null,
-        "recommend_reason_zh": "Sony为普通PS5推出与AMD Project Amethyst合作的AI超分技术QSSR，今天以补丁登陆Marvel’s Wolverine和Ghost of Yōtei；因无专用ML硬件，画质预期接近1440p而非PS5 Pro的4K，并可在少量调校后替换PSSR。",
-        "url": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "e874f23f6b419b05e0da8c0a5789ba4223e709f9",
+        "title": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast / How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+        "title_zh": "NVIDIA 介绍 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast",
+        "title_en": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+        "title_original": "How NVIDIA GPUs Help Accelerate OpenAI’s GPT-6 Astra Ultrafast",
+        "summary": "GPT-6 Astra Ultrafast 现已在 OpenAI API 及符合条件的 ChatGPT Work 和 Codex 用户中可用，运行在 NVIDIA Blackwell GPU 上。",
+        "recommend_reason_zh": "文章介绍 GPT-6 Astra Ultrafast 在 NVIDIA Blackwell GPUs 上运行，经 OpenAI 推理优化，token 生成最高比 Astra Standard 快 8 倍，并已在 OpenAI API、ChatGPT Work 和 Codex 开放，加速代码生成与工具调用。",
+        "url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 35,
-      "persona_review": "主机玩家的画质升级，跟写代码的没关系，知道就行。",
+      "persona_review": "厂商联合软文，没有可用的API、价格或benchmark，看完也动不了手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-02T13:30:20.244142Z"
+        "scored_at": "2026-10-02T16:00:29.720129Z"
+      }
+    },
+    {
+      "story_id": "story_025446a84602",
+      "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
+          "title_zh": "私密漏洞报告的结构化表单",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+          "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
+          "title_zh": "私密漏洞报告的结构化表单",
+          "title_en": "Structured forms for private vulnerability reports",
+          "title_original": "Structured forms for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
+          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7507,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:28Z",
+      "latest_at": "2026-10-01T19:57:28Z",
+      "primary_item": {
+        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
+        "title": "私密漏洞报告的结构化表单 / Structured forms for private vulnerability reports",
+        "title_zh": "私密漏洞报告的结构化表单",
+        "title_en": "Structured forms for private vulnerability reports",
+        "title_original": "Structured forms for private vulnerability reports",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 为私有漏洞报告引入结构化表单，默认要求填写 summary、details、proof of concept（至少 150 字符）和 impact 四个必填字段，答案合并进 advisory 描述，并支持自定义表单。",
+        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "维护开源项目的可以配一下表单，漏洞报告质量能省不少来回追问。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-02T16:00:29.720129Z"
       }
     }
   ]
