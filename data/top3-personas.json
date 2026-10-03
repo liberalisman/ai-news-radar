@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:47:24.843282Z",
+  "generated_at": "2026-10-03T16:52:10.571962Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_87eab6a95e56",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "story_id": "story_52f3cf9a90e0",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "指南写得挺细，但选型表里自家模型全占优，基准和成本口径倒是没提。"
+          "review": "300美元微调出90%质量，数据来自ShareGPT用户对话，评测裁判还是GPT-4——自己人打分，水分得挤挤。"
         },
         "paper-police": {
-          "score": 38,
-          "review": "官方指南只教用法，无论文无代码无第三方评测，性能宣称无从验证。"
+          "score": 62,
+          "review": "有博客和开源权重，但评测用GPT-4当裁判，缺独立复现，等第三方跑分。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "官方选型+提示词指南，今天就能照着调参，省得自己踩坑。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2e2e433e3cb1",
-      "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源权重值得肯定，但\"fast\"只跟自家旧版比，延迟和成本数据一个没给。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "开源模型已放出，但缺论文与第三方复现，跑分待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "报告生成模型开源，能直接下载试跑，做自动摘要的可以拿来对比。"
+          "review": "权重已开源可下载，300刀就能复现微调，想自建对话模型的今天就能动手。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_cc4a44476dc4",
       "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
       "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "Copilot 代码审查开放 API 了，能接进 CI 流水线自动跑，团队今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3f3282702712",
+      "title": "GitHub App 无状态安装令牌正式推出 / Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 78,
+          "review": "无状态令牌省去存储轮换，是真工程改进；但别指望它解决权限过宽的老毛病。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方 changelog 有细节，但无代码示例与实测复现，等文档和 demo 落地。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "CI/CD 里管令牌的可以少写一堆刷新逻辑，已上线，今天就能改。"
         }
       }
     }
