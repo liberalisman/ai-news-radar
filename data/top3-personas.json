@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:30:42.029476Z",
+  "generated_at": "2026-10-03T23:06:49.727434Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_c7ba5f8749ed",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "版本号从 4.5 跳到 5.5，官方博客却只教你怎么用，没给跑分和成本对比。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方博客教你怎么用，无论文无代码无第三方跑分，只有说法。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "官方调优指南，用 Claude Code 的今天就能照着改 prompt 和配置。"
-        }
-      }
-    },
-    {
       "story_id": "story_6c512ed5ed17",
       "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
       "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "加一句 honesty 提示就能少踩坑，做 Agent 和评测的今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c7ba5f8749ed",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "官方博客教你怎么用自家模型，三个来源全是同一篇稿子的回声，这热度自己给自己点的吧。"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "官方博客宣称性能，无论文无代码无第三方评测，仅多源转载。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "官方调优指南，已用 Opus 5.5 的可以照着改 prompt 和配置。"
         }
       }
     }
