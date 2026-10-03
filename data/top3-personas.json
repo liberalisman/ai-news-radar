@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T22:50:03.477098Z",
+  "generated_at": "2026-10-03T00:44:02.128795Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_2e2e433e3cb1",
-      "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "story_id": "story_3f3282702712",
+      "title": "GitHub App 无状态安装令牌正式推出 / Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "开源权重值得肯定，但\"fast\"只跟自家旧版比，延迟和成本数据一个没给。"
+          "score": 78,
+          "review": "无状态令牌省去存储轮换，是真工程改进；但别指望它解决权限过宽的老毛病。"
         },
         "paper-police": {
           "score": 72,
-          "review": "开源模型已放出，但缺论文与第三方复现，跑分待验证。"
+          "review": "官方 changelog 有细节，但无代码示例与实测复现，等文档和 demo 落地。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "报告生成模型开源，能直接下载试跑，做自动摘要的可以拿来对比。"
+          "review": "CI/CD 里管令牌的可以少写一堆刷新逻辑，已上线，今天就能改。"
         }
       }
     }

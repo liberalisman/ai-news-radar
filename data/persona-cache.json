@@ -7,30 +7,6 @@
       "title_hash": "3fa31823",
       "scored_at": "2026-09-12T16:43:31.332073Z"
     },
-    "story_605db3706162|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "情绪吐槽帖，看完不涨技能也不改选型，扫一眼标题就行。",
-      "title_hash": "1e0e8d8d",
-      "scored_at": "2026-09-12T00:31:41.615930Z"
-    },
-    "story_86ff3d2b9b70|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "官方博客讲集成效果，没给API细节和价格，等能实测再说。",
-      "title_hash": "1942b61b",
-      "scored_at": "2026-09-12T00:31:38.434877Z"
-    },
-    "story_09d1422e2596|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "Devin 用新模型自测代码，思路可抄，但没开放接口，先观望。",
-      "title_hash": "470225ff",
-      "scored_at": "2026-09-12T00:31:39.577422Z"
-    },
-    "story_80b41fcca023|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "投资圈的事，跟写代码没关系，等 Anthropic 出新产品再说。",
-      "title_hash": "e052e305",
-      "scored_at": "2026-09-12T00:31:40.630979Z"
-    },
     "story_2cae03eec67b|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "供应链攻击取证细节值得读，做依赖安全和CI审计的今天就能对照自查。",
@@ -6126,6 +6102,30 @@
       "review": "官方 changelog 只说 API 和默认档位，无评测数字、无复现方法，等实测。",
       "title_hash": "7115801b",
       "scored_at": "2026-10-02T22:50:03.477025Z"
+    },
+    "story_3f3282702712|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "CI/CD 里管令牌的可以少写一堆刷新逻辑，已上线，今天就能改。",
+      "title_hash": "20b902b3",
+      "scored_at": "2026-10-03T00:43:59.352496Z"
+    },
+    "story_0dd79bbfdfd7|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "榜单位置好看，但每任务2.74美元且没进Pareto前沿，选型时性价比不划算。",
+      "title_hash": "6bcf8bf8",
+      "scored_at": "2026-10-03T00:44:00.336214Z"
+    },
+    "story_3f3282702712|cynic|f4237a62": {
+      "score": 78,
+      "review": "无状态令牌省去存储轮换，是真工程改进；但别指望它解决权限过宽的老毛病。",
+      "title_hash": "20b902b3",
+      "scored_at": "2026-10-03T00:44:01.194012Z"
+    },
+    "story_3f3282702712|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方 changelog 有细节，但无代码示例与实测复现，等文档和 demo 落地。",
+      "title_hash": "20b902b3",
+      "scored_at": "2026-10-03T00:44:02.128736Z"
     }
   }
 }
