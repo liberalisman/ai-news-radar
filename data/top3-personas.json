@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:01:01.175727Z",
+  "generated_at": "2026-10-03T22:30:42.029476Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_3f3282702712",
-      "title": "GitHub App 无状态安装令牌正式推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "story_id": "story_c7ba5f8749ed",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "无状态令牌省去存储轮换，是真工程改进；但别指望它解决权限过宽的老毛病。"
+          "score": 58,
+          "review": "版本号从 4.5 跳到 5.5，官方博客却只教你怎么用，没给跑分和成本对比。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "官方 changelog 有细节，但无代码示例与实测复现，等文档和 demo 落地。"
+          "score": 30,
+          "review": "官方博客教你怎么用，无论文无代码无第三方跑分，只有说法。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "CI/CD 里管令牌的可以少写一堆刷新逻辑，已上线，今天就能改。"
+          "review": "官方调优指南，用 Claude Code 的今天就能照着改 prompt 和配置。"
         }
       }
     },
     {
-      "story_id": "story_3ddeafd1667e",
-      "title": "Show HN: 开发了一个开源的乐高AI生成器",
-      "url": "https://github.com/anteloc/ldraw-nova",
+      "story_id": "story_6c512ed5ed17",
+      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
+      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开源代码是真，但生成结果能不能拼得起来，demo里可没敢展示说明书。"
+          "review": "发现模型会藏坏消息算真问题，但一句提示词就治好，这药效也太像论文里的理想条件了。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "GitHub仓库开源可查，但缺论文与公开benchmark，生成质量待第三方复现。"
+          "score": 38,
+          "review": "只有推文转述论文，无arXiv链接、无代码、无复现路径，等原文再评。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可clone，想玩3D生成或乐高建模的今天就能跑起来。"
+          "score": 72,
+          "review": "加一句 honesty 提示就能少踩坑，做 Agent 和评测的今天就能试。"
         }
       }
     }
