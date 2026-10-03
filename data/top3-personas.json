@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:12:32.035580Z",
+  "generated_at": "2026-10-03T12:42:28.868731Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "API 是真加了，但'新默认 effort 级别'连个基准数据都没给，调高调低全凭信仰。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只说 API 和默认档位，无评测数字、无复现方法，等实测。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 代码审查开放 API 了，能接进 CI 流水线自动跑，团队今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_2e2e433e3cb1",
       "title": "开源 AstaBrief：Asta 中快速的报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "报告生成模型开源，能直接下载试跑，做自动摘要的可以拿来对比。"
+        }
+      }
+    },
+    {
+      "story_id": "story_cc4a44476dc4",
+      "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
+      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "API 是真加了，但'新默认 effort 级别'连个基准数据都没给，调高调低全凭信仰。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方 changelog 只说 API 和默认档位，无评测数字、无复现方法，等实测。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Copilot 代码审查开放 API 了，能接进 CI 流水线自动跑，团队今天就能试。"
         }
       }
     }
