@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:29:44.011225Z",
+  "generated_at": "2026-10-03T01:26:42.825680Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8877,
+        "recency": 0.8757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9268,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.876,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8719,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8719,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -442,7 +442,7 @@
           "title_zh": "GitHub App 无状态安装令牌正式推出",
           "title_en": "Stateless GitHub App installation tokens rolled out",
           "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be in the stateless ghs_APPID_JWT format, which makes token issuance and validation faster and improves the reliability of the Git",
+          "summary": null,
           "recommend_reason_zh": "GitHub 已完成自2026年4月27日开始的 stateless GitHub App installation tokens 分阶段发布，新 token 默认采用约520字符的 ghs_APPID_JWT 格式，并提醒在2026年11月30日前移除临时 X-GitHub-Stateless-S2S-Token 请求头。",
           "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
@@ -462,7 +462,7 @@
           "title_zh": "GitHub App 无状态安装令牌正式推出",
           "title_en": "Stateless GitHub App installation tokens rolled out",
           "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be in the stateless ghs_APPID_JWT format, which makes token issuance and validation faster and improves the reliability of the Git",
+          "summary": null,
           "recommend_reason_zh": "GitHub 已完成自2026年4月27日开始的 stateless GitHub App installation tokens 分阶段发布，新 token 默认采用约520字符的 ghs_APPID_JWT 格式，并提醒在2026年11月30日前移除临时 X-GitHub-Stateless-S2S-Token 请求头。",
           "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9689,
+        "recency": 0.9557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
         "title_zh": "GitHub App 无状态安装令牌正式推出",
         "title_en": "Stateless GitHub App installation tokens rolled out",
         "title_original": "Stateless GitHub App installation tokens rolled out",
-        "summary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be in the stateless ghs_APPID_JWT format, which makes token issuance and validation faster and improves the reliability of the Git",
+        "summary": null,
         "recommend_reason_zh": "GitHub 已完成自2026年4月27日开始的 stateless GitHub App installation tokens 分阶段发布，新 token 默认采用约520字符的 ghs_APPID_JWT 格式，并提醒在2026年11月30日前移除临时 X-GitHub-Stateless-S2S-Token 请求头。",
         "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
@@ -510,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -558,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7441,
+        "recency": 0.7339,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -643,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7817,
-      "importance": 0.7817,
-      "importance_score": 0.7817,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +679,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -727,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9158,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "official",
@@ -764,7 +764,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -812,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -848,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -896,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9345,
+        "recency": 0.9218,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +932,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -980,15 +980,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8996,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,7 +1015,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1063,15 +1063,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,7 +1098,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1146,15 +1146,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.94,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1181,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1229,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7286,
-      "importance": 0.7286,
-      "importance_score": 0.7286,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,7 +1264,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1312,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8507,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1349,7 +1349,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1397,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1432,7 +1432,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1480,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9472,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1515,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
@@ -1563,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9313,
+        "recency": 0.9186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1598,90 +1598,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     },
     {
-      "story_id": "story_c29f7f8dd49f",
-      "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-      "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
+      "story_id": "story_8251eed32ade",
+      "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-          "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-          "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-          "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-          "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-          "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T00:44:40Z"
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+          "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
-      "importance_label": "行业动态",
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7097,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8386,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-02T00:44:40Z",
-      "latest_at": "2026-10-02T00:44:40Z",
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
       "primary_item": {
-        "id": "9244507ff15319af7063dcc4f2aff734550bf8af",
-        "title": "Google 首次轨道 AI 芯片试验确认在轨运行正常 / Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_zh": "Google 首次轨道 AI 芯片试验确认在轨运行正常",
-        "title_en": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "title_original": "Google’s first orbital AI-chip test is in space and Google has confirmed contact; it is operating as expected.",
-        "summary": "Google 确认其首个轨道 AI 芯片试验已入轨并取得联系，运行符合预期。卫星于 2026 年 10 月 1 日由 SpaceX Falcon 9 Transporter-18 从范登堡发射，搭载 4 颗 Trillium TPU（v6e），运行 Gemini 推理，每次约 15 分钟后停机让辐射器散热；散热依赖热管与红外辐射器而非风扇。",
-        "recommend_reason_zh": "Google确认其首次在轨AI芯片测试联络正常并运行如预期，四颗Trillium TPUs于2026年10月1日由SpaceX Falcon 9发射。",
-        "url": "https://x.com/rohanpaul_ai/status/2105821230368706769",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "代码仓库安全公告评论 API 开放公开预览 / Repository security advisory comments API in public preview",
+        "title_zh": "代码仓库安全公告评论 API 开放公开预览",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 的 Repository security advisory comments API 进入 public preview，此前 advisory 讨论仅限 web UI，现可用 REST API 读取、添加和编辑评论，包括 private vulnerability reports 创建的 advisories，响应新增 comments count，便于审计与自动 triage。",
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "卫星上跑芯片，跟你的训练和推理账单没关系，知道有这回事就行。",
+      "persona_score": 72,
+      "persona_review": "安全公告评论能走 API 了，做漏洞自动化和告警联动的可以接起来试试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-03T00:43:58.072335Z"
+        "scored_at": "2026-10-03T01:36:56.454461Z"
       }
     }
   ]
