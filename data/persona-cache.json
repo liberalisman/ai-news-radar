@@ -1,65 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_964468d18cc3|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "口头表态加开放评估者，没接口没价格，今天写代码用不上。",
-      "title_hash": "6f170f5e",
-      "scored_at": "2026-09-12T17:20:48.210185Z"
-    },
-    "story_13a866b96783|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "开源可 clone，专治编码 Agent 长上下文 prefill 慢，今天就能拉下来试。",
-      "title_hash": "7e67a706",
-      "scored_at": "2026-09-12T17:20:49.143702Z"
-    },
-    "story_30eddadc9249|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "做音乐生成或音频产品的可以试新版本，v6-mini 适合先压成本跑通流程。",
-      "title_hash": "0280db9b",
-      "scored_at": "2026-09-12T17:20:49.826555Z"
-    },
-    "story_ed95b5a9cf8e|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "老板喊刹车，API 价格和限额一个字没提，今天该写的代码照写。",
-      "title_hash": "afa4a3cd",
-      "scored_at": "2026-09-12T17:20:50.551807Z"
-    },
     "story_910862ed59f6|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "宏观比喻文，读完不涨薪也不降本，等英伟达真出价格或配额政策再看。",
       "title_hash": "2f931a24",
       "scored_at": "2026-09-13T10:30:47.408431Z"
-    },
-    "story_13a866b96783|cynic|f4237a62": {
-      "score": 72,
-      "review": "CED 降 prefill 是真需求，但只给 Baseten 一家跑分，权重和配方呢？",
-      "title_hash": "7e67a706",
-      "scored_at": "2026-09-12T17:20:52.271462Z"
-    },
-    "story_13a866b96783|paper-police|966065bf": {
-      "score": 42,
-      "review": "Baseten博客给了CED架构和prefill数字，但无论文无开源仓库，复现不了。",
-      "title_hash": "7e67a706",
-      "scored_at": "2026-09-12T17:20:53.262866Z"
-    },
-    "story_462f3ecf41bf|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "先确认 API 是否开放、定价和上下文窗口，别急着迁移。",
-      "title_hash": "1287fe8b",
-      "scored_at": "2026-09-12T18:57:51.411278Z"
-    },
-    "story_462f3ecf41bf|cynic|f4237a62": {
-      "score": 55,
-      "review": "又是\"社区案例\"撑场面，跑分、定价、上下文长度一个没提，先看真机再说。",
-      "title_hash": "1287fe8b",
-      "scored_at": "2026-09-12T18:57:52.206776Z"
-    },
-    "story_462f3ecf41bf|paper-police|966065bf": {
-      "score": 30,
-      "review": "仅一条官方推文，无论文、无代码、无第三方跑分，社区案例不算证据。",
-      "title_hash": "1287fe8b",
-      "scored_at": "2026-09-12T18:57:53.236360Z"
     },
     "story_b87018eebc80|pragmatic|0a5c5b24": {
       "score": 25,
@@ -6078,6 +6024,30 @@
       "review": "有博客和开源权重，但评测用GPT-4当裁判，缺独立复现，等第三方跑分。",
       "title_hash": "036d188b",
       "scored_at": "2026-10-03T16:52:10.571867Z"
+    },
+    "story_264568180c91|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "德国主权模型，除非做欧洲合规部署，否则先观望权重和许可证。",
+      "title_hash": "e1998d64",
+      "scored_at": "2026-10-03T19:32:03.240202Z"
+    },
+    "story_79411f0d75c6|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "开源项目开始划 AI 代码红线，给公司提 PR 前先看清贡献政策。",
+      "title_hash": "48c47985",
+      "scored_at": "2026-10-03T19:32:04.084917Z"
+    },
+    "story_3ddeafd1667e|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源代码是真，但生成结果能不能拼得起来，demo里可没敢展示说明书。",
+      "title_hash": "04ef2bde",
+      "scored_at": "2026-10-03T19:32:04.753960Z"
+    },
+    "story_3ddeafd1667e|paper-police|966065bf": {
+      "score": 72,
+      "review": "GitHub仓库开源可查，但缺论文与公开benchmark，生成质量待第三方复现。",
+      "title_hash": "04ef2bde",
+      "scored_at": "2026-10-03T19:32:05.766508Z"
     }
   }
 }

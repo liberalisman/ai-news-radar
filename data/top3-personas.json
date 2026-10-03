@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:19:42.024877Z",
+  "generated_at": "2026-10-03T19:32:05.766528Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持与新的默认 effort 级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "API 是真加了，但'新默认 effort 级别'连个基准数据都没给，调高调低全凭信仰。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只说 API 和默认档位，无评测数字、无复现方法，等实测。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "Copilot 代码审查开放 API 了，能接进 CI 流水线自动跑，团队今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_3f3282702712",
       "title": "GitHub App 无状态安装令牌正式推出 / Stateless GitHub App installation tokens rolled out",
       "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "CI/CD 里管令牌的可以少写一堆刷新逻辑，已上线，今天就能改。"
+        }
+      }
+    },
+    {
+      "story_id": "story_3ddeafd1667e",
+      "title": "Show HN: 开发了一个开源的乐高AI生成器",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源代码是真，但生成结果能不能拼得起来，demo里可没敢展示说明书。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "GitHub仓库开源可查，但缺论文与公开benchmark，生成质量待第三方复现。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "开源可clone，想玩3D生成或乐高建模的今天就能跑起来。"
         }
       }
     }
