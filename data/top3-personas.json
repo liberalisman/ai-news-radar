@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:28:35.189685Z",
+  "generated_at": "2026-10-04T18:55:21.562065Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_52f3cf9a90e0",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300 / Blog Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality We introduce Vicuna-13B, an open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. Preliminary evaluation using GPT-4 as a judge shows Vicuna-13B achiev... The Vicuna Team March 30, 2023",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "300美元微调出90%质量，数据来自ShareGPT用户对话，评测裁判还是GPT-4——自己人打分，水分得挤挤。"
-        },
-        "paper-police": {
-          "score": 62,
-          "review": "有博客和开源权重，但评测用GPT-4当裁判，缺独立复现，等第三方跑分。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "权重已开源可下载，300刀就能复现微调，想自建对话模型的今天就能动手。"
-        }
-      }
-    },
-    {
       "story_id": "story_1be63ddb3fed",
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_6c512ed5ed17",
       "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
       "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "加一句 honesty 提示就能少踩坑，做 Agent 和评测的今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_22f350167c25",
+      "title": "Show HN：为 macOS 上的每张照片、每一帧视频带来 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "本地跑模型搜视频帧，方向对；但\"每一帧\"的索引成本和内存占用，README 里敢写吗？"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "有开源仓库可查，但无论文无公开benchmark，检索精度无法复现。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "macOS 本地照片视频 AI 搜索，开源可 clone，有 Mac 的今天就能试。"
         }
       }
     }
