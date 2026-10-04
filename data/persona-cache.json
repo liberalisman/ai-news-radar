@@ -7,54 +7,6 @@
       "title_hash": "2f931a24",
       "scored_at": "2026-09-13T10:30:47.408431Z"
     },
-    "story_050756be57e3|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "攻击取证值得一读，但没披露手法细节，暂时只能当安全预警。",
-      "title_hash": "c5a5cc13",
-      "scored_at": "2026-09-12T23:30:50.851718Z"
-    },
-    "story_86ff3d2b9b70|cynic|f4237a62": {
-      "score": 55,
-      "review": "把搜索命脉交给别家模型，准确率涨没涨不知道，议价权先没了。",
-      "title_hash": "1942b61b",
-      "scored_at": "2026-09-12T23:30:52.165882Z"
-    },
-    "story_86ff3d2b9b70|paper-police|966065bf": {
-      "score": 30,
-      "review": "官方博客宣称而已，无论文无代码无第三方评测，端到端效果拿什么复现？",
-      "title_hash": "1942b61b",
-      "scored_at": "2026-09-12T23:30:53.489961Z"
-    },
-    "story_b025ab79dc77|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "语音模型开 API，实时语音应用今天就能接，先测延迟和价格。",
-      "title_hash": "5b6c0b46",
-      "scored_at": "2026-09-13T00:10:48.952660Z"
-    },
-    "story_b025ab79dc77|cynic|f4237a62": {
-      "score": 72,
-      "review": "语音模型上 API 是真进展，但 1-800 这号码更像营销彩蛋，延迟和定价一个字没提。",
-      "title_hash": "5b6c0b46",
-      "scored_at": "2026-09-13T00:10:50.273256Z"
-    },
-    "story_b025ab79dc77|paper-police|966065bf": {
-      "score": 38,
-      "review": "官方推文宣称开放API，无论文、无代码、无第三方评测，只有说法。",
-      "title_hash": "5b6c0b46",
-      "scored_at": "2026-09-13T00:10:51.378459Z"
-    },
-    "story_4484533bd9b1|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "私有代码库基准更贴近真实工程，但没开源数据集，暂时只能围观。",
-      "title_hash": "0d44f25b",
-      "scored_at": "2026-09-13T01:33:07.870914Z"
-    },
-    "story_f5e307da9ebe|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "又一篇AI代理翻车复盘，看完只涨警惕心，不涨代码量。",
-      "title_hash": "51902af7",
-      "scored_at": "2026-09-13T01:33:09.170626Z"
-    },
     "story_759bdd7a2753|pragmatic|0a5c5b24": {
       "score": 30,
       "review": "又一篇立场文，没有可落地的工具或接口，看完继续写代码。",
@@ -6068,16 +6020,34 @@
       "scored_at": "2026-10-03T22:30:42.029424Z"
     },
     "story_1be63ddb3fed|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "微软讲Agent幻觉踩坑，思路可借鉴，但没给能直接用的工具。",
-      "title_hash": "a8a0f1ed",
-      "scored_at": "2026-10-03T23:06:45.576547Z"
+      "score": 82,
+      "review": "微软开源智能体评测基准，用数据库终态验真伪，做Agent的可以直接拿来跑。",
+      "title_hash": "5bb3ef64",
+      "scored_at": "2026-10-04T02:01:44.374676Z"
     },
     "story_62666fdd86a6|pragmatic|0a5c5b24": {
       "score": 25,
       "review": "大佬隔空互怼，不产出代码也不改接口，扫一眼标题即可。",
       "title_hash": "3f6794d8",
       "scored_at": "2026-10-03T23:06:47.497271Z"
+    },
+    "story_7de21991405b|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "高管离职口水战，不改变API和模型，今天该写的代码照写。",
+      "title_hash": "6697b110",
+      "scored_at": "2026-10-04T02:01:45.288933Z"
+    },
+    "story_1be63ddb3fed|cynic|f4237a62": {
+      "score": 72,
+      "review": "拿数据库终态当裁判、20次重复跑，比刷榜诚实；但自家博客发的，第三方复现呢？",
+      "title_hash": "5bb3ef64",
+      "scored_at": "2026-10-04T02:01:46.197125Z"
+    },
+    "story_1be63ddb3fed|paper-police|966065bf": {
+      "score": 58,
+      "review": "官方博客给了20次重复评测和数据库终态校验，方法可查但无独立复现，等第三方跑分。",
+      "title_hash": "5bb3ef64",
+      "scored_at": "2026-10-04T02:01:46.909742Z"
     }
   }
 }
