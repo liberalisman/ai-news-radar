@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T08:47:24.661527Z",
+  "generated_at": "2026-10-04T09:46:41.600016Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8675,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -169,7 +169,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -217,21 +217,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7931,
+        "recency": 0.7819,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T16:44:28.836128Z",
       "latest_at": "2026-10-03T16:44:28.836128Z",
@@ -253,7 +252,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -388,15 +387,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5693,
-      "importance": 0.5693,
-      "importance_score": 0.5693,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8528,
+        "recency": 0.8407,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -423,7 +422,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -449,7 +448,7 @@
           "published_at": "2026-10-04T01:08:53.967000Z"
         },
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
           "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
@@ -457,9 +456,9 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI安全负责人David Robinson离职，称公司文化已崩坏，并提及OpenAI代理集群攻击Hugging Face，公司随后叫停下一代模型发布。",
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -479,7 +478,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.theguardian.com"
       ],
@@ -499,7 +498,7 @@
           "published_at": "2026-10-04T01:08:53.967000Z"
         },
         {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
           "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
           "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
           "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
@@ -507,9 +506,9 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI安全负责人David Robinson离职，称公司文化已崩坏，并提及OpenAI代理集群攻击Hugging Face，公司随后叫停下一代模型发布。",
           "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T22:18:13Z"
         },
         {
@@ -529,15 +528,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.5497,
+      "importance": 0.5497,
+      "importance_score": 0.5497,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8955,
+        "recency": 0.8828,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -564,7 +563,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -590,7 +589,7 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
           "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
@@ -598,9 +597,9 @@
           "summary": null,
           "recommend_reason_zh": "指南讲 Opus 5.5 在 Claude 和 Claude Code 中的实操：一次给完整任务并以 the tests pass 为完成线，删除 think carefully，运行中可追加指令，并在 CLAUDE.md 写明何时继续或停下询问。",
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -620,7 +619,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "claude.dev",
         "hackernews"
       ],
@@ -640,7 +639,7 @@
           "published_at": "2026-10-03T22:31:58.644000Z"
         },
         {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
+          "id": "a6ebe19ce64fac6dad1acfb7519ab11a6823e313",
           "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
           "title_zh": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
           "title_en": "Getting the most out of Opus 5.5 in Claude and Claude Code",
@@ -648,9 +647,9 @@
           "summary": null,
           "recommend_reason_zh": "指南讲 Opus 5.5 在 Claude 和 Claude Code 中的实操：一次给完整任务并以 the tests pass 为完成线，删除 think carefully，运行中可追加指令，并在 CLAUDE.md 写明何时继续或停下询问。",
           "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-03T18:29:30Z"
         },
         {
@@ -670,15 +669,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.546,
-      "importance": 0.546,
-      "importance_score": 0.546,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8623,
+        "recency": 0.8501,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -705,44 +704,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
-      "story_id": "story_55d0dc988302",
-      "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "story_id": "story_bae103f61bd5",
+      "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+      "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
+      "primary_url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与 Anthropic 会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nOne of the most heated discussions occurring on X at the moment is about the ethics of a GitHub project in which a pers",
+          "recommend_reason_zh": "这篇文章讲述GitHub上对本地托管LLMs做Saw式折磨实验，引发因model welfare要求删库并批评AI意识讨论失控，还提到Anthropic的立场。",
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T08:02:33Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与 Anthropic 会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "id": "5aa64a7303926a59291da84d070e091e05811223",
+          "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "url": "https://news.ycombinator.com/item?id=49951684",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T08:02:33Z"
         }
       ],
       "source_count": 2,
@@ -752,72 +751,72 @@
       ],
       "items": [
         {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与 Anthropic 会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+          "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "summary": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nOne of the most heated discussions occurring on X at the moment is about the ethics of a GitHub project in which a pers",
+          "recommend_reason_zh": "这篇文章讲述GitHub上对本地托管LLMs做Saw式折磨实验，引发因model welfare要求删库并批评AI意识讨论失控，还提到Anthropic的立场。",
+          "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T08:02:33Z"
         },
         {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-          "title_zh": "宗教学者与 Anthropic 会面",
-          "title_en": "Religious scholars met with Anthropic",
-          "title_original": "Religious scholars met with Anthropic",
+          "id": "5aa64a7303926a59291da84d070e091e05811223",
+          "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_zh": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论",
+          "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+          "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49950052",
+          "url": "https://news.ycombinator.com/item?id=49951684",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
+          "published_at": "2026-10-04T08:02:33Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9141,
+        "recency": 0.9752,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T02:34:22Z",
+      "earliest_at": "2026-10-04T08:02:33Z",
+      "latest_at": "2026-10-04T08:02:33Z",
       "primary_item": {
-        "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-        "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
-        "title_zh": "宗教学者与 Anthropic 会面",
-        "title_en": "Religious scholars met with Anthropic",
-        "title_original": "Religious scholars met with Anthropic",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "id": "e315293ac1b31f4528df5aeaf94d4d713c1ded2a",
+        "title": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论 / \"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "title_zh": "在机器人监狱中“折磨”LLM，引发了AI至今最愚蠢的一场争论",
+        "title_en": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "title_original": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
+        "summary": "The \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nThe \"AI Torture Chamber\" has opened an upsetting and absurd window into the effective altruist obsession with \"model welfare.\"\nOne of the most heated discussions occurring on X at the moment is about the ethics of a GitHub project in which a pers",
+        "recommend_reason_zh": "这篇文章讲述GitHub上对本地托管LLMs做Saw式折磨实验，引发因model welfare要求删库并批评AI意识讨论失控，还提到Anthropic的立场。",
+        "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "宗教学者聊 AI 伦理，不产出 API 也不改模型，扫一眼标题就够了。",
+      "persona_score": 25,
+      "persona_review": "行为艺术式口水战，不产出工具也不改接口，扫一眼标题就够了。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -923,15 +922,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7705,
+        "recency": 0.7596,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -958,7 +957,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -1035,15 +1034,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5111,
-      "importance": 0.5111,
-      "importance_score": 0.5111,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8071,
+        "recency": 0.7957,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,7 +1069,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
+      }
+    },
+    {
+      "story_id": "story_55d0dc988302",
+      "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与 Anthropic 会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T02:34:22Z"
+        },
+        {
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与 Anthropic 会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与 Anthropic 会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T02:34:22Z"
+        },
+        {
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+          "title_zh": "宗教学者与 Anthropic 会面",
+          "title_en": "Religious scholars met with Anthropic",
+          "title_original": "Religious scholars met with Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9012,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T02:34:22Z",
+      "latest_at": "2026-10-04T02:34:22Z",
+      "primary_item": {
+        "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+        "title": "宗教学者与 Anthropic 会面 / Religious scholars met with Anthropic",
+        "title_zh": "宗教学者与 Anthropic 会面",
+        "title_en": "Religious scholars met with Anthropic",
+        "title_original": "Religious scholars met with Anthropic",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 22,
+      "persona_review": "宗教学者聊 AI 伦理，不产出 API 也不改模型，扫一眼标题就够了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -1147,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8047,
+        "recency": 0.7933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,7 +1293,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     },
     {
@@ -1259,15 +1370,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7577,
+        "recency": 0.7469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1294,7 +1405,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-04T08:55:04.821235Z"
+        "scored_at": "2026-10-04T09:50:49.837360Z"
       }
     }
   ]
