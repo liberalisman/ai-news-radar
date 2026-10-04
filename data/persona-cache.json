@@ -1,12 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_e5571e6173d7|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "两位大佬隔空辩论放慢AI，跟你的代码和账单没关系，扫一眼标题即可。",
-      "title_hash": "aa891be2",
-      "scored_at": "2026-09-13T20:57:48.749963Z"
-    },
     "story_076542355556|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "看个乐子可以，密码学场景离日常交付太远，学不到可复用的用法。",
@@ -5990,10 +5984,10 @@
       "scored_at": "2026-10-04T09:50:50.859519Z"
     },
     "story_22f350167c25|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "macOS 本地照片视频 AI 搜索，开源可 clone，有 Mac 的今天就能试。",
-      "title_hash": "30f5b46b",
-      "scored_at": "2026-10-04T15:08:16.842950Z"
+      "score": 82,
+      "review": "开源可 clone，本地跑逐帧搜索，隐私敏感场景直接抄。",
+      "title_hash": "e2d248ca",
+      "scored_at": "2026-10-04T22:35:55.618354Z"
     },
     "story_a55f7b341908|pragmatic|0a5c5b24": {
       "score": 35,
@@ -6009,15 +6003,39 @@
     },
     "story_22f350167c25|cynic|f4237a62": {
       "score": 62,
-      "review": "本地跑模型搜视频帧，方向对；但\"每一帧\"的索引成本和内存占用，README 里敢写吗？",
-      "title_hash": "30f5b46b",
-      "scored_at": "2026-10-04T18:55:20.758095Z"
+      "review": "逐帧索引听着唬人，但没提索引一次要多久、占多少盘，本地跑大模型的电费谁付？",
+      "title_hash": "e2d248ca",
+      "scored_at": "2026-10-04T22:35:57.948693Z"
     },
     "story_22f350167c25|paper-police|966065bf": {
+      "score": 58,
+      "review": "有开源仓库可查代码，但无论文与公开benchmark，帧级检索效果无法复现。",
+      "title_hash": "e2d248ca",
+      "scored_at": "2026-10-04T22:35:58.606877Z"
+    },
+    "story_8d78ad21f2cb|pragmatic|0a5c5b24": {
       "score": 55,
-      "review": "有开源仓库可查，但无论文无公开benchmark，检索精度无法复现。",
-      "title_hash": "30f5b46b",
-      "scored_at": "2026-10-04T18:55:21.562009Z"
+      "review": "讲 AI 集群传输层替代 TCP 的技术分享，做分布式训练底层的人值得看，普通应用开发用不上。",
+      "title_hash": "96c65fc9",
+      "scored_at": "2026-10-04T22:35:56.351259Z"
+    },
+    "story_7690a865b944|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "视频谈理念不落代码，没有可抄的方案，等有配套工具再回看。",
+      "title_hash": "eda1400a",
+      "scored_at": "2026-10-04T22:35:57.203084Z"
+    },
+    "story_8d78ad21f2cb|cynic|f4237a62": {
+      "score": 72,
+      "review": "Homa 有实测延迟数据撑腰，但\"终结 TCP\"这标题比论文结论跑得快多了。",
+      "title_hash": "96c65fc9",
+      "scored_at": "2026-10-04T22:35:59.743100Z"
+    },
+    "story_8d78ad21f2cb|paper-police|966065bf": {
+      "score": 42,
+      "review": "视频演讲有技术细节，但无论文链接无开源代码，等可复现评测再定论。",
+      "title_hash": "96c65fc9",
+      "scored_at": "2026-10-04T22:36:00.721342Z"
     }
   }
 }
