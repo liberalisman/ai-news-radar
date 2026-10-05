@@ -7,54 +7,6 @@
       "title_hash": "51dedae2",
       "scored_at": "2026-09-14T07:15:27.378742Z"
     },
-    "story_ffdf3bb7485a|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "纯观点讨论，没有可跑的东西，看完继续写你的代码。",
-      "title_hash": "c15abd6f",
-      "scored_at": "2026-09-13T23:18:26.598287Z"
-    },
-    "story_076542355556|cynic|f4237a62": {
-      "score": 55,
-      "review": "370年没人解开的密码，AI一出手就破了？先公布验证方法和对照基线再说。",
-      "title_hash": "49bb1662",
-      "scored_at": "2026-09-13T23:38:29.817436Z"
-    },
-    "story_076542355556|paper-police|966065bf": {
-      "score": 30,
-      "review": "仅博客宣称破解370年密码，无论文无代码无第三方验证，等复现。",
-      "title_hash": "49bb1662",
-      "scored_at": "2026-09-13T23:38:31.091541Z"
-    },
-    "story_5d2c21d45d97|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "IPO 早晚跟你写代码没关系，该调 API 还是调，别当信号看。",
-      "title_hash": "3ad0ee2d",
-      "scored_at": "2026-09-14T01:14:09.912013Z"
-    },
-    "story_c751bec5886c|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "大佬喊刹车不写代码，该交付的照交付，别被口号带节奏。",
-      "title_hash": "37bcde18",
-      "scored_at": "2026-09-14T01:14:10.850433Z"
-    },
-    "story_ebd0e66ec1cc|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "上市与否不影响你调 API，股价波动是别人的仓位，代码照写。",
-      "title_hash": "ca5baa40",
-      "scored_at": "2026-09-14T01:14:11.904952Z"
-    },
-    "story_d68fe1a9d50c|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "营收数字是给投资人看的，API 价格和额度没变，开发者不用管。",
-      "title_hash": "dc810e24",
-      "scored_at": "2026-09-14T01:14:12.668469Z"
-    },
-    "story_1e32cab69036|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "CEO 表态不写代码，等苹果真出 AI 硬件再看。",
-      "title_hash": "5e6cc169",
-      "scored_at": "2026-09-14T01:14:14.016803Z"
-    },
     "story_fe9bcb863f7c|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "推理框架适配新模型，做部署的可以看下吞吐和延迟数据再决定换不换。",
@@ -6048,6 +6000,24 @@
       "review": "只有视频演讲，无论文无代码无benchmark，规模化效果拿什么验证？",
       "title_hash": "eda1400a",
       "scored_at": "2026-10-04T23:12:05.389733Z"
+    },
+    "story_92fa9be3e195|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "用 Databricks Genie 的团队该查一下 Skill 权限，四类控制挡不住恶意插件。",
+      "title_hash": "d66de6f3",
+      "scored_at": "2026-10-05T01:23:42.861695Z"
+    },
+    "story_92fa9be3e195|cynic|f4237a62": {
+      "score": 72,
+      "review": "点名四类控制全失效，比厂商白皮书诚实；但只有一家之言，Databricks 还没接招。",
+      "title_hash": "d66de6f3",
+      "scored_at": "2026-10-05T01:23:43.724156Z"
+    },
+    "story_92fa9be3e195|paper-police|966065bf": {
+      "score": 42,
+      "review": "厂商博客披露攻击细节但无PoC代码，Databricks未回应，等复现再定论。",
+      "title_hash": "d66de6f3",
+      "scored_at": "2026-10-05T01:23:44.379371Z"
     }
   }
 }

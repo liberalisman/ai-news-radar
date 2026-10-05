@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:12:05.389786Z",
+  "generated_at": "2026-10-05T01:23:44.379443Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_92fa9be3e195",
+      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
+      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "点名四类控制全失效，比厂商白皮书诚实；但只有一家之言，Databricks 还没接招。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "厂商博客披露攻击细节但无PoC代码，Databricks未回应，等复现再定论。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "用 Databricks Genie 的团队该查一下 Skill 权限，四类控制挡不住恶意插件。"
+        }
+      }
+    },
+    {
       "story_id": "story_8d78ad21f2cb",
       "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 55,
           "review": "讲 AI 集群传输层替代 TCP 的技术分享，做分布式训练底层的人值得看，普通应用开发用不上。"
-        }
-      }
-    },
-    {
-      "story_id": "story_7690a865b944",
-      "title": "如何用 AI 规模化实现意图、质量与艺术性 [视频] / How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "标题三个大词凑齐了，视频里能拿出几个可复现的数字？先看再说。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有视频演讲，无论文无代码无benchmark，规模化效果拿什么验证？"
-        },
-        "pragmatic": {
-          "score": 35,
-          "review": "视频谈理念不落代码，没有可抄的方案，等有配套工具再回看。"
         }
       }
     }
