@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:35:26.846344Z",
+  "generated_at": "2026-10-05T23:13:11.031306Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_06387bb39276",
+      "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "501B总参数只激活23B，稀疏比够狠；但开放权重不等于开放配方，benchmark和成本还没影。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "开放权重不等于开源可复现，未见论文与第三方跑分，先等评测。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "501B开源权重、23B激活，编程Agent可本地部署，先看显存和推理框架支持。"
+        }
+      }
+    },
+    {
       "story_id": "story_b4c0a1b83afc",
       "title": "ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_6f6f6c4ad8fb",
-      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "水印方案赶在合规截止前发布，但抗改写、抗翻译的实测数据呢？"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方博客宣称方案，无论文无开源无第三方检测，水印可复现性存疑。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "合规向水印，除非你做欧盟业务或要检测AI文本，否则先观望。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f4763bfb35df",
-      "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "story_id": "story_443f271584c4",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "订阅费照收，广告照塞，'更懂你'的推荐位其实是更懂你的钱包。"
+          "score": 62,
+          "review": "0.160.1 这种补丁号也值得单发一条，changelog 里多半是修 bug 和调参数。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "两家媒体报道属实，但无官方公告、无广告位截图、无收入数据，仅二手转述。"
+          "score": 42,
+          "review": "官方 changelog 只列版本变更，无论文无 benchmark，复现无从谈起。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "免费用户多看广告，付费的暂时没事，选型时把这点算进成本。"
+          "score": 72,
+          "review": "小版本号更新，先看 changelog 有没有修你踩的坑再决定升不升。"
         }
       }
     }

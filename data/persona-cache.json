@@ -1,96 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_c8036e0526ae|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Ruby 项目注意：YARD 可被恶意代码利用，CI 里跑文档生成前先隔离。",
-      "title_hash": "1dc5f1e5",
-      "scored_at": "2026-09-14T23:07:03.370582Z"
-    },
-    "story_e31e702be431|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "Copilot 自动选模型能调成本/质量了，团队今天就能按预算压账单。",
-      "title_hash": "8dff4803",
-      "scored_at": "2026-09-14T23:07:04.465328Z"
-    },
-    "story_9c9f79ea9dc9|pragmatic|0a5c5b24": {
-      "score": 18,
-      "review": "对谈视频，没新工具没接口，看完也写不出一行代码。",
-      "title_hash": "11f8b6e1",
-      "scored_at": "2026-09-14T23:07:05.465833Z"
-    },
-    "story_6d1f643d12b4|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "开发者大会官宣，没议程没产品，等有具体工具或API再花时间。",
-      "title_hash": "8d95a7a2",
-      "scored_at": "2026-09-14T23:07:06.377707Z"
-    },
-    "story_0eee8b8050f5|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "有具体价格和代码评审场景对比，选型时能参考；但先确认这俩模型是否真存在。",
-      "title_hash": "f747bb91",
-      "scored_at": "2026-09-14T23:07:07.188863Z"
-    },
-    "story_e8006455a1d2|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "Siri 换脑但只给测试版，开发者拿不到 API，先看别人踩坑。",
-      "title_hash": "0e485fd8",
-      "scored_at": "2026-09-14T23:07:08.063079Z"
-    },
-    "story_a5cc1961a5e8|pragmatic|0a5c5b24": {
-      "score": 32,
-      "review": "IPO 和估值跟你今天的代码没关系，等它真上市看招股书里的 API 定价再说。",
-      "title_hash": "a537b199",
-      "scored_at": "2026-09-14T23:07:08.870467Z"
-    },
-    "story_098c8c345e0d|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "榜单位置而已，没开放权重和API细节，先记着别急着换模型。",
-      "title_hash": "8ced4230",
-      "scored_at": "2026-09-14T23:07:09.938184Z"
-    },
-    "story_82be3d3bc673|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "智能体写代码把 CI 压垮是真痛点，Anthropic 的测试影响分析方案值得抄思路。",
-      "title_hash": "494f1dfb",
-      "scored_at": "2026-09-14T23:07:10.638343Z"
-    },
-    "story_82847db2812b|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "大会分论坛预告，没产品没代码，等真有发布会内容再说。",
-      "title_hash": "f601bb4f",
-      "scored_at": "2026-09-14T23:07:11.349851Z"
-    },
-    "story_17aae6f468b9|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "融资新闻，产品没开放，做网络互联的可以记个名字，其他人不用管。",
-      "title_hash": "54c628a4",
-      "scored_at": "2026-09-14T23:07:12.057700Z"
-    },
-    "story_e31e702be431|cynic|f4237a62": {
-      "score": 72,
-      "review": "终于把成本旋钮交给用户，但默认值藏在哪、省多少电费，changelog 一个字没提。",
-      "title_hash": "8dff4803",
-      "scored_at": "2026-09-14T23:07:13.095259Z"
-    },
-    "story_e31e702be431|paper-police|966065bf": {
-      "score": 42,
-      "review": "官方更新给了配置说明，但无论文、无代码、无第三方评测，只能算有迹可循。",
-      "title_hash": "8dff4803",
-      "scored_at": "2026-09-14T23:07:13.874191Z"
-    },
-    "story_c8036e0526ae|cynic|f4237a62": {
-      "score": 72,
-      "review": "YARD 任意代码执行加 Fastly 缓存密钥，技术细节够硬；但'恶意 AI 智能体'这顶帽子，更像作者给自动化扫描脚",
-      "title_hash": "1dc5f1e5",
-      "scored_at": "2026-09-14T23:07:14.733842Z"
-    },
-    "story_c8036e0526ae|paper-police|966065bf": {
-      "score": 42,
-      "review": "个人博客详述攻击链，细节可查但无独立复现与代码，先算有迹可循。",
-      "title_hash": "1dc5f1e5",
-      "scored_at": "2026-09-14T23:07:15.671017Z"
-    },
     "story_40742267d400|pragmatic|0a5c5b24": {
       "score": 30,
       "review": "反垄断口水战，不改变你今天能调用的任何 API。",
@@ -5870,10 +5780,76 @@
       "scored_at": "2026-10-05T18:35:25.998304Z"
     },
     "story_e48c2f9cc52d|pragmatic|0a5c5b24": {
+      "score": 58,
+      "review": "爬虫抓数据被点名，做 Agent 的该查查自己的合规和限流了。",
+      "title_hash": "ca765fb2",
+      "scored_at": "2026-10-05T23:13:01.673086Z"
+    },
+    "story_443f271584c4|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "小版本号更新，先看 changelog 有没有修你踩的坑再决定升不升。",
+      "title_hash": "bc1beb72",
+      "scored_at": "2026-10-05T23:13:02.490980Z"
+    },
+    "story_651dc5458423|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "订阅性价比测算，选型时可参考，但API定价随时变，别当合同看。",
+      "title_hash": "8d92e093",
+      "scored_at": "2026-10-05T23:13:03.127182Z"
+    },
+    "story_06387bb39276|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "501B开源权重、23B激活，编程Agent可本地部署，先看显存和推理框架支持。",
+      "title_hash": "9f1a7540",
+      "scored_at": "2026-10-05T23:13:04.197586Z"
+    },
+    "story_47d885071ad3|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "订阅跑 agent 前先算账，5 倍差价够换供应商了，但得自己压测验证。",
+      "title_hash": "5c0ed749",
+      "scored_at": "2026-10-05T23:13:05.057379Z"
+    },
+    "story_a0cf0e1c0e34|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "跟写代码没关系，但提醒你：别把敏感内容喂给云端模型，日志会留底。",
+      "title_hash": "7ccd743a",
+      "scored_at": "2026-10-05T23:13:05.882858Z"
+    },
+    "story_28fb0368d56f|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "看个热闹，说明Agent爬公开数据会失控，做爬虫的记得加限流和身份标识。",
-      "title_hash": "7bce6c24",
-      "scored_at": "2026-10-05T18:35:26.846224Z"
+      "review": "无反向传播预训练听着新鲜，但没代码没权重，今天该写的代码一行没少。",
+      "title_hash": "32ee992f",
+      "scored_at": "2026-10-05T23:13:06.967272Z"
+    },
+    "story_141f62674913|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "3499 美元的 AI 主机加 1100 万融资，没评测没现货，跟你今天的选型无关。",
+      "title_hash": "7a8f6366",
+      "scored_at": "2026-10-05T23:13:07.768245Z"
+    },
+    "story_06387bb39276|cynic|f4237a62": {
+      "score": 62,
+      "review": "501B总参数只激活23B，稀疏比够狠；但开放权重不等于开放配方，benchmark和成本还没影。",
+      "title_hash": "9f1a7540",
+      "scored_at": "2026-10-05T23:13:08.650301Z"
+    },
+    "story_06387bb39276|paper-police|966065bf": {
+      "score": 42,
+      "review": "开放权重不等于开源可复现，未见论文与第三方跑分，先等评测。",
+      "title_hash": "9f1a7540",
+      "scored_at": "2026-10-05T23:13:09.368546Z"
+    },
+    "story_443f271584c4|cynic|f4237a62": {
+      "score": 62,
+      "review": "0.160.1 这种补丁号也值得单发一条，changelog 里多半是修 bug 和调参数。",
+      "title_hash": "bc1beb72",
+      "scored_at": "2026-10-05T23:13:10.178280Z"
+    },
+    "story_443f271584c4|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方 changelog 只列版本变更，无论文无 benchmark，复现无从谈起。",
+      "title_hash": "bc1beb72",
+      "scored_at": "2026-10-05T23:13:11.031249Z"
     }
   }
 }

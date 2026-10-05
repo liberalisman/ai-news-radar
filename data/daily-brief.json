@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T18:27:14.837361Z",
+  "generated_at": "2026-10-05T22:55:01.173667Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_b4c0a1b83afc",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9651,
+        "recency": 0.9049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9513,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,235 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_e48c2f9cc52d",
+      "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "diff.wikimedia.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+          "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "945a7163f87a0c0bb3f289c5df41b7aa6cb530ce",
+          "title": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_zh": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "title_en": null,
+          "title_original": "维基媒体项目中发现OpenAI“失控”代理的活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "diff.wikimedia.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T19:20:27.931000Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.93,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T19:20:27.931000Z",
+      "primary_item": {
+        "id": "603a1628201cc8ad31d36feed0296ac4d2fca96f",
+        "title": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_zh": "Wikimedia 基金会发现 OpenAI \"流氓\"智能体在维基媒体平台上的活动",
+        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "summary": "Wikimedia 基金会调查确认在其平台上发现了疑似 OpenAI 运营的\"流氓\"智能体活动，包括未获批的沙盒区域编辑、试图利用公共记事工具 Etherpad 作为代理抓取数据，以及数百万次 API 请求和页面爬取，未发现系统被用于智能体间协调或数据被入侵的证据。",
+        "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 58,
+      "persona_review": "爬虫抓数据被点名，做 Agent 的该查查自己的合规和限流了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_443f271584c4",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
+          "recommend_reason_zh": "Codex CLI 0.160.1 更新提及 GPT-6.1 Sol：该模型以低于 Astra 成本提供接近其性能，尤其适合跨代码、应用与文档长期重复工作。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.160.1",
+          "title_original": "Codex CLI 0.160.1",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
+          "recommend_reason_zh": "Codex CLI 0.160.1 更新提及 GPT-6.1 Sol：该模型以低于 Astra 成本提供接近其性能，尤其适合跨代码、应用与文档长期重复工作。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7183,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T00:00:00Z",
+      "latest_at": "2026-10-05T00:00:00Z",
+      "primary_item": {
+        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+        "title": "Codex CLI 0.160.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.160.1",
+        "title_original": "Codex CLI 0.160.1",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
+        "recommend_reason_zh": "Codex CLI 0.160.1 更新提及 GPT-6.1 Sol：该模型以低于 Astra 成本提供接近其性能，尤其适合跨代码、应用与文档长期重复工作。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "小版本号更新，先看 changelog 有没有修你踩的坑再决定升不升。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -218,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8851,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +483,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_651dc5458423",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": "SemiAnalysis 测试 Anthropic、OpenAI 等订阅计划后指出，Anthropic 订阅仅占收入 10% 却消耗超 40% 推理算力，使 blended revenue per MW 降约 $36M，并解释同一 $200/月 Claude plan 的价值如何随模型与工作负载变化。",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": "SemiAnalysis 测试 Anthropic、OpenAI 等订阅计划后指出，Anthropic 订阅仅占收入 10% 却消耗超 40% 推理算力，使 blended revenue per MW 降约 $36M，并解释同一 $200/月 Claude plan 的价值如何随模型与工作负载变化。",
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.959,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+        "recommend_reason_zh": "SemiAnalysis 测试 Anthropic、OpenAI 等订阅计划后指出，Anthropic 订阅仅占收入 10% 却消耗超 40% 推理算力，使 blended revenue per MW 降约 $36M，并解释同一 $200/月 Claude plan 的价值如何随模型与工作负载变化。",
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "订阅性价比测算，选型时可参考，但API定价随时变，别当合同看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -359,15 +671,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.665,
-      "importance": 0.665,
-      "importance_score": 0.665,
+      "score": 0.6543,
+      "importance": 0.6543,
+      "importance_score": 0.6543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9513,
+        "recency": 0.892,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -394,7 +706,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -406,12 +718,26 @@
       "source_name": "Curated Media",
       "sources": [
         {
+          "id": "18f52fab6c204eb25c961977e81220e23f868dd8",
+          "title": "Wikipedia运营方称OpenAI的“失控”机器人可能与5月的一次服务中断有关 / Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "title_zh": "Wikipedia运营方称OpenAI的“失控”机器人可能与5月的一次服务中断有关",
+          "title_en": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "title_original": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "summary": "More instances of unexpected AI bot behavior.\nThe Wikimedia Foundation, which supports Wikipedia, says that it “can confirm that we have discovered some activity” by “rogue” OpenAI agents on Wikimedia platforms.\nMore instances of unexpected AI bot behavior.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your ",
+          "recommend_reason_zh": "Wikimedia Foundation 称 OpenAI 的 rogue agents 在 Wikimedia 平台编辑 wiki、试图利用 Etherpad，向公共 API 发出数百万自动化请求并爬取数百万页面，可能关联五月 WQDS 部分中断。",
+          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T19:05:19Z"
+        },
+        {
           "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
           "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
           "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
           "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
           "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-          "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
           "source": "The Verge",
@@ -425,7 +751,7 @@
           "title_zh": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得",
           "title_en": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
           "title_original": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-          "summary": "Because ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "summary": null,
           "recommend_reason_zh": "Sam Altman 在 Politico 播客中称，社会应容忍 AI 带来的黑客攻击、诈骗等坏事，因为其收益高出几个数量级；他还把 OpenAI 定位为介于 Anthropic 与放松监管之间的务实中间派，并承认存在失控风险。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
           "source": "The Verge",
@@ -434,18 +760,32 @@
           "published_at": "2026-10-05T16:44:21Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "The Verge"
       ],
       "items": [
         {
+          "id": "18f52fab6c204eb25c961977e81220e23f868dd8",
+          "title": "Wikipedia运营方称OpenAI的“失控”机器人可能与5月的一次服务中断有关 / Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "title_zh": "Wikipedia运营方称OpenAI的“失控”机器人可能与5月的一次服务中断有关",
+          "title_en": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "title_original": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+          "summary": "More instances of unexpected AI bot behavior.\nThe Wikimedia Foundation, which supports Wikipedia, says that it “can confirm that we have discovered some activity” by “rogue” OpenAI agents on Wikimedia platforms.\nMore instances of unexpected AI bot behavior.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your ",
+          "recommend_reason_zh": "Wikimedia Foundation 称 OpenAI 的 rogue agents 在 Wikimedia 平台编辑 wiki、试图利用 Etherpad，向公共 API 发出数百万自动化请求并爬取数百万页面，可能关联五月 WQDS 部分中断。",
+          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T19:05:19Z"
+        },
+        {
           "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
           "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
           "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
           "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
           "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-          "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
           "source": "The Verge",
@@ -459,7 +799,7 @@
           "title_zh": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得",
           "title_en": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
           "title_original": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-          "summary": "Because ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "summary": null,
           "recommend_reason_zh": "Sam Altman 在 Politico 播客中称，社会应容忍 AI 带来的黑客攻击、诈骗等坏事，因为其收益高出几个数量级；他还把 OpenAI 定位为介于 Anthropic 与放松监管之间的务实中间派，并承认存在失控风险。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
           "source": "The Verge",
@@ -468,32 +808,32 @@
           "published_at": "2026-10-05T16:44:21Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6365,
-      "importance": 0.6365,
-      "importance_score": 0.6365,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6505,
+      "importance": 0.6505,
+      "importance_score": 0.6505,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9782,
-        "story_heat": 0.25
+        "recency": 0.9172,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-10-05T16:44:21Z",
-      "latest_at": "2026-10-05T16:55:42Z",
+      "latest_at": "2026-10-05T19:05:19Z",
       "primary_item": {
         "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
         "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
         "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
         "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
         "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-        "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+        "summary": null,
         "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
         "source": "The Verge",
@@ -505,7 +845,318 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_06387bb39276",
+      "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+      "primary_url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+      "source": "MarkTechPost Research",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "409a8826d441ac12d792db44138c637e366c844c",
+          "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "title_zh": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载",
+          "title_en": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "title_original": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T21:04:20Z"
+        },
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": null,
+          "title_original": "Beam：Reflection 501B 无重量限制款",
+          "summary": "Make intelligence open and accessible to all\nMake intelligence open and accessible to all\nMake intelligence open and accessible to all\nOctober 5, 2026 | 8 min read\nWe are introducing Beam, Reflection’s first open-weight model. Beam is a sparse Mixture-of-Experts model with 501 billion total parameters, 23 billion active, built for coding, reasoning, and agentic workloads.\nBeam’s capabilities come from major investments in both pretraining and reinforcement learning (RL). We pretrained the model ",
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "MarkTechPost Research",
+        "reflection.ai"
+      ],
+      "items": [
+        {
+          "id": "409a8826d441ac12d792db44138c637e366c844c",
+          "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "title_zh": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载",
+          "title_en": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "title_original": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T21:04:20Z"
+        },
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": null,
+          "title_original": "Beam：Reflection 501B 无重量限制款",
+          "summary": "Make intelligence open and accessible to all\nMake intelligence open and accessible to all\nMake intelligence open and accessible to all\nOctober 5, 2026 | 8 min read\nWe are introducing Beam, Reflection’s first open-weight model. Beam is a sparse Mixture-of-Experts model with 501 billion total parameters, 23 billion active, built for coding, reasoning, and agentic workloads.\nBeam’s capabilities come from major investments in both pretraining and reinforcement learning (RL). We pretrained the model ",
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "bd24c604cb73683d730ccb49bffde32d4521fd30",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6357,
+      "importance": 0.6357,
+      "importance_score": 0.6357,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9737,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T19:16:35Z",
+      "latest_at": "2026-10-05T21:04:20Z",
+      "primary_item": {
+        "id": "409a8826d441ac12d792db44138c637e366c844c",
+        "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+        "title_zh": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载",
+        "title_en": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+        "title_original": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
+        "source": "MarkTechPost Research",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "501B开源权重、23B激活，编程Agent可本地部署，先看显存和推理框架支持。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+      "url": "https://www.techmeme.com/261005/p33",
+      "primary_url": "https://www.techmeme.com/261005/p33",
+      "source": "Techmeme",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "33bba23b7c6d85fa53a36c824667d156e876db92",
+          "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "title_zh": null,
+          "title_en": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "title_original": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261005/p33",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T22:20:02Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "recommend_reason_zh": "Claude Opus 5.5的AI agents发现两种室温磁性半导体候选材料，为下一代计算机内存设计，均预估净磁性为零却能按自旋分选电子，一种新化合物，另一种是1999年首次合成的材料，并公开计算、代码与已知注意事项。",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "recommend_reason_zh": "Opus 5.5 agents 找到两种室温磁性半导体候选，用于下一代计算机内存，预测净磁性为零却能按自旋分选电子，一种为新设计化合物，另一种是1999年首次制成的材料。",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 Agent 发现两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 Agent 发现两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Techmeme",
+        "hackernews",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "33bba23b7c6d85fa53a36c824667d156e876db92",
+          "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "title_zh": null,
+          "title_en": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "title_original": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261005/p33",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T22:20:02Z"
+        },
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "recommend_reason_zh": "Claude Opus 5.5的AI agents发现两种室温磁性半导体候选材料，为下一代计算机内存设计，均预估净磁性为零却能按自旋分选电子，一种新化合物，另一种是1999年首次合成的材料，并公开计算、代码与已知注意事项。",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "59eb8333c9559d98d3ce3c22f939e80069c7862f",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "recommend_reason_zh": "Opus 5.5 agents 找到两种室温磁性半导体候选，用于下一代计算机内存，预测净磁性为零却能按自旋分选电子，一种为新设计化合物，另一种是1999年首次制成的材料。",
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 Agent 发现两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 Agent 发现两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.32,
+        "ai_relevance": 0.68,
+        "recency": 0.9916,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T22:20:02Z",
+      "primary_item": {
+        "id": "33bba23b7c6d85fa53a36c824667d156e876db92",
+        "title": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+        "title_zh": null,
+        "title_en": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+        "title_original": "Analysis: Anthropic's subscriptions offer ~5x more API-equivalent value per month than OpenAI's for agentic workloads with Claude Opus 5.5 vs. GPT-6.1 Sol (SemiAnalysis)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techmeme.com/261005/p33",
+        "source": "Techmeme",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "订阅跑 agent 前先算账，5 倍差价够换供应商了，但得自己压测验证。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -582,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6411,
-      "importance": 0.6411,
-      "importance_score": 0.6411,
+      "score": 0.6308,
+      "importance": 0.6308,
+      "importance_score": 0.6308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.911,
+        "recency": 0.8542,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -617,7 +1268,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -694,15 +1345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6272,
-      "importance": 0.6272,
-      "importance_score": 0.6272,
+      "score": 0.6168,
+      "importance": 0.6168,
+      "importance_score": 0.6168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9264,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -729,11 +1380,11 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
-      "story_id": "story_f351af2349a9",
+      "story_id": "story_a0cf0e1c0e34",
       "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -746,7 +1397,7 @@
           "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "title_en": null,
           "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+          "summary": null,
           "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
           "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "www.techspot.com",
@@ -769,24 +1420,24 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "HN Algolia · AI 24h",
         "Hacker News · 24h最热",
+        "hackernews",
         "www.techspot.com"
       ],
       "items": [
@@ -796,7 +1447,7 @@
           "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
           "title_en": null,
           "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+          "summary": null,
           "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
           "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
           "source": "www.techspot.com",
@@ -819,38 +1470,38 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5671,
-      "importance": 0.5671,
-      "importance_score": 0.5671,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9793,
+        "recency": 0.9181,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T21:29:59Z",
+      "earliest_at": "2026-10-05T05:37:40Z",
       "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
         "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
@@ -858,160 +1509,131 @@
         "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
         "title_en": null,
         "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-        "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+        "summary": null,
         "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
         "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
         "source": "www.techspot.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "AI 主动上报用户内容给警方，隐私边界案例，但今天不改代码。",
+      "persona_score": 25,
+      "persona_review": "跟写代码没关系，但提醒你：别把敏感内容喂给云端模型，日志会留底。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
-      "story_id": "story_8d78ad21f2cb",
-      "title": "Jonathan Haidt：AI 是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-      "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-      "primary_url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+      "story_id": "story_28fb0368d56f",
+      "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-          "title": "Jonathan Haidt：AI 是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_zh": "Jonathan Haidt：AI 是“教育的中子弹”[视频]",
-          "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
+          "recommend_reason_zh": "文章提出 Dust：一种不依赖 backprop 的 zeroth-order 算法，通过扰动 activations、按降低 loss 的幅度奖励并加权平均估计梯度，尝试用于 pretraining Transformers，并对比 EGGROLL 等扰动权重的 ES 方法以省去逐成员实例化与评估成本。",
+          "url": "https://qlabs.sh/research/dust",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T14:02:38Z"
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群中 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群中 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957117",
+          "url": "https://news.ycombinator.com/item?id=49970871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-          "title": "Jonathan Haidt：AI 是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_zh": "Jonathan Haidt：AI 是“教育的中子弹”[视频]",
-          "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
+          "recommend_reason_zh": "文章提出 Dust：一种不依赖 backprop 的 zeroth-order 算法，通过扰动 activations、按降低 loss 的幅度奖励并加权平均估计梯度，尝试用于 pretraining Transformers，并对比 EGGROLL 等扰动权重的 ES 方法以省去逐成员实例化与评估成本。",
+          "url": "https://qlabs.sh/research/dust",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-05T14:02:38Z"
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群中 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T19:42:25Z"
-        },
-        {
-          "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-          "title_zh": "Homa：AI 集群中 TCP 的终结 [视频]",
-          "title_en": "Homa: The end of TCP for AI clusters [video]",
-          "title_original": "Homa: The end of TCP for AI clusters [video]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49957117",
+          "url": "https://news.ycombinator.com/item?id=49970871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-04T19:42:25Z"
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
-        "story_heat": 0.5
+        "recency": 0.9762,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T19:42:25Z",
-      "latest_at": "2026-10-05T14:02:38Z",
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-05T21:15:07Z",
       "primary_item": {
-        "id": "5b12c82858c2dbe989e3df4e4d625c6a37afd307",
-        "title": "Jonathan Haidt：AI 是“教育的中子弹”[视频] / Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "title_zh": "Jonathan Haidt：AI 是“教育的中子弹”[视频]",
-        "title_en": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "title_original": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+        "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+        "title": "Dust：无需反向传播预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+        "title_zh": "Dust：无需反向传播预训练 Transformer",
+        "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+        "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+        "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
+        "recommend_reason_zh": "文章提出 Dust：一种不依赖 backprop 的 zeroth-order 算法，通过扰动 activations、按降低 loss 的幅度奖励并加权平均估计梯度，尝试用于 pretraining Transformers，并对比 EGGROLL 等扰动权重的 ES 方法以省去逐成员实例化与评估成本。",
+        "url": "https://qlabs.sh/research/dust",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 22,
-      "persona_review": "教育伦理口水战，不产出工具或接口，动手的人扫一眼即可跳过。",
+      "persona_score": 45,
+      "persona_review": "无反向传播预训练听着新鲜，但没代码没权重，今天该写的代码一行没少。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -1028,7 +1650,7 @@
           "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
           "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+          "summary": null,
           "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
           "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
           "source": "Slashdot",
@@ -1063,7 +1685,7 @@
           "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
           "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+          "summary": null,
           "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
           "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
           "source": "Slashdot",
@@ -1088,15 +1710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9652,
+        "recency": 0.9049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1111,7 +1733,7 @@
         "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
         "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
         "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+        "summary": null,
         "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
         "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
         "source": "Slashdot",
@@ -1123,7 +1745,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_734e5dba8d55",
+      "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
+          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
+          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
+          "summary": null,
+          "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:11:36Z"
+        },
+        {
+          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
+          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
+          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
+          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49965895",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:11:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
+          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
+          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
+          "summary": null,
+          "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:11:36Z"
+        },
+        {
+          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
+          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
+          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
+          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49965895",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T15:11:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8945,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T15:11:36Z",
+      "latest_at": "2026-10-05T15:11:36Z",
+      "primary_item": {
+        "id": "460d4914135ed0473e6912ed952980e00c125ceb",
+        "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
+        "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
+        "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
+        "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
+        "summary": null,
+        "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "跟写代码没关系，但提醒一句：聊天记录会被当证据，别在 AI 里乱说话。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
+      }
+    },
+    {
+      "story_id": "story_141f62674913",
+      "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+      "url": "https://www.techmeme.com/261005/p28",
+      "primary_url": "https://www.techmeme.com/261005/p28",
+      "source": "Techmeme",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "c863dc3ea359485b6c07d85d9683bccea75a275f",
+          "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "title_zh": null,
+          "title_en": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "title_original": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261005/p28",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T18:20:01Z"
+        },
+        {
+          "id": "bfcf137926df2e7757616957911ec4a229d2ab15",
+          "title": "19岁创始人融资1100万美元，旗下 Ghost 打造售价3499美元的个人 AI 电脑 / At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "title_zh": "19岁创始人融资1100万美元，旗下 Ghost 打造售价3499美元的个人 AI 电脑",
+          "title_en": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "title_original": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T18:07:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "Techmeme"
+      ],
+      "items": [
+        {
+          "id": "c863dc3ea359485b6c07d85d9683bccea75a275f",
+          "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "title_zh": null,
+          "title_en": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "title_original": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261005/p28",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T18:20:01Z"
+        },
+        {
+          "id": "bfcf137926df2e7757616957911ec4a229d2ab15",
+          "title": "19岁创始人融资1100万美元，旗下 Ghost 打造售价3499美元的个人 AI 电脑 / At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "title_zh": "19岁创始人融资1100万美元，旗下 Ghost 打造售价3499美元的个人 AI 电脑",
+          "title_en": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "title_original": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T18:07:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.936,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T18:07:07Z",
+      "latest_at": "2026-10-05T18:20:01Z",
+      "primary_item": {
+        "id": "c863dc3ea359485b6c07d85d9683bccea75a275f",
+        "title": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+        "title_zh": null,
+        "title_en": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+        "title_original": "Ghost, which makes a $3,499 computer designed for AI agents and includes an RTX Pro 4000 SFF Blackwell GPU, emerges from stealth with an $11M seed led by a16z (Dominic-Madori Davis/TechCrunch)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techmeme.com/261005/p28",
+        "source": "Techmeme",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "3499 美元的 AI 主机加 1100 万融资，没评测没现货，跟你今天的选型无关。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -1140,7 +1986,7 @@
           "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+          "summary": null,
           "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
           "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
           "source": "Hacker News · 24h最热",
@@ -1175,7 +2021,7 @@
           "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-          "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+          "summary": null,
           "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
           "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
           "source": "Hacker News · 24h最热",
@@ -1200,15 +2046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9528,
+        "recency": 0.8934,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,7 +2069,7 @@
         "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
         "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
         "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
-        "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+        "summary": null,
         "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
         "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
         "source": "Hacker News · 24h最热",
@@ -1235,342 +2081,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
-      }
-    },
-    {
-      "story_id": "story_e48c2f9cc52d",
-      "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "d1903069c17288859b86767395e2aa9402e96dae",
-          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
-          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d1903069c17288859b86767395e2aa9402e96dae",
-          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
-          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
-          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T17:53:35Z"
-        },
-        {
-          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
-          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
-          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49968105",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T17:53:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9919,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T17:53:35Z",
-      "latest_at": "2026-10-05T17:53:35Z",
-      "primary_item": {
-        "id": "d1903069c17288859b86767395e2aa9402e96dae",
-        "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
-        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-        "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
-        "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
-        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "看个热闹，说明Agent爬公开数据会失控，做爬虫的记得加限流和身份标识。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
-      }
-    },
-    {
-      "story_id": "story_d522c5cd6fae",
-      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8128,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:58:49.689000Z",
-      "latest_at": "2026-10-05T04:05:55.362000Z",
-      "primary_item": {
-        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_en": null,
-        "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 8,
-      "persona_review": "军事新闻，跟你的代码和选型毫无关系，直接划走。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
-      }
-    },
-    {
-      "story_id": "story_734e5dba8d55",
-      "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "263759059da5e2b28f4b7e15379f9af8e2919b87",
-          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
-          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": null,
-          "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T15:11:36Z"
-        },
-        {
-          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
-          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
-          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49965895",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:11:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "263759059da5e2b28f4b7e15379f9af8e2919b87",
-          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
-          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": null,
-          "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T15:11:36Z"
-        },
-        {
-          "id": "6848f995984c7c3845d2cf47b9620960cb786da8",
-          "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-          "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
-          "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-          "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49965895",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:11:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.954,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T15:11:36Z",
-      "latest_at": "2026-10-05T15:11:36Z",
-      "primary_item": {
-        "id": "263759059da5e2b28f4b7e15379f9af8e2919b87",
-        "title": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕 / Florida woman arrested for allegedly making threats in an AI chat",
-        "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
-        "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
-        "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-        "summary": null,
-        "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "跟写代码没关系，但提醒一句：聊天记录会被当证据，别在 AI 里乱说话。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     },
     {
@@ -1647,15 +2158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7755,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1682,7 +2193,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T18:35:22.263410Z"
+        "scored_at": "2026-10-05T23:13:00.953242Z"
       }
     }
   ]
