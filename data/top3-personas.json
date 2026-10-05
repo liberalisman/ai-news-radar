@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:07:30.635135Z",
+  "generated_at": "2026-10-05T16:33:19.874203Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_22f350167c25",
-      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
-      "url": "https://github.com/allenv0/SCM",
+      "story_id": "story_b4c0a1b83afc",
+      "title": "ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "逐帧索引听着唬人，但没提索引一次要多久、占多少盘，本地跑大模型的电费谁付？"
+          "score": 72,
+          "review": "基准开源值得肯定，但拿自家Copilot当卖点，评测集和基线挑没挑过，得看代码。"
         },
         "paper-police": {
-          "score": 58,
-          "review": "有开源仓库可查代码，但无论文与公开benchmark，帧级检索效果无法复现。"
+          "score": 62,
+          "review": "官方博客给了基准细节，但未见论文与可复现仓库，等第三方跑分。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "开源可 clone，本地跑逐帧搜索，隐私敏感场景直接抄。"
+          "score": 72,
+          "review": "评估 AI 代码审查的公开基准，选型或自研 review 工具时可拿来对比。"
         }
       }
     },
     {
-      "story_id": "story_92fa9be3e195",
-      "title": "PromptArmor 披露 Databricks Genie 恶意 Skill 可绕过四类控制实施钓鱼与数据外泄 / Four Databricks Genie Controls That Don't Stop Malicious Skills",
-      "url": "https://www.promptarmor.com/resources/four-databricks-genie-controls-that-dont-stop-malicious-skills",
+      "story_id": "story_6f6f6c4ad8fb",
+      "title": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "点名四类控制全失效，比厂商白皮书诚实；但只有一家之言，Databricks 还没接招。"
+          "score": 62,
+          "review": "水印方案赶在合规截止前发布，但抗改写、抗翻译的实测数据呢？"
         },
         "paper-police": {
-          "score": 42,
-          "review": "厂商博客披露攻击细节但无PoC代码，Databricks未回应，等复现再定论。"
+          "score": 38,
+          "review": "官方博客宣称方案，无论文无开源无第三方检测，水印可复现性存疑。"
         },
         "pragmatic": {
           "score": 62,
-          "review": "用 Databricks Genie 的团队该查一下 Skill 权限，四类控制挡不住恶意插件。"
+          "review": "合规向水印，除非你做欧盟业务或要检测AI文本，否则先观望。"
         }
       }
     },
     {
-      "story_id": "story_8d78ad21f2cb",
-      "title": "Homa：AI 集群中 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "story_id": "story_f4763bfb35df",
+      "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "Homa 有实测延迟数据撑腰，但\"终结 TCP\"这标题比论文结论跑得快多了。"
+          "score": 45,
+          "review": "订阅费照收，广告照塞，'更懂你'的推荐位其实是更懂你的钱包。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "视频演讲有技术细节，但无论文链接无开源代码，等可复现评测再定论。"
+          "score": 30,
+          "review": "两家媒体报道属实，但无官方公告、无广告位截图、无收入数据，仅二手转述。"
         },
         "pragmatic": {
           "score": 55,
-          "review": "讲 AI 集群传输层替代 TCP 的技术分享，做分布式训练底层的人值得看，普通应用开发用不上。"
+          "review": "免费用户多看广告，付费的暂时没事，选型时把这点算进成本。"
         }
       }
     }
