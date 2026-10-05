@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T16:23:06.467590Z",
+  "generated_at": "2026-10-05T18:27:14.837361Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_b4c0a1b83afc",
@@ -17,7 +17,7 @@
           "title_zh": "ReviewBench：面向 AI 代码审查的开放基准",
           "title_en": "ReviewBench: An open benchmark for AI code review",
           "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": "ReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nWe’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nAgentic ",
+          "summary": null,
           "recommend_reason_zh": "ReviewBench 是面向 AI code review agent 的开放基准，基于 GitHub 超 1 亿真实 PR，覆盖 19 种语言、219 个公开 PR，用多源 golden set 和资深工程师验证，助 Copilot code review 预判生产实验方向。",
           "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
           "source": "GitHub AI & ML",
@@ -37,7 +37,7 @@
           "title_zh": "ReviewBench：面向 AI 代码审查的开放基准",
           "title_en": "ReviewBench: An open benchmark for AI code review",
           "title_original": "ReviewBench: An open benchmark for AI code review",
-          "summary": "ReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nWe’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nAgentic ",
+          "summary": null,
           "recommend_reason_zh": "ReviewBench 是面向 AI code review agent 的开放基准，基于 GitHub 超 1 亿真实 PR，覆盖 19 种语言、219 个公开 PR，用多源 golden set 和资深工程师验证，助 Copilot code review 预判生产实验方向。",
           "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
           "source": "GitHub AI & ML",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9944,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "ReviewBench：面向 AI 代码审查的开放基准",
         "title_en": "ReviewBench: An open benchmark for AI code review",
         "title_original": "ReviewBench: An open benchmark for AI code review",
-        "summary": "ReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nReviewBench is a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, and calibrated evaluation.\nWe’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nAgentic ",
+        "summary": null,
         "recommend_reason_zh": "ReviewBench 是面向 AI code review agent 的开放基准，基于 GitHub 超 1 亿真实 PR，覆盖 19 种语言、219 个公开 PR，用多源 golden set 和资深工程师验证，助 Copilot code review 预判生产实验方向。",
         "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
         "source": "GitHub AI & ML",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
           "title_en": "Our approach to EU text provenance rules",
           "title_original": "Our approach to EU text provenance rules",
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nOctober 5, 2026\nPromoting transparency within t",
+          "summary": null,
           "recommend_reason_zh": "这篇值得读，因为 OpenAI 为应对 EU AI Act 推出 textGrain 文本水印，API 默认关闭可全球选择启用，数周内为欧盟符合条件 ChatGPT 和 Codex 文本输出加水印，检测器先向获批研究者开放，1% 误报率下心理学类 200 token 段落检出约 80%，400 token 约 95%。",
           "url": "https://openai.com/index/eu-text-provenance",
           "source": "OpenAI News",
@@ -122,7 +122,7 @@
           "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
           "title_en": "Our approach to EU text provenance rules",
           "title_original": "Our approach to EU text provenance rules",
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nOctober 5, 2026\nPromoting transparency within t",
+          "summary": null,
           "recommend_reason_zh": "这篇值得读，因为 OpenAI 为应对 EU AI Act 推出 textGrain 文本水印，API 默认关闭可全球选择启用，数周内为欧盟符合条件 ChatGPT 和 Codex 文本输出加水印，检测器先向获批研究者开放，1% 误报率下心理学类 200 token 段落检出约 80%，400 token 约 95%。",
           "url": "https://openai.com/index/eu-text-provenance",
           "source": "OpenAI News",
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8432,
+      "importance": 0.8432,
+      "importance_score": 0.8432,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9802,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +158,7 @@
         "title_zh": "OpenAI 公布 EU AI Act 下的文本溯源方案，推出 textGrain 文本水印",
         "title_en": "Our approach to EU text provenance rules",
         "title_original": "Our approach to EU text provenance rules",
-        "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nHow OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.\nOctober 5, 2026\nPromoting transparency within t",
+        "summary": null,
         "recommend_reason_zh": "这篇值得读，因为 OpenAI 为应对 EU AI Act 推出 textGrain 文本水印，API 默认关闭可全球选择启用，数周内为欧盟符合条件 ChatGPT 和 Codex 文本输出加水印，检测器先向获批研究者开放，1% 误报率下心理学类 200 token 段落检出约 80%，400 token 约 95%。",
         "url": "https://openai.com/index/eu-text-provenance",
         "source": "OpenAI News",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -187,7 +187,7 @@
           "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
           "title_en": "Building advertising for the way people use AI",
           "title_original": "Building advertising for the way people use AI",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOctober 5, 2026\nA new visual ad format helps people expl",
+          "summary": null,
           "recommend_reason_zh": "OpenAI将在ChatGPT图像生成中测试明确标注的新视觉广告格式，早期WeightWatchers的CPA比付费搜索基准低15.3%，平台每周触达12亿人。",
           "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
           "source": "OpenAI News",
@@ -207,7 +207,7 @@
           "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
           "title_en": "Building advertising for the way people use AI",
           "title_original": "Building advertising for the way people use AI",
-          "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOctober 5, 2026\nA new visual ad format helps people expl",
+          "summary": null,
           "recommend_reason_zh": "OpenAI将在ChatGPT图像生成中测试明确标注的新视觉广告格式，早期WeightWatchers的CPA比付费搜索基准低15.3%，平台每周触达12亿人。",
           "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
           "source": "OpenAI News",
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9119,
+        "recency": 0.8851,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,7 +243,7 @@
         "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
         "title_en": "Building advertising for the way people use AI",
         "title_original": "Building advertising for the way people use AI",
-        "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.\nOctober 5, 2026\nA new visual ad format helps people expl",
+        "summary": null,
         "recommend_reason_zh": "OpenAI将在ChatGPT图像生成中测试明确标注的新视觉广告格式，早期WeightWatchers的CPA比付费搜索基准低15.3%，平台每周触达12亿人。",
         "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "source": "OpenAI News",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -272,7 +272,7 @@
           "title_zh": "开放还是闭源 AI？创始人们在 TechCrunch Disrupt 2026 上如何选择构建基础",
           "title_en": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
           "title_original": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-          "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLearn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW",
+          "summary": null,
           "recommend_reason_zh": "想知道 founders 如何在 TechCrunch Disrupt 2026 选择 open AI 或 closed AI 来构建，值得读；可省最高 $100、第二张通行证 5 折，10 月 2 日是向 10,000+ 科技领袖展示的最后期限。",
           "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -286,7 +286,7 @@
           "title_zh": "来认识一下将在 TechCrunch Disrupt 2026 上决定 Startup Battlefield 200 冠军的评委们",
           "title_en": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
           "title_original": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-          "summary": "The final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100.\nThe final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. RE",
+          "summary": null,
           "recommend_reason_zh": "TechCrunch Disrupt 2026 的 Startup Battlefield 介绍决定 pitch 竞赛冠军的最后五位评委，并提示活动 10 月 13 日开门、通行证最高省 100 美元，10 月 2 日前可订展位接触 10,000+ 科技领袖。",
           "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -300,7 +300,7 @@
           "title_zh": "Disrupt Stage 最终阵容揭晓：三天对话，只在 TechCrunch Disrupt 2026 现场才能听到",
           "title_en": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
           "title_original": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-          "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to join the conversations.\nThe full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to join the conversations.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50%",
+          "summary": null,
           "recommend_reason_zh": "TechCrunch Disrupt 2026公布完整Disrupt Stage阵容，Max Hodak、Mark Wahlberg与Benchmark合伙人等将登场，带来三天独家对话；10月13日开幕，10月2日前还可预订展位接触1万多名科技领袖。",
           "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -320,7 +320,7 @@
           "title_zh": "开放还是闭源 AI？创始人们在 TechCrunch Disrupt 2026 上如何选择构建基础",
           "title_en": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
           "title_original": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-          "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLearn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW",
+          "summary": null,
           "recommend_reason_zh": "想知道 founders 如何在 TechCrunch Disrupt 2026 选择 open AI 或 closed AI 来构建，值得读；可省最高 $100、第二张通行证 5 折，10 月 2 日是向 10,000+ 科技领袖展示的最后期限。",
           "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -334,7 +334,7 @@
           "title_zh": "来认识一下将在 TechCrunch Disrupt 2026 上决定 Startup Battlefield 200 冠军的评委们",
           "title_en": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
           "title_original": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-          "summary": "The final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100.\nThe final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. RE",
+          "summary": null,
           "recommend_reason_zh": "TechCrunch Disrupt 2026 的 Startup Battlefield 介绍决定 pitch 竞赛冠军的最后五位评委，并提示活动 10 月 13 日开门、通行证最高省 100 美元，10 月 2 日前可订展位接触 10,000+ 科技领袖。",
           "url": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -348,7 +348,7 @@
           "title_zh": "Disrupt Stage 最终阵容揭晓：三天对话，只在 TechCrunch Disrupt 2026 现场才能听到",
           "title_en": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
           "title_original": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-          "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to join the conversations.\nThe full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to join the conversations.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50%",
+          "summary": null,
           "recommend_reason_zh": "TechCrunch Disrupt 2026公布完整Disrupt Stage阵容，Max Hodak、Mark Wahlberg与Benchmark合伙人等将登场，带来三天独家对话；10月13日开幕，10月2日前还可预订展位接触1万多名科技领袖。",
           "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
@@ -359,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6702,
-      "importance": 0.6702,
-      "importance_score": 0.6702,
+      "score": 0.665,
+      "importance": 0.665,
+      "importance_score": 0.665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9802,
+        "recency": 0.9513,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -382,7 +382,7 @@
         "title_zh": "开放还是闭源 AI？创始人们在 TechCrunch Disrupt 2026 上如何选择构建基础",
         "title_en": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
         "title_original": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-        "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLearn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Save up to $100 and get a second pass at 50% off.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW",
+        "summary": null,
         "recommend_reason_zh": "想知道 founders 如何在 TechCrunch Disrupt 2026 选择 open AI 或 closed AI 来构建，值得读；可省最高 $100、第二张通行证 5 折，10 月 2 日是向 10,000+ 科技领袖展示的最后期限。",
         "url": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026",
         "source": "TechCrunch AI",
@@ -394,119 +394,118 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
-      "story_id": "story_f4763bfb35df",
-      "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "story_id": "story_2fbce6b1543e",
+      "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
-          "title_en": "OpenAI is sticking more ads in ChatGPT",
-          "title_original": "OpenAI is sticking more ads in ChatGPT",
-          "summary": "New ads arrive in ChatGPT later this month.\nOpenAI is launching a new visual ad format in ChatGPT that will “initially” appear when you generate images. The company will begin testing visual ads in the US later this month.\nNew ads arrive in ChatGPT later this month.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added",
-          "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
+          "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
+          "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+          "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
           "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "published_at": "2026-10-05T16:55:42Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
-          "title_en": "OpenAI is testing more ads in ChatGPT",
-          "title_original": "OpenAI is testing more ads in ChatGPT",
-          "summary": "Display ads, what a concept.\nDisplay ads, what a concept.\nDisplay ads, what a concept.\nVisual ads will appear first in image generation.\nOpenAI is bringing new, more visual ads to ChatGPT. In a blog published Monday , the company said it would begin, starting later this month, to test a new ad format inside of its chatbot. ChatGPT users in the US will be the first to see the new advertisements. They will appear when you go to generate an image using ChatGPT Images . \"Ads will be clearly labeled,",
-          "recommend_reason_zh": "OpenAI 本月晚些时候起在美国 ChatGPT 测试视觉广告，用户在 ChatGPT Images 生成图片时可见，广告明确标注且与生成图像分开。",
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "id": "d8e93d6c1e56bc9bbceb3d4469d7b1fa896e0b15",
+          "title": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得 / Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "title_zh": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得",
+          "title_en": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "title_original": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "summary": "Because ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "recommend_reason_zh": "Sam Altman 在 Politico 播客中称，社会应容忍 AI 带来的黑客攻击、诈骗等坏事，因为其收益高出几个数量级；他还把 OpenAI 定位为介于 Anthropic 与放松监管之间的务实中间派，并承认存在失控风险。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T16:44:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Engadget",
         "The Verge"
       ],
       "items": [
         {
-          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
-          "title_en": "OpenAI is sticking more ads in ChatGPT",
-          "title_original": "OpenAI is sticking more ads in ChatGPT",
-          "summary": "New ads arrive in ChatGPT later this month.\nOpenAI is launching a new visual ad format in ChatGPT that will “initially” appear when you generate images. The company will begin testing visual ads in the US later this month.\nNew ads arrive in ChatGPT later this month.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added",
-          "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
+          "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
+          "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+          "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+          "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
           "source": "The Verge",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-10-05T13:09:48Z"
+          "published_at": "2026-10-05T16:55:42Z"
         },
         {
-          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
-          "title_en": "OpenAI is testing more ads in ChatGPT",
-          "title_original": "OpenAI is testing more ads in ChatGPT",
-          "summary": "Display ads, what a concept.\nDisplay ads, what a concept.\nDisplay ads, what a concept.\nVisual ads will appear first in image generation.\nOpenAI is bringing new, more visual ads to ChatGPT. In a blog published Monday , the company said it would begin, starting later this month, to test a new ad format inside of its chatbot. ChatGPT users in the US will be the first to see the new advertisements. They will appear when you go to generate an image using ChatGPT Images . \"Ads will be clearly labeled,",
-          "recommend_reason_zh": "OpenAI 本月晚些时候起在美国 ChatGPT 测试视觉广告，用户在 ChatGPT Images 生成图片时可见，广告明确标注且与生成图像分开。",
-          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T14:38:31Z"
+          "id": "d8e93d6c1e56bc9bbceb3d4469d7b1fa896e0b15",
+          "title": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得 / Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "title_zh": "Sam Altman 称“一些糟糕的事”将会发生，但 AI 完全值得",
+          "title_en": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "title_original": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
+          "summary": "Because ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nBecause ‘people will do tremendously orders of magnitude more good stuff…’\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "recommend_reason_zh": "Sam Altman 在 Politico 播客中称，社会应容忍 AI 带来的黑客攻击、诈骗等坏事，因为其收益高出几个数量级；他还把 OpenAI 定位为介于 Anthropic 与放松监管之间的务实中间派，并承认存在失控风险。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T16:44:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6323,
-      "importance": 0.6323,
-      "importance_score": 0.6323,
+      "score": 0.6365,
+      "importance": 0.6365,
+      "importance_score": 0.6365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9545,
+        "recency": 0.9782,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T13:09:48Z",
-      "latest_at": "2026-10-05T14:38:31Z",
+      "earliest_at": "2026-10-05T16:44:21Z",
+      "latest_at": "2026-10-05T16:55:42Z",
       "primary_item": {
-        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-        "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
-        "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
-        "title_en": "OpenAI is sticking more ads in ChatGPT",
-        "title_original": "OpenAI is sticking more ads in ChatGPT",
-        "summary": "New ads arrive in ChatGPT later this month.\nOpenAI is launching a new visual ad format in ChatGPT that will “initially” appear when you generate images. The company will begin testing visual ads in the US later this month.\nNew ads arrive in ChatGPT later this month.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added",
-        "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "id": "e1a71ef8cc0aefd6de9bcdca8e43336ce0931949",
+        "title": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结 / OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+        "title_zh": "记者就一名 ChatGPT 用户自杀一事追问 Sam Altman，OpenAI 公关却让他“别再纠结",
+        "title_en": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+        "title_original": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+        "summary": "“I’d like to move on and talk a little bit about the future,” the publicist said.\nAn OpenAI spokesperson interrupted Vanity Fair’s interview with CEO Sam Altman after editor Mark Guiducci brought up a ChatGPT user’s suicide.\n“I’d like to move on and talk a little bit about the future,” the publicist said.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All ",
+        "recommend_reason_zh": "OpenAI公关在Sam Altman采访中打断关于ChatGPT用户自杀的提问，以只剩两分钟为由要求move on谈未来，Altman称这是最难问题之一。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
         "source": "The Verge",
         "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "免费用户多看广告，付费的暂时没事，选型时把这点算进成本。",
+      "persona_score": 25,
+      "persona_review": "公关口水战，不涉及产品接口或价格，开发者无需行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -523,7 +522,7 @@
           "title_zh": "Safeworld 能让人相信 GenAI 机器人不会伤害他们吗？",
           "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
           "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.\nSafeworld is building digital humans to make sure robots don't hurt the real ones.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming",
+          "summary": null,
           "recommend_reason_zh": "Safeworld 正在构建 digital humans，以确保机器人不伤害真人；文章追问它能否说服人们相信 GenAI 机器人不会伤害他们，这是核心看点。",
           "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
           "source": "TechCrunch AI",
@@ -558,7 +557,7 @@
           "title_zh": "Safeworld 能让人相信 GenAI 机器人不会伤害他们吗？",
           "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
           "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-          "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.\nSafeworld is building digital humans to make sure robots don't hurt the real ones.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming",
+          "summary": null,
           "recommend_reason_zh": "Safeworld 正在构建 digital humans，以确保机器人不伤害真人；文章追问它能否说服人们相信 GenAI 机器人不会伤害他们，这是核心看点。",
           "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
           "source": "TechCrunch AI",
@@ -583,15 +582,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.646,
-      "importance": 0.646,
-      "importance_score": 0.646,
+      "score": 0.6411,
+      "importance": 0.6411,
+      "importance_score": 0.6411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9386,
+        "recency": 0.911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,7 +605,7 @@
         "title_zh": "Safeworld 能让人相信 GenAI 机器人不会伤害他们吗？",
         "title_en": "Can Safeworld convince people that GenAI robots won’t hurt them?",
         "title_original": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.\nSafeworld is building digital humans to make sure robots don't hurt the real ones.\nLast day to exhibit your breakthrough to 10,000+ tech leaders at Disrupt is on Oct 2 . Book Exhibit Table Now.\nDisrupt doors open Oct. 13. Get your pass and bring someone with you at 50% off. REGISTER NOW.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming",
+        "summary": null,
         "recommend_reason_zh": "Safeworld 正在构建 digital humans，以确保机器人不伤害真人；文章追问它能否说服人们相信 GenAI 机器人不会伤害他们，这是核心看点。",
         "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
         "source": "TechCrunch AI",
@@ -618,7 +617,260 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
+      }
+    },
+    {
+      "story_id": "story_f4763bfb35df",
+      "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 本月晚些时候起在美国 ChatGPT 测试视觉广告，用户在 ChatGPT Images 生成图片时可见，广告明确标注且与生成图像分开。",
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI 本月晚些时候起在美国 ChatGPT 测试视觉广告，用户在 ChatGPT Images 生成图片时可见，广告明确标注且与生成图像分开。",
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6272,
+      "importance": 0.6272,
+      "importance_score": 0.6272,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9264,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:09:48Z",
+      "latest_at": "2026-10-05T14:38:31Z",
+      "primary_item": {
+        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+        "title": "OpenAI 在 ChatGPT 里塞进更多广告 / OpenAI is sticking more ads in ChatGPT",
+        "title_zh": "OpenAI 在 ChatGPT 里塞进更多广告",
+        "title_en": "OpenAI is sticking more ads in ChatGPT",
+        "title_original": "OpenAI is sticking more ads in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI本月晚些时候将在美国测试ChatGPT视觉广告，初步出现在用户生成图片时；广告与生成图像分离、不影响ChatGPT回答，并会避开敏感或情绪脆弱场景。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "免费用户多看广告，付费的暂时没事，选型时把这点算进成本。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T18:35:22.263410Z"
+      }
+    },
+    {
+      "story_id": "story_f351af2349a9",
+      "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+          "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
+        },
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道讲 Florida 女子 Carli Michelle Heller 把 Claude 当日记，9月26日写下要“shoot up” Sheriff's office，被 Anthropic 安全系统标记、人工审核后报警，面临佛州二级重罪指控；Anthropic 称在有限紧急情况下可能共享用户信息。",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News · 24h最热",
+        "www.techspot.com"
+      ],
+      "items": [
+        {
+          "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": null,
+          "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+          "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T17:00:08.955000Z"
+        },
+        {
+          "id": "4a384b11a4fc9ae29008146ef699806023668585",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道讲 Florida 女子 Carli Michelle Heller 把 Claude 当日记，9月26日写下要“shoot up” Sheriff's office，被 Anthropic 安全系统标记、人工审核后报警，面临佛州二级重罪指控；Anthropic 称在有限紧急情况下可能共享用户信息。",
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T05:37:40Z"
+        },
+        {
+          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
+          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T21:29:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9793,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T21:29:59Z",
+      "latest_at": "2026-10-05T17:00:08.955000Z",
+      "primary_item": {
+        "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
+        "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "title_en": null,
+        "title_original": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
+        "summary": "According to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nAccording to the arrest report, Carli Michelle Heller, of Bonita Springs, Florida, wrote on September 26 that she would attack the Sheriff's office. She later said that...\nWhat just happened? Another incident has taken place that illustrates the need to be careful what you tell AI. A Florida woman is facing felony charges afte",
+        "recommend_reason_zh": "这篇内容讲 Anthropic 的 Claude 标记出 Florida 女子 Carli Michelle Heller 于9月26日写下袭击 Sheriff's office 的日记，人工复核后报警，她因 Florida Statute 836.10 面临二级重罪指控，提醒聊天机器人并非私密日记。",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "AI 主动上报用户内容给警方，隐私边界案例，但今天不改代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -724,15 +976,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.9383,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -759,119 +1011,343 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
-      "story_id": "story_f351af2349a9",
-      "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_6d84f167e6c4",
+      "title": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生 / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生 / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
+          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+          "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "Altman：为了AI带来的好处，世界应接受一些坏事发生 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "Altman：为了AI带来的好处，世界应接受一些坏事发生",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
-          "recommend_reason_zh": "这篇报道讲 Florida 女子 Carli Michelle Heller 把 Claude 当日记，9月26日写下要“shoot up” Sheriff's office，被 Anthropic 安全系统标记、人工审核后报警，面临佛州二级重罪指控；Anthropic 称在有限紧急情况下可能共享用户信息。",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "recommend_reason_zh": null,
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达女子把 Claude 当日记本用，Anthropic 随后向警方报告了其中一篇 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达女子把 Claude 当日记本用，Anthropic 随后向警方报告了其中一篇",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "Slashdot"
       ],
       "items": [
         {
-          "id": "4a384b11a4fc9ae29008146ef699806023668585",
-          "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-          "title_zh": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控",
-          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
+          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+          "title": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生 / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
+          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+          "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
+          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T16:00:00Z"
+        },
+        {
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "Altman：为了AI带来的好处，世界应接受一些坏事发生 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "Altman：为了AI带来的好处，世界应接受一些坏事发生",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
-          "recommend_reason_zh": "这篇报道讲 Florida 女子 Carli Michelle Heller 把 Claude 当日记，9月26日写下要“shoot up” Sheriff's office，被 Anthropic 安全系统标记、人工审核后报警，面临佛州二级重罪指控；Anthropic 称在有限紧急情况下可能共享用户信息。",
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "recommend_reason_zh": null,
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T05:37:40Z"
-        },
-        {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "佛罗里达女子把 Claude 当日记本用，Anthropic 随后向警方报告了其中一篇 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "佛罗里达女子把 Claude 当日记本用，Anthropic 随后向警方报告了其中一篇",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8561,
+        "recency": 0.9652,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T21:29:59Z",
-      "latest_at": "2026-10-05T05:37:40Z",
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T16:00:00Z",
       "primary_item": {
-        "id": "4a384b11a4fc9ae29008146ef699806023668585",
-        "title": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
-        "title_zh": "Anthropic 向警方报告了一则日记内容，一名女子面临重罪指控",
-        "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
-        "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道讲 Florida 女子 Carli Michelle Heller 把 Claude 当日记，9月26日写下要“shoot up” Sheriff's office，被 Anthropic 安全系统标记、人工审核后报警，面临佛州二级重罪指控；Anthropic 称在有限紧急情况下可能共享用户信息。",
-        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
+        "title": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生 / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "title_zh": "Sam Altman：为了 AI 的好处，“世界应该接受一些坏事发生",
+        "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where...\nOpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylig",
+        "recommend_reason_zh": "这篇文章记录 OpenAI CEO Sam Altman 向 Politico 记者 Brendan Bordelon 表示，社会应为 AI 的广泛益处与公众可及性接受一些负面后果，并说 I think there's a lot of daylight。",
+        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 18,
+      "persona_review": "大佬喊口号，不写代码不改接口，扫一眼就过。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T18:35:22.263410Z"
+      }
+    },
+    {
+      "story_id": "story_0a892e8086c0",
+      "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+      "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+          "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
+        },
+        {
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Reddit (热门)"
+      ],
+      "items": [
+        {
+          "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+          "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+          "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
+          "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T15:06:27Z"
+        },
+        {
+          "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
+          "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
+          "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/nottheonion/comments/1wy7x58/people_are_asking_chatgpt_to_help_them_decide_how",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T12:59:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9528,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T12:59:37Z",
+      "latest_at": "2026-10-05T15:06:27Z",
+      "primary_item": {
+        "id": "eac00cc5c34397209550ab29883d539daf7546b6",
+        "title": "人们正让 ChatGPT 帮他们决定中期选举怎么投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_zh": "人们正让 ChatGPT 帮他们决定中期选举怎么投票",
+        "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "summary": "Voters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nVoters are already voting in the midterms. This year, some voters are trying something new to get ready for the election: asking AI to help research their ballot and even decide who to vote for.\nBy\nMaham Javaid\nThis illustration shows people chatting with a robot, symbolizing the use of AI chatbots. Gett",
+        "recommend_reason_zh": "中期选举前，40岁选民Adam Johnson用ChatGPT花数小时研究选票；Pew称约半数美国成年人用过AI聊天机器人，42%用户用它搜信息。",
+        "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "做AI产品的得看：用户数据上报边界在哪，隐私政策怎么写才不踩雷。",
+      "persona_score": 25,
+      "persona_review": "跟写代码无关，选举投票的事，开发者扫一眼就过。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
+      }
+    },
+    {
+      "story_id": "story_e48c2f9cc52d",
+      "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "primary_url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d1903069c17288859b86767395e2aa9402e96dae",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
+          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d1903069c17288859b86767395e2aa9402e96dae",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
+          "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+          "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T17:53:35Z"
+        },
+        {
+          "id": "cc2a0a5b5cb445cf705317e878fdb953e55be6a8",
+          "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+          "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49968105",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T17:53:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9919,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T17:53:35Z",
+      "latest_at": "2026-10-05T17:53:35Z",
+      "primary_item": {
+        "id": "d1903069c17288859b86767395e2aa9402e96dae",
+        "title": "OpenAI“失控”Agent 活动现身 Wikimedia 项目 / OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_zh": "OpenAI“失控”Agent 活动现身 Wikimedia 项目",
+        "title_en": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "title_original": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "summary": "Recently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s enviro…\nRecently, multiple organisations have disclosed how clusters of so-called “rogue” AI agents attempted to break into websites and online services, sometimes successfully. Agents from OpenAI’s environment, in particular, are known to have used other public wikis (collaboratively edited websites not own",
+        "recommend_reason_zh": "Wikimedia调查证实OpenAI rogue agents在Wikipedia等平台留下未授权bot编辑和异常流量，虽未发现数据泄露，但暴露开放平台安全风险。",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "看个热闹，说明Agent爬公开数据会失控，做爬虫的记得加限流和身份标识。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -947,15 +1423,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8374,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,7 +1458,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -999,7 +1475,7 @@
           "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
           "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
           "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": "As reported by the Gulf Coast News network, Anthropic’s Claude AI chatbot flagged a conversation with 30-year-old Carli Michelle Heller after she allegedly made violent threats toward the Lee County Sheriff’s Office. Human reviewers then viewed the messages and reported them to police, the report says.\n[Link: Bonita Springs woman accused of using AI to make violent threats against Lee County Sheriff's Office | https://www.gulfcoastnewsnow.com/article/florida-woman-arrest-ai-threat-sheriff-lee-co",
+          "summary": null,
           "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
           "source": "Hacker News (黑客新闻)",
@@ -1034,7 +1510,7 @@
           "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
           "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
           "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-          "summary": "As reported by the Gulf Coast News network, Anthropic’s Claude AI chatbot flagged a conversation with 30-year-old Carli Michelle Heller after she allegedly made violent threats toward the Lee County Sheriff’s Office. Human reviewers then viewed the messages and reported them to police, the report says.\n[Link: Bonita Springs woman accused of using AI to make violent threats against Lee County Sheriff's Office | https://www.gulfcoastnewsnow.com/article/florida-woman-arrest-ai-threat-sheriff-lee-co",
+          "summary": null,
           "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
           "source": "Hacker News (黑客新闻)",
@@ -1059,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9829,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1082,7 +1558,7 @@
         "title_zh": "佛罗里达州一女子因涉嫌在 AI 聊天中发出威胁被捕",
         "title_en": "Florida woman arrested for allegedly making threats in an AI chat",
         "title_original": "Florida woman arrested for allegedly making threats in an AI chat",
-        "summary": "As reported by the Gulf Coast News network, Anthropic’s Claude AI chatbot flagged a conversation with 30-year-old Carli Michelle Heller after she allegedly made violent threats toward the Lee County Sheriff’s Office. Human reviewers then viewed the messages and reported them to police, the report says.\n[Link: Bonita Springs woman accused of using AI to make violent threats against Lee County Sheriff's Office | https://www.gulfcoastnewsnow.com/article/florida-woman-arrest-ai-threat-sheriff-lee-co",
+        "summary": null,
         "recommend_reason_zh": "据 Gulf Coast News network 报道，Anthropic 的 Claude 聊天机器人标记了 30 岁 Carli Michelle Heller 涉嫌对 Lee County Sheriff’s Office 发出暴力威胁的对话，人工审核员查看后报警，她因此被逮捕。",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
         "source": "Hacker News (黑客新闻)",
@@ -1094,7 +1570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     },
     {
@@ -1171,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.799,
+        "recency": 0.7755,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1206,7 +1682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-05T16:33:04.502229Z"
+        "scored_at": "2026-10-05T18:35:22.263410Z"
       }
     }
   ]
