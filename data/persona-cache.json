@@ -1,78 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3a48419d9a0c|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "IBM 开源了 Agent 一致性评测工具，跑一遍就知道你的 Agent 是不是靠运气。",
-      "title_hash": "2d20b528",
-      "scored_at": "2026-09-15T17:37:09.538786Z"
-    },
-    "story_f627ffc73bd0|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "新模型上线先看API价格和限流，能调就今天试，别等评测。",
-      "title_hash": "ebc70c4a",
-      "scored_at": "2026-09-15T18:31:30.858845Z"
-    },
-    "story_e9723634bac0|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "老 CI 和 git 客户端可能连不上，先查 TLS 配置再升级。",
-      "title_hash": "2133909c",
-      "scored_at": "2026-09-15T17:37:11.367841Z"
-    },
-    "story_e1c18e045b84|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "公益叙事，没有可调用的API或工具，看完不改变今天写什么代码。",
-      "title_hash": "e56128b0",
-      "scored_at": "2026-09-15T17:37:12.348419Z"
-    },
-    "story_24b1574f3701|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "300 种语言覆盖听着大，但没提模型权重和 API 开放情况，先看能不能真调再说。",
-      "title_hash": "08eeb0cd",
-      "scored_at": "2026-09-15T17:37:13.208782Z"
-    },
-    "story_54562408732c|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "探访报道，看个热闹；Codex 内部怎么用没给可复制的方案。",
-      "title_hash": "77002425",
-      "scored_at": "2026-09-15T17:37:14.543000Z"
-    },
-    "story_800598bf50d8|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "谷歌的愿景软文，没有新模型、新API或开源代码，看完不改变今天任何一行代码。",
-      "title_hash": "4e010ad6",
-      "scored_at": "2026-09-15T17:37:15.541015Z"
-    },
-    "story_53a811285ee1|pragmatic|0a5c5b24": {
-      "score": 58,
-      "review": "视频生成新模型发布，但没提开放接口和价格，先观望。",
-      "title_hash": "096b3273",
-      "scored_at": "2026-09-15T17:37:16.223692Z"
-    },
-    "story_dfe32b66fa7e|pragmatic|0a5c5b24": {
-      "score": 22,
-      "review": "融资新闻，产品没变化，做AEO的可以留意赛道，其他人不用管。",
-      "title_hash": "9cd56087",
-      "scored_at": "2026-09-15T17:37:17.115106Z"
-    },
-    "story_f627ffc73bd0|cynic|f4237a62": {
-      "score": 68,
-      "review": "版本号从3跳到3.8，中间那0.8是营销部门贡献的吧？Extended Thinking听着像把思考时间当卖点。",
-      "title_hash": "ebc70c4a",
-      "scored_at": "2026-09-15T18:31:32.829076Z"
-    },
-    "story_f627ffc73bd0|paper-police|966065bf": {
-      "score": 38,
-      "review": "官方博客发布，仅此而已；无论文、无开源、无第三方评测，数字待验。",
-      "title_hash": "ebc70c4a",
-      "scored_at": "2026-09-15T18:31:33.921300Z"
-    },
-    "story_adaadf7c9767|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "面向小企业的模板和集成，做 SaaS 的可以抄工作流设计，纯开发者用处不大。",
-      "title_hash": "235416a8",
-      "scored_at": "2026-09-15T18:31:31.894048Z"
-    },
     "story_47bd15dd2064|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "Copilot 补全扩展到自定义属性定义，写配置少查文档，但得先升级插件。",
@@ -5844,6 +5772,60 @@
       "review": "官方博客讲用法，无论文无代码无第三方评测，只有产品宣称。",
       "title_hash": "431f9fc5",
       "scored_at": "2026-10-06T17:12:51.626211Z"
+    },
+    "story_c1863a515d19|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "开源可下载的轻量多模态嵌入模型，做检索和RAG的可以直接拉下来试。",
+      "title_hash": "39561f90",
+      "scored_at": "2026-10-06T20:34:43.825627Z"
+    },
+    "story_0366a3557ad7|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "判例提醒：别拿AI生成内容当证据交法庭，做合规和法务的记一笔。",
+      "title_hash": "20656816",
+      "scored_at": "2026-10-06T20:34:44.619527Z"
+    },
+    "story_17625524f250|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "OpenAI 官方放出的 computer use 新进展，做 Agent 操控界面的可以跟一下，但先看有没有开放接口。",
+      "title_hash": "8f86238b",
+      "scored_at": "2026-10-06T20:34:45.577733Z"
+    },
+    "story_499c135d2740|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "融资数字再大也不改API价格，等它真发新模型或降价再说。",
+      "title_hash": "c5588aec",
+      "scored_at": "2026-10-06T20:34:46.567087Z"
+    },
+    "story_5951f365282f|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Claude 进 Docs/Sheets/Slides，办公流里能直接调，beta 可申请就值得试。",
+      "title_hash": "e01c0b07",
+      "scored_at": "2026-10-06T20:34:47.566369Z"
+    },
+    "story_e5656e5cf8cb|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "开放协议方向对，但只有博客没 SDK 和实现，先收藏等能跑代码再说。",
+      "title_hash": "e9c53479",
+      "scored_at": "2026-10-06T20:34:48.513981Z"
+    },
+    "story_806d4d2fd204|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "不写 AI 也是卖点，但对你选型没影响，办公套件该用还用。",
+      "title_hash": "baf119a1",
+      "scored_at": "2026-10-06T20:34:49.596081Z"
+    },
+    "story_c1863a515d19|cynic|f4237a62": {
+      "score": 72,
+      "review": "开放权重和轻量是真，但多模态嵌入的评测基线挑得巧，跨模态检索的硬仗还没打。",
+      "title_hash": "39561f90",
+      "scored_at": "2026-10-06T20:34:50.453844Z"
+    },
+    "story_c1863a515d19|paper-police|966065bf": {
+      "score": 42,
+      "review": "官方博客宣称开放轻量，但无论文、无仓库、无 benchmark 链接，先补证据。",
+      "title_hash": "39561f90",
+      "scored_at": "2026-10-06T20:34:51.225697Z"
     }
   }
 }

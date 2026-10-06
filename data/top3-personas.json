@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:12:51.626270Z",
+  "generated_at": "2026-10-06T20:34:51.225795Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_c1863a515d19",
+      "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开放权重和轻量是真，但多模态嵌入的评测基线挑得巧，跨模态检索的硬仗还没打。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客宣称开放轻量，但无论文、无仓库、无 benchmark 链接，先补证据。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "开源可下载的轻量多模态嵌入模型，做检索和RAG的可以直接拉下来试。"
+        }
+      }
+    },
+    {
       "story_id": "story_45464a737294",
       "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
       "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -40,7 +60,7 @@
       "story_id": "story_19005dd16bea",
       "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
       "url": "https://mistral.ai/news/mistral-large-4",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 58,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "万亿参数还开放权重，等权重真放出来就能本地跑，现在先试预览版。"
-        }
-      }
-    },
-    {
-      "story_id": "story_0101f6369b65",
-      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
-      "url": "https://claude.dev/blog/claude-code-in-the-cloud",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "每任务独占 VM 是真隔离，但并行跑几个、账单翻几倍，指南里没算这笔账。"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "官方博客讲用法，无论文无代码无第三方评测，只有产品宣称。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "每任务独占 VM 并行跑，能省 CI 排队时间，值得试但要先算云成本。"
         }
       }
     }
