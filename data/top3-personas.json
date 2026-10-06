@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T03:34:37.912226Z",
+  "generated_at": "2026-10-06T07:40:27.206728Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_06387bb39276",
-      "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-      "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "501B总参数只激活23B，稀疏比够狠；但开放权重不等于开放配方，benchmark和成本还没影。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "开放权重不等于开源可复现，未见论文与第三方跑分，先等评测。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "501B开源权重、23B激活，编程Agent可本地部署，先看显存和推理框架支持。"
-        }
-      }
-    },
-    {
       "story_id": "story_b4c0a1b83afc",
       "title": "ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "评估 AI 代码审查的公开基准，选型或自研 review 工具时可拿来对比。"
+        }
+      }
+    },
+    {
+      "story_id": "story_6d96ce488e8a",
+      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
+      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "501B参数开源是真敢放，但\"美国开源模型\"这标签比模型本身还抢戏，编码榜单一律不晒。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "501B参数开源是亮点，但仅一篇RSS转述，无论文无benchmark，等仓库和跑分。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "501B 开源编码模型，权重能下就值得试；先看显存和推理成本再决定是否替换。"
         }
       }
     }

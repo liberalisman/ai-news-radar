@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_73b64bd34bf0|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "Siri 升级只对苹果生态开发者有用，做后端和跨平台的先观望。",
-      "title_hash": "d544e60e",
-      "scored_at": "2026-09-15T07:00:15.634484Z"
-    },
-    "story_78a102a840ba|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "语音对话榜换榜首，先看它延迟和价格再决定换不换。",
-      "title_hash": "693896aa",
-      "scored_at": "2026-09-15T07:00:16.884700Z"
-    },
-    "story_f468c617ea60|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "农业试点数据好看，但没开源模型也没API，开发者今天用不上。",
-      "title_hash": "9d537fca",
-      "scored_at": "2026-09-15T07:00:18.194370Z"
-    },
-    "story_c447b2fec530|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "桌面端还没发布，等能下载再评；现在换工具没意义。",
-      "title_hash": "b32e48c7",
-      "scored_at": "2026-09-15T07:00:19.608285Z"
-    },
-    "story_4d0ea0b44ad0|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "模拟经营跑分而已，不能当生产力指标，等真能替你写代码再激动。",
-      "title_hash": "c60d5a5e",
-      "scored_at": "2026-09-15T07:00:20.913601Z"
-    },
-    "story_37406052c7e8|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "收购摄像头公司，跟写代码的没关系，等它出硬件再说。",
-      "title_hash": "758c0ea2",
-      "scored_at": "2026-09-15T07:00:21.926117Z"
-    },
-    "story_e73a75567feb|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源可 clone，插拔记忆模块值得拆开看，长程任务选型多一个候选。",
-      "title_hash": "802452f2",
-      "scored_at": "2026-09-15T07:00:23.254860Z"
-    },
-    "story_1a3c8d9c8435|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "安全八卦，跟你的代码没关系，除非你在那三家上班。",
-      "title_hash": "52969c12",
-      "scored_at": "2026-09-15T07:00:24.513364Z"
-    },
-    "story_e73a75567feb|cynic|f4237a62": {
-      "score": 72,
-      "review": "开源权重是真，但\"对标顶尖闭源\"的榜单一换就露馅，插拔记忆的实测成本也没提。",
-      "title_hash": "802452f2",
-      "scored_at": "2026-09-15T07:00:25.733013Z"
-    },
-    "story_e73a75567feb|paper-police|966065bf": {
-      "score": 55,
-      "review": "开源是真，但报道未给论文与benchmark细节，长程任务对标闭源需实测。",
-      "title_hash": "802452f2",
-      "scored_at": "2026-09-15T07:00:26.937754Z"
-    },
     "story_6c028e31f14b|pragmatic|0a5c5b24": {
       "score": 82,
       "review": "五款音频模型直接上开放平台，做语音应用的今天就能调API试效果。",
@@ -5820,6 +5760,42 @@
       "review": "官方changelog有具体检测器清单，但无独立验证与复现细节，仅算有迹可循。",
       "title_hash": "926df9dd",
       "scored_at": "2026-10-06T01:05:00.802217Z"
+    },
+    "story_2f21e7c25d8c|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "阿联酋方言模型，做中东市场本地化才用得上，普通项目先收藏。",
+      "title_hash": "32726984",
+      "scored_at": "2026-10-06T07:40:21.199307Z"
+    },
+    "story_ddb0edeec9f2|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资到账也不改API价格，等模型或降价通知再说。",
+      "title_hash": "9677d170",
+      "scored_at": "2026-10-06T07:40:22.195802Z"
+    },
+    "story_e50a0152bcff|pragmatic|0a5c5b24": {
+      "score": 38,
+      "review": "算力长约是Anthropic自己的财务风险，跟你的选型、价格、API没直接关系，扫一眼即可。",
+      "title_hash": "dcbf2547",
+      "scored_at": "2026-10-06T07:40:23.290113Z"
+    },
+    "story_6d96ce488e8a|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "501B 开源编码模型，权重能下就值得试；先看显存和推理成本再决定是否替换。",
+      "title_hash": "88d8deb4",
+      "scored_at": "2026-10-06T07:40:24.486325Z"
+    },
+    "story_6d96ce488e8a|cynic|f4237a62": {
+      "score": 62,
+      "review": "501B参数开源是真敢放，但\"美国开源模型\"这标签比模型本身还抢戏，编码榜单一律不晒。",
+      "title_hash": "88d8deb4",
+      "scored_at": "2026-10-06T07:40:25.970911Z"
+    },
+    "story_6d96ce488e8a|paper-police|966065bf": {
+      "score": 45,
+      "review": "501B参数开源是亮点，但仅一篇RSS转述，无论文无benchmark，等仓库和跑分。",
+      "title_hash": "88d8deb4",
+      "scored_at": "2026-10-06T07:40:27.206675Z"
     }
   }
 }
