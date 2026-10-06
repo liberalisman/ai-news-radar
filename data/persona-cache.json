@@ -1,60 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6c028e31f14b|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "五款音频模型直接上开放平台，做语音应用的今天就能调API试效果。",
-      "title_hash": "49600516",
-      "scored_at": "2026-09-15T12:28:43.815856Z"
-    },
-    "story_37bd0d5d25f4|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "大佬喊减速是公关话术，你的模型和账单不会因此变，别管。",
-      "title_hash": "85e51f07",
-      "scored_at": "2026-09-15T12:28:45.228222Z"
-    },
-    "story_8aad15377fca|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "基准可信度被拆台，做AI修漏洞评测的该看看，别照抄1Password的指标。",
-      "title_hash": "033143aa",
-      "scored_at": "2026-09-15T12:28:46.464329Z"
-    },
-    "story_997717c36cc4|pragmatic|0a5c5b24": {
-      "score": 18,
-      "review": "又一封公开信，不改变任何 API 和价格，代码照写。",
-      "title_hash": "7483e322",
-      "scored_at": "2026-09-15T12:28:47.396557Z"
-    },
-    "story_f571d5a44852|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "大厂内部禁用外部AI属合规动作，普通开发者用不着跟，选型时留意数据出境条款即可。",
-      "title_hash": "fb9d4498",
-      "scored_at": "2026-09-15T12:28:48.304146Z"
-    },
-    "story_6c028e31f14b|cynic|f4237a62": {
-      "score": 55,
-      "review": "五款模型齐发像凑数，参数、延迟、价格一个没提，开放平台先开放数据吧。",
-      "title_hash": "49600516",
-      "scored_at": "2026-09-15T12:28:49.422854Z"
-    },
-    "story_6c028e31f14b|paper-police|966065bf": {
-      "score": 30,
-      "review": "只有上线公告，无论文、无开源、无第三方评测，五款模型拿什么证明？",
-      "title_hash": "49600516",
-      "scored_at": "2026-09-15T12:28:50.342561Z"
-    },
-    "story_b933e12f991b|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "经济影响研究报告，不产出工具或接口，扫一眼标题即可。",
-      "title_hash": "e55dac78",
-      "scored_at": "2026-09-15T13:53:26.850414Z"
-    },
-    "story_76c680c2d727|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "隐私争议而已，不改变任何接口或价格，开发者无需行动。",
-      "title_hash": "2adb3292",
-      "scored_at": "2026-09-15T13:53:27.800691Z"
-    },
     "story_3a48419d9a0c|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "IBM 开源了 Agent 一致性评测工具，跑一遍就知道你的 Agent 是不是靠运气。",
@@ -5802,6 +5748,54 @@
       "review": "官方changelog只讲功能开关状态，无评测数据无复现方法，等实测。",
       "title_hash": "52d7441c",
       "scored_at": "2026-10-06T10:59:47.655779Z"
+    },
+    "story_19005dd16bea|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "万亿参数还开放权重，等权重真放出来就能本地跑，现在先试预览版。",
+      "title_hash": "89dcdb39",
+      "scored_at": "2026-10-06T15:27:49.916713Z"
+    },
+    "story_34879e2db3e2|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "1T参数512K上下文已可公测调用，长文档和Agent任务今天就能试。",
+      "title_hash": "5bfaee81",
+      "scored_at": "2026-10-06T15:27:51.333827Z"
+    },
+    "story_4228e8093a67|pragmatic|0a5c5b24": {
+      "score": 32,
+      "review": "融资和IPO计划跟写代码没关系，等模型或API有变化再说。",
+      "title_hash": "40d7822d",
+      "scored_at": "2026-10-06T15:27:52.424058Z"
+    },
+    "story_cfaebaae0808|pragmatic|0a5c5b24": {
+      "score": 18,
+      "review": "CEO 薪酬八卦，跟你的代码和账单都没关系，划走。",
+      "title_hash": "7c603c8d",
+      "scored_at": "2026-10-06T15:27:53.487784Z"
+    },
+    "story_19005dd16bea|cynic|f4237a62": {
+      "score": 58,
+      "review": "万亿参数只给预览、权重说'将'开放，先看推理成本和许可证再吹。",
+      "title_hash": "89dcdb39",
+      "scored_at": "2026-10-06T15:27:54.688155Z"
+    },
+    "story_19005dd16bea|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方博客宣称万亿参数，无论文无开源无第三方评测，预览版先别当发布。",
+      "title_hash": "89dcdb39",
+      "scored_at": "2026-10-06T15:27:55.974333Z"
+    },
+    "story_34879e2db3e2|cynic|f4237a62": {
+      "score": 62,
+      "review": "1T参数配512K上下文听着唬人，但公测阶段没给推理成本和吞吐数据，先别急着喊Le Chonk。",
+      "title_hash": "5bfaee81",
+      "scored_at": "2026-10-06T15:27:57.130080Z"
+    },
+    "story_34879e2db3e2|paper-police|966065bf": {
+      "score": 22,
+      "review": "只有一条推文，无论文无代码无跑分，1T参数和512K上下文全凭自称。",
+      "title_hash": "5bfaee81",
+      "scored_at": "2026-10-06T15:27:58.655689Z"
     }
   }
 }
