@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:13:11.031306Z",
+  "generated_at": "2026-10-06T01:05:00.802324Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_45464a737294",
+      "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 78,
+          "review": "新增检测器是实打实的活，但'and more'四个字藏着多少家？列全了再吹。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "官方changelog有具体检测器清单，但无独立验证与复现细节，仅算有迹可循。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "用 Supabase 或 Lovable 的项目今天就能开扫，防密钥泄露直接生效。"
+        }
+      }
+    },
+    {
       "story_id": "story_06387bb39276",
       "title": "Reflection AI 发布 Beam：501B 开放权重 MoE 模型，23B 激活参数，面向编程与 Agent 工作负载 / Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
       "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -40,7 +60,7 @@
       "story_id": "story_b4c0a1b83afc",
       "title": "ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "评估 AI 代码审查的公开基准，选型或自研 review 工具时可拿来对比。"
-        }
-      }
-    },
-    {
-      "story_id": "story_443f271584c4",
-      "title": "Codex CLI 0.160.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "0.160.1 这种补丁号也值得单发一条，changelog 里多半是修 bug 和调参数。"
-        },
-        "paper-police": {
-          "score": 42,
-          "review": "官方 changelog 只列版本变更，无论文无 benchmark，复现无从谈起。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "小版本号更新，先看 changelog 有没有修你踩的坑再决定升不升。"
         }
       }
     }
