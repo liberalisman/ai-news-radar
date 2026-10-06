@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T20:34:51.225795Z",
+  "generated_at": "2026-10-06T22:01:22.760413Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -18,21 +18,41 @@
   "items": [
     {
       "story_id": "story_c1863a515d19",
-      "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "开放权重和轻量是真，但多模态嵌入的评测基线挑得巧，跨模态检索的硬仗还没打。"
+          "score": 78,
+          "review": "权重开源、尺寸克制，这次没吹'颠覆'；但多模态检索的评测基线挑得挺讲究，等第三方复现。"
         },
         "paper-police": {
-          "score": 42,
-          "review": "官方博客宣称开放轻量，但无论文、无仓库、无 benchmark 链接，先补证据。"
+          "score": 55,
+          "review": "官方博客宣称开源轻量，但无论文链接、无仓库地址、无MTEB跑分，先给个待验证分。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源可下载，轻量多模态嵌入直接能接检索/RAG，今天就能clone试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_79247d86835a",
+      "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "GitHub终于把GitLab玩剩的堆叠PR做进原生，迟到总比不到好，但别指望它解决rebase地狱。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "官方功能公告，无评测数据，但功能可直接在 GitHub 复现验证。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "开源可下载的轻量多模态嵌入模型，做检索和RAG的可以直接拉下来试。"
+          "review": "GitHub 原生支持堆叠 PR，大改动拆小合并终于不用第三方工具了。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_45464a737294",
       "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
       "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "用 Supabase 或 Lovable 的项目今天就能开扫，防密钥泄露直接生效。"
-        }
-      }
-    },
-    {
-      "story_id": "story_19005dd16bea",
-      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "万亿参数只给预览、权重说'将'开放，先看推理成本和许可证再吹。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称万亿参数，无论文无开源无第三方评测，预览版先别当发布。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "万亿参数还开放权重，等权重真放出来就能本地跑，现在先试预览版。"
         }
       }
     }

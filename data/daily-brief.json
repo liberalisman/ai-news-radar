@@ -1,11 +1,96 @@
 {
-  "generated_at": "2026-10-06T20:19:35.573263Z",
+  "generated_at": "2026-10-06T21:53:51.258618Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_79247d86835a",
+      "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
+          "title_zh": "堆叠式拉取请求正式可用",
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…\nGitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together.\nSince the feature went into public preview , repositories using stacks have seen a 9% increase in merged code compared to peers.",
+          "recommend_reason_zh": "GitHub stacked pull requests 正式可用，可将大改动拆成小 PR 独立审查合并；预览期使用 stacks 的仓库合并代码量比同类高 9%，前 1% 仓库超三分之二采用，合并时间改善 5%。",
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
+          "title_zh": "堆叠式拉取请求正式可用",
+          "title_en": "Stacked pull requests generally available",
+          "title_original": "Stacked pull requests generally available",
+          "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…\nGitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together.\nSince the feature went into public preview , repositories using stacks have seen a 9% increase in merged code compared to peers.",
+          "recommend_reason_zh": "GitHub stacked pull requests 正式可用，可将大改动拆成小 PR 独立审查合并；预览期使用 stacks 的仓库合并代码量比同类高 9%，前 1% 仓库超三分之二采用，合并时间改善 5%。",
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9769,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
+        "title_zh": "堆叠式拉取请求正式可用",
+        "title_en": "Stacked pull requests generally available",
+        "title_original": "Stacked pull requests generally available",
+        "summary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…\nGitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together.\nSince the feature went into public preview , repositories using stacks have seen a 9% increase in merged code compared to peers.",
+        "recommend_reason_zh": "GitHub stacked pull requests 正式可用，可将大改动拆成小 PR 独立审查合并；预览期使用 stacks 的仓库合并代码量比同类高 9%，前 1% 仓库超三分之二采用，合并时间改善 5%。",
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "GitHub 原生支持堆叠 PR，大改动拆小合并终于不用第三方工具了。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-06T22:01:14.959655Z"
+      }
+    },
+    {
       "story_id": "story_c1863a515d19",
-      "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
       "source": "Google DeepMind",
@@ -13,11 +98,11 @@
       "sources": [
         {
           "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
           "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
           "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nOct 06, 2026\nEmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.\nSa",
+          "summary": null,
           "recommend_reason_zh": "EmbeddingGemma 2是740M参数、Apache 2.0许可的开源多模态嵌入模型，把文本、图像、音频、视频映射到统一空间，可支持端侧隐私检索。",
           "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
           "source": "Google DeepMind",
@@ -33,11 +118,11 @@
       "items": [
         {
           "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "title_zh": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
           "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
           "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nOct 06, 2026\nEmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.\nSa",
+          "summary": null,
           "recommend_reason_zh": "EmbeddingGemma 2是740M参数、Apache 2.0许可的开源多模态嵌入模型，把文本、图像、音频、视频映射到统一空间，可支持端侧隐私检索。",
           "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
           "source": "Google DeepMind",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9946,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,23 +154,23 @@
       "latest_at": "2026-10-06T19:57:04Z",
       "primary_item": {
         "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-        "title": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "title_zh": "EmbeddingGemma 2：一个开放、轻量的多模态嵌入模型",
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "title_zh": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
         "title_en": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
         "title_original": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nIntroducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases\nOct 06, 2026\nEmbeddingGemma 2 is the most capable model for on-device multimodal embeddings, natively mapping combinations of text, images, audio, and video into a unified embedding space.\nSa",
+        "summary": null,
         "recommend_reason_zh": "EmbeddingGemma 2是740M参数、Apache 2.0许可的开源多模态嵌入模型，把文本、图像、音频、视频映射到统一空间，可支持端侧隐私检索。",
         "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "开源可下载的轻量多模态嵌入模型，做检索和RAG的可以直接拉下来试。",
+      "persona_score": 88,
+      "persona_review": "开源可下载，轻量多模态嵌入直接能接检索/RAG，今天就能clone试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9394,
+        "recency": 0.9184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8219,
+        "recency": 0.8035,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,92 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8664,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": null,
-        "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "GitHub 安全面板能看 AI 扫描开关状态，团队排查漏配时省事，但功能本身没变。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,7 +424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -441,7 +441,7 @@
           "title_zh": "用 Ironclad 推进计算机使用",
           "title_en": "Advancing computer use with Ironclad",
           "title_original": "Advancing computer use with Ironclad",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nOctober 6, 2026\nHow a research collaboration in contract",
+          "summary": null,
           "recommend_reason_zh": "OpenAI与Ironclad用11项合同任务训练评估AI agent，GPT-6 Astra平均分比GPT-5.6 Sol高32%、每次尝试耗时低48%，值得读。",
           "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
           "source": "OpenAI News",
@@ -461,7 +461,7 @@
           "title_zh": "用 Ironclad 推进计算机使用",
           "title_en": "Advancing computer use with Ironclad",
           "title_original": "Advancing computer use with Ironclad",
-          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nOctober 6, 2026\nHow a research collaboration in contract",
+          "summary": null,
           "recommend_reason_zh": "OpenAI与Ironclad用11项合同任务训练评估AI agent，GPT-6 Astra平均分比GPT-5.6 Sol高32%、每次尝试耗时低48%，值得读。",
           "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
           "source": "OpenAI News",
@@ -472,15 +472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8615,
+        "recency": 0.8421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,7 +497,7 @@
         "title_zh": "用 Ironclad 推进计算机使用",
         "title_en": "Advancing computer use with Ironclad",
         "title_original": "Advancing computer use with Ironclad",
-        "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nLearn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.\nOctober 6, 2026\nHow a research collaboration in contract",
+        "summary": null,
         "recommend_reason_zh": "OpenAI与Ironclad用11项合同任务训练评估AI agent，GPT-6 Astra平均分比GPT-5.6 Sol高32%、每次尝试耗时低48%，值得读。",
         "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
         "source": "OpenAI News",
@@ -509,91 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
-      }
-    },
-    {
-      "story_id": "story_499c135d2740",
-      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-      "url": "https://x.com/thexpin/status/2107524306058289533",
-      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
-      "source": "X：X.PIN (@thexpin)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-          "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：X.PIN (@thexpin)"
-      ],
-      "items": [
-        {
-          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-          "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
-          "url": "https://x.com/thexpin/status/2107524306058289533",
-          "source": "X：X.PIN (@thexpin)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T17:32:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9605,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T17:32:05Z",
-      "latest_at": "2026-10-06T17:32:05Z",
-      "primary_item": {
-        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
-        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
-        "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
-        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
-        "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
-        "url": "https://x.com/thexpin/status/2107524306058289533",
-        "source": "X：X.PIN (@thexpin)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "融资数字再大也不改API价格，等它真发新模型或降价再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -670,15 +586,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -707,7 +623,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
+      }
+    },
+    {
+      "story_id": "story_499c135d2740",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+      "url": "https://x.com/thexpin/status/2107524306058289533",
+      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9389,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:32:05Z",
+      "latest_at": "2026-10-06T17:32:05Z",
+      "primary_item": {
+        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+        "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+        "recommend_reason_zh": "这篇报道值得读：据Bloomberg报道，DeepSeek融资至少800亿元（120亿美元），高于原目标约500亿元，Tencent和CATL为最大投资方之一。",
+        "url": "https://x.com/thexpin/status/2107524306058289533",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "融资数字再大也不改API价格，等它真发新模型或降价再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-06T22:01:14.959655Z"
+      }
+    },
+    {
+      "story_id": "story_ae3c4f5c0420",
+      "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
+          "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
+          "summary": null,
+          "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
+        "title_zh": "在安全概览中启用代码扫描 AI Scan 的状态",
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
+        "summary": null,
+        "recommend_reason_zh": "这篇更新说明 GitHub 组织与企业管理员现可在 security overview 覆盖视图查看 AI Scan for pull requests 启用状态，code scanning 摘要显示已启用和未启用仓库数，仓库行显示各仓库有效状态，CSV 导出新增含 enabled/not-enabled 值的列。",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "GitHub 安全面板能看 AI 扫描开关状态，团队排查漏配时省事，但功能本身没变。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -755,15 +840,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8867,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -791,92 +876,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
-      "story_id": "story_45464a737294",
-      "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_8250f00047d3",
+      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+      "url": "https://x.com/arcprize/status/2107491194007585239",
+      "primary_url": "https://x.com/arcprize/status/2107491194007585239",
+      "source": "X：ARC Prize (@arcprize)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
+          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+          "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
+          "url": "https://x.com/arcprize/status/2107491194007585239",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T15:20:30Z"
+        },
+        {
+          "id": "4c48ada346804705f3c7c9b0fab50fb6bb4e8b74",
+          "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+          "title_zh": null,
+          "title_en": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+          "title_original": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
           "summary": null,
-          "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261006/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-06T20:50:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Techmeme",
+        "X：ARC Prize (@arcprize)"
+      ],
+      "items": [
+        {
+          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
+          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+          "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
+          "url": "https://x.com/arcprize/status/2107491194007585239",
+          "source": "X：ARC Prize (@arcprize)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T15:20:30Z"
+        },
+        {
+          "id": "4c48ada346804705f3c7c9b0fab50fb6bb4e8b74",
+          "title": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+          "title_zh": null,
+          "title_en": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+          "title_original": "Artificial Analysis says Mistral Large 4 is the most intelligent model from outside the US and China, achieving results comparable to DeepSeek V4.1 Flash (max) (Artificial Analysis)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techmeme.com/261006/p38",
+          "source": "Techmeme",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-06T20:50:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9097,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T15:20:30Z",
+      "latest_at": "2026-10-06T20:50:00Z",
+      "primary_item": {
+        "id": "ada926462a325cd9fc30810db5f960c8b658e641",
+        "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+        "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
+        "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+        "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
+        "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
+        "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
+        "url": "https://x.com/arcprize/status/2107491194007585239",
+        "source": "X：ARC Prize (@arcprize)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "又一个跑分，没开放权重也没 API 细节，先记着别急着换模型。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-06T22:01:14.959655Z"
+      }
+    },
+    {
+      "story_id": "story_d8dfa4809dc9",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "recommend_reason_zh": "GitHub 在持续运行中重建 Git 基础设施以支撑 agent-scale 开发，文中以 August 2026 最忙 repository 约十亿次请求、月度 Git 事件从 218.2 billion 增至 473.3 billion、September 单月 7.38 billion commits 等数据，剖析 Spokes 五副本和三阶段 commit 带来的写扩展难题。",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+          "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "title_en": "Building Git infrastructure for agent-scale development",
+          "title_original": "Building Git infrastructure for agent-scale development",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+          "recommend_reason_zh": "GitHub 在持续运行中重建 Git 基础设施以支撑 agent-scale 开发，文中以 August 2026 最忙 repository 约十亿次请求、月度 Git 事件从 218.2 billion 增至 473.3 billion、September 单月 7.38 billion commits 等数据，剖析 Spokes 五副本和三阶段 commit 带来的写扩展难题。",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T20:57:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
-      "importance_label": "官方更新",
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7318,
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9866,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
+      "earliest_at": "2026-10-06T20:57:56Z",
+      "latest_at": "2026-10-06T20:57:56Z",
       "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": null,
-        "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发 / Building Git infrastructure for agent-scale development",
+        "title_zh": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "title_en": "Building Git infrastructure for agent-scale development",
+        "title_original": "Building Git infrastructure for agent-scale development",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+        "recommend_reason_zh": "GitHub 在持续运行中重建 Git 基础设施以支撑 agent-scale 开发，文中以 August 2026 最忙 repository 约十亿次请求、月度 Git 事件从 218.2 billion 增至 473.3 billion、September 单月 7.38 billion commits 等数据，剖析 Spokes 五副本和三阶段 commit 带来的写扩展难题。",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "用 Supabase 或 Lovable 的项目今天就能开扫，防密钥泄露直接生效。",
+      "persona_score": 55,
+      "persona_review": "GitHub 自己改后端，你暂时不用动；等 clone 变快或 API 有变再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -924,21 +1122,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.9323,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T17:02:37Z",
       "latest_at": "2026-10-06T17:02:37Z",
@@ -960,7 +1157,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -1037,22 +1234,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T00:18:00Z",
       "latest_at": "2026-10-06T02:31:56Z",
@@ -1074,7 +1270,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -1122,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.8928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,7 +1353,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -1205,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.7924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,90 +1436,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
-      "story_id": "story_8250f00047d3",
-      "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-      "url": "https://x.com/arcprize/status/2107491194007585239",
-      "primary_url": "https://x.com/arcprize/status/2107491194007585239",
-      "source": "X：ARC Prize (@arcprize)",
+      "story_id": "story_3b79fbfc648a",
+      "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+      "url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "primary_url": "https://x.com/thsottiaux/status/2107573405553938664",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "recommend_reason_zh": "ChatGPT 上线 Meetings 插件，能自动记录会议纪要并跟进待办；原文提到只需和同事畅所欲言，把上下文交给 codex 就能把后续工作全部完成。",
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
+          "published_at": "2026-10-06T20:47:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：ARC Prize (@arcprize)"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-          "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-          "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-          "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-          "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
-          "url": "https://x.com/arcprize/status/2107491194007585239",
-          "source": "X：ARC Prize (@arcprize)",
+          "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+          "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "title_en": null,
+          "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+          "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+          "recommend_reason_zh": "ChatGPT 上线 Meetings 插件，能自动记录会议纪要并跟进待办；原文提到只需和同事畅所欲言，把上下文交给 codex 就能把后续工作全部完成。",
+          "url": "https://x.com/thsottiaux/status/2107573405553938664",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T15:20:30Z"
+          "published_at": "2026-10-06T20:47:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-06T15:20:30Z",
-      "latest_at": "2026-10-06T15:20:30Z",
+      "earliest_at": "2026-10-06T20:47:11Z",
+      "latest_at": "2026-10-06T20:47:11Z",
       "primary_item": {
-        "id": "ada926462a325cd9fc30810db5f960c8b658e641",
-        "title": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布 / DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_zh": "DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 评测中的成绩公布",
-        "title_en": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "title_original": "DeepSeek V4.1 Flash from @deepseek_ai on ARC-AGI (Verified):",
-        "summary": "ARC Prize 公布 DeepSeek V4.1 Flash 在 ARC-AGI (Verified) 的成绩：ARC-AGI-2 得分 72.9%，每任务成本 $0.13；ARC-AGI-1 得分 94.5%，每任务成本 $0.07。相比 V4 Flash 的最佳成绩，ARC-AGI-1 高 5.5 分，ARC-AGI-2 高 11.5 分，但每任务成本高约 250%。",
-        "recommend_reason_zh": "DeepSeek V4.1 Flash在ARC-AGI-1/2得94.5%和72.9%，比V4 Flash最佳高5.5和11.5分，但每任务成本增约250%。",
-        "url": "https://x.com/arcprize/status/2107491194007585239",
-        "source": "X：ARC Prize (@arcprize)",
+        "id": "34f5a2c579a2aeddf9076bb44a4228bb413a056d",
+        "title": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_zh": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "title_en": null,
+        "title_original": "ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办",
+        "summary": "ChatGPT 发布 Meetings 插件，可替用户记会议笔记，并基于 ChatGPT 对用户和既往工作的了解，在 ChatGPT Space 保存个性化摘要和后续步骤。笔记可私密保存或与团队共享，还能让 ChatGPT 更新项目计划或起草跟进内容。目前以 beta 形式面向 Pro 和 Business 用户开放，可在 macOS 桌面应用的插件目录搜索 Meetings 使用，Enterprise 版即将推出。作者 Tibo 补充称，可放心畅谈并将积累的上下文载入 codex 来完成任务。",
+        "recommend_reason_zh": "ChatGPT 上线 Meetings 插件，能自动记录会议纪要并跟进待办；原文提到只需和同事畅所欲言，把上下文交给 codex 就能把后续工作全部完成。",
+        "url": "https://x.com/thsottiaux/status/2107573405553938664",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "又一个跑分，没开放权重也没 API 细节，先记着别急着换模型。",
+      "persona_score": 72,
+      "persona_review": "会议纪要自动化能省时间，但先看它支不支持中文和你的会议平台。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7154,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "密钥扫描新增对 Lovable、Supabase 等的检测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "密钥扫描新增对 Lovable、Supabase 等的检测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": null,
+        "recommend_reason_zh": "Secret scanning 新增对 Lovable Labs、Pydantic Services Inc. 和 Supabase 的 secret 类型检测，合作伙伴 secret 在公开仓库被发现时 GitHub 会转发以便吊销或轮换，用户 secret 则在公开或私有仓库生成警报。",
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "用 Supabase 或 Lovable 的项目今天就能开扫，防密钥泄露直接生效。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -1371,15 +1652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9605,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,7 +1687,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     },
     {
@@ -1512,15 +1793,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6878,
-      "importance": 0.6878,
-      "importance_score": 0.6878,
+      "score": 0.684,
+      "importance": 0.684,
+      "importance_score": 0.684,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9394,
+        "recency": 0.9184,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1548,342 +1829,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
-      }
-    },
-    {
-      "story_id": "story_4228e8093a67",
-      "title": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO / CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-      "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo",
-      "primary_url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "91dbd5ed4a7cd4de73bc26fa9dd62e9b1cfa8e1b",
-          "title": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO / CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "title_zh": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO",
-          "title_en": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "title_original": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道披露 Deepseek 接近完成至少 120 亿美元融资，CATL 和 Tencent 认投最大份额，原目标约 75 亿美元、总额或近 150 亿美元，其 V4-Flash 模型对标 Anthropic 和 OpenAI，并计划 2027 年初 IPO、建 16 万枚 Huawei AI 芯片数据中心。",
-          "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T10:50:18Z"
-        },
-        {
-          "id": "cbaec7d0b1929398e39189fcd98d91226dabd974",
-          "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "title_zh": null,
-          "title_en": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "title_original": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261006/p2",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-06T05:40:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Techmeme",
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "91dbd5ed4a7cd4de73bc26fa9dd62e9b1cfa8e1b",
-          "title": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO / CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "title_zh": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO",
-          "title_en": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "title_original": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道披露 Deepseek 接近完成至少 120 亿美元融资，CATL 和 Tencent 认投最大份额，原目标约 75 亿美元、总额或近 150 亿美元，其 V4-Flash 模型对标 Anthropic 和 OpenAI，并计划 2027 年初 IPO、建 16 万枚 Huawei AI 芯片数据中心。",
-          "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T10:50:18Z"
-        },
-        {
-          "id": "cbaec7d0b1929398e39189fcd98d91226dabd974",
-          "title": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "title_zh": null,
-          "title_en": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "title_original": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with Tencent and CATL as the biggest contributors, ahead of an early-2027 IPO (Bloomberg)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261006/p2",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-06T05:40:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6382,
-      "importance": 0.6382,
-      "importance_score": 0.6382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.872,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T05:40:01Z",
-      "latest_at": "2026-10-06T10:50:18Z",
-      "primary_item": {
-        "id": "91dbd5ed4a7cd4de73bc26fa9dd62e9b1cfa8e1b",
-        "title": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO / CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-        "title_zh": "CATL 和 Tencent 参投 Deepseek 规模激增的融资轮，这家 AI 初创公司正瞄准 2027 年 IPO",
-        "title_en": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-        "title_original": "CATL and Tencent back Deepseek's ballooning funding round as the AI startup eyes a 2027 IPO",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道披露 Deepseek 接近完成至少 120 亿美元融资，CATL 和 Tencent 认投最大份额，原目标约 75 亿美元、总额或近 150 亿美元，其 V4-Flash 模型对标 Anthropic 和 OpenAI，并计划 2027 年初 IPO、建 16 万枚 Huawei AI 芯片数据中心。",
-        "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "融资和IPO计划跟写代码没关系，等模型或API有变化再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
-      }
-    },
-    {
-      "story_id": "story_806d4d2fd204",
-      "title": "LibreOffice 称“no AI”如今已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“no AI”如今已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "title_zh": "LibreOffice 称“no AI”如今已成为一项软件功能",
-          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": "开源文档编辑器 LibreOffice 的开发商表示，出于用户隐私考虑，不打算在软件的默认配置中加入 AI，并由此把「no AI」本身当作一项软件特性来看待。",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无 AI”如今已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "title_zh": "LibreOffice 称“无 AI”如今已成为一项软件功能",
-          "title_en": "LibreOffice says 'no AI' is now a software feature",
-          "title_original": "LibreOffice says 'no AI' is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“no AI”如今已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "title_zh": "LibreOffice 称“no AI”如今已成为一项软件功能",
-          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": "开源文档编辑器 LibreOffice 的开发商表示，出于用户隐私考虑，不打算在软件的默认配置中加入 AI，并由此把「no AI」本身当作一项软件特性来看待。",
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无 AI”如今已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "title_zh": "LibreOffice 称“无 AI”如今已成为一项软件功能",
-          "title_en": "LibreOffice says 'no AI' is now a software feature",
-          "title_original": "LibreOffice says 'no AI' is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6364,
-      "importance": 0.6364,
-      "importance_score": 0.6364,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.9316,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T15:25:00Z",
-      "latest_at": "2026-10-06T16:40:58Z",
-      "primary_item": {
-        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-        "title": "LibreOffice 称“no AI”如今已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-        "title_zh": "LibreOffice 称“no AI”如今已成为一项软件功能",
-        "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-        "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-        "summary": null,
-        "recommend_reason_zh": "开源文档编辑器 LibreOffice 的开发商表示，出于用户隐私考虑，不打算在软件的默认配置中加入 AI，并由此把「no AI」本身当作一项软件特性来看待。",
-        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "不写 AI 也是卖点，但对你选型没影响，办公套件该用还用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
-      }
-    },
-    {
-      "story_id": "story_a886b790c2de",
-      "title": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority 发现 Gemini Calling 介绍屏，示例有告诉妈妈会迟到 15 分钟，Google 或将其用于亲友通话，并提供权限设置选择是否接收自动来电。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini Call for Me 可能会打电话告诉你妈你要迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini Call for Me 可能会打电话告诉你妈你要迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority在APK拆解中发现Gemini Calling介绍页，示例包括Call Mom and tell her I will be 15 minutes late，Google可能把Call for Me从商家电话扩展到亲友自动通话，并新增细粒度权限允许用户拒接。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority 发现 Gemini Calling 介绍屏，示例有告诉妈妈会迟到 15 分钟，Google 或将其用于亲友通话，并提供权限设置选择是否接收自动来电。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini Call for Me 可能会打电话告诉你妈你要迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini Call for Me 可能会打电话告诉你妈你要迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority在APK拆解中发现Gemini Calling介绍页，示例包括Call Mom and tell her I will be 15 minutes late，Google可能把Call for Me从商家电话扩展到亲友自动通话，并新增细粒度权限允许用户拒接。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5806,
-      "importance": 0.5806,
-      "importance_score": 0.5806,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7367,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T23:09:55Z",
-      "latest_at": "2026-10-05T23:09:55Z",
-      "primary_item": {
-        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-        "title": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_zh": "Gemini Call for Me 或许能替你打电话告诉妈妈你要迟到了",
-        "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "summary": null,
-        "recommend_reason_zh": "Android Authority 发现 Gemini Calling 介绍屏，示例有告诉妈妈会迟到 15 分钟，Google 或将其用于亲友通话，并提供权限设置选择是否接收自动来电。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "AI 代打电话功能，目前还是传闻，等真开放 API 再考虑集成。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-06T20:34:42.694426Z"
+        "scored_at": "2026-10-06T22:01:14.959655Z"
       }
     }
   ]

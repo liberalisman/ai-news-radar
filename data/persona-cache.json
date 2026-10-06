@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_47bd15dd2064|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Copilot 补全扩展到自定义属性定义，写配置少查文档，但得先升级插件。",
-      "title_hash": "70e7bb79",
-      "scored_at": "2026-09-15T20:43:22.307599Z"
-    },
-    "story_9d2155aa5b6f|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "企业仓库管理员得注意，安全策略可强制下发，合规团队会先找上门。",
-      "title_hash": "b48990ad",
-      "scored_at": "2026-09-15T20:43:23.270872Z"
-    },
-    "story_1f03fd5fd50a|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "自研替代省一亿是他们的账，你既拿不到代码也抄不了架构，知道就行。",
-      "title_hash": "4027d337",
-      "scored_at": "2026-09-15T21:34:28.596287Z"
-    },
     "story_357c98674764|pragmatic|0a5c5b24": {
       "score": 62,
       "review": "榜单换榜首而已，模型没开放就跟你无关，等能调 API 再看。",
@@ -5774,10 +5756,10 @@
       "scored_at": "2026-10-06T17:12:51.626211Z"
     },
     "story_c1863a515d19|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源可下载的轻量多模态嵌入模型，做检索和RAG的可以直接拉下来试。",
-      "title_hash": "39561f90",
-      "scored_at": "2026-10-06T20:34:43.825627Z"
+      "score": 88,
+      "review": "开源可下载，轻量多模态嵌入直接能接检索/RAG，今天就能clone试。",
+      "title_hash": "e5cb94f8",
+      "scored_at": "2026-10-06T22:01:16.800710Z"
     },
     "story_0366a3557ad7|pragmatic|0a5c5b24": {
       "score": 42,
@@ -5816,16 +5798,46 @@
       "scored_at": "2026-10-06T20:34:49.596081Z"
     },
     "story_c1863a515d19|cynic|f4237a62": {
-      "score": 72,
-      "review": "开放权重和轻量是真，但多模态嵌入的评测基线挑得巧，跨模态检索的硬仗还没打。",
-      "title_hash": "39561f90",
-      "scored_at": "2026-10-06T20:34:50.453844Z"
+      "score": 78,
+      "review": "权重开源、尺寸克制，这次没吹'颠覆'；但多模态检索的评测基线挑得挺讲究，等第三方复现。",
+      "title_hash": "e5cb94f8",
+      "scored_at": "2026-10-06T22:01:19.944936Z"
     },
     "story_c1863a515d19|paper-police|966065bf": {
-      "score": 42,
-      "review": "官方博客宣称开放轻量，但无论文、无仓库、无 benchmark 链接，先补证据。",
-      "title_hash": "39561f90",
-      "scored_at": "2026-10-06T20:34:51.225697Z"
+      "score": 55,
+      "review": "官方博客宣称开源轻量，但无论文链接、无仓库地址、无MTEB跑分，先给个待验证分。",
+      "title_hash": "e5cb94f8",
+      "scored_at": "2026-10-06T22:01:20.790111Z"
+    },
+    "story_79247d86835a|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "GitHub 原生支持堆叠 PR，大改动拆小合并终于不用第三方工具了。",
+      "title_hash": "c51e7978",
+      "scored_at": "2026-10-06T22:01:15.911324Z"
+    },
+    "story_d8dfa4809dc9|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "GitHub 自己改后端，你暂时不用动；等 clone 变快或 API 有变再说。",
+      "title_hash": "09a8154f",
+      "scored_at": "2026-10-06T22:01:17.972104Z"
+    },
+    "story_3b79fbfc648a|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "会议纪要自动化能省时间，但先看它支不支持中文和你的会议平台。",
+      "title_hash": "b5744e26",
+      "scored_at": "2026-10-06T22:01:19.011400Z"
+    },
+    "story_79247d86835a|cynic|f4237a62": {
+      "score": 72,
+      "review": "GitHub终于把GitLab玩剩的堆叠PR做进原生，迟到总比不到好，但别指望它解决rebase地狱。",
+      "title_hash": "c51e7978",
+      "scored_at": "2026-10-06T22:01:22.041633Z"
+    },
+    "story_79247d86835a|paper-police|966065bf": {
+      "score": 55,
+      "review": "官方功能公告，无评测数据，但功能可直接在 GitHub 复现验证。",
+      "title_hash": "c51e7978",
+      "scored_at": "2026-10-06T22:01:22.760318Z"
     }
   }
 }
