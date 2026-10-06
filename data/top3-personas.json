@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:40:27.206728Z",
+  "generated_at": "2026-10-06T10:59:47.655851Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_ae3c4f5c0420",
+      "title": "在安全概览中启用代码扫描 AI Scan 的状态 / Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "给安全概览加个开关状态显示，实用但也就是个仪表盘补丁，别拿AI当卖点。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方changelog只讲功能开关状态，无评测数据无复现方法，等实测。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "GitHub 安全面板能看 AI 扫描开关状态，团队排查漏配时省事，但功能本身没变。"
+        }
+      }
+    },
+    {
       "story_id": "story_b4c0a1b83afc",
       "title": "ReviewBench：面向 AI 代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "评估 AI 代码审查的公开基准，选型或自研 review 工具时可拿来对比。"
-        }
-      }
-    },
-    {
-      "story_id": "story_6d96ce488e8a",
-      "title": "Reflection 发布 501B-A23B 开源编码模型 Beam / [AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "501B参数开源是真敢放，但\"美国开源模型\"这标签比模型本身还抢戏，编码榜单一律不晒。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "501B参数开源是亮点，但仅一篇RSS转述，无论文无benchmark，等仓库和跑分。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "501B 开源编码模型，权重能下就值得试；先看显存和推理成本再决定是否替换。"
         }
       }
     }
