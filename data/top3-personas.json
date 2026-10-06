@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T15:27:58.655741Z",
+  "generated_at": "2026-10-06T17:12:51.626270Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_34879e2db3e2",
-      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
-      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "story_id": "story_0101f6369b65",
+      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾 / Claude Code in the cloud: a field guide to cloud sessions",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "1T参数配512K上下文听着唬人，但公测阶段没给推理成本和吞吐数据，先别急着喊Le Chonk。"
+          "score": 72,
+          "review": "每任务独占 VM 是真隔离，但并行跑几个、账单翻几倍，指南里没算这笔账。"
         },
         "paper-police": {
-          "score": 22,
-          "review": "只有一条推文，无论文无代码无跑分，1T参数和512K上下文全凭自称。"
+          "score": 38,
+          "review": "官方博客讲用法，无论文无代码无第三方评测，只有产品宣称。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "1T参数512K上下文已可公测调用，长文档和Agent任务今天就能试。"
+          "review": "每任务独占 VM 并行跑，能省 CI 排队时间，值得试但要先算云成本。"
         }
       }
     }
