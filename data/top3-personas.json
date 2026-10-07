@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:52:37.892401Z",
+  "generated_at": "2026-10-07T07:23:50.930881Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_982e172f4543",
+      "title": "Google 新图像模型 Nano Banana 2.1 生图更好、价格更低 / Google's new image model Nano Banana 2.1 generates better images for less money",
+      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "更好更便宜，就是不说好多少、便宜几成，价格表呢？"
+        },
+        "paper-police": {
+          "score": 38,
+          "review": "只有媒体报道转述，无论文、无代码、无公开评测，价格与画质提升均无法复现。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "生图质量涨、单价降，做图生图应用的今天就能换模型省成本。"
+        }
+      }
+    },
+    {
       "story_id": "story_79247d86835a",
       "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
       "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "GitHub 原生支持堆叠 PR，大改动拆小合并终于不用第三方工具了。"
-        }
-      }
-    },
-    {
-      "story_id": "story_19005dd16bea",
-      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 58,
-          "review": "万亿参数只给预览、权重说'将'开放，先看推理成本和许可证再吹。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称万亿参数，无论文无开源无第三方评测，预览版先别当发布。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "万亿参数还开放权重，等权重真放出来就能本地跑，现在先试预览版。"
         }
       }
     }
