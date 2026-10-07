@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:43:40.627961Z",
+  "generated_at": "2026-10-07T20:51:32.649796Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_c1863a515d19",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "story_id": "story_6557dda4a6cd",
+      "title": "OpenAI 向全部 ChatGPT 用户推出 GPT-6 与 Intelligent UI / GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 78,
-          "review": "权重开源、尺寸克制，这次没吹'颠覆'；但多模态检索的评测基线挑得挺讲究，等第三方复现。"
-        },
-        "paper-police": {
           "score": 55,
-          "review": "官方博客宣称开源轻量，但无论文链接、无仓库地址、无MTEB跑分，先给个待验证分。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源可下载，轻量多模态嵌入直接能接检索/RAG，今天就能clone试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_982e172f4543",
-      "title": "Google 新图像模型 Nano Banana 2.1 生图更好、价格更低 / Google's new image model Nano Banana 2.1 generates better images for less money",
-      "url": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "更好更便宜，就是不说好多少、便宜几成，价格表呢？"
+          "review": "版本号从5跳到6，评测基准和定价却只字未提，先让子弹飞一会儿。"
         },
         "paper-police": {
           "score": 38,
-          "review": "只有媒体报道转述，无论文、无代码、无公开评测，价格与画质提升均无法复现。"
+          "review": "官方博客发布，无论文无代码无第三方评测，性能宣称无法复现。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "生图质量涨、单价降，做图生图应用的今天就能换模型省成本。"
+          "score": 92,
+          "review": "GPT-6 全量开放，今天就能上手试，接口和 UI 变化得赶紧摸一遍。"
         }
       }
     },
     {
-      "story_id": "story_79247d86835a",
-      "title": "堆叠式拉取请求正式可用 / Stacked pull requests generally available",
-      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "story_id": "story_357ee4e00f26",
+      "title": "Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "版本号补丁级更新，却塞进新模型还修一堆bug，这迭代节奏像在赶KPI。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "GitHub release 可查，但 Haiku 5.5 缺论文与独立评测，先跑分再吹。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "Claude Code 用户直接升级，新 Haiku 5.5 更快更省，顺手修了一堆坑。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b9d295c686cc",
+      "title": "GitHub Copilot 本地沙盒功能正式可用 / Local sandboxing for GitHub Copilot now generally available",
+      "url": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "GitHub终于把GitLab玩剩的堆叠PR做进原生，迟到总比不到好，但别指望它解决rebase地狱。"
+          "review": "沙盒是真需求，但GA公告连隔离机制和逃逸测试都没提，先信一半。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方功能公告，无评测数据，但功能可直接在 GitHub 复现验证。"
+          "score": 42,
+          "review": "官方changelog宣布GA，但无独立评测与复现细节，仅算有迹可循。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "GitHub 原生支持堆叠 PR，大改动拆小合并终于不用第三方工具了。"
+          "score": 88,
+          "review": "Copilot 跑代码不再直连你本机，今天就能开，安全边界终于补上了。"
         }
       }
     }
