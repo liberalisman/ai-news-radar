@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-10-07T07:13:55.145725Z",
+  "generated_at": "2026-10-07T09:16:09.051018Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_9e4b08095253",
-      "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-          "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
-          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
-          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T23:43:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8972,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T23:43:00Z",
-      "latest_at": "2026-10-06T23:43:00Z",
-      "primary_item": {
-        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
-        "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
-        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
-        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
-        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Copilot 用户升级 IDE 才能恢复 Agent 活动统计，否则报表缺数据。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
-      }
-    },
     {
       "story_id": "story_11f226560af5",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
@@ -162,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7575,
+        "recency": 0.7355,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +115,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
+      }
+    },
+    {
+      "story_id": "story_9e4b08095253",
+      "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
+          "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8711,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:43:00Z",
+      "latest_at": "2026-10-06T23:43:00Z",
+      "primary_item": {
+        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+        "title": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_zh": "更新你的 IDE 以恢复 Copilot 使用指标中的 Agent 活动",
+        "title_en": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "title_original": "Update your IDE to restore agent activity in Copilot usage metrics",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 发现 Copilot usage 增长但 agent activity 下降，因部分 IDE 把 agent sessions 迁到 Copilot SDK 后未标识来源，指标漏算或记成 Copilot CLI；Visual Studio Code 已修复，其他 IDE 预计 2026 年 11 月前跟上，开发者应尽快更新，否则活动无法找回。",
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Copilot 用户升级 IDE 才能恢复 Agent 活动统计，否则报表缺数据。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8497,
+        "recency": 0.825,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -333,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8537,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,30 +370,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
-      "story_id": "story_dbe192624685",
-      "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "story_id": "story_d4a8437d985e",
+      "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "primary_url": "https://openai.com/index/jump-trading",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
           "summary": null,
-          "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
-          "url": "https://openai.com/index/atlassian-partnership",
+          "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
+          "url": "https://openai.com/index/jump-trading",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
+          "published_at": "2026-10-06T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -402,31 +402,31 @@
       ],
       "items": [
         {
-          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-          "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
-          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+          "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
+          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
           "summary": null,
-          "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
-          "url": "https://openai.com/index/atlassian-partnership",
+          "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
+          "url": "https://openai.com/index/jump-trading",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T16:00:00Z"
+          "published_at": "2026-10-06T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8026,
+        "ai_relevance": 0.95,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,27 +435,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T16:00:00Z",
-      "latest_at": "2026-10-06T16:00:00Z",
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
       "primary_item": {
-        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
-        "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
-        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+        "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
+        "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
+        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
         "summary": null,
-        "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
-        "url": "https://openai.com/index/atlassian-partnership",
+        "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
+        "url": "https://openai.com/index/jump-trading",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "合作官宣，没新接口没定价，等 Jira/Confluence 里真能调再说。",
+      "persona_score": 42,
+      "persona_review": "大厂用 ChatGPT 的案例软文，没给工具没给接口，看完也抄不了。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -503,15 +503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8434,
+        "recency": 0.8189,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,7 +539,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7733,
+        "recency": 0.7509,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -653,7 +653,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -701,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8205,
+        "recency": 0.7967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -737,30 +737,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
-      "story_id": "story_d4a8437d985e",
-      "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "primary_url": "https://openai.com/index/jump-trading",
+      "story_id": "story_dbe192624685",
+      "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
           "summary": null,
-          "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
-          "url": "https://openai.com/index/jump-trading",
+          "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
+          "url": "https://openai.com/index/atlassian-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -769,31 +769,31 @@
       ],
       "items": [
         {
-          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-          "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-          "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
-          "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-          "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
           "summary": null,
-          "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
-          "url": "https://openai.com/index/jump-trading",
+          "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
+          "url": "https://openai.com/index/atlassian-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T12:00:00Z"
+          "published_at": "2026-10-06T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7575,
+        "ai_relevance": 0.91,
+        "recency": 0.7793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -802,27 +802,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-06T12:00:00Z",
-      "latest_at": "2026-10-06T12:00:00Z",
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
       "primary_item": {
-        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
-        "title": "Jump Trading 如何用 ChatGPT 扩大量化研究规模 / How Jump Trading is scaling quant research with ChatGPT",
-        "title_zh": "Jump Trading 如何用 ChatGPT 扩大量化研究规模",
-        "title_en": "How Jump Trading is scaling quant research with ChatGPT",
-        "title_original": "How Jump Trading is scaling quant research with ChatGPT",
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_zh": "Atlassian 与 OpenAI 扩大合作，将企业知识转化为行动",
+        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
         "summary": null,
-        "recommend_reason_zh": "Jump Trading 用 GPT‑6 Astra 让代理运行数天、整合多源数据并递归改进，在受监管金融中需人类审核，预测仅略胜抛硬币在规模化后即可成功。",
-        "url": "https://openai.com/index/jump-trading",
+        "recommend_reason_zh": "Atlassian与OpenAI扩大合作，把GPT-6家族模型接入Rovo，结合Teamwork Graph连接人、项目、文档与决策；超3000名开发者已用Codex。",
+        "url": "https://openai.com/index/atlassian-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "大厂用 ChatGPT 的案例软文，没给工具没给接口，看完也抄不了。",
+      "persona_score": 45,
+      "persona_review": "合作官宣，没新接口没定价，等 Jira/Confluence 里真能调再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -870,15 +870,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7575,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -906,7 +906,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -954,21 +954,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9581,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-07T06:18:23Z",
       "latest_at": "2026-10-07T06:18:23Z",
@@ -990,7 +989,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1067,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.7719,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1103,7 +1102,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1151,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7401,
+        "recency": 0.7187,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1188,7 +1187,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1236,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8147,
+        "recency": 0.7911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,7 +1270,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1319,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1354,7 +1353,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1402,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1437,7 +1436,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1485,15 +1484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7359,
+        "recency": 0.7146,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1522,7 +1521,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1628,15 +1627,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6632,
-      "importance": 0.6632,
-      "importance_score": 0.6632,
+      "score": 0.659,
+      "importance": 0.659,
+      "importance_score": 0.659,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8026,
+        "recency": 0.7793,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1664,7 +1663,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1741,15 +1740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6207,
-      "importance": 0.6207,
-      "importance_score": 0.6207,
+      "score": 0.6163,
+      "importance": 0.6163,
+      "importance_score": 0.6163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8441,
+        "recency": 0.8196,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1776,7 +1775,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     },
     {
@@ -1853,15 +1852,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6276,
-      "importance": 0.6276,
-      "importance_score": 0.6276,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8824,
+        "recency": 0.8568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1888,7 +1887,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-10-07T07:23:45.814444Z"
+        "scored_at": "2026-10-07T09:23:40.542122Z"
       }
     }
   ]
