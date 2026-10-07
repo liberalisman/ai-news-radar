@@ -1,60 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3087c6c0f872|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "2027年才投运的算力储备，跟今天写代码没关系，知道 Anthropic 在扩产就够了。",
-      "title_hash": "9e43956a",
-      "scored_at": "2026-09-16T11:43:56.540107Z"
-    },
-    "story_f90f376fdee8|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "手机端侧模型，开发者暂时摸不到，等开放API或SDK再说。",
-      "title_hash": "2b9be27e",
-      "scored_at": "2026-09-16T11:43:57.794489Z"
-    },
-    "story_85ca850a8a98|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "手机端智能体落地值得看，但开发者今天拿不到接口，先观望。",
-      "title_hash": "d92587dc",
-      "scored_at": "2026-09-16T11:43:58.957914Z"
-    },
-    "story_c040e7b4b4c9|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "先看具体是哪些集成和 API 变化，能省自建胶水代码就值得试。",
-      "title_hash": "6bbdeb08",
-      "scored_at": "2026-09-16T11:43:59.837327Z"
-    },
-    "story_13603bf46f67|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "爬虫策略终于能分开配了，站长今天就能去后台勾一下，不用再二选一。",
-      "title_hash": "fd212152",
-      "scored_at": "2026-09-16T11:44:01.274921Z"
-    },
-    "story_13603bf46f67|cynic|f4237a62": {
-      "score": 72,
-      "review": "robots.txt 分不出爬虫是来索引还是来喂模型的，这开关更像给站长一个心理安慰。",
-      "title_hash": "fd212152",
-      "scored_at": "2026-09-16T11:44:02.302045Z"
-    },
-    "story_13603bf46f67|paper-police|966065bf": {
-      "score": 42,
-      "review": "功能上线可查，但无技术文档与实测数据，区分效果待验证。",
-      "title_hash": "fd212152",
-      "scored_at": "2026-09-16T11:44:03.257718Z"
-    },
-    "story_648056bc9799|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "AI模型跑游戏模拟器，噱头大于实用，跟日常开发没关系。",
-      "title_hash": "6edd7062",
-      "scored_at": "2026-09-16T12:31:51.808624Z"
-    },
-    "story_23661cfadd84|pragmatic|0a5c5b24": {
-      "score": 18,
-      "review": "会议预告，没有可用的工具或方案，等有回放再说。",
-      "title_hash": "4a4db896",
-      "scored_at": "2026-09-16T12:31:52.696307Z"
-    },
     "story_2b45947d7367|pragmatic|0a5c5b24": {
       "score": 62,
       "review": "广告位进 ChatGPT，做电商和 HubSpot 集成的可以盯测试资格，其他人先观望。",
@@ -5666,10 +5612,10 @@
       "scored_at": "2026-10-06T17:12:48.557024Z"
     },
     "story_ce783e742a30|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "开源TPU仓库可clone，但离能替代现有推理硬件还远，先收藏观望。",
-      "title_hash": "fe9d302c",
-      "scored_at": "2026-10-06T17:12:49.575067Z"
+      "score": 62,
+      "review": "开源TPU项目可clone，但离能替代商用硬件还远，先收藏观望。",
+      "title_hash": "1a787cc1",
+      "scored_at": "2026-10-07T14:43:38.429485Z"
     },
     "story_0101f6369b65|cynic|f4237a62": {
       "score": 72,
@@ -5814,6 +5760,54 @@
       "review": "只有媒体报道转述，无论文、无代码、无公开评测，价格与画质提升均无法复现。",
       "title_hash": "63adc2d6",
       "scored_at": "2026-10-07T07:23:50.930744Z"
+    },
+    "story_856527284047|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "NVIDIA 放出微调配方和权重，想复现竞赛级推理的可以直接抄。",
+      "title_hash": "cc66a046",
+      "scored_at": "2026-10-07T14:43:31.597060Z"
+    },
+    "story_3d2baa621386|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "Google 的实验性游戏平台，跟日常开发交付关系不大，等开放 API 再说。",
+      "title_hash": "f2a3a371",
+      "scored_at": "2026-10-07T14:43:32.919160Z"
+    },
+    "story_b297de01ee31|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "iOS 客户端小版本更新，没提新 API 或模型，开发者不用管。",
+      "title_hash": "5ec9367a",
+      "scored_at": "2026-10-07T14:43:33.830501Z"
+    },
+    "story_e1332c8f3158|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "内部模型做数学题，没开放权重也没API，看完继续写你的代码。",
+      "title_hash": "ad5a2046",
+      "scored_at": "2026-10-07T14:43:34.815205Z"
+    },
+    "story_77612876f6aa|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "选址和并网周期变长，做基建部署的得把电力排期算进项目表。",
+      "title_hash": "c9620b07",
+      "scored_at": "2026-10-07T14:43:36.083093Z"
+    },
+    "story_f3d431105038|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "会议演讲预告，没产品没接口，等 Dots 真开放了再看。",
+      "title_hash": "437a3bc0",
+      "scored_at": "2026-10-07T14:43:37.414334Z"
+    },
+    "story_174ae4583e10|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "监管放行不等于产品可用，做医疗AI的知道风向即可，其他人不用动。",
+      "title_hash": "dd43aa5b",
+      "scored_at": "2026-10-07T14:43:39.631240Z"
+    },
+    "story_405812cab170|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "Rust 写的开源邮件客户端，Linux 桌面党可以 clone 来试，但 AI 功能没细节，别急着换主力。",
+      "title_hash": "00970a4f",
+      "scored_at": "2026-10-07T14:43:40.627848Z"
     }
   }
 }
