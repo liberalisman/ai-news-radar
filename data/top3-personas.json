@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:37:46.797020Z",
+  "generated_at": "2026-10-08T22:41:40.098129Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_c143ae14b214",
+      "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "103美元训7个小模型，账目和代码都摆出来了，比那些只发PPT的强，就是规模小得别当突破吹。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "官方博客有成本与流程细节，但无论文无独立复现，只能算有迹可循。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "103美元训7个小模型的完整流程可抄，想自己微调的值得读一遍。"
+        }
+      }
+    },
+    {
       "story_id": "story_9d420c28c726",
       "title": "Artificial Analysis 评测 Google Nano Banana 2.1，两榜居第 4 且价格为前代一半 / Google's Nano Banana 2.1 takes #4 on both AA-Image-T2I v2.0 and AA-Image-Editing v2.0, at half the price of Nano Banana 2",
       "url": "https://x.com/ArtificialAnlys/status/2108236656700768310",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "图像生成/编辑双榜第4，价格砍半，做图流水线的可以直接换模型省成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_4c6f4f6c7de5",
-      "title": "Google 开源 ML Drift 端侧 GPU 推理引擎，接替 TFLite GPU delegate / ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-      "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "接替 TFLite delegate 是真事，但博文没给延迟和功耗对比，先别急着喊下一代。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方博客宣布开源，仓库链接待核实，缺论文和第三方跑分。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "TFLite GPU delegate 的正式接班人，端侧项目该评估迁移了，先看兼容性。"
         }
       }
     }
