@@ -1,150 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_58ddcdd75710|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "GitHub Actions 的 ubuntu-26 runner 上线，CI 镜像该换就换，先测依赖兼容性。",
-      "title_hash": "ab5cd68c",
-      "scored_at": "2026-09-17T17:38:04.097528Z"
-    },
-    "story_1bd0a7425a3c|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "播客聊方向，没代码没接口，通勤听听就行，别指望今天能改工作流。",
-      "title_hash": "a14f6cc6",
-      "scored_at": "2026-09-17T17:38:04.823187Z"
-    },
-    "story_636869304a68|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全框架和未发布模型的八卦，跟今天写代码没关系，知道有这回事就行。",
-      "title_hash": "3ce80158",
-      "scored_at": "2026-09-17T17:38:05.655080Z"
-    },
-    "story_586a819dc00b|pragmatic|0a5c5b24": {
-      "score": 58,
-      "review": "思路有用但没开源工具，等能接进训练流程再说。",
-      "title_hash": "acc171f3",
-      "scored_at": "2026-09-17T17:38:06.610241Z"
-    },
-    "story_b945fc9782d5|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "Docker 镜像加 GUI，本地微调门槛又降一截，想跑私有模型的可以直接拉镜像试。",
-      "title_hash": "a9c0ecb9",
-      "scored_at": "2026-09-17T17:38:07.381778Z"
-    },
-    "story_3c5c1b335e8b|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "数据中心选址和电网调度，跟写代码的今天没关系，等它出 API 再说。",
-      "title_hash": "f10a36ca",
-      "scored_at": "2026-09-17T17:38:08.337219Z"
-    },
-    "story_52a7858a1b06|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "产品整合方向值得知道，但没开放接口和价格细节，暂时不用动手。",
-      "title_hash": "d10bbec8",
-      "scored_at": "2026-09-17T17:38:09.127397Z"
-    },
-    "story_cc5f915f293b|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "音频插件开发者可关注，但普通工程师用不上，等有实际工具再动手。",
-      "title_hash": "46f117c3",
-      "scored_at": "2026-09-17T17:38:09.850922Z"
-    },
-    "story_58ddcdd75710|cynic|f4237a62": {
-      "score": 72,
-      "review": "GitHub 跑来说 Ubuntu 26 发布，迁移指南倒是实在，就是别又拿 LTS 当小白鼠。",
-      "title_hash": "ab5cd68c",
-      "scored_at": "2026-09-17T17:38:10.926611Z"
-    },
-    "story_58ddcdd75710|paper-police|966065bf": {
-      "score": 55,
-      "review": "官方发布公告可查，但无性能评测数据，迁移指南也未见复现步骤。",
-      "title_hash": "ab5cd68c",
-      "scored_at": "2026-09-17T17:38:11.986233Z"
-    },
-    "story_b945fc9782d5|cynic|f4237a62": {
-      "score": 62,
-      "review": "500+模型听着唬人，Docker镜像加GUI算实在活，但训练速度提升多少、显存省几成，一个字没提。",
-      "title_hash": "a9c0ecb9",
-      "scored_at": "2026-09-17T17:38:13.029755Z"
-    },
-    "story_b945fc9782d5|paper-police|966065bf": {
-      "score": 38,
-      "review": "只有推文宣称支持500+模型，无benchmark、无复现步骤，等GitHub实测。",
-      "title_hash": "a9c0ecb9",
-      "scored_at": "2026-09-17T17:38:13.973856Z"
-    },
-    "story_4bc3dd239911|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "全模态+Agent方向，若API已开放就值得试；先看定价和音视频输入限制。",
-      "title_hash": "9dc35acf",
-      "scored_at": "2026-09-17T18:30:35.072751Z"
-    },
-    "story_e8d939d02589|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Claude Code 项目从文件夹变多线程对话，重度用户可试，但先别急着迁移现有工作流。",
-      "title_hash": "ad97fc14",
-      "scored_at": "2026-09-17T18:30:35.785534Z"
-    },
-    "story_4bc3dd239911|cynic|f4237a62": {
-      "score": 62,
-      "review": "全模态是真，但\"Flash\"后缀通常意味着能力打折，官方博客只给演示不给延迟和成本，先观望。",
-      "title_hash": "9dc35acf",
-      "scored_at": "2026-09-17T18:30:36.811587Z"
-    },
-    "story_4bc3dd239911|paper-police|966065bf": {
-      "score": 38,
-      "review": "官方博客宣称能力，无论文、无开源、无第三方评测，音视频智能体交付待验证。",
-      "title_hash": "9dc35acf",
-      "scored_at": "2026-09-17T18:30:37.704032Z"
-    },
-    "story_ae721db060a3|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "数据平台是给政策研究者的，开发者暂时用不上，等有API再说。",
-      "title_hash": "2ed0a2bd",
-      "scored_at": "2026-09-17T20:51:48.007682Z"
-    },
-    "story_0bfddc45ef34|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "法律垂类模型，非法律行业开发者基本用不上，等API开放再说。",
-      "title_hash": "6b3a221b",
-      "scored_at": "2026-09-17T20:51:49.140788Z"
-    },
-    "story_0d185eb61afd|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "指标再漂亮也不改你今天的代码，等它变成可复现的 benchmark 再说。",
-      "title_hash": "a6175700",
-      "scored_at": "2026-09-17T20:51:50.208903Z"
-    },
-    "story_ab92e74332cb|pragmatic|0a5c5b24": {
-      "score": 32,
-      "review": "版权官司的口水料，不改变你今天怎么写代码，等判决影响数据授权再说。",
-      "title_hash": "33de7449",
-      "scored_at": "2026-09-17T20:51:51.051093Z"
-    },
-    "story_d56b523d3dff|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "大佬隔空喊话，不改变任何 API 和价格，今天该写代码继续写。",
-      "title_hash": "6572464c",
-      "scored_at": "2026-09-17T20:51:51.952819Z"
-    },
-    "story_8e56c52e2093|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "代码全开源，做生物计算或科学ML的可以直接clone，4倍提速能省不少算力。",
-      "title_hash": "454a3b1d",
-      "scored_at": "2026-09-17T20:51:52.932874Z"
-    },
-    "story_8d4c470a656c|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "地缘政治数据八卦，不影响你今天的选型和采购。",
-      "title_hash": "24fbd1fa",
-      "scored_at": "2026-09-17T20:51:53.899110Z"
-    },
-    "story_2897bb8167ad|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "安全研究有意思，但没补丁没接口，今天写代码用不上。",
-      "title_hash": "ee38cda4",
-      "scored_at": "2026-09-17T21:32:16.295080Z"
-    },
     "story_6171d00caa9b|pragmatic|0a5c5b24": {
       "score": 62,
       "review": "给管理者看用量报表的功能，写代码的用不上，团队要交ROI报告时可以点开。",
@@ -5754,6 +5610,96 @@
       "review": "官方推文只报价格，无技术报告、无评测数据，降价幅度无法独立核验。",
       "title_hash": "fbaa8a9e",
       "scored_at": "2026-10-08T17:15:56.016721Z"
+    },
+    "story_f913596b9697|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "大厂用AI提效的案例宣传，没给工具没给数据，看完学不到能抄的做法。",
+      "title_hash": "15bca409",
+      "scored_at": "2026-10-08T21:37:34.084799Z"
+    },
+    "story_02d66470e18a|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "PR 归档权限下放，仓库清理方便点，但日常开发基本无感。",
+      "title_hash": "9bc4d984",
+      "scored_at": "2026-10-08T21:37:34.763123Z"
+    },
+    "story_d783a04fd0f6|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Codex 里能直接换新模型，写代码的先试延迟和补全质量再决定是否切。",
+      "title_hash": "286efa90",
+      "scored_at": "2026-10-08T21:37:35.639806Z"
+    },
+    "story_e323adeab1da|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "OpenAI 客户案例软文，没有新 API 或价格，看完学不到能用的东西。",
+      "title_hash": "0a269418",
+      "scored_at": "2026-10-08T21:37:36.659450Z"
+    },
+    "story_2703d8e455a1|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "学术圈口水战，不涉及工具或接口变化，写代码的今天不用管。",
+      "title_hash": "324e720e",
+      "scored_at": "2026-10-08T21:37:37.355260Z"
+    },
+    "story_2f29beb14112|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "Haiku 5.5 首秀第30名，说明小模型还没到能替主力干活的水平，先别急着换。",
+      "title_hash": "d9976ef4",
+      "scored_at": "2026-10-08T21:37:38.181368Z"
+    },
+    "story_4c6f4f6c7de5|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "TFLite GPU delegate 的正式接班人，端侧项目该评估迁移了，先看兼容性。",
+      "title_hash": "98f417dd",
+      "scored_at": "2026-10-08T21:37:39.133179Z"
+    },
+    "story_fa753606f4d1|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "722份手稿不是代码也不是模型，数学界的事，开发者今天用不上。",
+      "title_hash": "3f8821ba",
+      "scored_at": "2026-10-08T21:37:39.909662Z"
+    },
+    "story_6e2cc0057ae4|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "单卡实时视频生成有实操教程，想跑视频的可以照着复现，但先看显存够不够。",
+      "title_hash": "06ff3988",
+      "scored_at": "2026-10-08T21:37:40.811264Z"
+    },
+    "story_d783a04fd0f6|cynic|f4237a62": {
+      "score": 45,
+      "review": "版本号从6跳到6.1还带个'Sol'，更新日志里除了'极速'没见着跑分和延迟数字。",
+      "title_hash": "286efa90",
+      "scored_at": "2026-10-08T21:37:41.863731Z"
+    },
+    "story_d783a04fd0f6|paper-police|966065bf": {
+      "score": 30,
+      "review": "只有更新日志标题，无论文、无代码、无跑分，'极速'二字无从验证。",
+      "title_hash": "286efa90",
+      "scored_at": "2026-10-08T21:37:43.025229Z"
+    },
+    "story_9d420c28c726|cynic|f4237a62": {
+      "score": 72,
+      "review": "第四名配半价，性价比是真香；但两榜都没登顶，标题先别急着封神。",
+      "title_hash": "5380835a",
+      "scored_at": "2026-10-08T21:37:44.144449Z"
+    },
+    "story_9d420c28c726|paper-police|966065bf": {
+      "score": 42,
+      "review": "第三方榜单排名和价格有据，但无论文无代码，复现不了。",
+      "title_hash": "5380835a",
+      "scored_at": "2026-10-08T21:37:45.125190Z"
+    },
+    "story_4c6f4f6c7de5|cynic|f4237a62": {
+      "score": 72,
+      "review": "接替 TFLite delegate 是真事，但博文没给延迟和功耗对比，先别急着喊下一代。",
+      "title_hash": "98f417dd",
+      "scored_at": "2026-10-08T21:37:45.871285Z"
+    },
+    "story_4c6f4f6c7de5|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方博客宣布开源，仓库链接待核实，缺论文和第三方跑分。",
+      "title_hash": "98f417dd",
+      "scored_at": "2026-10-08T21:37:46.796998Z"
     }
   }
 }
