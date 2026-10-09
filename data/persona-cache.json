@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_6171d00caa9b|pragmatic|0a5c5b24": {
-      "score": 62,
-      "review": "给管理者看用量报表的功能，写代码的用不上，团队要交ROI报告时可以点开。",
-      "title_hash": "478bb367",
-      "scored_at": "2026-09-17T23:25:53.361586Z"
-    },
-    "story_633c0a236b12|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "用 GitHub Agentic CLI 的团队现在能按自定义配置拉用量数据，做成本核算的可以接一下。",
-      "title_hash": "6c30ca39",
-      "scored_at": "2026-09-17T23:25:54.519073Z"
-    },
-    "story_92529e02e542|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Mac 本地智能体今天就能装，先试任务边界和权限，别急着接生产。",
-      "title_hash": "7c08a15b",
-      "scored_at": "2026-09-17T23:25:55.523798Z"
-    },
-    "story_d9139340eb5e|pragmatic|0a5c5b24": {
-      "score": 42,
-      "review": "律所用ChatGPT做IPO文书，案例参考可以，但没工具没接口，看完就忘。",
-      "title_hash": "57f45c8e",
-      "scored_at": "2026-09-18T00:33:25.622852Z"
-    },
-    "story_604df0a8861f|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Word 里直接调 ChatGPT 和 Codex，写文档的可以试；但只有 X 爆料，等官方入口。",
-      "title_hash": "6c89ad99",
-      "scored_at": "2026-09-18T00:33:26.432706Z"
-    },
-    "story_5735f9b05c3f|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "估值翻倍是资本故事，跟你的部署成本没半点关系，划走。",
-      "title_hash": "9c4ffd08",
-      "scored_at": "2026-09-18T01:42:32.913919Z"
-    },
-    "story_6f86f224d94a|pragmatic|0a5c5b24": {
-      "score": 58,
-      "review": "专做分类判断的小模型，性价比得看实测数据，没开放API前先观望。",
-      "title_hash": "8866322b",
-      "scored_at": "2026-09-18T01:42:33.719715Z"
-    },
-    "story_09f5c458fed6|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "四篇文章解决不了你今天的bug，等有开源代码或API再说。",
-      "title_hash": "2eff3dcf",
-      "scored_at": "2026-09-18T01:42:34.780577Z"
-    },
     "story_ad6315db9660|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "SSO 缺陷加 libheif 漏洞的实战链，做身份认证和图像解析的该读一遍自查。",
@@ -5724,6 +5676,72 @@
       "review": "官方博客有成本与流程细节，但无论文无独立复现，只能算有迹可循。",
       "title_hash": "feaf0968",
       "scored_at": "2026-10-08T22:41:40.098056Z"
+    },
+    "story_a2fc4530694f|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "ChatGPT 发布是旧闻，这条只是转发官宣，没有新接口或价格信息。",
+      "title_hash": "b5383a75",
+      "scored_at": "2026-10-09T02:18:36.474118Z"
+    },
+    "story_3935cd048603|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "营收数字跟你的代码无关，API 价格和额度才是该看的。",
+      "title_hash": "4b3301d7",
+      "scored_at": "2026-10-09T02:18:37.492384Z"
+    },
+    "story_65da7bfcfb81|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "OpenAI 官方案例，能抄的成本优化思路，但没给具体配置细节。",
+      "title_hash": "ba5f616c",
+      "scored_at": "2026-10-09T02:18:38.462000Z"
+    },
+    "story_49504079de8a|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "伦理红线是公关稿，不改变API和价格，今天写代码用不上。",
+      "title_hash": "a8cb0d39",
+      "scored_at": "2026-10-09T02:18:39.178766Z"
+    },
+    "story_944976238e34|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "722份证明没法直接跑，等开源可复现再说，眼下不影响你写代码。",
+      "title_hash": "44397106",
+      "scored_at": "2026-10-09T02:18:39.976284Z"
+    },
+    "story_22dbf5a3027e|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "做陪伴类产品的该看看合规红线，其他人扫一眼即可。",
+      "title_hash": "a4f414fc",
+      "scored_at": "2026-10-09T02:18:40.835081Z"
+    },
+    "story_09c3e937aae4|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "融资估值跟写代码没关系，Alignment Index 没细节就先别管。",
+      "title_hash": "b57833ac",
+      "scored_at": "2026-10-09T02:18:41.749904Z"
+    },
+    "story_65da7bfcfb81|cynic|f4237a62": {
+      "score": 42,
+      "review": "成本减半的基线、token 数、模型版本一个没给，只有客户证言，这是案例还是广告？",
+      "title_hash": "ba5f616c",
+      "scored_at": "2026-10-09T02:18:42.890477Z"
+    },
+    "story_65da7bfcfb81|paper-police|966065bf": {
+      "score": 38,
+      "review": "OpenAI 官方客户案例，成本减半无基准无代码，属营销叙事。",
+      "title_hash": "ba5f616c",
+      "scored_at": "2026-10-09T02:18:44.104331Z"
+    },
+    "story_8cec8cc46a95|cynic|f4237a62": {
+      "score": 55,
+      "review": "把草稿也算进限额，省的是自家存储，坑的是开发者的工作流。",
+      "title_hash": "4f247454",
+      "scored_at": "2026-10-09T02:18:45.122568Z"
+    },
+    "story_8cec8cc46a95|paper-police|966065bf": {
+      "score": 62,
+      "review": "官方changelog有明确规则变更，但无代码无benchmark，仅可查不可验。",
+      "title_hash": "4f247454",
+      "scored_at": "2026-10-09T02:18:46.405442Z"
     }
   }
 }
