@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T09:40:25.716772Z",
+  "generated_at": "2026-10-09T16:35:21.941283Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,26 @@
       }
     },
     {
-      "story_id": "story_65da7bfcfb81",
-      "title": "LegalOn 在保持开发速度的同时将 Codex 成本减半 / LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "story_id": "story_02d66470e18a",
+      "title": "Triage 角色及以上用户现在可以归档 pull request / Triage role users or higher can now archive pull requests",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
       "rank": 2,
       "reviews": {
-        "cynic": {
-          "score": 42,
-          "review": "成本减半的基线、token 数、模型版本一个没给，只有客户证言，这是案例还是广告？"
-        },
-        "paper-police": {
-          "score": 38,
-          "review": "OpenAI 官方客户案例，成本减半无基准无代码，属营销叙事。"
-        },
         "pragmatic": {
-          "score": 72,
-          "review": "OpenAI 官方案例，能抄的成本优化思路，但没给具体配置细节。"
+          "score": 55,
+          "review": "PR 归档权限下放，仓库清理方便点，但日常开发基本无感。"
         }
       }
     },
     {
-      "story_id": "story_8cec8cc46a95",
-      "title": "草稿 pull request 也计入 pull request 限额 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "story_id": "story_2703d8e455a1",
+      "title": "部分数学家呼吁抵制 OpenAI，AI 生成的数学证明涌入数学领域 / Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
+      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field",
       "rank": 3,
       "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "把草稿也算进限额，省的是自家存储，坑的是开发者的工作流。"
-        },
-        "paper-police": {
-          "score": 62,
-          "review": "官方changelog有明确规则变更，但无代码无benchmark，仅可查不可验。"
-        },
         "pragmatic": {
-          "score": 72,
-          "review": "草稿 PR 现在占限额，CI 里自动开草稿的流水线得改，否则配额悄悄爆。"
+          "score": 35,
+          "review": "学术圈口水战，不涉及工具或接口变化，写代码的今天不用管。"
         }
       }
     }
