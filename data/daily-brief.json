@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:33:02.714661Z",
+  "generated_at": "2026-10-17T06:12:20.269111Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9097,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -77,219 +77,6 @@
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/itau-generative-ai",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7db28526b529",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "primary_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_zh": null,
-          "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        },
-        {
-          "id": "c057f18592d774e78c084017c1c872135be0bff8",
-          "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "title_zh": null,
-          "title_en": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "title_original": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261015/p59",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-16T02:20:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Techmeme"
-      ],
-      "items": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_zh": null,
-          "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        },
-        {
-          "id": "c057f18592d774e78c084017c1c872135be0bff8",
-          "title": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "title_zh": null,
-          "title_en": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "title_original": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters, claiming 4x-12x more pretraining FLOPs-efficiency than DeepSeek-V4-Pro-Base (Microsoft AI)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.techmeme.com/261015/p59",
-          "source": "Techmeme",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-16T02:20:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7091,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T01:44:47Z",
-      "latest_at": "2026-10-16T02:20:01Z",
-      "primary_item": {
-        "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "title_zh": null,
-        "title_en": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "title_original": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bb81118ad07f",
-      "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_zh": null,
-          "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_zh": null,
-          "title_en": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_zh": null,
-          "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_zh": null,
-          "title_en": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "title_original": "Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7146,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T02:16:35Z",
-      "latest_at": "2026-10-16T02:16:35Z",
-      "primary_item": {
-        "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-        "title": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "title_zh": null,
-        "title_en": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "title_original": "Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -338,15 +125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8465,
+        "recency": 0.7914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9552,
+        "recency": 0.8931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,6 +230,82 @@
         "recommend_reason_zh": null,
         "url": "https://x.com/arena/status/2111221323217412318",
         "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4b8a0416def4",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_en": null,
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T01:52:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "title_en": null,
+          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T01:52:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9394,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-17T01:52:43Z",
+      "latest_at": "2026-10-17T01:52:43Z",
+      "primary_item": {
+        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "title_en": null,
+        "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -491,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7806,
+        "recency": 0.7299,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -595,22 +458,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T11:22:54.473861Z",
       "latest_at": "2026-10-16T11:22:54.473861Z",
@@ -672,15 +534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8223,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -700,83 +562,6 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
         "source": "NVIDIA：Newsroom（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f7abdbde624",
-      "title": "Xcode 27 runner image generally available",
-      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image generally available",
-          "title_original": "Xcode 27 runner image generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 runner image generally available",
-          "title_zh": null,
-          "title_en": "Xcode 27 runner image generally available",
-          "title_original": "Xcode 27 runner image generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.739,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T04:36:30Z",
-      "latest_at": "2026-10-16T04:36:30Z",
-      "primary_item": {
-        "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-        "title": "Xcode 27 runner image generally available",
-        "title_zh": null,
-        "title_en": "Xcode 27 runner image generally available",
-        "title_original": "Xcode 27 runner image generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -824,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -927,22 +712,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:22:54.473861Z",
       "latest_at": "2026-10-16T11:22:54.473861Z",
@@ -1004,15 +788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1229,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6086,
-      "importance": 0.6086,
-      "importance_score": 0.6086,
+      "score": 0.5974,
+      "importance": 0.5974,
+      "importance_score": 0.5974,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9618,
+        "recency": 0.8993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1407,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.815,
+        "recency": 0.762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,6 +1219,139 @@
         "url": "https://www.aibase.com/news/31694",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2fa39e14c857",
+      "title": "利用Claude设计更高效的量子电路",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "primary_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nQuantum computers will need carefully ",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "Designing more efficient quantum circuits with Claude",
+          "title_zh": null,
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": null,
+          "title_original": "利用Claude设计更高效的量子电路",
+          "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nQuantum computers will need carefully ",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "title_zh": "利用Claude设计更高效的量子电路",
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "Designing more efficient quantum circuits with Claude",
+          "title_zh": null,
+          "title_en": "Designing more efficient quantum circuits with Claude",
+          "title_original": "Designing more efficient quantum circuits with Claude",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9393,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:00:18Z",
+      "latest_at": "2026-10-17T01:52:14.008000Z",
+      "primary_item": {
+        "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+        "title": "利用Claude设计更高效的量子电路",
+        "title_zh": "利用Claude设计更高效的量子电路",
+        "title_en": null,
+        "title_original": "利用Claude设计更高效的量子电路",
+        "summary": "Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nWorking largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude or more.\nQuantum computers will need carefully ",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1540,15 +1457,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5668,
-      "importance": 0.5668,
-      "importance_score": 0.5668,
+      "score": 0.5554,
+      "importance": 0.5554,
+      "importance_score": 0.5554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9779,
+        "recency": 0.9144,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1567,139 +1484,6 @@
         "recommend_reason_zh": null,
         "url": "https://alexwang.ai/posts/associative-memory",
         "source": "alexwang.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc6c7b8a54d2",
-      "title": "Claude Code 团队如何进行代码审查",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "primary_url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-      "source": "claude.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7f170a7c1ab6ae4ad33d6ebdb5972be22426bef5",
-          "title": "Claude Code 团队如何进行代码审查",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": null,
-          "title_original": "Claude Code 团队如何进行代码审查",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T21:20:46.796000Z"
-        },
-        {
-          "id": "d9014b1ffb80dd69cd450eaa1285a54eccb3c83a",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:04:47Z"
-        },
-        {
-          "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "How the Claude Code team does code review",
-          "title_zh": null,
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122951",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T19:04:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7f170a7c1ab6ae4ad33d6ebdb5972be22426bef5",
-          "title": "Claude Code 团队如何进行代码审查",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": null,
-          "title_original": "Claude Code 团队如何进行代码审查",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-16T21:20:46.796000Z"
-        },
-        {
-          "id": "d9014b1ffb80dd69cd450eaa1285a54eccb3c83a",
-          "title": "Claude Code 团队如何进行代码审查 / How the Claude Code team does code review",
-          "title_zh": "Claude Code 团队如何进行代码审查",
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-16T19:04:47Z"
-        },
-        {
-          "id": "37e34644010acff7811aa904217d7f5a8e382ad3",
-          "title": "How the Claude Code team does code review",
-          "title_zh": null,
-          "title_en": "How the Claude Code team does code review",
-          "title_original": "How the Claude Code team does code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50122951",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T19:04:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9411,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T19:04:47Z",
-      "latest_at": "2026-10-16T21:20:46.796000Z",
-      "primary_item": {
-        "id": "7f170a7c1ab6ae4ad33d6ebdb5972be22426bef5",
-        "title": "Claude Code 团队如何进行代码审查",
-        "title_zh": "Claude Code 团队如何进行代码审查",
-        "title_en": null,
-        "title_original": "Claude Code 团队如何进行代码审查",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
-        "source": "claude.dev",
         "source_name": "Buzzing"
       }
     },
@@ -1806,15 +1590,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.8698,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1833,6 +1617,214 @@
         "recommend_reason_zh": null,
         "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
         "source": "www.ft.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_53ecd6ed2a44",
+      "title": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+      "url": "https://www.aibase.com/news/31692",
+      "primary_url": "https://www.aibase.com/news/31692",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4eb67c9253bc4f58fcf7345c2d03d910ca50c004",
+          "title": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "title_zh": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "title_en": null,
+          "title_original": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31692",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T11:22:54.473861Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4eb67c9253bc4f58fcf7345c2d03d910ca50c004",
+          "title": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "title_zh": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "title_en": null,
+          "title_original": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31692",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T11:22:54.473861Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.762,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T11:22:54.473861Z",
+      "latest_at": "2026-10-16T11:22:54.473861Z",
+      "primary_item": {
+        "id": "4eb67c9253bc4f58fcf7345c2d03d910ca50c004",
+        "title": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+        "title_zh": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+        "title_en": null,
+        "title_original": "​蚂蚁阿福、支付宝AI支付入选《时代》全球年度最佳发明",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31692",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_610847abe99b",
+      "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "primary_url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "source": "www.mercor.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": null,
+          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": null,
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.mercor.com"
+      ],
+      "items": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": null,
+          "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_zh": null,
+          "title_en": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "title_original": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8434,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T17:08:38Z",
+      "latest_at": "2026-10-16T18:24:37.246000Z",
+      "primary_item": {
+        "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+        "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "title_zh": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "title_en": null,
+        "title_original": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+        "source": "www.mercor.com",
         "source_name": "Buzzing"
       }
     }
