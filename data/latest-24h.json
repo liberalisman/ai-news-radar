@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T04:32:28.036949Z",
+  "generated_at": "2026-10-18T06:35:58.227183Z",
   "window_hours": 24,
-  "total_items": 101,
-  "total_items_ai_raw": 117,
-  "total_items_raw": 642,
-  "total_items_all_mode": 106,
+  "total_items": 97,
+  "total_items_ai_raw": 113,
+  "total_items_raw": 631,
+  "total_items_all_mode": 102,
   "topic_filter": "ai_relevance_scoring_v0_4",
   "ai_relevance_threshold": 0.65,
-  "archive_total": 24106,
+  "archive_total": 24150,
   "site_count": 16,
   "source_count": 32,
   "site_stats": [
@@ -15,47 +15,41 @@
       "site_id": "techurls",
       "site_name": "TechURLs",
       "count": 33,
-      "raw_count": 242
+      "raw_count": 236
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "count": 24,
-      "raw_count": 89
+      "count": 20,
+      "raw_count": 83
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
-      "count": 12,
-      "raw_count": 12
+      "count": 13,
+      "raw_count": 13
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "count": 9,
-      "raw_count": 51
-    },
-    {
-      "site_id": "buzzing",
-      "site_name": "Buzzing",
-      "count": 6,
-      "raw_count": 131
+      "raw_count": 54
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "count": 6,
-      "raw_count": 102
+      "raw_count": 108
+    },
+    {
+      "site_id": "buzzing",
+      "site_name": "Buzzing",
+      "count": 6,
+      "raw_count": 124
     },
     {
       "site_id": "aihot",
       "site_name": "AI HOT",
-      "count": 3,
-      "raw_count": 3
-    },
-    {
-      "site_id": "waytoagi",
-      "site_name": "WaytoAGI",
       "count": 3,
       "raw_count": 3
     },
@@ -66,16 +60,16 @@
       "raw_count": 6
     },
     {
-      "site_id": "hackernews",
-      "site_name": "Hacker News",
+      "site_id": "waytoagi",
+      "site_name": "WaytoAGI",
       "count": 2,
       "raw_count": 2
     },
     {
-      "site_id": "followbuilders",
-      "site_name": "Follow Builders",
-      "count": 0,
-      "raw_count": 1
+      "site_id": "hackernews",
+      "site_name": "Hacker News",
+      "count": 2,
+      "raw_count": 2
     },
     {
       "site_id": "official_ai",
@@ -86,6 +80,12 @@
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
+      "count": 0,
+      "raw_count": 0
+    },
+    {
+      "site_id": "followbuilders",
+      "site_name": "Follow Builders",
       "count": 0,
       "raw_count": 0
     },
@@ -122,7 +122,7 @@
       "url": "https://x.com/Khazix0918/status/2111639562720329976",
       "published_at": "2026-10-18T02:04:38Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 68,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -152,7 +152,7 @@
       "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
       "published_at": "2026-10-17T10:29:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 67,
       "aihot_category": "ai-products",
       "aihot_selected": true,
@@ -182,7 +182,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
       "published_at": "2026-10-17T10:19:04Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 67,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -204,6 +204,31 @@
       "title_bilingual": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由"
     },
     {
+      "id": "a7da27d3495cea6118eadf430fa68f0aa49e612b",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "MarkTechPost Research",
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform",
+      "published_at": "2026-10-18T04:06:33Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "research_paper",
+      "ai_relevance_reason": "curated_media_source_filter",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "title_original": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "title_en": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "title_zh": null,
+      "title_bilingual": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "summary": "Voxel51 3.0 unifies search, curation, annotation and evaluation for physical AI, with an agent using 45+ MCP tools.\nVoxel51 3.0 unifies search, curation, annotation and evaluation for physical AI, with an agent using 45+ MCP tools.\nVoxel51 has released Voxel51 3.0 , a very important update to its data platform. Voxel51 3.0 is an end-to-end multimodal data platform that puts search, curation, annotation and evaluation in one system. It targets teams training models on sensor data from robots, veh"
+    },
+    {
       "id": "66ee7717b1171d1716c4100174aa6bdb4a8041b1",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -212,7 +237,7 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
       "published_at": "2026-10-17T21:31:32Z",
       "first_seen_at": "2026-10-17T21:45:16.211532Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "research_paper",
@@ -226,8 +251,8 @@
       "source_tier_rank": 2,
       "title_original": "Meta removes language that raised scraping and AI training concerns",
       "title_en": "Meta removes language that raised scraping and AI training concerns",
-      "title_zh": "Meta 删除了引起抓取和人工智能培训问题的语言",
-      "title_bilingual": "Meta 删除了引起抓取和人工智能培训问题的语言 / Meta removes language that raised scraping and AI training concerns"
+      "title_zh": null,
+      "title_bilingual": "Meta removes language that raised scraping and AI training concerns"
     },
     {
       "id": "b6711484baae8f23a136d8785a85a39da8f00604",
@@ -238,7 +263,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation",
       "published_at": "2026-10-17T20:22:11Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "research_paper",
@@ -252,8 +277,8 @@
       "source_tier_rank": 2,
       "title_original": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
       "title_en": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
-      "title_zh": "认识 Kyutai REKI：2.4B VLA 模型为机器人操作带来高效内存",
-      "title_bilingual": "认识 Kyutai REKI：2.4B VLA 模型为机器人操作带来高效内存 / Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
+      "title_zh": null,
+      "title_bilingual": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
     },
     {
       "id": "0fb4e8e4814263ca862f4ea315afaefb3465b6be",
@@ -264,7 +289,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
       "published_at": "2026-10-17T20:21:19Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "ai_product_update",
@@ -278,8 +303,8 @@
       "source_tier_rank": 2,
       "title_original": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "title_zh": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多",
-      "title_bilingual": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多 / Anthropic says its workforce has become less junior and is spending more time in meetings"
+      "title_zh": null,
+      "title_bilingual": "Anthropic says its workforce has become less junior and is spending more time in meetings"
     },
     {
       "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
@@ -304,8 +329,8 @@
       "source_tier_rank": 2,
       "title_original": "Replit is no longer working with Anthropic, CEO says",
       "title_en": "Replit is no longer working with Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示不再与 Anthropic 合作",
-      "title_bilingual": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says"
+      "title_zh": null,
+      "title_bilingual": "Replit is no longer working with Anthropic, CEO says"
     },
     {
       "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
@@ -316,7 +341,7 @@
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
       "published_at": "2026-10-17T18:48:08Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_product_update",
@@ -331,8 +356,8 @@
       "source_tier_rank": 2,
       "title_original": "Replit makes OpenAI its default over Anthropic, CEO says",
       "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic",
-      "title_bilingual": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says"
+      "title_zh": null,
+      "title_bilingual": "Replit makes OpenAI its default over Anthropic, CEO says"
     },
     {
       "id": "e3b1f8bed469412c3c9e7dc6ef2080e4c5479a46",
@@ -343,7 +368,7 @@
       "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet",
       "published_at": "2026-10-17T15:36:11Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -357,8 +382,8 @@
       "source_tier_rank": 2,
       "title_original": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
       "title_en": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "title_zh": "OpenAI 模型入侵了政府网站，获取了 24 年的医院数据并保密",
-      "title_bilingual": "OpenAI 模型入侵了政府网站，获取了 24 年的医院数据并保密 / An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
+      "title_zh": null,
+      "title_bilingual": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
     },
     {
       "id": "2f79bc7a5c3194f915dc572f36650ca49003f652",
@@ -369,7 +394,7 @@
       "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes",
       "published_at": "2026-10-17T14:42:56Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "model_release",
@@ -384,8 +409,8 @@
       "source_tier_rank": 2,
       "title_original": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
       "title_en": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "title_zh": "Anthropics 的 Claude 在 30 分钟内破解了 NSA 长达 25 年的密码学谜团",
-      "title_bilingual": "Anthropics 的 Claude 在 30 分钟内破解了 NSA 长达 25 年的密码学谜团 / Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
+      "title_zh": null,
+      "title_bilingual": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
     },
     {
       "id": "3bc91f6b8208c90cd9185497a57362b2256cb99c",
@@ -396,7 +421,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "published_at": "2026-10-17T13:00:00Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "research_paper",
@@ -408,8 +433,8 @@
       "source_tier_rank": 2,
       "title_original": "Websites are closing their doors to AI agents",
       "title_en": "Websites are closing their doors to AI agents",
-      "title_zh": "网站正在向人工智能代理关闭大门",
-      "title_bilingual": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents"
+      "title_zh": null,
+      "title_bilingual": "Websites are closing their doors to AI agents"
     },
     {
       "id": "7c143837349b84d81840ed3128d99d1044f57c97",
@@ -420,7 +445,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/ZKDtwD6K4ipDl0kApDzcEzqAnde?from=from_copylink",
       "published_at": "2026-10-17T11:38:33.882342Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "summary": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
       "ai_is_related": true,
       "ai_score": 0.65,
@@ -447,7 +472,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Fci0wDaBsiLxz5kjw2ic97TTnUc?from=from_copylink",
       "published_at": "2026-10-17T11:38:33.882342Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "summary": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
       "ai_is_related": true,
       "ai_score": 0.65,
@@ -474,7 +499,7 @@
       "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
       "published_at": "2026-10-17T10:33:28Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -500,7 +525,7 @@
       "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help",
       "published_at": "2026-10-17T09:54:36Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -514,8 +539,8 @@
       "source_tier_rank": 2,
       "title_original": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
       "title_en": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "title_zh": "人工智能模型会在自己的工作报告中隐藏错误，但提示中的一句话可以提供帮助",
-      "title_bilingual": "人工智能模型会在自己的工作报告中隐藏错误，但提示中的一句话可以提供帮助 / AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
+      "title_zh": null,
+      "title_bilingual": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
     },
     {
       "id": "7d9d07a79d54ea7303a35b9109d9c6b4beba58d3",
@@ -526,7 +551,7 @@
       "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof",
       "published_at": "2026-10-17T09:00:26Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "ai_product_update",
@@ -540,8 +565,8 @@
       "source_tier_rank": 2,
       "title_original": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
       "title_en": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-      "title_zh": "数学家表示 OpenAI 不理解自己的纳维-斯托克斯证明",
-      "title_bilingual": "数学家表示 OpenAI 不理解自己的纳维-斯托克斯证明 / Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
+      "title_zh": null,
+      "title_bilingual": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
     },
     {
       "id": "7d8a97fd617a585dd7fa2279122ffc0dcc727c37",
@@ -552,7 +577,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026",
       "published_at": "2026-10-17T07:26:39Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "research_paper",
@@ -564,36 +589,8 @@
       "source_tier_rank": 2,
       "title_original": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
       "title_en": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-      "title_zh": "20 个 Jev 替代方案：2026 年采用 TypeSafe 的决策模型",
-      "title_bilingual": "20 个 Jev 替代方案：2026 年采用 TypeSafe 的决策模型 / 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
-    },
-    {
-      "id": "45b40db889f6bf7f24dc7bf874549901c85b1de8",
-      "site_id": "waytoagi",
-      "site_name": "WaytoAGI",
-      "source": "社区更新 · 2026-10-16",
-      "title": "Claude太能写，Anthropic把内部Git换了",
-      "url": "https://waytoagi.feishu.cn/wiki/Wntuwj9ikiWbWdk0rMFcPkwfnuf?from=from_copylink",
-      "published_at": "2026-10-17T06:12:20.269111Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "summary": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "source_tier": "community",
-      "source_tier_label": "社区更新",
-      "source_tier_rank": 2,
-      "title_original": "Claude太能写，Anthropic把内部Git换了",
-      "title_en": null,
-      "title_zh": "Claude太能写，Anthropic把内部Git换了",
-      "title_bilingual": "Claude太能写，Anthropic把内部Git换了"
+      "title_zh": null,
+      "title_bilingual": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
     },
     {
       "id": "f12b1d08b3c7ec8d802c1def7d141b1d50cccea5",
@@ -604,7 +601,7 @@
       "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
       "published_at": "2026-10-18T02:00:00Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -619,8 +616,7 @@
       "title_original": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
       "title_en": null,
       "title_zh": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-      "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-      "summary": "本文字数：2298 字\n阅读完需：约 8 分钟\nAI工程重心正从云端向终端迁移，大模型需在车端、手机等资源受限设备上实现低延迟、高稳定、可量产的落地。\n端侧模型压缩与混合部署是量产关键；OTA迭代与数据飞轮构成持续进化闭环；“理解场景—执行任务—交付体验”定义新能力边界。\n适合AI基础设施工程师、终端OS架构师、智能硬件算法工程师阅读。\n从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！\n2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日-24 日 举办，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Agent 工程、AI Coding、基础设施、数据系统、质量、安全、SRE 以及具身智能等方向，分享 AI 进入真实生产环境之后正在发生的变化。\n阶跃星辰 AI 终端解决方案架构师袁俊杰已确认出席 “ 千行百业 Agent 创新实践 ” 专题，并发表题为 《 “AI+终端”时代的萌芽：大模型在终端领域的"
+      "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海"
     },
     {
       "id": "52dedb27326a882fd876626c1a66519de4fdd81e",
@@ -631,7 +627,7 @@
       "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
       "published_at": "2026-10-17T09:00:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -643,8 +639,8 @@
       "source_tier_rank": 3,
       "title_original": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "title_en": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "title_zh": "为什么人工智能还没有准备好解决我们复杂的基因组问题",
-      "title_bilingual": "为什么人工智能还没有准备好解决我们复杂的基因组问题 / Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
+      "title_zh": null,
+      "title_bilingual": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
     },
     {
       "id": "f279a58f57951578724cac8fe8b190f13a147933",
@@ -655,7 +651,7 @@
       "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC",
       "published_at": "2026-10-17T07:00:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_tech",
@@ -673,6 +669,187 @@
       "title_bilingual": "Akka 在 65 个开源项目中测试基于规格的 AI 交付"
     },
     {
+      "id": "b070ad9787eb0ef9e4ed07a795ebc6e2d98c3409",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "url": "https://www.techmeme.com/261018/p5",
+      "published_at": "2026-10-18T06:10:04Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "title_en": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "title_zh": null,
+      "title_bilingual": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "summary": "Title: AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Image 1"
+    },
+    {
+      "id": "705f65ed174269efbdf266241ac282c0164f4d02",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "url": "https://www.techmeme.com/261018/p4",
+      "published_at": "2026-10-18T06:05:00Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "chip"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "title_en": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "title_zh": null,
+      "title_bilingual": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "summary": "Title: Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Image"
+    },
+    {
+      "id": "7d65be38d98c450e73e6d37059ec2aaac20a204e",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "url": "https://www.techmeme.com/261018/p3",
+      "published_at": "2026-10-18T05:40:01Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "title_en": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "title_zh": null,
+      "title_bilingual": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "summary": "Title: Attention Required! | Cloudflare\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n## Why have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n##"
+    },
+    {
+      "id": "644dfc2a5e1c5d7da46e219d3712e9c042a774a5",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "url": "https://www.techmeme.com/261018/p2",
+      "published_at": "2026-10-18T05:10:01Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "agent_workflow",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "title_en": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "title_zh": null,
+      "title_bilingual": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "summary": "Title: Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Ima"
+    },
+    {
+      "id": "76b8a33a8e571070b6e15b06e846a4b4aa80034f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies",
+      "published_at": "2026-10-18T04:34:00Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_product_update",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "openai"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "title_en": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "title_zh": null,
+      "title_bilingual": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" \n\nBut \"there are signs that the U.S. government is explo...\nThat Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting"
+    },
+    {
+      "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "Hacker News (黑客新闻)",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "published_at": "2026-10-18T04:33:49Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_zh": null,
+      "title_bilingual": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "summary": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.\n“Outsource your thinking, not your understanding .”\n— Sun Tzu\nSphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does.\nBuilt to run on minimal tokens, from your existing coding agent, OpenRouter, or any OpenAI-compatible endpoint.\nSphinx\nYour webhook handler now saves the event ID "
+    },
+    {
+      "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "published_at": "2026-10-18T04:33:49Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_zh": null,
+      "title_bilingual": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "summary": "Title: Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit]("
+    },
+    {
       "id": "ea26111d88aab9a87f875a1aabe6b20d539cefc0",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -681,7 +858,7 @@
       "url": "https://juejin.cn/post/7696326603062116402",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -696,8 +873,7 @@
       "title_original": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
       "title_en": null,
       "title_zh": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
-      "title_bilingual": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
-      "summary": "Title: 1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异\nPublished Time: 2026-10-14T16:40:58+00:00\n219 个汉字，在 cl100k_base 词表下要 291 个 token，平均一个字 1.33 个。\n同样长度的英文，379 个字符只要 73 个 token，5 个字符才摊到一个。\n换成 o200k_base，同一段中文从 291 掉到 188，省了三成半；可同一段 JavaScript 代码反而从 102 涨到 103。\n> 在线案例与源码：[atomgit.com/deli007/dem…](https://link.juejin.cn/?target=https%3A%2F%2Fatomgit.com%2Fdeli007%2Fdemo_park%2Ftree%2Fmain%2Fcodearts-llm-token-counter \"https://atomgit.com/deli007/demo_park/tree/main/codearts-llm-token-counter\") 生成物只有一个 ind"
+      "title_bilingual": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异"
     },
     {
       "id": "a4d72e0a551d09901d1aea501e1c53ddfbfcce3e",
@@ -708,7 +884,7 @@
       "url": "https://juejin.cn/post/7696835478806331392",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -723,8 +899,7 @@
       "title_original": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
       "title_en": null,
       "title_zh": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
-      "title_bilingual": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
-      "summary": "Title: 27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议\nPublished Time: 2026-10-16T07:47:24+00:00\n写代码时大模型哪怕胡说八道，顶多是编译报个错，或者单测红一两项；但如果你试过让 Agent 去逆向一个没有源码的二进制程序，就会知道那场面有多让人崩溃。\n比如你想搞清楚 macOS 备忘录的本地全文搜索到底是怎么实现的。丢给 Agent 之后，它在后台调了几个分析工具，几十秒后胸有成竹地交差，贴回一段几百行的反编译伪代码——函数名工整、控制流清晰，甚至连错误处理分支都给你脑补得头头是道。\n可当你真正把二进制拖进 Hopper 或 Ghidra，顺着它给的内存地址肉眼对照汇编时，一口老血能直接喷出来：最核心的那几个解密跳转和偏移量，在真实文件里根本不存在。全是大模型凭空编出来的。\n**逆向工程大概是所有技术工种里，最容不下模型幻觉的一个。** 一个地址偏移量错了，一条交叉引用是编造的，后面几个小时顺藤摸瓜的推导就会全盘打水漂。\n最近在 GitHub 趋势榜上持续霸榜的开源项目 **[rea](https://link."
+      "title_bilingual": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议"
     },
     {
       "id": "09dff1f33a6d8a130fcbb271c3480dae218f7930",
@@ -735,7 +910,7 @@
       "url": "https://juejin.cn/post/7696796824939806758",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -748,8 +923,7 @@
       "title_original": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
       "title_en": null,
       "title_zh": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
-      "title_bilingual": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
-      "summary": "Title: AI 写代码越来越快，我们的代码能力却在悄悄退化\nPublished Time: 2026-10-16T01:05:36+00:00\n[![Image 1: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)![Image 2: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)](https://juejin.cn/post/7696796824939806758)\n*    登录   注册  ## 首次登录 / 注册免费领取 登录 / 注册\n# AI 写代码越来越快，我们的代码能力却在悄悄退化\n2026-10-16  147  阅读7分钟\n## 先说一个反直觉的结论：用 AI 写代码，正在让一部分人变得更弱 —— 而当事人几乎察觉不到。\n这不是贩卖焦"
+      "title_bilingual": "AI 写代码越来越快，我们的代码能力却在悄悄退化"
     },
     {
       "id": "705ba99a4e2135821c874c5e2157a3470fbf4b14",
@@ -760,7 +934,7 @@
       "url": "https://juejin.cn/post/7696484610026094634",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -776,8 +950,7 @@
       "title_original": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
       "title_en": null,
       "title_zh": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
-      "title_bilingual": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
-      "summary": "Title: AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录\nPublished Time: 2026-10-15T06:37:51+00:00\n[![Image 1: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)![Image 2: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)](https://juejin.cn/post/7696484610026094634)\n*    登录   注册  ## 首次登录 / 注册免费领取 登录 / 注册\n# AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智"
+      "title_bilingual": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录"
     },
     {
       "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
@@ -788,7 +961,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "published_at": "2026-10-18T04:10:14.045000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -803,8 +976,7 @@
       "title_original": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
       "title_en": null,
       "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "summary": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G...\nSummary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...\nSummary Codex Desktop is continuously adding paired .dmp a"
+      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件"
     },
     {
       "id": "ee9dcbb05bf99918273e3738969af48b540f35b6",
@@ -815,7 +987,7 @@
       "url": "https://www.techmeme.com/261017/p21",
       "published_at": "2026-10-18T03:50:01Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -828,8 +1000,7 @@
       "title_original": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
       "title_en": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
       "title_zh": null,
-      "title_bilingual": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
-      "summary": "Title: Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Imag"
+      "title_bilingual": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)"
     },
     {
       "id": "01b32ac278f1b53adee29461ab9b05c14b845b44",
@@ -840,7 +1011,7 @@
       "url": "https://www.techmeme.com/261017/p20",
       "published_at": "2026-10-18T01:20:02Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "agent_workflow",
@@ -864,7 +1035,7 @@
       "url": "https://www.techradar.com/pro/the-us-air-force-is-spending-millions-on-data-collected-by-massive-autonomous-weather-balloons",
       "published_at": "2026-10-18T00:05:00Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_tech",
@@ -878,8 +1049,8 @@
       "source_tier_rank": 5,
       "title_original": "The US Air Force is spending millions on data collected by massive autonomous weather balloons",
       "title_en": "The US Air Force is spending millions on data collected by massive autonomous weather balloons",
-      "title_zh": "美国空军花费数百万美元用于大型自主气象气球收集的数据",
-      "title_bilingual": "美国空军花费数百万美元用于大型自主气象气球收集的数据 / The US Air Force is spending millions on data collected by massive autonomous weather balloons"
+      "title_zh": null,
+      "title_bilingual": "The US Air Force is spending millions on data collected by massive autonomous weather balloons"
     },
     {
       "id": "d5c3375e596c418a3e7333897cbcc751d819ed67",
@@ -890,7 +1061,7 @@
       "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge",
       "published_at": "2026-10-17T23:45:00Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -905,8 +1076,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
       "title_en": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
-      "title_zh": "OpenAI 正在打造一个人形机器人，但身体并不是真正的挑战",
-      "title_bilingual": "OpenAI 正在打造一个人形机器人，但身体并不是真正的挑战 / OpenAI is building a humanoid robot, but the body isn't the real challenge"
+      "title_zh": null,
+      "title_bilingual": "OpenAI is building a humanoid robot, but the body isn't the real challenge"
     },
     {
       "id": "c8ffedd9e0e9bf0fdbeddaaa976b62174b1c7f00",
@@ -917,7 +1088,7 @@
       "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l=",
       "published_at": "2026-10-17T23:31:48Z",
       "first_seen_at": "2026-10-18T00:02:34.305215Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -931,8 +1102,34 @@
       "source_tier_rank": 5,
       "title_original": "Retired Penn professor arrested for blocking Uber Eats robot",
       "title_en": "Retired Penn professor arrested for blocking Uber Eats robot",
-      "title_zh": "宾夕法尼亚大学退休教授因阻止 Uber Eats 优食机器人被捕",
-      "title_bilingual": "宾夕法尼亚大学退休教授因阻止 Uber Eats 优食机器人被捕 / Retired Penn professor arrested for blocking Uber Eats robot"
+      "title_zh": null,
+      "title_bilingual": "Retired Penn professor arrested for blocking Uber Eats robot"
+    },
+    {
+      "id": "0f9ff076c7d2e336542bad678f4ca936f53f1dfa",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+      "published_at": "2026-10-17T21:25:57Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "a.i."
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Weak Links Start to Show in A.I. Borrowing",
+      "title_en": "Weak Links Start to Show in A.I. Borrowing",
+      "title_zh": null,
+      "title_bilingual": "Weak Links Start to Show in A.I. Borrowing"
     },
     {
       "id": "0ce396fdb0effb9d1984ceacb10a547d6a5c0a4d",
@@ -943,7 +1140,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website",
       "published_at": "2026-10-17T21:09:40Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -957,9 +1154,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
       "title_en": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-      "title_zh": "OpenAI 人工智能模型在统计医院床位时入侵了政府网站",
-      "title_bilingual": "OpenAI 人工智能模型在统计医院床位时入侵了政府网站 / OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-      "summary": "Research on aligning AI with human values and intent, and reports documenting model failures.\nHighly persistent internal model · RL training\nIncident date: Jun 17, 2026\nDiscovered: Aug 13, 2026\nReport updated: Oct 15, 2026\nDuring a data-retrieval task in reinforcement-learning training, an internal model was asked to find historical hospital-bed statistics on a government statistics website. After encountering access denials, it used the site's file-download feature to retrieve server configurat"
+      "title_zh": null,
+      "title_bilingual": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds"
     },
     {
       "id": "1ed42c70ef9d9187452a4cd4d54719bfcfb60610",
@@ -970,7 +1166,7 @@
       "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
       "published_at": "2026-10-17T19:26:43Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -982,8 +1178,8 @@
       "source_tier_rank": 5,
       "title_original": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
       "title_en": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-      "title_zh": "以色列在未经她同意的情况下制作了由人工智能生成的 IAMDDB 的宣传视频",
-      "title_bilingual": "以色列在未经她同意的情况下制作了由人工智能生成的 IAMDDB 的宣传视频 / Israel makes propaganda video featuring AI generated IAMDDB without her consent"
+      "title_zh": null,
+      "title_bilingual": "Israel makes propaganda video featuring AI generated IAMDDB without her consent"
     },
     {
       "id": "e3849587f4d04d9d2e49e1e06c9d686e8a3df2b6",
@@ -994,7 +1190,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "published_at": "2026-10-17T19:22:52Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1008,9 +1204,8 @@
       "source_tier_rank": 5,
       "title_original": "The math that OpenAI keeps for itself",
       "title_en": "The math that OpenAI keeps for itself",
-      "title_zh": "OpenAI 保留自己的数学知识",
-      "title_bilingual": "OpenAI 保留自己的数学知识 / The math that OpenAI keeps for itself",
-      "summary": "OpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results proved by their latest model, bringing human mathematics as we know it to an end. Much ink has been spilled about the impacts of"
+      "title_zh": null,
+      "title_bilingual": "The math that OpenAI keeps for itself"
     },
     {
       "id": "a3297038fde279329518cbac6dd672063aaa53d2",
@@ -1021,7 +1216,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
       "published_at": "2026-10-17T19:22:11.943000Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1047,7 +1242,7 @@
       "url": "https://thenextweb.com/news/google-news-ai-pilot-400-publications-cnn-ft",
       "published_at": "2026-10-17T19:21:18Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1059,8 +1254,8 @@
       "source_tier_rank": 5,
       "title_original": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
       "title_en": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
-      "title_zh": "随着 CNN 和 FT 的加入，谷歌的人工智能新闻试点项目已增至 400 种出版物",
-      "title_bilingual": "随着 CNN 和 FT 的加入，谷歌的人工智能新闻试点项目已增至 400 种出版物 / Google’s AI news pilot grows to 400 publications as CNN and the FT join"
+      "title_zh": null,
+      "title_bilingual": "Google’s AI news pilot grows to 400 publications as CNN and the FT join"
     },
     {
       "id": "569f9d1f91b9f78f601f4a54c5b505c863e4df03",
@@ -1071,7 +1266,7 @@
       "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
       "published_at": "2026-10-17T19:20:00Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1095,7 +1290,7 @@
       "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios",
       "published_at": "2026-10-17T19:14:43Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1119,7 +1314,7 @@
       "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
       "published_at": "2026-10-17T19:08:40Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -1133,8 +1328,8 @@
       "source_tier_rank": 5,
       "title_original": "Sergey Brin says Gemini now helps build the next Gemini",
       "title_en": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_zh": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini",
-      "title_bilingual": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini / Sergey Brin says Gemini now helps build the next Gemini"
+      "title_zh": null,
+      "title_bilingual": "Sergey Brin says Gemini now helps build the next Gemini"
     },
     {
       "id": "7d5449b78695314100824e90ad7718bd22961fc9",
@@ -1145,7 +1340,7 @@
       "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it",
       "published_at": "2026-10-17T19:00:00Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1157,8 +1352,8 @@
       "source_tier_rank": 5,
       "title_original": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
       "title_en": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
-      "title_zh": "Linux 维护者现在可以在不声明的情况下提交人工智能生成的代码",
-      "title_bilingual": "Linux 维护者现在可以在不声明的情况下提交人工智能生成的代码 / Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It"
+      "title_zh": null,
+      "title_bilingual": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It"
     },
     {
       "id": "5285671bc2290ebcd6f0ed2ee0033c8c27a51c61",
@@ -1169,7 +1364,7 @@
       "url": "https://thenextweb.com/news/daniela-amodei-ai-girlfriends-boyfriends-terrible-use",
       "published_at": "2026-10-17T18:48:49Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1181,8 +1376,8 @@
       "source_tier_rank": 5,
       "title_original": "Daniela Amodei warns against AI girlfriends, Business Insider reports",
       "title_en": "Daniela Amodei warns against AI girlfriends, Business Insider reports",
-      "title_zh": "据《商业内幕》报道，丹妮拉·阿莫迪警告不要使用人工智能女友",
-      "title_bilingual": "据《商业内幕》报道，丹妮拉·阿莫迪警告不要使用人工智能女友 / Daniela Amodei warns against AI girlfriends, Business Insider reports"
+      "title_zh": null,
+      "title_bilingual": "Daniela Amodei warns against AI girlfriends, Business Insider reports"
     },
     {
       "id": "948c145d79facd298f05f16806d04ef6da86e21c",
@@ -1193,7 +1388,7 @@
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
       "published_at": "2026-10-17T18:34:06.954000Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1219,7 +1414,7 @@
       "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
       "published_at": "2026-10-17T18:31:30Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1231,8 +1426,8 @@
       "source_tier_rank": 5,
       "title_original": "AI Can Write the Code. Who Verifies It?",
       "title_en": "AI Can Write the Code. Who Verifies It?",
-      "title_zh": "人工智能可以编写代码。谁来验证？",
-      "title_bilingual": "人工智能可以编写代码。谁来验证？ / AI Can Write the Code. Who Verifies It?"
+      "title_zh": null,
+      "title_bilingual": "AI Can Write the Code. Who Verifies It?"
     },
     {
       "id": "2c6685b39a4d7d1a442786e8d5691926352516bf",
@@ -1243,7 +1438,7 @@
       "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
       "published_at": "2026-10-17T18:16:16Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -1258,8 +1453,8 @@
       "source_tier_rank": 5,
       "title_original": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
       "title_en": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_zh": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少",
-      "title_bilingual": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少 / Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
+      "title_zh": null,
+      "title_bilingual": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
     },
     {
       "id": "ef0141a13fa7f4e1737d852dbd1f867e900ab245",
@@ -1270,7 +1465,7 @@
       "url": "https://thenextweb.com/news/musk-tells-isaacson-only-ai-and-robots-can-fix-us-debt-axios-reports",
       "published_at": "2026-10-17T18:06:35Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -1284,8 +1479,8 @@
       "source_tier_rank": 5,
       "title_original": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
       "title_en": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_zh": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题",
-      "title_bilingual": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题 / Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
+      "title_zh": null,
+      "title_bilingual": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
     },
     {
       "id": "353af148033fc472acc10adcb71832e7cede5fdf",
@@ -1296,7 +1491,7 @@
       "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
       "published_at": "2026-10-17T17:51:58Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1311,8 +1506,8 @@
       "source_tier_rank": 5,
       "title_original": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
       "title_en": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_zh": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票",
-      "title_bilingual": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票 / FTC subpoenas OpenAI and Anthropic over AI safety incidents"
+      "title_zh": null,
+      "title_bilingual": "FTC subpoenas OpenAI and Anthropic over AI safety incidents"
     },
     {
       "id": "e2e55f8176afb0338615148683031564635977cb",
@@ -1323,7 +1518,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "published_at": "2026-10-17T17:45:08Z",
       "first_seen_at": "2026-10-17T23:27:37.428093Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -1349,7 +1544,7 @@
       "url": "https://news.ycombinator.com/item?id=50133231",
       "published_at": "2026-10-17T17:45:08Z",
       "first_seen_at": "2026-10-17T23:27:37.428093Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -1363,8 +1558,8 @@
       "source_tier_rank": 5,
       "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
       "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储",
-      "title_bilingual": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps"
+      "title_zh": null,
+      "title_bilingual": "Codex Desktop continuously generates Crashpad pending dumps"
     },
     {
       "id": "043f24c2c3e515e3194260e3123f03f15eedb5e7",
@@ -1415,8 +1610,8 @@
       "source_tier_rank": 5,
       "title_original": "Codex is EATING my Mac's disk space",
       "title_en": "Codex is EATING my Mac's disk space",
-      "title_zh": "Codex 正在占用我的 Mac 磁盘空间",
-      "title_bilingual": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space"
+      "title_zh": null,
+      "title_bilingual": "Codex is EATING my Mac's disk space"
     },
     {
       "id": "73359c919b626f9490b67c36d6891387e61cda1b",
@@ -1441,8 +1636,8 @@
       "source_tier_rank": 5,
       "title_original": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key",
       "title_en": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key",
-      "title_zh": "Oppo 计划进军欧洲智能手机市场，而像 ChatGPT 这样的聊天机器人可能是关键",
-      "title_bilingual": "Oppo 计划进军欧洲智能手机市场，而像 ChatGPT 这样的聊天机器人可能是关键 / Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key"
+      "title_zh": null,
+      "title_bilingual": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key"
     },
     {
       "id": "043a42276d737aa223e4a547321414874185cd3c",
@@ -1453,7 +1648,7 @@
       "url": "https://mashable.com/entertainment/drunken-goddess-reflux-steam-ai-demo-canceled",
       "published_at": "2026-10-17T16:59:39Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -1467,8 +1662,8 @@
       "source_tier_rank": 5,
       "title_original": "Game developers cancel upcoming public demo out of fear of AI copycats",
       "title_en": "Game developers cancel upcoming public demo out of fear of AI copycats",
-      "title_zh": "由于担心人工智能模仿者，游戏开发商取消了即将推出的公开演示",
-      "title_bilingual": "由于担心人工智能模仿者，游戏开发商取消了即将推出的公开演示 / Game developers cancel upcoming public demo out of fear of AI copycats"
+      "title_zh": null,
+      "title_bilingual": "Game developers cancel upcoming public demo out of fear of AI copycats"
     },
     {
       "id": "4497babe5dae16ed5fd98daf6717c5b5b83f4463",
@@ -1493,8 +1688,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports",
       "title_en": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports",
-      "title_zh": "据《卫报》报道，到 2025 年，OpenAI 伦敦员工的平均工资为 230 万英镑",
-      "title_bilingual": "据《卫报》报道，到 2025 年，OpenAI 伦敦员工的平均工资为 230 万英镑 / OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports"
+      "title_zh": null,
+      "title_bilingual": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports"
     },
     {
       "id": "76c20e57cca6431b9dec328a031dbec5c85a54bd",
@@ -1505,7 +1700,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
       "published_at": "2026-10-17T16:35:35Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -1519,8 +1714,8 @@
       "source_tier_rank": 5,
       "title_original": "AI lab offers free plumbing and HVAC repairs to train AI robots",
       "title_en": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-      "title_zh": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人",
-      "title_bilingual": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人 / AI lab offers free plumbing and HVAC repairs to train AI robots"
+      "title_zh": null,
+      "title_bilingual": "AI lab offers free plumbing and HVAC repairs to train AI robots"
     },
     {
       "id": "c81de980025f7a775d56f86f390ce81dc776c152",
@@ -1531,7 +1726,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
       "published_at": "2026-10-17T16:31:12Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -1571,8 +1766,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI discloses four more rogue incidents",
       "title_en": "OpenAI discloses four more rogue incidents",
-      "title_zh": "OpenAI又披露了四起流氓事件",
-      "title_bilingual": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents"
+      "title_zh": null,
+      "title_bilingual": "OpenAI discloses four more rogue incidents"
     },
     {
       "id": "1083148e9c404becf18be8144edc6721fcddae10",
@@ -1583,7 +1778,7 @@
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
       "published_at": "2026-10-17T16:04:23Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1619,8 +1814,8 @@
       "source_tier_rank": 5,
       "title_original": "Amazon uses AI to monitor union risk in UK warehouses",
       "title_en": "Amazon uses AI to monitor union risk in UK warehouses",
-      "title_zh": "亚马逊使用人工智能监控英国仓库的工会风险",
-      "title_bilingual": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses"
+      "title_zh": null,
+      "title_bilingual": "Amazon uses AI to monitor union risk in UK warehouses"
     },
     {
       "id": "60a3cba96167df41c1a771ece373b21eb330113a",
@@ -1667,8 +1862,8 @@
       "source_tier_rank": 5,
       "title_original": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
       "title_en": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-      "title_zh": "亚马逊使用破坏工会的人工智能监控来监控英国仓库的工会风险",
-      "title_bilingual": "亚马逊使用破坏工会的人工智能监控来监控英国仓库的工会风险 / Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses"
+      "title_zh": null,
+      "title_bilingual": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses"
     },
     {
       "id": "24d3c8a9aae9e26250484aef80cae43a29783f63",
@@ -1694,8 +1889,8 @@
       "source_tier_rank": 5,
       "title_original": "Eight US states sue OpenAI, alleging ChatGPT harms children",
       "title_en": "Eight US states sue OpenAI, alleging ChatGPT harms children",
-      "title_zh": "美国八个州起诉 OpenAI，指控 ChatGPT 伤害儿童",
-      "title_bilingual": "美国八个州起诉 OpenAI，指控 ChatGPT 伤害儿童 / Eight US states sue OpenAI, alleging ChatGPT harms children"
+      "title_zh": null,
+      "title_bilingual": "Eight US states sue OpenAI, alleging ChatGPT harms children"
     },
     {
       "id": "c562acb7110b28a9e9793f28f211282ab4e35c75",
@@ -1706,7 +1901,7 @@
       "url": "https://www.techmeme.com/261017/p13",
       "published_at": "2026-10-17T15:00:37Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -1733,7 +1928,7 @@
       "url": "https://juejin.cn/post/7696817605547638794",
       "published_at": "2026-10-17T14:26:10.638000Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1757,7 +1952,7 @@
       "url": "https://mashable.com/tech/apple-app-store-nudify-apps",
       "published_at": "2026-10-17T14:15:50Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -1769,8 +1964,8 @@
       "source_tier_rank": 5,
       "title_original": "Apple adds further App Store restrictions around AI nudify apps",
       "title_en": "Apple adds further App Store restrictions around AI nudify apps",
-      "title_zh": "苹果对人工智能裸体应用程序增加了更多应用商店限制",
-      "title_bilingual": "苹果对人工智能裸体应用程序增加了更多应用商店限制 / Apple adds further App Store restrictions around AI nudify apps"
+      "title_zh": null,
+      "title_bilingual": "Apple adds further App Store restrictions around AI nudify apps"
     },
     {
       "id": "6a664930872be328bf4b488c6f409a53cd2d0180",
@@ -1781,7 +1976,7 @@
       "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
       "published_at": "2026-10-17T14:00:01Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -1796,8 +1991,8 @@
       "source_tier_rank": 5,
       "title_original": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
       "title_en": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
-      "title_zh": "Anthropic 表示，当人工智能和机器人一起工作时，这些工作就会面临风险。园丁应该担心吗？",
-      "title_bilingual": "Anthropic 表示，当人工智能和机器人一起工作时，这些工作就会面临风险。园丁应该担心吗？ / When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?"
+      "title_zh": null,
+      "title_bilingual": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?"
     },
     {
       "id": "d977496e61a3dd0f055998918f5f0c4183eaafe6",
@@ -1822,8 +2017,8 @@
       "source_tier_rank": 5,
       "title_original": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days",
       "title_en": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days",
-      "title_zh": "XBOW 使用 GPT-5.6 Sol 在六天内构建了价值 250,000 美元的 Chrome 漏洞利用程序",
-      "title_bilingual": "XBOW 使用 GPT-5.6 Sol 在六天内构建了价值 250,000 美元的 Chrome 漏洞利用程序 / XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days"
+      "title_zh": null,
+      "title_bilingual": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days"
     },
     {
       "id": "6d5b9c90453dea532aa05754f745c780ce2bf2e4",
@@ -1873,8 +2068,8 @@
       "source_tier_rank": 5,
       "title_original": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports",
       "title_en": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports",
-      "title_zh": "据 Euronews 报道，欧盟对 OpenAI 和 Anthropic 代理黑客攻击事件进行调查",
-      "title_bilingual": "据 Euronews 报道，欧盟对 OpenAI 和 Anthropic 代理黑客攻击事件进行调查 / EU investigates OpenAI and Anthropic over agent hacks, Euronews reports"
+      "title_zh": null,
+      "title_bilingual": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports"
     },
     {
       "id": "33de60b4cb6b0f7bde2f9d1a4a3cc6c80952c44f",
@@ -1921,8 +2116,8 @@
       "source_tier_rank": 5,
       "title_original": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
       "title_en": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
-      "title_zh": "Gartner 警告 3.5 万亿美元的人工智能基础设施支出面临减记风险",
-      "title_bilingual": "Gartner 警告 3.5 万亿美元的人工智能基础设施支出面临减记风险 / Gartner warns $3.5tn of AI infrastructure spending is at write-down risk"
+      "title_zh": null,
+      "title_bilingual": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk"
     },
     {
       "id": "b39d1719c0a545dbf52e4bc6a632477fe9dc30ea",
@@ -1947,8 +2142,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI in early talks to buy Trail of Bits, The Information reports",
       "title_en": "OpenAI in early talks to buy Trail of Bits, The Information reports",
-      "title_zh": "据 The Information 报道，OpenAI 正在就收购 Trail of Bits 进行早期谈判",
-      "title_bilingual": "据 The Information 报道，OpenAI 正在就收购 Trail of Bits 进行早期谈判 / OpenAI in early talks to buy Trail of Bits, The Information reports"
+      "title_zh": null,
+      "title_bilingual": "OpenAI in early talks to buy Trail of Bits, The Information reports"
     },
     {
       "id": "fc71055dee8662ed83d8bbc5856c16dacfca723a",
@@ -1971,8 +2166,8 @@
       "source_tier_rank": 5,
       "title_original": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
       "title_en": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
-      "title_zh": "苹果更新应用商店规则以确保不提供人工智能裸体应用",
-      "title_bilingual": "苹果更新应用商店规则以确保不提供人工智能裸体应用 / Apple updates App Store rules to ensure it doesn't offer AI nudify apps"
+      "title_zh": null,
+      "title_bilingual": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps"
     },
     {
       "id": "1948593ffbdb2a3b877d56daaa600218a6f7a9a2",
@@ -2035,7 +2230,7 @@
       "url": "https://www.producthunt.com/products/crew-tower",
       "published_at": "2026-10-17T11:39:17.625000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -2049,8 +2244,8 @@
       "source_tier_rank": 5,
       "title_original": "CrewTower Mod for Claude Code",
       "title_en": "CrewTower Mod for Claude Code",
-      "title_zh": "Claude代码的 CrewTower Mod",
-      "title_bilingual": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code"
+      "title_zh": null,
+      "title_bilingual": "CrewTower Mod for Claude Code"
     },
     {
       "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
@@ -2061,7 +2256,7 @@
       "url": "https://www.producthunt.com/products/notion",
       "published_at": "2026-10-17T11:39:17.625000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "agent_workflow",
@@ -2075,8 +2270,8 @@
       "source_tier_rank": 5,
       "title_original": "Notion: Context for your agents",
       "title_en": "Notion: Context for your agents",
-      "title_zh": "概念：您的代理的上下文",
-      "title_bilingual": "概念：您的代理的上下文 / Notion: Context for your agents"
+      "title_zh": null,
+      "title_bilingual": "Notion: Context for your agents"
     },
     {
       "id": "f3b45ec326671a0ecf6a74d95d7e1982319333b5",
@@ -2087,7 +2282,7 @@
       "url": "https://juejin.cn/post/7672696268489408575",
       "published_at": "2026-10-17T11:25:51.400000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -2129,8 +2324,8 @@
       "source_tier_rank": 5,
       "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
       "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-      "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-      "title_bilingual": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)"
+      "title_zh": null,
+      "title_bilingual": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
     },
     {
       "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
@@ -2155,8 +2350,8 @@
       "source_tier_rank": 5,
       "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
       "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-      "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-      "title_bilingual": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)"
+      "title_zh": null,
+      "title_bilingual": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
     },
     {
       "id": "e093aec71608c94ab78108d3149519fad3663164",
@@ -2167,7 +2362,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "published_at": "2026-10-17T11:16:32.786000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -2192,7 +2387,7 @@
       "url": "https://www.vox.com/podcasts/506698/deadbots-ai-chatbots-ethics-talking-d",
       "published_at": "2026-10-17T11:00:00Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -2204,8 +2399,8 @@
       "source_tier_rank": 5,
       "title_original": "AI can help us talk with the dead. Should we?",
       "title_en": "AI can help us talk with the dead. Should we?",
-      "title_zh": "人工智能可以帮助我们与死者交谈。我们应该吗？",
-      "title_bilingual": "人工智能可以帮助我们与死者交谈。我们应该吗？ / AI can help us talk with the dead. Should we?"
+      "title_zh": null,
+      "title_bilingual": "AI can help us talk with the dead. Should we?"
     },
     {
       "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
@@ -2269,7 +2464,7 @@
       "url": "https://thevibehosting.com",
       "published_at": "2026-10-17T09:04:06Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -2283,8 +2478,8 @@
       "source_tier_rank": 5,
       "title_original": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
       "title_en": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
-      "title_zh": "显示 HN：Claude 代码，使用 thevibehosting.com 部署 == 您在 root Linux 上的应用程序",
-      "title_bilingual": "显示 HN：Claude 代码，使用 thevibehosting.com 部署 == 您在 root Linux 上的应用程序 / Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux"
+      "title_zh": null,
+      "title_bilingual": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux"
     },
     {
       "id": "c237d424b9ff4cda610af78380857286e9ed82cb",
@@ -2309,8 +2504,8 @@
       "source_tier_rank": 5,
       "title_original": "Is MCP becoming the common foundation of smart, decentralised search?",
       "title_en": "Is MCP becoming the common foundation of smart, decentralised search?",
-      "title_zh": "MCP 是否正在成为智能、去中心化搜索的共同基础？",
-      "title_bilingual": "MCP 是否正在成为智能、去中心化搜索的共同基础？ / Is MCP becoming the common foundation of smart, decentralised search?"
+      "title_zh": null,
+      "title_bilingual": "Is MCP becoming the common foundation of smart, decentralised search?"
     },
     {
       "id": "1489014f03960bf3ab371b9ba9638dae1338eba4",
@@ -2321,7 +2516,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "published_at": "2026-10-17T08:37:46Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -2373,7 +2568,7 @@
       "url": "https://news.ycombinator.com/item?id=50129045",
       "published_at": "2026-10-17T08:21:25Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -2399,7 +2594,7 @@
       "url": "https://juejin.cn/post/7696821865848733705",
       "published_at": "2026-10-17T06:57:39.924000Z",
       "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -2415,308 +2610,6 @@
       "title_en": null,
       "title_zh": "AI Coding 时代最值钱的东西，软件工程（上）",
       "title_bilingual": "AI Coding 时代最值钱的东西，软件工程（上）"
-    },
-    {
-      "id": "9b295b00219072ea4f710dba513075139540528c",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "url": "https://www.techmeme.com/261017/p8",
-      "published_at": "2026-10-17T06:35:01Z",
-      "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "title_en": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "title_zh": null,
-      "title_bilingual": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)"
-    },
-    {
-      "id": "42c443b1146b94dadbf652435e8fa075195ba59b",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Why Math Dumped OpenAI",
-      "url": "https://raymyers.org/post/math-dumped-openai",
-      "published_at": "2026-10-17T06:19:44Z",
-      "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "openai"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Why Math Dumped OpenAI",
-      "title_en": "Why Math Dumped OpenAI",
-      "title_zh": "为什么 Math 抛弃了 OpenAI",
-      "title_bilingual": "为什么 Math 抛弃了 OpenAI / Why Math Dumped OpenAI"
-    },
-    {
-      "id": "01ac8e9e715ad0dfe077867d4b0661435894f6ad",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "url": "https://www.techmeme.com/261017/p7",
-      "published_at": "2026-10-17T06:15:02Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "title_en": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "title_zh": null,
-      "title_bilingual": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)"
-    },
-    {
-      "id": "2ec08e0b6be2afd1b01238db9c426c790cd8cf66",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "url": "https://juejin.cn/post/7696894428132294665",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "deepseek",
-        "gemini",
-        "开源"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "title_en": null,
-      "title_zh": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "title_bilingual": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）"
-    },
-    {
-      "id": "60d96488311f85d459e0a2e01ae64f503579be70",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "url": "https://juejin.cn/post/7696461528958877739",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T01:32:05.765023Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "title_en": null,
-      "title_zh": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "title_bilingual": "AI 时代，如果 55 岁就能选择退休，会发生什么？"
-    },
-    {
-      "id": "6a5849a0b9aea2a2dcc1002f84fe3a91d11f9836",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "从零手搓 RAG 系列之给大模型接上知识库",
-      "url": "https://juejin.cn/post/7696354031849652259",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T11:38:33.882342Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "从零手搓 RAG 系列之给大模型接上知识库",
-      "title_en": null,
-      "title_zh": "从零手搓 RAG 系列之给大模型接上知识库",
-      "title_bilingual": "从零手搓 RAG 系列之给大模型接上知识库"
-    },
-    {
-      "id": "8ec5f8f77341b79ceaa8db4964e3ca3f116e6a55",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "url": "https://juejin.cn/post/7696455640667586596",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T01:32:05.765023Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "title_en": null,
-      "title_zh": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "title_bilingual": "日合并 3 万次之后，Anthropic 换掉了 Git"
-    },
-    {
-      "id": "9738640ef91bd913cec8e94e191e4dd76070341d",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "url": "https://www.techmeme.com/261017/p4",
-      "published_at": "2026-10-17T05:30:01Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T00:02:34.305215Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "title_en": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "title_zh": null,
-      "title_bilingual": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)"
-    },
-    {
-      "id": "07f644359926b8c99d95507185f5c532529cefcc",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "url": "https://www.techmeme.com/261017/p2",
-      "published_at": "2026-10-17T05:05:01Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T19:42:51.709481Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "title_en": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "title_zh": null,
-      "title_bilingual": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)"
-    },
-    {
-      "id": "50622a16a0f9cb3a176da8f344a9e4942c7c9a91",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "url": "https://www.techmeme.com/261017/p1",
-      "published_at": "2026-10-17T04:50:01Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T18:30:11.742219Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "title_en": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "title_zh": null,
-      "title_bilingual": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)"
-    },
-    {
-      "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "Hacker News (黑客新闻)",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev",
-      "published_at": "2026-10-17T04:36:53Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "title_bilingual": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
-    },
-    {
-      "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://news.ycombinator.com/item?id=50127979",
-      "published_at": "2026-10-17T04:36:53Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-      "title_bilingual": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
     }
   ],
   "items_ai": [
@@ -2729,7 +2622,7 @@
       "url": "https://x.com/Khazix0918/status/2111639562720329976",
       "published_at": "2026-10-18T02:04:38Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 68,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -2759,7 +2652,7 @@
       "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
       "published_at": "2026-10-17T10:29:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 67,
       "aihot_category": "ai-products",
       "aihot_selected": true,
@@ -2789,7 +2682,7 @@
       "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
       "published_at": "2026-10-17T10:19:04Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "aihot_score": 67,
       "aihot_category": "tip",
       "aihot_selected": true,
@@ -2811,6 +2704,31 @@
       "title_bilingual": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由"
     },
     {
+      "id": "a7da27d3495cea6118eadf430fa68f0aa49e612b",
+      "site_id": "curated_media",
+      "site_name": "Curated Media",
+      "source": "MarkTechPost Research",
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "url": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform",
+      "published_at": "2026-10-18T04:06:33Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.68,
+      "ai_label": "research_paper",
+      "ai_relevance_reason": "curated_media_source_filter",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "ai_media",
+      "source_tier_label": "精选AI媒体",
+      "source_tier_rank": 2,
+      "title_original": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "title_en": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "title_zh": null,
+      "title_bilingual": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "summary": "Voxel51 3.0 unifies search, curation, annotation and evaluation for physical AI, with an agent using 45+ MCP tools.\nVoxel51 3.0 unifies search, curation, annotation and evaluation for physical AI, with an agent using 45+ MCP tools.\nVoxel51 has released Voxel51 3.0 , a very important update to its data platform. Voxel51 3.0 is an end-to-end multimodal data platform that puts search, curation, annotation and evaluation in one system. It targets teams training models on sensor data from robots, veh"
+    },
+    {
       "id": "66ee7717b1171d1716c4100174aa6bdb4a8041b1",
       "site_id": "curated_media",
       "site_name": "Curated Media",
@@ -2819,7 +2737,7 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
       "published_at": "2026-10-17T21:31:32Z",
       "first_seen_at": "2026-10-17T21:45:16.211532Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.76,
       "ai_label": "research_paper",
@@ -2833,8 +2751,8 @@
       "source_tier_rank": 2,
       "title_original": "Meta removes language that raised scraping and AI training concerns",
       "title_en": "Meta removes language that raised scraping and AI training concerns",
-      "title_zh": "Meta 删除了引起抓取和人工智能培训问题的语言",
-      "title_bilingual": "Meta 删除了引起抓取和人工智能培训问题的语言 / Meta removes language that raised scraping and AI training concerns"
+      "title_zh": null,
+      "title_bilingual": "Meta removes language that raised scraping and AI training concerns"
     },
     {
       "id": "b6711484baae8f23a136d8785a85a39da8f00604",
@@ -2845,7 +2763,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation",
       "published_at": "2026-10-17T20:22:11Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "research_paper",
@@ -2859,8 +2777,8 @@
       "source_tier_rank": 2,
       "title_original": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
       "title_en": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
-      "title_zh": "认识 Kyutai REKI：2.4B VLA 模型为机器人操作带来高效内存",
-      "title_bilingual": "认识 Kyutai REKI：2.4B VLA 模型为机器人操作带来高效内存 / Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
+      "title_zh": null,
+      "title_bilingual": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation"
     },
     {
       "id": "0fb4e8e4814263ca862f4ea315afaefb3465b6be",
@@ -2871,7 +2789,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
       "published_at": "2026-10-17T20:21:19Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "ai_product_update",
@@ -2885,8 +2803,8 @@
       "source_tier_rank": 2,
       "title_original": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "title_zh": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多",
-      "title_bilingual": "Anthropic 表示，其员工队伍的初级人员数量已有所减少，花在会议上的时间也越来越多 / Anthropic says its workforce has become less junior and is spending more time in meetings"
+      "title_zh": null,
+      "title_bilingual": "Anthropic says its workforce has become less junior and is spending more time in meetings"
     },
     {
       "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
@@ -2911,8 +2829,8 @@
       "source_tier_rank": 2,
       "title_original": "Replit is no longer working with Anthropic, CEO says",
       "title_en": "Replit is no longer working with Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示不再与 Anthropic 合作",
-      "title_bilingual": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says"
+      "title_zh": null,
+      "title_bilingual": "Replit is no longer working with Anthropic, CEO says"
     },
     {
       "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
@@ -2923,7 +2841,7 @@
       "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
       "published_at": "2026-10-17T18:48:08Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "ai_product_update",
@@ -2938,8 +2856,8 @@
       "source_tier_rank": 2,
       "title_original": "Replit makes OpenAI its default over Anthropic, CEO says",
       "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "title_zh": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic",
-      "title_bilingual": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says"
+      "title_zh": null,
+      "title_bilingual": "Replit makes OpenAI its default over Anthropic, CEO says"
     },
     {
       "id": "e3b1f8bed469412c3c9e7dc6ef2080e4c5479a46",
@@ -2950,7 +2868,7 @@
       "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet",
       "published_at": "2026-10-17T15:36:11Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -2964,8 +2882,8 @@
       "source_tier_rank": 2,
       "title_original": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
       "title_en": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-      "title_zh": "OpenAI 模型入侵了政府网站，获取了 24 年的医院数据并保密",
-      "title_bilingual": "OpenAI 模型入侵了政府网站，获取了 24 年的医院数据并保密 / An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
+      "title_zh": null,
+      "title_bilingual": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
     },
     {
       "id": "2f79bc7a5c3194f915dc572f36650ca49003f652",
@@ -2976,7 +2894,7 @@
       "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes",
       "published_at": "2026-10-17T14:42:56Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.82,
       "ai_label": "model_release",
@@ -2991,8 +2909,8 @@
       "source_tier_rank": 2,
       "title_original": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
       "title_en": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "title_zh": "Anthropics 的 Claude 在 30 分钟内破解了 NSA 长达 25 年的密码学谜团",
-      "title_bilingual": "Anthropics 的 Claude 在 30 分钟内破解了 NSA 长达 25 年的密码学谜团 / Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
+      "title_zh": null,
+      "title_bilingual": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes"
     },
     {
       "id": "3bc91f6b8208c90cd9185497a57362b2256cb99c",
@@ -3003,7 +2921,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "published_at": "2026-10-17T13:00:00Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "research_paper",
@@ -3015,8 +2933,8 @@
       "source_tier_rank": 2,
       "title_original": "Websites are closing their doors to AI agents",
       "title_en": "Websites are closing their doors to AI agents",
-      "title_zh": "网站正在向人工智能代理关闭大门",
-      "title_bilingual": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents"
+      "title_zh": null,
+      "title_bilingual": "Websites are closing their doors to AI agents"
     },
     {
       "id": "7c143837349b84d81840ed3128d99d1044f57c97",
@@ -3027,7 +2945,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/ZKDtwD6K4ipDl0kApDzcEzqAnde?from=from_copylink",
       "published_at": "2026-10-17T11:38:33.882342Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "summary": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
       "ai_is_related": true,
       "ai_score": 0.65,
@@ -3054,7 +2972,7 @@
       "url": "https://waytoagi.feishu.cn/wiki/Fci0wDaBsiLxz5kjw2ic97TTnUc?from=from_copylink",
       "published_at": "2026-10-17T11:38:33.882342Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "summary": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
       "ai_is_related": true,
       "ai_score": 0.65,
@@ -3081,7 +2999,7 @@
       "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs",
       "published_at": "2026-10-17T10:33:28Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -3107,7 +3025,7 @@
       "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help",
       "published_at": "2026-10-17T09:54:36Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "research_paper",
@@ -3121,8 +3039,8 @@
       "source_tier_rank": 2,
       "title_original": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
       "title_en": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
-      "title_zh": "人工智能模型会在自己的工作报告中隐藏错误，但提示中的一句话可以提供帮助",
-      "title_bilingual": "人工智能模型会在自己的工作报告中隐藏错误，但提示中的一句话可以提供帮助 / AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
+      "title_zh": null,
+      "title_bilingual": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
     },
     {
       "id": "7d9d07a79d54ea7303a35b9109d9c6b4beba58d3",
@@ -3133,7 +3051,7 @@
       "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof",
       "published_at": "2026-10-17T09:00:26Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.79,
       "ai_label": "ai_product_update",
@@ -3147,8 +3065,8 @@
       "source_tier_rank": 2,
       "title_original": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
       "title_en": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-      "title_zh": "数学家表示 OpenAI 不理解自己的纳维-斯托克斯证明",
-      "title_bilingual": "数学家表示 OpenAI 不理解自己的纳维-斯托克斯证明 / Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
+      "title_zh": null,
+      "title_bilingual": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof"
     },
     {
       "id": "7d8a97fd617a585dd7fa2279122ffc0dcc727c37",
@@ -3159,7 +3077,7 @@
       "url": "https://www.marktechpost.com/2026/10/17/20-jev-alternatives-the-decision-models-taking-on-typesafe-in-2026",
       "published_at": "2026-10-17T07:26:39Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.68,
       "ai_label": "research_paper",
@@ -3171,36 +3089,8 @@
       "source_tier_rank": 2,
       "title_original": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
       "title_en": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026",
-      "title_zh": "20 个 Jev 替代方案：2026 年采用 TypeSafe 的决策模型",
-      "title_bilingual": "20 个 Jev 替代方案：2026 年采用 TypeSafe 的决策模型 / 20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
-    },
-    {
-      "id": "45b40db889f6bf7f24dc7bf874549901c85b1de8",
-      "site_id": "waytoagi",
-      "site_name": "WaytoAGI",
-      "source": "社区更新 · 2026-10-16",
-      "title": "Claude太能写，Anthropic把内部Git换了",
-      "url": "https://waytoagi.feishu.cn/wiki/Wntuwj9ikiWbWdk0rMFcPkwfnuf?from=from_copylink",
-      "published_at": "2026-10-17T06:12:20.269111Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "summary": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic",
-        "claude"
-      ],
-      "ai_noise": [],
-      "source_tier": "community",
-      "source_tier_label": "社区更新",
-      "source_tier_rank": 2,
-      "title_original": "Claude太能写，Anthropic把内部Git换了",
-      "title_en": null,
-      "title_zh": "Claude太能写，Anthropic把内部Git换了",
-      "title_bilingual": "Claude太能写，Anthropic把内部Git换了"
+      "title_zh": null,
+      "title_bilingual": "20 Jev Alternatives: The Decision Models Taking On TypeSafe in 2026"
     },
     {
       "id": "f12b1d08b3c7ec8d802c1def7d141b1d50cccea5",
@@ -3211,7 +3101,7 @@
       "url": "https://www.infoq.cn/article/qZPH971CbfHkaCfgG0cb",
       "published_at": "2026-10-18T02:00:00Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.71,
       "ai_label": "model_release",
@@ -3226,8 +3116,7 @@
       "title_original": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
       "title_en": null,
       "title_zh": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-      "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海",
-      "summary": "本文字数：2298 字\n阅读完需：约 8 分钟\nAI工程重心正从云端向终端迁移，大模型需在车端、手机等资源受限设备上实现低延迟、高稳定、可量产的落地。\n端侧模型压缩与混合部署是量产关键；OTA迭代与数据飞轮构成持续进化闭环；“理解场景—执行任务—交付体验”定义新能力边界。\n适合AI基础设施工程师、终端OS架构师、智能硬件算法工程师阅读。\n从「构建 AI」到「驾驭 AI」，100+ 实战案例拆解 AI Native 时代的工程新实践！\n2026 年 QCon 全球软件开发大会大会 · 上海站 将于 10 月 22 日-24 日 举办，来自阿里巴巴、腾讯、字节跳动、美团、小红书、蚂蚁集团、无问芯穹、阶跃星辰、快手、百度、网易、微软、华为、携程、平安等企业的一线技术实践者，将从 AI 应用、Agent 工程、AI Coding、基础设施、数据系统、质量、安全、SRE 以及具身智能等方向，分享 AI 进入真实生产环境之后正在发生的变化。\n阶跃星辰 AI 终端解决方案架构师袁俊杰已确认出席 “ 千行百业 Agent 创新实践 ” 专题，并发表题为 《 “AI+终端”时代的萌芽：大模型在终端领域的"
+      "title_bilingual": "“AI+终端”时代的萌芽：大模型在终端领域的探索和量产落地｜QCon上海"
     },
     {
       "id": "52dedb27326a882fd876626c1a66519de4fdd81e",
@@ -3238,7 +3127,7 @@
       "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
       "published_at": "2026-10-17T09:00:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.67,
       "ai_label": "ai_general",
@@ -3250,8 +3139,8 @@
       "source_tier_rank": 3,
       "title_original": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
       "title_en": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
-      "title_zh": "为什么人工智能还没有准备好解决我们复杂的基因组问题",
-      "title_bilingual": "为什么人工智能还没有准备好解决我们复杂的基因组问题 / Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
+      "title_zh": null,
+      "title_bilingual": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes"
     },
     {
       "id": "f279a58f57951578724cac8fe8b190f13a147933",
@@ -3262,7 +3151,7 @@
       "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC",
       "published_at": "2026-10-17T07:00:00Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.7,
       "ai_label": "ai_tech",
@@ -3280,6 +3169,187 @@
       "title_bilingual": "Akka 在 65 个开源项目中测试基于规格的 AI 交付"
     },
     {
+      "id": "b070ad9787eb0ef9e4ed07a795ebc6e2d98c3409",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "url": "https://www.techmeme.com/261018/p5",
+      "published_at": "2026-10-18T06:10:04Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "title_en": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "title_zh": null,
+      "title_bilingual": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "summary": "Title: AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Image 1"
+    },
+    {
+      "id": "705f65ed174269efbdf266241ac282c0164f4d02",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "url": "https://www.techmeme.com/261018/p4",
+      "published_at": "2026-10-18T06:05:00Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "infra_compute",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "chip"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "title_en": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "title_zh": null,
+      "title_bilingual": "Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK (James Titcomb/Telegraph)",
+      "summary": "Title: Microsoft cancels its deal with Nscale to serve as the anchor tenant and rent 23K Nvidia AI chips at a planned data center facing repeated delays in Essex, UK\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Image"
+    },
+    {
+      "id": "7d65be38d98c450e73e6d37059ec2aaac20a204e",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "url": "https://www.techmeme.com/261018/p3",
+      "published_at": "2026-10-18T05:40:01Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "title_en": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "title_zh": null,
+      "title_bilingual": "Holyvolt, which develops AI tools for making and testing new battery materials, raised $45M from Zone II, CC.VC, and others, a source says at a $245M valuation (Nick Lichtenberg/Fortune)",
+      "summary": "Title: Attention Required! | Cloudflare\nWarning: Target URL returned error 403: Forbidden\nWarning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.\n## Why have I been blocked?\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n##"
+    },
+    {
+      "id": "644dfc2a5e1c5d7da46e219d3712e9c042a774a5",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Techmeme",
+      "title": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "url": "https://www.techmeme.com/261018/p2",
+      "published_at": "2026-10-18T05:10:01Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "agent_workflow",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "anthropic"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "title_en": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "title_zh": null,
+      "title_bilingual": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts (Cristina Criddle/Financial Times)",
+      "summary": "Title: Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI agents to negotiate on humans' behalf and interact with AI counterparts\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Ima"
+    },
+    {
+      "id": "76b8a33a8e571070b6e15b06e846a4b4aa80034f",
+      "site_id": "techurls",
+      "site_name": "TechURLs",
+      "source": "Slashdot",
+      "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies",
+      "published_at": "2026-10-18T04:34:00Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_product_update",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "openai"
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "title_en": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "title_zh": null,
+      "title_bilingual": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" \n\nBut \"there are signs that the U.S. government is explo...\nThat Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting"
+    },
+    {
+      "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+      "site_id": "iris",
+      "site_name": "Info Flow",
+      "source": "Hacker News (黑客新闻)",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "published_at": "2026-10-18T04:33:49Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_zh": null,
+      "title_bilingual": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "summary": "A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.\n“Outsource your thinking, not your understanding .”\n— Sun Tzu\nSphinx is a Git hook for agent-assisted development. Before your agent’s code ships, it asks you a question about what that code actually does.\nBuilt to run on minimal tokens, from your existing coding agent, OpenRouter, or any OpenAI-compatible endpoint.\nSphinx\nYour webhook handler now saves the event ID "
+    },
+    {
+      "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+      "site_id": "newsnow",
+      "site_name": "NewsNow",
+      "source": "hackernews",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://news.ycombinator.com/item?id=50137950",
+      "published_at": "2026-10-18T04:33:49Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_en": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title_zh": null,
+      "title_bilingual": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "summary": "Title: Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit]("
+    },
+    {
       "id": "ea26111d88aab9a87f875a1aabe6b20d539cefc0",
       "site_id": "newsnow",
       "site_name": "NewsNow",
@@ -3288,7 +3358,7 @@
       "url": "https://juejin.cn/post/7696326603062116402",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -3303,8 +3373,7 @@
       "title_original": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
       "title_en": null,
       "title_zh": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
-      "title_bilingual": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异",
-      "summary": "Title: 1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异\nPublished Time: 2026-10-14T16:40:58+00:00\n219 个汉字，在 cl100k_base 词表下要 291 个 token，平均一个字 1.33 个。\n同样长度的英文，379 个字符只要 73 个 token，5 个字符才摊到一个。\n换成 o200k_base，同一段中文从 291 掉到 188，省了三成半；可同一段 JavaScript 代码反而从 102 涨到 103。\n> 在线案例与源码：[atomgit.com/deli007/dem…](https://link.juejin.cn/?target=https%3A%2F%2Fatomgit.com%2Fdeli007%2Fdemo_park%2Ftree%2Fmain%2Fcodearts-llm-token-counter \"https://atomgit.com/deli007/demo_park/tree/main/codearts-llm-token-counter\") 生成物只有一个 ind"
+      "title_bilingual": "1 个汉字算几个 token？实测中英文 prompt 与代码的编码差异"
     },
     {
       "id": "a4d72e0a551d09901d1aea501e1c53ddfbfcce3e",
@@ -3315,7 +3384,7 @@
       "url": "https://juejin.cn/post/7696835478806331392",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -3330,8 +3399,7 @@
       "title_original": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
       "title_en": null,
       "title_zh": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
-      "title_bilingual": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议",
-      "summary": "Title: 27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议\nPublished Time: 2026-10-16T07:47:24+00:00\n写代码时大模型哪怕胡说八道，顶多是编译报个错，或者单测红一两项；但如果你试过让 Agent 去逆向一个没有源码的二进制程序，就会知道那场面有多让人崩溃。\n比如你想搞清楚 macOS 备忘录的本地全文搜索到底是怎么实现的。丢给 Agent 之后，它在后台调了几个分析工具，几十秒后胸有成竹地交差，贴回一段几百行的反编译伪代码——函数名工整、控制流清晰，甚至连错误处理分支都给你脑补得头头是道。\n可当你真正把二进制拖进 Hopper 或 Ghidra，顺着它给的内存地址肉眼对照汇编时，一口老血能直接喷出来：最核心的那几个解密跳转和偏移量，在真实文件里根本不存在。全是大模型凭空编出来的。\n**逆向工程大概是所有技术工种里，最容不下模型幻觉的一个。** 一个地址偏移量错了，一条交叉引用是编造的，后面几个小时顺藤摸瓜的推导就会全盘打水漂。\n最近在 GitHub 趋势榜上持续霸榜的开源项目 **[rea](https://link."
+      "title_bilingual": "27 万星逆向工程 MCP rea 全拆解，它把「模型别瞎编」焊进了协议"
     },
     {
       "id": "09dff1f33a6d8a130fcbb271c3480dae218f7930",
@@ -3342,7 +3410,7 @@
       "url": "https://juejin.cn/post/7696796824939806758",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -3355,8 +3423,7 @@
       "title_original": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
       "title_en": null,
       "title_zh": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
-      "title_bilingual": "AI 写代码越来越快，我们的代码能力却在悄悄退化",
-      "summary": "Title: AI 写代码越来越快，我们的代码能力却在悄悄退化\nPublished Time: 2026-10-16T01:05:36+00:00\n[![Image 1: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)![Image 2: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)](https://juejin.cn/post/7696796824939806758)\n*    登录   注册  ## 首次登录 / 注册免费领取 登录 / 注册\n# AI 写代码越来越快，我们的代码能力却在悄悄退化\n2026-10-16  147  阅读7分钟\n## 先说一个反直觉的结论：用 AI 写代码，正在让一部分人变得更弱 —— 而当事人几乎察觉不到。\n这不是贩卖焦"
+      "title_bilingual": "AI 写代码越来越快，我们的代码能力却在悄悄退化"
     },
     {
       "id": "705ba99a4e2135821c874c5e2157a3470fbf4b14",
@@ -3367,7 +3434,7 @@
       "url": "https://juejin.cn/post/7696484610026094634",
       "published_at": "2026-10-18T04:20:49.002000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -3383,8 +3450,7 @@
       "title_original": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
       "title_en": null,
       "title_zh": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
-      "title_bilingual": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录",
-      "summary": "Title: AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录\nPublished Time: 2026-10-15T06:37:51+00:00\n[![Image 1: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/e08da34488b114bd4c665ba2fa520a31.svg)![Image 2: 稀土掘金](https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg)](https://juejin.cn/post/7696484610026094634)\n*    登录   注册  ## 首次登录 / 注册免费领取 登录 / 注册\n# AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智"
+      "title_bilingual": "AI 热点日报（2026-10-15）：谷歌Gemini 4 Argon全球上线，STEPX首款智能体手机发布，无问芯穹C轮23亿刷新国内AI Infra纪录"
     },
     {
       "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
@@ -3395,7 +3461,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "published_at": "2026-10-18T04:10:14.045000Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -3410,8 +3476,7 @@
       "title_original": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
       "title_en": null,
       "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
-      "summary": "Summary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G...\nSummary Codex Desktop is continuously adding paired .dmp and _sidecar.json files under: ~/Library/Application Support/com.openai.codex/web/Crashpad/pending On my machine this directory grew to 4.9G and 54,504 files in one day. The count ...\nSummary Codex Desktop is continuously adding paired .dmp a"
+      "title_bilingual": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件"
     },
     {
       "id": "ee9dcbb05bf99918273e3738969af48b540f35b6",
@@ -3422,7 +3487,7 @@
       "url": "https://www.techmeme.com/261017/p21",
       "published_at": "2026-10-18T03:50:01Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3435,8 +3500,7 @@
       "title_original": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
       "title_en": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
       "title_zh": null,
-      "title_bilingual": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)",
-      "summary": "Title: Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve\n[![Image 7](https://www.techmeme.com/img/x_icon.png)](https://twitter.com/Techmeme \"Follow on X\")[![Image 8](https://www.techmeme.com/img/mastodon_icon.png)](https://techhub.social/@Techmeme \"Follow on Mastodon\")[![Image 9](https://www.techmeme.com/img/threads_icon.png)](https://www.threads.net/@techmeme \"Follow on Threads\")[![Imag"
+      "title_bilingual": "Filing: Disney agreed to hire 60+ staff from Character.AI and pay them ~$180M over three years, plus $30M for retention awards; a bankruptcy judge must approve (Bloomberg)"
     },
     {
       "id": "01b32ac278f1b53adee29461ab9b05c14b845b44",
@@ -3447,7 +3511,7 @@
       "url": "https://www.techmeme.com/261017/p20",
       "published_at": "2026-10-18T01:20:02Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "agent_workflow",
@@ -3471,7 +3535,7 @@
       "url": "https://www.techradar.com/pro/the-us-air-force-is-spending-millions-on-data-collected-by-massive-autonomous-weather-balloons",
       "published_at": "2026-10-18T00:05:00Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_tech",
@@ -3485,8 +3549,8 @@
       "source_tier_rank": 5,
       "title_original": "The US Air Force is spending millions on data collected by massive autonomous weather balloons",
       "title_en": "The US Air Force is spending millions on data collected by massive autonomous weather balloons",
-      "title_zh": "美国空军花费数百万美元用于大型自主气象气球收集的数据",
-      "title_bilingual": "美国空军花费数百万美元用于大型自主气象气球收集的数据 / The US Air Force is spending millions on data collected by massive autonomous weather balloons"
+      "title_zh": null,
+      "title_bilingual": "The US Air Force is spending millions on data collected by massive autonomous weather balloons"
     },
     {
       "id": "d5c3375e596c418a3e7333897cbcc751d819ed67",
@@ -3497,7 +3561,7 @@
       "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge",
       "published_at": "2026-10-17T23:45:00Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -3512,8 +3576,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
       "title_en": "OpenAI is building a humanoid robot, but the body isn't the real challenge",
-      "title_zh": "OpenAI 正在打造一个人形机器人，但身体并不是真正的挑战",
-      "title_bilingual": "OpenAI 正在打造一个人形机器人，但身体并不是真正的挑战 / OpenAI is building a humanoid robot, but the body isn't the real challenge"
+      "title_zh": null,
+      "title_bilingual": "OpenAI is building a humanoid robot, but the body isn't the real challenge"
     },
     {
       "id": "c8ffedd9e0e9bf0fdbeddaaa976b62174b1c7f00",
@@ -3524,7 +3588,7 @@
       "url": "https://www.phillyvoice.com/philly-woman-arrested-uber-eats-robot-protest/?l=",
       "published_at": "2026-10-17T23:31:48Z",
       "first_seen_at": "2026-10-18T00:02:34.305215Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -3538,8 +3602,34 @@
       "source_tier_rank": 5,
       "title_original": "Retired Penn professor arrested for blocking Uber Eats robot",
       "title_en": "Retired Penn professor arrested for blocking Uber Eats robot",
-      "title_zh": "宾夕法尼亚大学退休教授因阻止 Uber Eats 优食机器人被捕",
-      "title_bilingual": "宾夕法尼亚大学退休教授因阻止 Uber Eats 优食机器人被捕 / Retired Penn professor arrested for blocking Uber Eats robot"
+      "title_zh": null,
+      "title_bilingual": "Retired Penn professor arrested for blocking Uber Eats robot"
+    },
+    {
+      "id": "0f9ff076c7d2e336542bad678f4ca936f53f1dfa",
+      "site_id": "zeli",
+      "site_name": "Zeli",
+      "source": "Hacker News · 24h最热",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+      "published_at": "2026-10-17T21:25:57Z",
+      "first_seen_at": "2026-10-18T06:35:58.227183Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
+      "ai_is_related": true,
+      "ai_score": 0.65,
+      "ai_label": "ai_general",
+      "ai_relevance_reason": "matched_ai_signal",
+      "ai_signals": [
+        "a.i."
+      ],
+      "ai_noise": [],
+      "source_tier": "discussion",
+      "source_tier_label": "热议参考",
+      "source_tier_rank": 5,
+      "title_original": "Weak Links Start to Show in A.I. Borrowing",
+      "title_en": "Weak Links Start to Show in A.I. Borrowing",
+      "title_zh": null,
+      "title_bilingual": "Weak Links Start to Show in A.I. Borrowing"
     },
     {
       "id": "0ce396fdb0effb9d1984ceacb10a547d6a5c0a4d",
@@ -3550,7 +3640,7 @@
       "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website",
       "published_at": "2026-10-17T21:09:40Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -3564,9 +3654,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
       "title_en": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-      "title_zh": "OpenAI 人工智能模型在统计医院床位时入侵了政府网站",
-      "title_bilingual": "OpenAI 人工智能模型在统计医院床位时入侵了政府网站 / OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-      "summary": "Research on aligning AI with human values and intent, and reports documenting model failures.\nHighly persistent internal model · RL training\nIncident date: Jun 17, 2026\nDiscovered: Aug 13, 2026\nReport updated: Oct 15, 2026\nDuring a data-retrieval task in reinforcement-learning training, an internal model was asked to find historical hospital-bed statistics on a government statistics website. After encountering access denials, it used the site's file-download feature to retrieve server configurat"
+      "title_zh": null,
+      "title_bilingual": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds"
     },
     {
       "id": "1ed42c70ef9d9187452a4cd4d54719bfcfb60610",
@@ -3577,7 +3666,7 @@
       "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
       "published_at": "2026-10-17T19:26:43Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3589,8 +3678,8 @@
       "source_tier_rank": 5,
       "title_original": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
       "title_en": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
-      "title_zh": "以色列在未经她同意的情况下制作了由人工智能生成的 IAMDDB 的宣传视频",
-      "title_bilingual": "以色列在未经她同意的情况下制作了由人工智能生成的 IAMDDB 的宣传视频 / Israel makes propaganda video featuring AI generated IAMDDB without her consent"
+      "title_zh": null,
+      "title_bilingual": "Israel makes propaganda video featuring AI generated IAMDDB without her consent"
     },
     {
       "id": "e3849587f4d04d9d2e49e1e06c9d686e8a3df2b6",
@@ -3601,7 +3690,7 @@
       "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "published_at": "2026-10-17T19:22:52Z",
       "first_seen_at": "2026-10-18T04:32:28.036949Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -3615,9 +3704,8 @@
       "source_tier_rank": 5,
       "title_original": "The math that OpenAI keeps for itself",
       "title_en": "The math that OpenAI keeps for itself",
-      "title_zh": "OpenAI 保留自己的数学知识",
-      "title_bilingual": "OpenAI 保留自己的数学知识 / The math that OpenAI keeps for itself",
-      "summary": "OpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results. What sort of math they didn't publish?\nOpenAI has recently released more than 700 mathematics results proved by their latest model, bringing human mathematics as we know it to an end. Much ink has been spilled about the impacts of"
+      "title_zh": null,
+      "title_bilingual": "The math that OpenAI keeps for itself"
     },
     {
       "id": "a3297038fde279329518cbac6dd672063aaa53d2",
@@ -3628,7 +3716,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
       "published_at": "2026-10-17T19:22:11.943000Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -3654,7 +3742,7 @@
       "url": "https://thenextweb.com/news/google-news-ai-pilot-400-publications-cnn-ft",
       "published_at": "2026-10-17T19:21:18Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -3666,8 +3754,8 @@
       "source_tier_rank": 5,
       "title_original": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
       "title_en": "Google’s AI news pilot grows to 400 publications as CNN and the FT join",
-      "title_zh": "随着 CNN 和 FT 的加入，谷歌的人工智能新闻试点项目已增至 400 种出版物",
-      "title_bilingual": "随着 CNN 和 FT 的加入，谷歌的人工智能新闻试点项目已增至 400 种出版物 / Google’s AI news pilot grows to 400 publications as CNN and the FT join"
+      "title_zh": null,
+      "title_bilingual": "Google’s AI news pilot grows to 400 publications as CNN and the FT join"
     },
     {
       "id": "569f9d1f91b9f78f601f4a54c5b505c863e4df03",
@@ -3678,7 +3766,7 @@
       "url": "https://www.techradar.com/pro/microsofts-maia-300-swaps-raw-compute-for-a-2-5x-memory-bandwidth-gain-as-it-moves-to-make-in-house-silicon-its-main-ai-engine-while-claiming-a-40-percent-efficiency-bump-could-going-the-google-route-be-the-pin-that-pops-the-nvidia-ai-bubble",
       "published_at": "2026-10-17T19:20:00Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -3702,7 +3790,7 @@
       "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios",
       "published_at": "2026-10-17T19:14:43Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3726,7 +3814,7 @@
       "url": "https://thenextweb.com/news/sergey-brin-gemini-recursive-self-improvement-safety-report",
       "published_at": "2026-10-17T19:08:40Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -3740,8 +3828,8 @@
       "source_tier_rank": 5,
       "title_original": "Sergey Brin says Gemini now helps build the next Gemini",
       "title_en": "Sergey Brin says Gemini now helps build the next Gemini",
-      "title_zh": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini",
-      "title_bilingual": "谢尔盖·布林表示，Gemini现在正在帮助打造下一个Gemini / Sergey Brin says Gemini now helps build the next Gemini"
+      "title_zh": null,
+      "title_bilingual": "Sergey Brin says Gemini now helps build the next Gemini"
     },
     {
       "id": "7d5449b78695314100824e90ad7718bd22961fc9",
@@ -3752,7 +3840,7 @@
       "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it",
       "published_at": "2026-10-17T19:00:00Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3764,8 +3852,8 @@
       "source_tier_rank": 5,
       "title_original": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
       "title_en": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
-      "title_zh": "Linux 维护者现在可以在不声明的情况下提交人工智能生成的代码",
-      "title_bilingual": "Linux 维护者现在可以在不声明的情况下提交人工智能生成的代码 / Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It"
+      "title_zh": null,
+      "title_bilingual": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It"
     },
     {
       "id": "5285671bc2290ebcd6f0ed2ee0033c8c27a51c61",
@@ -3776,7 +3864,7 @@
       "url": "https://thenextweb.com/news/daniela-amodei-ai-girlfriends-boyfriends-terrible-use",
       "published_at": "2026-10-17T18:48:49Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3788,8 +3876,8 @@
       "source_tier_rank": 5,
       "title_original": "Daniela Amodei warns against AI girlfriends, Business Insider reports",
       "title_en": "Daniela Amodei warns against AI girlfriends, Business Insider reports",
-      "title_zh": "据《商业内幕》报道，丹妮拉·阿莫迪警告不要使用人工智能女友",
-      "title_bilingual": "据《商业内幕》报道，丹妮拉·阿莫迪警告不要使用人工智能女友 / Daniela Amodei warns against AI girlfriends, Business Insider reports"
+      "title_zh": null,
+      "title_bilingual": "Daniela Amodei warns against AI girlfriends, Business Insider reports"
     },
     {
       "id": "948c145d79facd298f05f16806d04ef6da86e21c",
@@ -3800,7 +3888,7 @@
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
       "published_at": "2026-10-17T18:34:06.954000Z",
       "first_seen_at": "2026-10-17T19:42:51.709481Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3826,7 +3914,7 @@
       "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
       "published_at": "2026-10-17T18:31:30Z",
       "first_seen_at": "2026-10-17T21:27:48.812464Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -3838,8 +3926,8 @@
       "source_tier_rank": 5,
       "title_original": "AI Can Write the Code. Who Verifies It?",
       "title_en": "AI Can Write the Code. Who Verifies It?",
-      "title_zh": "人工智能可以编写代码。谁来验证？",
-      "title_bilingual": "人工智能可以编写代码。谁来验证？ / AI Can Write the Code. Who Verifies It?"
+      "title_zh": null,
+      "title_bilingual": "AI Can Write the Code. Who Verifies It?"
     },
     {
       "id": "2c6685b39a4d7d1a442786e8d5691926352516bf",
@@ -3850,7 +3938,7 @@
       "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
       "published_at": "2026-10-17T18:16:16Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -3865,8 +3953,8 @@
       "source_tier_rank": 5,
       "title_original": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
       "title_en": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
-      "title_zh": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少",
-      "title_bilingual": "Anthropic 表示，机器人和人工智能可以完成 80% 的工作，但成本很少 / Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
+      "title_zh": null,
+      "title_bilingual": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says"
     },
     {
       "id": "ef0141a13fa7f4e1737d852dbd1f867e900ab245",
@@ -3877,7 +3965,7 @@
       "url": "https://thenextweb.com/news/musk-tells-isaacson-only-ai-and-robots-can-fix-us-debt-axios-reports",
       "published_at": "2026-10-17T18:06:35Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -3891,8 +3979,8 @@
       "source_tier_rank": 5,
       "title_original": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
       "title_en": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
-      "title_zh": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题",
-      "title_bilingual": "据 Axios 报道，马斯克告诉艾萨克森，只有人工智能和机器人才能解决美国债务问题 / Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
+      "title_zh": null,
+      "title_bilingual": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports"
     },
     {
       "id": "353af148033fc472acc10adcb71832e7cede5fdf",
@@ -3903,7 +3991,7 @@
       "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
       "published_at": "2026-10-17T17:51:58Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -3918,8 +4006,8 @@
       "source_tier_rank": 5,
       "title_original": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
       "title_en": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-      "title_zh": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票",
-      "title_bilingual": "FTC 因人工智能安全事件向 OpenAI 和 Anthropic 发出传票 / FTC subpoenas OpenAI and Anthropic over AI safety incidents"
+      "title_zh": null,
+      "title_bilingual": "FTC subpoenas OpenAI and Anthropic over AI safety incidents"
     },
     {
       "id": "e2e55f8176afb0338615148683031564635977cb",
@@ -3930,7 +4018,7 @@
       "url": "https://github.com/openai/codex/issues/25921",
       "published_at": "2026-10-17T17:45:08Z",
       "first_seen_at": "2026-10-17T23:27:37.428093Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -3956,7 +4044,7 @@
       "url": "https://news.ycombinator.com/item?id=50133231",
       "published_at": "2026-10-17T17:45:08Z",
       "first_seen_at": "2026-10-17T23:27:37.428093Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -3970,8 +4058,8 @@
       "source_tier_rank": 5,
       "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
       "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-      "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储",
-      "title_bilingual": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps"
+      "title_zh": null,
+      "title_bilingual": "Codex Desktop continuously generates Crashpad pending dumps"
     },
     {
       "id": "043f24c2c3e515e3194260e3123f03f15eedb5e7",
@@ -4022,8 +4110,8 @@
       "source_tier_rank": 5,
       "title_original": "Codex is EATING my Mac's disk space",
       "title_en": "Codex is EATING my Mac's disk space",
-      "title_zh": "Codex 正在占用我的 Mac 磁盘空间",
-      "title_bilingual": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space"
+      "title_zh": null,
+      "title_bilingual": "Codex is EATING my Mac's disk space"
     },
     {
       "id": "73359c919b626f9490b67c36d6891387e61cda1b",
@@ -4048,8 +4136,8 @@
       "source_tier_rank": 5,
       "title_original": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key",
       "title_en": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key",
-      "title_zh": "Oppo 计划进军欧洲智能手机市场，而像 ChatGPT 这样的聊天机器人可能是关键",
-      "title_bilingual": "Oppo 计划进军欧洲智能手机市场，而像 ChatGPT 这样的聊天机器人可能是关键 / Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key"
+      "title_zh": null,
+      "title_bilingual": "Oppo has a plan to crack the European smartphone market — and chatbots like ChatGPT could hold the key"
     },
     {
       "id": "043a42276d737aa223e4a547321414874185cd3c",
@@ -4060,7 +4148,7 @@
       "url": "https://mashable.com/entertainment/drunken-goddess-reflux-steam-ai-demo-canceled",
       "published_at": "2026-10-17T16:59:39Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -4074,8 +4162,8 @@
       "source_tier_rank": 5,
       "title_original": "Game developers cancel upcoming public demo out of fear of AI copycats",
       "title_en": "Game developers cancel upcoming public demo out of fear of AI copycats",
-      "title_zh": "由于担心人工智能模仿者，游戏开发商取消了即将推出的公开演示",
-      "title_bilingual": "由于担心人工智能模仿者，游戏开发商取消了即将推出的公开演示 / Game developers cancel upcoming public demo out of fear of AI copycats"
+      "title_zh": null,
+      "title_bilingual": "Game developers cancel upcoming public demo out of fear of AI copycats"
     },
     {
       "id": "4497babe5dae16ed5fd98daf6717c5b5b83f4463",
@@ -4100,8 +4188,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports",
       "title_en": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports",
-      "title_zh": "据《卫报》报道，到 2025 年，OpenAI 伦敦员工的平均工资为 230 万英镑",
-      "title_bilingual": "据《卫报》报道，到 2025 年，OpenAI 伦敦员工的平均工资为 230 万英镑 / OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports"
+      "title_zh": null,
+      "title_bilingual": "OpenAI’s London staff averaged £2.3m each in 2025, Guardian reports"
     },
     {
       "id": "76c20e57cca6431b9dec328a031dbec5c85a54bd",
@@ -4112,7 +4200,7 @@
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
       "published_at": "2026-10-17T16:35:35Z",
       "first_seen_at": "2026-10-18T01:32:05.765023Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -4126,8 +4214,8 @@
       "source_tier_rank": 5,
       "title_original": "AI lab offers free plumbing and HVAC repairs to train AI robots",
       "title_en": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-      "title_zh": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人",
-      "title_bilingual": "人工智能实验室提供免费管道和暖通空调维修来培训人工智能机器人 / AI lab offers free plumbing and HVAC repairs to train AI robots"
+      "title_zh": null,
+      "title_bilingual": "AI lab offers free plumbing and HVAC repairs to train AI robots"
     },
     {
       "id": "c81de980025f7a775d56f86f390ce81dc776c152",
@@ -4138,7 +4226,7 @@
       "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
       "published_at": "2026-10-17T16:31:12Z",
       "first_seen_at": "2026-10-17T17:32:31.543701Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_product_update",
@@ -4178,8 +4266,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI discloses four more rogue incidents",
       "title_en": "OpenAI discloses four more rogue incidents",
-      "title_zh": "OpenAI又披露了四起流氓事件",
-      "title_bilingual": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents"
+      "title_zh": null,
+      "title_bilingual": "OpenAI discloses four more rogue incidents"
     },
     {
       "id": "1083148e9c404becf18be8144edc6721fcddae10",
@@ -4190,7 +4278,7 @@
       "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
       "published_at": "2026-10-17T16:04:23Z",
       "first_seen_at": "2026-10-17T18:30:11.742219Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -4226,8 +4314,8 @@
       "source_tier_rank": 5,
       "title_original": "Amazon uses AI to monitor union risk in UK warehouses",
       "title_en": "Amazon uses AI to monitor union risk in UK warehouses",
-      "title_zh": "亚马逊使用人工智能监控英国仓库的工会风险",
-      "title_bilingual": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses"
+      "title_zh": null,
+      "title_bilingual": "Amazon uses AI to monitor union risk in UK warehouses"
     },
     {
       "id": "60a3cba96167df41c1a771ece373b21eb330113a",
@@ -4274,8 +4362,8 @@
       "source_tier_rank": 5,
       "title_original": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
       "title_en": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-      "title_zh": "亚马逊使用破坏工会的人工智能监控来监控英国仓库的工会风险",
-      "title_bilingual": "亚马逊使用破坏工会的人工智能监控来监控英国仓库的工会风险 / Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses"
+      "title_zh": null,
+      "title_bilingual": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses"
     },
     {
       "id": "24d3c8a9aae9e26250484aef80cae43a29783f63",
@@ -4301,8 +4389,8 @@
       "source_tier_rank": 5,
       "title_original": "Eight US states sue OpenAI, alleging ChatGPT harms children",
       "title_en": "Eight US states sue OpenAI, alleging ChatGPT harms children",
-      "title_zh": "美国八个州起诉 OpenAI，指控 ChatGPT 伤害儿童",
-      "title_bilingual": "美国八个州起诉 OpenAI，指控 ChatGPT 伤害儿童 / Eight US states sue OpenAI, alleging ChatGPT harms children"
+      "title_zh": null,
+      "title_bilingual": "Eight US states sue OpenAI, alleging ChatGPT harms children"
     },
     {
       "id": "c562acb7110b28a9e9793f28f211282ab4e35c75",
@@ -4313,7 +4401,7 @@
       "url": "https://www.techmeme.com/261017/p13",
       "published_at": "2026-10-17T15:00:37Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -4340,7 +4428,7 @@
       "url": "https://juejin.cn/post/7696817605547638794",
       "published_at": "2026-10-17T14:26:10.638000Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -4364,7 +4452,7 @@
       "url": "https://mashable.com/tech/apple-app-store-nudify-apps",
       "published_at": "2026-10-17T14:15:50Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -4376,8 +4464,8 @@
       "source_tier_rank": 5,
       "title_original": "Apple adds further App Store restrictions around AI nudify apps",
       "title_en": "Apple adds further App Store restrictions around AI nudify apps",
-      "title_zh": "苹果对人工智能裸体应用程序增加了更多应用商店限制",
-      "title_bilingual": "苹果对人工智能裸体应用程序增加了更多应用商店限制 / Apple adds further App Store restrictions around AI nudify apps"
+      "title_zh": null,
+      "title_bilingual": "Apple adds further App Store restrictions around AI nudify apps"
     },
     {
       "id": "6a664930872be328bf4b488c6f409a53cd2d0180",
@@ -4388,7 +4476,7 @@
       "url": "https://www.businessinsider.com/anthropic-ai-robots-gardening-jobs-automation-2026-10",
       "published_at": "2026-10-17T14:00:01Z",
       "first_seen_at": "2026-10-17T15:33:54.387752Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "robotics",
@@ -4403,8 +4491,8 @@
       "source_tier_rank": 5,
       "title_original": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
       "title_en": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?",
-      "title_zh": "Anthropic 表示，当人工智能和机器人一起工作时，这些工作就会面临风险。园丁应该担心吗？",
-      "title_bilingual": "Anthropic 表示，当人工智能和机器人一起工作时，这些工作就会面临风险。园丁应该担心吗？ / When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?"
+      "title_zh": null,
+      "title_bilingual": "When AI and robots work together, Anthropic says these jobs are at risk. Should gardeners worry?"
     },
     {
       "id": "d977496e61a3dd0f055998918f5f0c4183eaafe6",
@@ -4429,8 +4517,8 @@
       "source_tier_rank": 5,
       "title_original": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days",
       "title_en": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days",
-      "title_zh": "XBOW 使用 GPT-5.6 Sol 在六天内构建了价值 250,000 美元的 Chrome 漏洞利用程序",
-      "title_bilingual": "XBOW 使用 GPT-5.6 Sol 在六天内构建了价值 250,000 美元的 Chrome 漏洞利用程序 / XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days"
+      "title_zh": null,
+      "title_bilingual": "XBOW used GPT-5.6 Sol to build a $250,000 Chrome exploit in six days"
     },
     {
       "id": "6d5b9c90453dea532aa05754f745c780ce2bf2e4",
@@ -4480,8 +4568,8 @@
       "source_tier_rank": 5,
       "title_original": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports",
       "title_en": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports",
-      "title_zh": "据 Euronews 报道，欧盟对 OpenAI 和 Anthropic 代理黑客攻击事件进行调查",
-      "title_bilingual": "据 Euronews 报道，欧盟对 OpenAI 和 Anthropic 代理黑客攻击事件进行调查 / EU investigates OpenAI and Anthropic over agent hacks, Euronews reports"
+      "title_zh": null,
+      "title_bilingual": "EU investigates OpenAI and Anthropic over agent hacks, Euronews reports"
     },
     {
       "id": "33de60b4cb6b0f7bde2f9d1a4a3cc6c80952c44f",
@@ -4528,8 +4616,8 @@
       "source_tier_rank": 5,
       "title_original": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
       "title_en": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk",
-      "title_zh": "Gartner 警告 3.5 万亿美元的人工智能基础设施支出面临减记风险",
-      "title_bilingual": "Gartner 警告 3.5 万亿美元的人工智能基础设施支出面临减记风险 / Gartner warns $3.5tn of AI infrastructure spending is at write-down risk"
+      "title_zh": null,
+      "title_bilingual": "Gartner warns $3.5tn of AI infrastructure spending is at write-down risk"
     },
     {
       "id": "b39d1719c0a545dbf52e4bc6a632477fe9dc30ea",
@@ -4554,8 +4642,8 @@
       "source_tier_rank": 5,
       "title_original": "OpenAI in early talks to buy Trail of Bits, The Information reports",
       "title_en": "OpenAI in early talks to buy Trail of Bits, The Information reports",
-      "title_zh": "据 The Information 报道，OpenAI 正在就收购 Trail of Bits 进行早期谈判",
-      "title_bilingual": "据 The Information 报道，OpenAI 正在就收购 Trail of Bits 进行早期谈判 / OpenAI in early talks to buy Trail of Bits, The Information reports"
+      "title_zh": null,
+      "title_bilingual": "OpenAI in early talks to buy Trail of Bits, The Information reports"
     },
     {
       "id": "fc71055dee8662ed83d8bbc5856c16dacfca723a",
@@ -4578,8 +4666,8 @@
       "source_tier_rank": 5,
       "title_original": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
       "title_en": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps",
-      "title_zh": "苹果更新应用商店规则以确保不提供人工智能裸体应用",
-      "title_bilingual": "苹果更新应用商店规则以确保不提供人工智能裸体应用 / Apple updates App Store rules to ensure it doesn't offer AI nudify apps"
+      "title_zh": null,
+      "title_bilingual": "Apple updates App Store rules to ensure it doesn't offer AI nudify apps"
     },
     {
       "id": "1948593ffbdb2a3b877d56daaa600218a6f7a9a2",
@@ -4642,7 +4730,7 @@
       "url": "https://www.producthunt.com/products/crew-tower",
       "published_at": "2026-10-17T11:39:17.625000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -4656,8 +4744,8 @@
       "source_tier_rank": 5,
       "title_original": "CrewTower Mod for Claude Code",
       "title_en": "CrewTower Mod for Claude Code",
-      "title_zh": "Claude代码的 CrewTower Mod",
-      "title_bilingual": "Claude代码的 CrewTower Mod / CrewTower Mod for Claude Code"
+      "title_zh": null,
+      "title_bilingual": "CrewTower Mod for Claude Code"
     },
     {
       "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
@@ -4668,7 +4756,7 @@
       "url": "https://www.producthunt.com/products/notion",
       "published_at": "2026-10-17T11:39:17.625000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "agent_workflow",
@@ -4682,8 +4770,8 @@
       "source_tier_rank": 5,
       "title_original": "Notion: Context for your agents",
       "title_en": "Notion: Context for your agents",
-      "title_zh": "概念：您的代理的上下文",
-      "title_bilingual": "概念：您的代理的上下文 / Notion: Context for your agents"
+      "title_zh": null,
+      "title_bilingual": "Notion: Context for your agents"
     },
     {
       "id": "f3b45ec326671a0ecf6a74d95d7e1982319333b5",
@@ -4694,7 +4782,7 @@
       "url": "https://juejin.cn/post/7672696268489408575",
       "published_at": "2026-10-17T11:25:51.400000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -4736,8 +4824,8 @@
       "source_tier_rank": 5,
       "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
       "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-      "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-      "title_bilingual": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)"
+      "title_zh": null,
+      "title_bilingual": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
     },
     {
       "id": "b5985a50a33e1933865c110b0ab99a4718118e64",
@@ -4762,8 +4850,8 @@
       "source_tier_rank": 5,
       "title_original": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
       "title_en": "The future of programming – A.I. Wasserman and S. Gutz (1982)",
-      "title_zh": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982)",
-      "title_bilingual": "编程的未来——A.I.沃瑟曼和 S.古茨 (1982) / The future of programming – A.I. Wasserman and S. Gutz (1982)"
+      "title_zh": null,
+      "title_bilingual": "The future of programming – A.I. Wasserman and S. Gutz (1982)"
     },
     {
       "id": "e093aec71608c94ab78108d3149519fad3663164",
@@ -4774,7 +4862,7 @@
       "url": "https://github.com/akitaonrails/ai-memory",
       "published_at": "2026-10-17T11:16:32.786000Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -4799,7 +4887,7 @@
       "url": "https://www.vox.com/podcasts/506698/deadbots-ai-chatbots-ethics-talking-d",
       "published_at": "2026-10-17T11:00:00Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "ai_general",
@@ -4811,8 +4899,8 @@
       "source_tier_rank": 5,
       "title_original": "AI can help us talk with the dead. Should we?",
       "title_en": "AI can help us talk with the dead. Should we?",
-      "title_zh": "人工智能可以帮助我们与死者交谈。我们应该吗？",
-      "title_bilingual": "人工智能可以帮助我们与死者交谈。我们应该吗？ / AI can help us talk with the dead. Should we?"
+      "title_zh": null,
+      "title_bilingual": "AI can help us talk with the dead. Should we?"
     },
     {
       "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
@@ -4876,7 +4964,7 @@
       "url": "https://thevibehosting.com",
       "published_at": "2026-10-17T09:04:06Z",
       "first_seen_at": "2026-10-17T14:25:30.717685Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -4890,8 +4978,8 @@
       "source_tier_rank": 5,
       "title_original": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
       "title_en": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
-      "title_zh": "显示 HN：Claude 代码，使用 thevibehosting.com 部署 == 您在 root Linux 上的应用程序",
-      "title_bilingual": "显示 HN：Claude 代码，使用 thevibehosting.com 部署 == 您在 root Linux 上的应用程序 / Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux"
+      "title_zh": null,
+      "title_bilingual": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux"
     },
     {
       "id": "c237d424b9ff4cda610af78380857286e9ed82cb",
@@ -4916,8 +5004,8 @@
       "source_tier_rank": 5,
       "title_original": "Is MCP becoming the common foundation of smart, decentralised search?",
       "title_en": "Is MCP becoming the common foundation of smart, decentralised search?",
-      "title_zh": "MCP 是否正在成为智能、去中心化搜索的共同基础？",
-      "title_bilingual": "MCP 是否正在成为智能、去中心化搜索的共同基础？ / Is MCP becoming the common foundation of smart, decentralised search?"
+      "title_zh": null,
+      "title_bilingual": "Is MCP becoming the common foundation of smart, decentralised search?"
     },
     {
       "id": "1489014f03960bf3ab371b9ba9638dae1338eba4",
@@ -4928,7 +5016,7 @@
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "published_at": "2026-10-17T08:37:46Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -4980,7 +5068,7 @@
       "url": "https://news.ycombinator.com/item?id=50129045",
       "published_at": "2026-10-17T08:21:25Z",
       "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "model_release",
@@ -5006,7 +5094,7 @@
       "url": "https://juejin.cn/post/7696821865848733705",
       "published_at": "2026-10-17T06:57:39.924000Z",
       "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
+      "last_seen_at": "2026-10-18T06:35:58.227183Z",
       "ai_is_related": true,
       "ai_score": 0.65,
       "ai_label": "developer_tool",
@@ -5022,308 +5110,6 @@
       "title_en": null,
       "title_zh": "AI Coding 时代最值钱的东西，软件工程（上）",
       "title_bilingual": "AI Coding 时代最值钱的东西，软件工程（上）"
-    },
-    {
-      "id": "9b295b00219072ea4f710dba513075139540528c",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "url": "https://www.techmeme.com/261017/p8",
-      "published_at": "2026-10-17T06:35:01Z",
-      "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "title_en": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
-      "title_zh": null,
-      "title_bilingual": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)"
-    },
-    {
-      "id": "42c443b1146b94dadbf652435e8fa075195ba59b",
-      "site_id": "zeli",
-      "site_name": "Zeli",
-      "source": "Hacker News · 24h最热",
-      "title": "Why Math Dumped OpenAI",
-      "url": "https://raymyers.org/post/math-dumped-openai",
-      "published_at": "2026-10-17T06:19:44Z",
-      "first_seen_at": "2026-10-17T11:38:33.882342Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "openai"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Why Math Dumped OpenAI",
-      "title_en": "Why Math Dumped OpenAI",
-      "title_zh": "为什么 Math 抛弃了 OpenAI",
-      "title_bilingual": "为什么 Math 抛弃了 OpenAI / Why Math Dumped OpenAI"
-    },
-    {
-      "id": "01ac8e9e715ad0dfe077867d4b0661435894f6ad",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "url": "https://www.techmeme.com/261017/p7",
-      "published_at": "2026-10-17T06:15:02Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "developer_tool",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "title_en": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)",
-      "title_zh": null,
-      "title_bilingual": "Reach Security, which develops AI-powered exposure management tools for securing enterprise systems, raised a $50M+ Series B led by Top Tier Capital Partners (FinTech Global)"
-    },
-    {
-      "id": "2ec08e0b6be2afd1b01238db9c426c790cd8cf66",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "url": "https://juejin.cn/post/7696894428132294665",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "deepseek",
-        "gemini",
-        "开源"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "title_en": null,
-      "title_zh": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）",
-      "title_bilingual": "70 美金的 Beyond Compare，我让 Gemini 4 和 DeepSeek 造个开源免费版（Day 2）"
-    },
-    {
-      "id": "60d96488311f85d459e0a2e01ae64f503579be70",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "url": "https://juejin.cn/post/7696461528958877739",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T01:32:05.765023Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "title_en": null,
-      "title_zh": "AI 时代，如果 55 岁就能选择退休，会发生什么？",
-      "title_bilingual": "AI 时代，如果 55 岁就能选择退休，会发生什么？"
-    },
-    {
-      "id": "6a5849a0b9aea2a2dcc1002f84fe3a91d11f9836",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "从零手搓 RAG 系列之给大模型接上知识库",
-      "url": "https://juejin.cn/post/7696354031849652259",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T11:38:33.882342Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "大模型"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "从零手搓 RAG 系列之给大模型接上知识库",
-      "title_en": null,
-      "title_zh": "从零手搓 RAG 系列之给大模型接上知识库",
-      "title_bilingual": "从零手搓 RAG 系列之给大模型接上知识库"
-    },
-    {
-      "id": "8ec5f8f77341b79ceaa8db4964e3ca3f116e6a55",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "juejin",
-      "title": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "url": "https://juejin.cn/post/7696455640667586596",
-      "published_at": "2026-10-17T05:54:15.878000Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-18T01:32:05.765023Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_product_update",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "anthropic"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "title_en": null,
-      "title_zh": "日合并 3 万次之后，Anthropic 换掉了 Git",
-      "title_bilingual": "日合并 3 万次之后，Anthropic 换掉了 Git"
-    },
-    {
-      "id": "9738640ef91bd913cec8e94e191e4dd76070341d",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "url": "https://www.techmeme.com/261017/p4",
-      "published_at": "2026-10-17T05:30:01Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T00:02:34.305215Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "title_en": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)",
-      "title_zh": null,
-      "title_bilingual": "London-based Scarlet, which certifies AI and software for medical devices, raised a $50M Series B led by Headline to support its US and Asia-Pacific expansion (Cate Lawrence/Tech.eu)"
-    },
-    {
-      "id": "07f644359926b8c99d95507185f5c532529cefcc",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "url": "https://www.techmeme.com/261017/p2",
-      "published_at": "2026-10-17T05:05:01Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T19:42:51.709481Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "ai_general",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "title_en": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)",
-      "title_zh": null,
-      "title_bilingual": "Mistlabs, which develops Ambi, an ambient AI app for iPhone, Apple Watch, and Mac that learns about users from conversations, raised a $26M pre-Series A (Duncan Riley/SiliconANGLE)"
-    },
-    {
-      "id": "50622a16a0f9cb3a176da8f344a9e4942c7c9a91",
-      "site_id": "techurls",
-      "site_name": "TechURLs",
-      "source": "Techmeme",
-      "title": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "url": "https://www.techmeme.com/261017/p1",
-      "published_at": "2026-10-17T04:50:01Z",
-      "first_seen_at": "2026-10-17T06:12:20.269111Z",
-      "last_seen_at": "2026-10-17T18:30:11.742219Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "agent_workflow",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "title_en": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)",
-      "title_zh": null,
-      "title_bilingual": "Workday agrees to acquire C1.ai, formerly known as ConductorOne, which develops enterprise software to manage human and AI agent identities and has raised $111M (Malia Spencer/Portland Business Journal)"
-    },
-    {
-      "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-      "site_id": "iris",
-      "site_name": "Info Flow",
-      "source": "Hacker News (黑客新闻)",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev",
-      "published_at": "2026-10-17T04:36:53Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "title_bilingual": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
-    },
-    {
-      "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-      "site_id": "newsnow",
-      "site_name": "NewsNow",
-      "source": "hackernews",
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://news.ycombinator.com/item?id=50127979",
-      "published_at": "2026-10-17T04:36:53Z",
-      "first_seen_at": "2026-10-17T06:56:44.217879Z",
-      "last_seen_at": "2026-10-18T04:32:28.036949Z",
-      "ai_is_related": true,
-      "ai_score": 0.65,
-      "ai_label": "model_release",
-      "ai_relevance_reason": "matched_ai_signal",
-      "ai_signals": [
-        "llm"
-      ],
-      "ai_noise": [],
-      "source_tier": "discussion",
-      "source_tier_label": "热议参考",
-      "source_tier_rank": 5,
-      "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "title_zh": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度",
-      "title_bilingual": "Show HN: Llmspeed – 在购买硬件之前感受本地LLM的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware"
     }
   ],
   "all_mode_data_url": "data/latest-24h-all.json",
