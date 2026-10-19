@@ -1,10 +1,87 @@
 {
-  "generated_at": "2026-10-19T06:51:00.061768Z",
+  "generated_at": "2026-10-19T13:26:06.543375Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f92b9febe869",
+      "story_id": "story_1c2bfa5d3821",
+      "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "primary_url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+          "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As…\nStarting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As a result, CodeQL can’t support traced scans on these versions or analyze Swift 6.4.\nIf you scan Swift or use traced builds for other languages, pin your workflow",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+          "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As…\nStarting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As a result, CodeQL can’t support traced scans on these versions or analyze Swift 6.4.\nIf you scan Swift or use traced builds for other languages, pin your workflow",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:29:09Z",
+      "latest_at": "2026-10-19T10:29:09Z",
+      "primary_item": {
+        "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+        "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "title_zh": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改",
+        "title_en": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "title_original": "CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "summary": "Starting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As…\nStarting with macOS 27 and Xcode 27, Apple no longer includes Intel (x86_64) code in some of the system binaries and libraries that CodeQL relies on to trace builds. As a result, CodeQL can’t support traced scans on these versions or analyze Swift 6.4.\nIf you scan Swift or use traced builds for other languages, pin your workflow",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f06226c1b35e",
       "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
       "url": "https://www.aibase.com/news/31712",
       "primary_url": "https://www.aibase.com/news/31712",
@@ -26,21 +103,7 @@
           "published_at": "2026-10-19T06:15:53.071965Z"
         },
         {
-          "id": "fa7f3d80f05244f2f8a17f4fec6255cbabdb336a",
-          "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "title_zh": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "title_en": null,
-          "title_original": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "summary": "Title: DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算\nPublished Time: 2026-10-18T04:32:25+00:00\n## DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算\n> **结论先放前面。** 这次升级是真的，但不是全面变强，是\"更会用工具、更少废话\"。基础代码能力没退化，长上下文和多模态稳，许愿式编程确实能跑通。代价是——它会把大量 token 烧在思考上，你不给足输出预算，代码会在第 1738 个 token 处被硬生生截断。\n10 月 17 日 18:07，DeepSeek 把 V4.1 Flash 更新到了 **V4.1-Flash-1017**。网页端、App、API 三端同步切换，没有发布会，没有预热，只有一个版本号。\nAPI 名字没变，还是 `deepseek-flash`。价格也没变：峰时输入 $0.30 / 输出$1.20 每百万 tokens，谷时减半。换句话说，你什么都没做",
-          "recommend_reason_zh": null,
-          "url": "https://juejin.cn/post/7697474838380134410",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T06:51:37.471000Z"
-        },
-        {
-          "id": "bb2fb8d31285d0f32563392618ebf849081e205a",
+          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
           "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
           "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
           "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -48,10 +111,24 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z"
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T07:08:12.735000Z"
+        },
+        {
+          "id": "fa7f3d80f05244f2f8a17f4fec6255cbabdb336a",
+          "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "title_zh": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "title_en": null,
+          "title_original": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7697474838380134410",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T06:51:37.471000Z"
         },
         {
           "id": "647417e53347c0b7ea93984538b594b6e0308a59",
@@ -71,7 +148,7 @@
       "source_count": 4,
       "source_names": [
         "AIbase",
-        "Hacker News (黑客新闻)",
+        "artificialanalysis.ai",
         "hackernews",
         "juejin"
       ],
@@ -91,21 +168,7 @@
           "published_at": "2026-10-19T06:15:53.071965Z"
         },
         {
-          "id": "fa7f3d80f05244f2f8a17f4fec6255cbabdb336a",
-          "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "title_zh": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "title_en": null,
-          "title_original": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
-          "summary": "Title: DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算\nPublished Time: 2026-10-18T04:32:25+00:00\n## DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算\n> **结论先放前面。** 这次升级是真的，但不是全面变强，是\"更会用工具、更少废话\"。基础代码能力没退化，长上下文和多模态稳，许愿式编程确实能跑通。代价是——它会把大量 token 烧在思考上，你不给足输出预算，代码会在第 1738 个 token 处被硬生生截断。\n10 月 17 日 18:07，DeepSeek 把 V4.1 Flash 更新到了 **V4.1-Flash-1017**。网页端、App、API 三端同步切换，没有发布会，没有预热，只有一个版本号。\nAPI 名字没变，还是 `deepseek-flash`。价格也没变：峰时输入 $0.30 / 输出$1.20 每百万 tokens，谷时减半。换句话说，你什么都没做",
-          "recommend_reason_zh": null,
-          "url": "https://juejin.cn/post/7697474838380134410",
-          "source": "juejin",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-19T06:51:37.471000Z"
-        },
-        {
-          "id": "bb2fb8d31285d0f32563392618ebf849081e205a",
+          "id": "e3a10f0aef411d6d598c0c32084534524f1aac1a",
           "title": "DeepSeek V4.1 闪存 1017（最大） / DeepSeek V4.1 Flash 1017 (Max)",
           "title_zh": "DeepSeek V4.1 闪存 1017（最大）",
           "title_en": "DeepSeek V4.1 Flash 1017 (Max)",
@@ -113,10 +176,24 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-19T04:41:46Z"
+          "source": "artificialanalysis.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T07:08:12.735000Z"
+        },
+        {
+          "id": "fa7f3d80f05244f2f8a17f4fec6255cbabdb336a",
+          "title": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "title_zh": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "title_en": null,
+          "title_original": "DeepSeek 又偷偷升级了：我实测了 V4.1-Flash-1017，一句话生成可玩游戏，但有个坑会吃掉你 90% 的预算",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://juejin.cn/post/7697474838380134410",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T06:51:37.471000Z"
         },
         {
           "id": "647417e53347c0b7ea93984538b594b6e0308a59",
@@ -135,15 +212,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9016,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -153,7 +230,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-10-19T04:41:46Z",
-      "latest_at": "2026-10-19T06:51:37.471000Z",
+      "latest_at": "2026-10-19T07:08:12.735000Z",
       "primary_item": {
         "id": "e4608118c3d509b969616c8627ad8847bbc4f8e4",
         "title": "成本砍掉90%！DeepSeek-V4.1-Flash 重磅升级：逆袭成为 WebDev 榜首开源模型",
@@ -165,6 +242,81 @@
         "url": "https://www.aibase.com/news/31712",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_979604c06d35",
+      "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "primary_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "source": "PyTorch：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:45:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "PyTorch：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+          "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+          "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+          "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
+          "recommend_reason_zh": null,
+          "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+          "source": "PyTorch：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:45:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9902,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-19T12:45:23Z",
+      "latest_at": "2026-10-19T12:45:23Z",
+      "primary_item": {
+        "id": "eca59b9d97962bd81d5a2218370d8b55b2c847ae",
+        "title": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_zh": "AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端",
+        "title_en": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "title_original": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
+        "summary": "AWS 宣布 TorchNeuron，一个面向 Trainium 芯片的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 协议公开 Beta，代码位于 github.com/aws-neuron/torch-neuronx。",
+        "recommend_reason_zh": null,
+        "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+        "source": "PyTorch：Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -240,15 +392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -273,101 +425,26 @@
       }
     },
     {
-      "story_id": "story_b5da960ac254",
-      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T13:22:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.777,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T13:22:26Z",
-      "latest_at": "2026-10-18T13:22:26Z",
-      "primary_item": {
-        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
-        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
-        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e560b6785ec",
-      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-      "url": "https://www.aibase.com/news/31723",
-      "primary_url": "https://www.aibase.com/news/31723",
+      "story_id": "story_3e82f9917712",
+      "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+      "url": "https://www.aibase.com/news/31728",
+      "primary_url": "https://www.aibase.com/news/31728",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "summary": null,
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
+          "url": "https://www.aibase.com/news/31728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:51:00.061768Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "source_count": 1,
@@ -376,18 +453,18 @@
       ],
       "items": [
         {
-          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+          "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
           "title_en": null,
-          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-          "summary": null,
+          "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31723",
+          "url": "https://www.aibase.com/news/31728",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:51:00.061768Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "item_count": 1,
@@ -408,117 +485,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:51:00.061768Z",
-      "latest_at": "2026-10-19T06:51:00.061768Z",
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
       "primary_item": {
-        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
-        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+        "id": "5a53e80fc95c9c719f925b5c0ca876d96306d277",
+        "title": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "title_zh": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
         "title_en": null,
-        "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
-        "summary": null,
+        "title_original": "OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作",
+        "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31723",
+        "url": "https://www.aibase.com/news/31728",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5291e4230e02",
-      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T10:52:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7495,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-18T10:52:39Z",
-      "latest_at": "2026-10-18T10:52:39Z",
-      "primary_item": {
-        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
-        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
-        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
-        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
-        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
-        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_140e1fca7bd6",
-      "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-      "url": "https://www.aibase.com/news/31722",
-      "primary_url": "https://www.aibase.com/news/31722",
+      "story_id": "story_42cc36918f65",
+      "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+      "url": "https://www.aibase.com/news/31731",
+      "primary_url": "https://www.aibase.com/news/31731",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
-          "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-          "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31722",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:51:00.061768Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "source_count": 1,
@@ -527,18 +529,18 @@
       ],
       "items": [
         {
-          "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
-          "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-          "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+          "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+          "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
           "title_en": null,
-          "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
+          "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31722",
+          "url": "https://www.aibase.com/news/31731",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:51:00.061768Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "item_count": 1,
@@ -559,247 +561,380 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:51:00.061768Z",
-      "latest_at": "2026-10-19T06:51:00.061768Z",
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
       "primary_item": {
-        "id": "3b7f1ef4d0d6ee0393ffad96de5490965aa1fcf4",
-        "title": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
-        "title_zh": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+        "id": "39c7bcbf586d8f23dcb24116378cb55d09ac79b7",
+        "title": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+        "title_zh": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
         "title_en": null,
-        "title_original": "英特尔杀入大模型推理市场！发布GPU D系列：最高配480GB显存，专为万亿参数推理而生",
+        "title_original": "从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31731",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_77ff31b79141",
+      "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+      "url": "https://www.aibase.com/news/31724",
+      "primary_url": "https://www.aibase.com/news/31724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+          "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "title_en": null,
+          "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
+      "primary_item": {
+        "id": "e7146fbca24626a91aa6b29b61436da0f9cf2ed3",
+        "title": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_zh": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "title_en": null,
+        "title_original": "字节火山引擎砸钱\"养\"AI 剧：月度 TOP10 单部最高奖 20 万",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31724",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f866fb9579b1",
+      "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+      "url": "https://www.aibase.com/news/31725",
+      "primary_url": "https://www.aibase.com/news/31725",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_en": null,
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+          "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "title_en": null,
+          "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31725",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
+      "primary_item": {
+        "id": "29f2fb744d4b685bddb3cb7a3a80a97977b6a516",
+        "title": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_zh": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "title_en": null,
+        "title_original": "山姆出手整治\"AI 下架好物\"谣言：数千条假帖引流牟利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31725",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5806e8a8ca0a",
+      "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+      "url": "https://www.aibase.com/news/31730",
+      "primary_url": "https://www.aibase.com/news/31730",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_en": null,
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31730",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+          "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "title_en": null,
+          "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31730",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
+      "primary_item": {
+        "id": "27a583ec8e6c48cfecc240bafbed6bfb63dae6b4",
+        "title": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+        "title_zh": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
+        "title_en": null,
+        "title_original": "检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室",
         "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31722",
+        "url": "https://www.aibase.com/news/31730",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2e0021cc3257",
-      "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-      "url": "https://www.aibase.com/news/31721",
-      "primary_url": "https://www.aibase.com/news/31721",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_44f749f3afa5",
+      "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "primary_url": "https://github.com/finereli/whatsapp-mcp",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
           "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T08:42:19.266000Z"
+        },
+        {
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z"
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:36:10Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-          "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-          "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
           "title_en": null,
-          "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+          "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31721",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T08:42:19.266000Z"
+        },
+        {
+          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
+          "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/finereli/whatsapp-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T21:36:10Z"
+        },
+        {
+          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
+          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
+          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50145715",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T21:36:10Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9916,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.934,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
+      "earliest_at": "2026-10-18T21:36:10Z",
+      "latest_at": "2026-10-19T08:42:19.266000Z",
       "primary_item": {
-        "id": "c5b01b0d5a9bb3bb92852bbd2b4af9d11a3ff1d3",
-        "title": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
-        "title_zh": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+        "id": "101348eb58ef98a911a5eeea3d658c66d0c2f059",
+        "title": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
+        "title_zh": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
         "title_en": null,
-        "title_original": "AI 正在偷改人类记忆：看一眼假图，就\"记得\"从未发生的事",
+        "title_original": "Show HN: WhatsApp MCP 在 Cloudflare 上免费运行",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31721",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be973b3cdd3b",
-      "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-      "url": "https://www.aibase.com/news/31710",
-      "primary_url": "https://www.aibase.com/news/31710",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_en": null,
-          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31710",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-          "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "title_en": null,
-          "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31710",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
-      "primary_item": {
-        "id": "caebf01d4c150f757dc530a1dc4126ef6a96df02",
-        "title": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-        "title_zh": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-        "title_en": null,
-        "title_original": "AI 系统 RFdiffusion3 能从原子层面造蛋白：实验里真能干活",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31710",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_07d6bd367abd",
-      "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-      "url": "https://www.aibase.com/news/31716",
-      "primary_url": "https://www.aibase.com/news/31716",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-          "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "title_en": null,
-          "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31716",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
-      "primary_item": {
-        "id": "7078e8a188b6c19c3f02a4d3784d5b1ca8babbff",
-        "title": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "title_zh": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "title_en": null,
-        "title_original": "Anthropic 自曝就业之变：AI 智能体干活时长碾压人类 6 倍，新人岗位被腰斩",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31716",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/finereli/whatsapp-mcp",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -934,15 +1069,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5726,
-      "importance": 0.5726,
-      "importance_score": 0.5726,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.792,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -965,6 +1100,82 @@
       }
     },
     {
+      "story_id": "story_15dde2629f34",
+      "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+      "url": "https://www.aibase.com/news/31726",
+      "primary_url": "https://www.aibase.com/news/31726",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_en": null,
+          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+          "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "title_en": null,
+          "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31726",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-19T13:26:06.543375Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
+      "primary_item": {
+        "id": "e330327eefacbb1715f5cc8efae9a4b462b7d619",
+        "title": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+        "title_zh": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+        "title_en": null,
+        "title_original": "游戏公司误退 3.3 万遭拒还，家长持 AI 伪造录音闹庭被训诫",
+        "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31726",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
       "story_id": "story_383c2dd2c97b",
       "title": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
@@ -978,7 +1189,7 @@
           "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
           "title_en": null,
           "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
           "source": "jrdsgl.com",
@@ -1028,7 +1239,7 @@
           "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
           "title_en": null,
           "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-          "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
           "source": "jrdsgl.com",
@@ -1067,15 +1278,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9026,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1090,7 +1301,7 @@
         "title_zh": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
         "title_en": null,
         "title_original": "如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？",
-        "summary": "Title: If you don't run your own LLM proxy, how the fuck do you even know whats going on?\nPublished Time: 2026-10-18T07:07:01.000Z\nI think the title captures the idea fully but I'll dig into it because this ain't Twitter.\nYou're working an idea, a piece of code, or a multibillion a year SaaS app which is probably saving the world. Maybe you're automating the cloning process of grabbing new Labubu release images and taking the 2D image and using a ComfyUI to translate it into a 3D CAD to get the ",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on",
         "source": "jrdsgl.com",
@@ -1098,79 +1309,211 @@
       }
     },
     {
-      "story_id": "story_16ab1c3d9bf2",
-      "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-      "url": "https://www.aibase.com/news/31711",
-      "primary_url": "https://www.aibase.com/news/31711",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_8a0a364cd62a",
+      "title": "Timestral：Mistral 发布时间序列基础模型",
+      "url": "https://mistral.ai/news/timestral",
+      "primary_url": "https://mistral.ai/news/timestral",
+      "source": "mistral.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
           "title_en": null,
-          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nGet in touch\nMenu\nResearch\nSovereign AI\nCloud\nCustomers\nCompany\nGet in touch\nLogin\nWhy Sovereign AI\nProducts\nMethod\nSovereign AI in practice\nInference\nCompute\nEnergy & utilities\nM",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z"
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31711",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News (黑客新闻)",
+        "mistral.ai"
       ],
       "items": [
         {
-          "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-          "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-          "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+          "title": "Timestral：Mistral 发布时间序列基础模型",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
           "title_en": null,
-          "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+          "title_original": "Timestral：Mistral 发布时间序列基础模型",
+          "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nGet in touch\nMenu\nResearch\nSovereign AI\nCloud\nCustomers\nCompany\nGet in touch\nLogin\nWhy Sovereign AI\nProducts\nMethod\nSovereign AI in practice\nInference\nCompute\nEnergy & utilities\nM",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/timestral",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T12:39:13.350000Z"
+        },
+        {
+          "id": "3d92c8ab888bfdc7324e3fe6a90e7daca9630a1e",
+          "title": "Timestral：Mistral 发布时间序列基础模型 / Timestral: Mistral release time-series foundation models",
+          "title_zh": "Timestral：Mistral 发布时间序列基础模型",
+          "title_en": "Timestral: Mistral release time-series foundation models",
+          "title_original": "Timestral: Mistral release time-series foundation models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31711",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "url": "https://mistral.ai/news/timestral",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T09:59:32Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9916,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9888,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
+      "earliest_at": "2026-10-19T09:59:32Z",
+      "latest_at": "2026-10-19T12:39:13.350000Z",
       "primary_item": {
-        "id": "2af4a2b98dc088ba14d733ba397400ce557ce084",
-        "title": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-        "title_zh": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
+        "id": "142b513d6f49b3eaa321805921757260eae3f74b",
+        "title": "Timestral：Mistral 发布时间序列基础模型",
+        "title_zh": "Timestral：Mistral 发布时间序列基础模型",
         "title_en": null,
-        "title_original": "DeepSeek发布API网页搜索与抓取服务:每1000次成功请求收费5元",
-        "summary": null,
+        "title_original": "Timestral：Mistral 发布时间序列基础模型",
+        "summary": "State-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nState-of-the-art probabilistic forecasting in four sizes (5M–209M params), CPU-efficient, zero-shot ready.\nGet in touch\nMenu\nResearch\nSovereign AI\nCloud\nCustomers\nCompany\nGet in touch\nLogin\nWhy Sovereign AI\nProducts\nMethod\nSovereign AI in practice\nInference\nCompute\nEnergy & utilities\nM",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31711",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://mistral.ai/news/timestral",
+        "source": "mistral.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b5b83f1d3502",
+      "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "primary_url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": "Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — buildi",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T12:07:41Z"
+        },
+        {
+          "id": "b64bccf3b29eab400a3e9db823cb14c6b3327c2a",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T12:07:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": "Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — buildi",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-19T12:07:41Z"
+        },
+        {
+          "id": "b64bccf3b29eab400a3e9db823cb14c6b3327c2a",
+          "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+          "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50151390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-19T12:07:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9813,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-19T12:07:41Z",
+      "latest_at": "2026-10-19T12:07:41Z",
+      "primary_item": {
+        "id": "b4824b89c9cb34bea0624e4b68c1726c14984af2",
+        "title": "线束工程 101：LLM是大脑，线束是身体 / Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "title_zh": "线束工程 101：LLM是大脑，线束是身体",
+        "title_en": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "title_original": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+        "summary": "Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body. - IsuruMaduranga/harness-engineering-101\nHarness Engineering 101 — buildi",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1276,15 +1619,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5508,
-      "importance": 0.5508,
-      "importance_score": 0.5508,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.889,
+        "recency": 0.8084,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1303,139 +1646,6 @@
         "recommend_reason_zh": null,
         "url": "https://arxiv.org/abs/2610.18861",
         "source": "arxiv.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7cb041410c22",
-      "title": "Anthropic 的就业形势正在发生怎样的变化",
-      "url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z"
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z"
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-          "title": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": null,
-          "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T21:17:07.176000Z"
-        },
-        {
-          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
-          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/employment-at-anthropic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T10:49:26Z"
-        },
-        {
-          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
-          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
-          "title_zh": "Anthropic 的就业正在发生怎样的变化",
-          "title_en": "How employment is changing at Anthropic",
-          "title_original": "How employment is changing at Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50139873",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T10:49:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.871,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T10:49:26Z",
-      "latest_at": "2026-10-18T21:17:07.176000Z",
-      "primary_item": {
-        "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
-        "title": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_zh": "Anthropic 的就业形势正在发生怎样的变化",
-        "title_en": null,
-        "title_original": "Anthropic 的就业形势正在发生怎样的变化",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "source": "www.anthropic.com",
         "source_name": "Buzzing"
       }
     },
@@ -1477,8 +1687,8 @@
         },
         {
           "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_zh": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_zh": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效",
           "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "summary": null,
@@ -1527,8 +1737,8 @@
         },
         {
           "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "title_zh": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "title_zh": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效",
           "title_en": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "title_original": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
           "summary": null,
@@ -1542,15 +1752,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.792,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1573,26 +1783,26 @@
       }
     },
     {
-      "story_id": "story_b8cfe2ba3126",
-      "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-      "url": "https://www.aibase.com/news/31720",
-      "primary_url": "https://www.aibase.com/news/31720",
+      "story_id": "story_e40c814da79b",
+      "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+      "url": "https://www.aibase.com/news/31729",
+      "primary_url": "https://www.aibase.com/news/31729",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "summary": null,
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "source_count": 1,
@@ -1601,31 +1811,31 @@
       ],
       "items": [
         {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+          "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+          "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
           "title_en": null,
-          "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "summary": null,
+          "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+          "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31720",
+          "url": "https://www.aibase.com/news/31729",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "published_at": "2026-10-19T13:26:06.543375Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1633,56 +1843,56 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
+      "earliest_at": "2026-10-19T13:26:06.543375Z",
+      "latest_at": "2026-10-19T13:26:06.543375Z",
       "primary_item": {
-        "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-        "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "title_zh": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
+        "id": "e372f120f1127a431a994a4efea3bf4a262cc117",
+        "title": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "title_zh": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
         "title_en": null,
-        "title_original": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "summary": null,
+        "title_original": "阿里速卖通联袂天猫推全球增长计划，拿真金白银投 AI 硬件新品牌",
+        "summary": "Title: AIbase - Your Gateway to AGI\nWarning: Target URL returned error 404: Not Found\nWarning: This page maybe not yet fully loaded, consider explicitly specify a timeout.\nWarning: This page contains shadow DOM that are currently hidden, consider enabling shadow DOM processing.\nThe article you are looking for does not exist or has been deleted. Please try browsing other news content.",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31720",
+        "url": "https://www.aibase.com/news/31729",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_44f749f3afa5",
-      "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "primary_url": "https://github.com/finereli/whatsapp-mcp",
+      "story_id": "story_7f01586b7dfa",
+      "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents",
+      "primary_url": "https://crystl.dev/guides/tmux-for-ai-agents",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
-          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
-          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/finereli/whatsapp-mcp",
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T21:36:10Z"
+          "published_at": "2026-10-19T05:55:31Z"
         },
         {
-          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
-          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
-          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50145715",
+          "url": "https://news.ycombinator.com/item?id=50148855",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T21:36:10Z"
+          "published_at": "2026-10-19T05:55:31Z"
         }
       ],
       "source_count": 2,
@@ -1692,191 +1902,87 @@
       ],
       "items": [
         {
-          "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
-          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
-          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/finereli/whatsapp-mcp",
+          "url": "https://crystl.dev/guides/tmux-for-ai-agents",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T21:36:10Z"
+          "published_at": "2026-10-19T05:55:31Z"
         },
         {
-          "id": "135caec86d21aa16ce49942694ac295b2af3c85e",
-          "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
-          "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
-          "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+          "id": "23ed3acce1a02dda09bf996310e6b2dd3f44a719",
+          "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+          "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+          "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50145715",
+          "url": "https://news.ycombinator.com/item?id=50148855",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T21:36:10Z"
+          "published_at": "2026-10-19T05:55:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.8972,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T21:36:10Z",
-      "latest_at": "2026-10-18T21:36:10Z",
+      "earliest_at": "2026-10-19T05:55:31Z",
+      "latest_at": "2026-10-19T05:55:31Z",
       "primary_item": {
-        "id": "43f03e07a7bc72f1d533392ced2d52c6d6315eb4",
-        "title": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行 / Show HN: WhatsApp MCP running free on Cloudflare",
-        "title_zh": "显示 HN：WhatsApp MCP 在 Cloudflare 上免费运行",
-        "title_en": "Show HN: WhatsApp MCP running free on Cloudflare",
-        "title_original": "Show HN: WhatsApp MCP running free on Cloudflare",
+        "id": "9e54f2f9c25a11615fac1e14728bf297df1ad899",
+        "title": "Tmux 和 Claude 代码：会话、发送密钥和上限 / Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "title_zh": "Tmux 和 Claude 代码：会话、发送密钥和上限",
+        "title_en": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+        "title_original": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/finereli/whatsapp-mcp",
+        "url": "https://crystl.dev/guides/tmux-for-ai-agents",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_d65100a0ee4e",
-      "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "primary_url": "https://www.vals.ai/blogs/impossible-refund",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e1747516525748b7cef57aba553513f30fa05842",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_zh": "拿不到退款，人工智能助理会走多远？",
-          "title_en": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_original": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/impossible-refund",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T12:22:58Z"
-        },
-        {
-          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_zh": "拿不到退款，人工智能助理会走多远？",
-          "title_en": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_original": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50140462",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T12:22:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e1747516525748b7cef57aba553513f30fa05842",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_zh": "拿不到退款，人工智能助理会走多远？",
-          "title_en": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_original": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/impossible-refund",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T12:22:58Z"
-        },
-        {
-          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_zh": "拿不到退款，人工智能助理会走多远？",
-          "title_en": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "title_original": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50140462",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T12:22:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5037,
-      "importance": 0.5037,
-      "importance_score": 0.5037,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7659,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T12:22:58Z",
-      "latest_at": "2026-10-18T12:22:58Z",
-      "primary_item": {
-        "id": "e1747516525748b7cef57aba553513f30fa05842",
-        "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "title_zh": "拿不到退款，人工智能助理会走多远？",
-        "title_en": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "title_original": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.vals.ai/blogs/impossible-refund",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_625af896d740",
-      "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-      "url": "https://www.aibase.com/news/31713",
-      "primary_url": "https://www.aibase.com/news/31713",
+      "story_id": "story_7e560b6785ec",
+      "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+      "url": "https://www.aibase.com/news/31723",
+      "primary_url": "https://www.aibase.com/news/31723",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "title_en": null,
-          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31713",
+          "url": "https://www.aibase.com/news/31723",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "published_at": "2026-10-19T06:51:00.061768Z"
         }
       ],
       "source_count": 1,
@@ -1885,31 +1991,31 @@
       ],
       "items": [
         {
-          "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-          "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-          "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+          "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+          "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "title_en": null,
-          "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+          "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31713",
+          "url": "https://www.aibase.com/news/31723",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
+          "published_at": "2026-10-19T06:51:00.061768Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1917,93 +2023,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
+      "earliest_at": "2026-10-19T06:51:00.061768Z",
+      "latest_at": "2026-10-19T06:51:00.061768Z",
       "primary_item": {
-        "id": "9961f7bfc3372f8fa3faadd6adf203ca3559751d",
-        "title": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
-        "title_zh": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "id": "2b7ec537236db41034840418f0a7a0b009e5bce7",
+        "title": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
+        "title_zh": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
         "title_en": null,
-        "title_original": "演员吴越遭 AI 换脸带货，微信视频号：涉事账号永久封禁、内容清空",
+        "title_original": "无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31713",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_89ab5f0237ec",
-      "title": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-      "url": "https://www.aibase.com/news/31715",
-      "primary_url": "https://www.aibase.com/news/31715",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1e846d913a1234d7ff02f360ccc7e86e590200e8",
-          "title": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "title_zh": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "title_en": null,
-          "title_original": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1e846d913a1234d7ff02f360ccc7e86e590200e8",
-          "title": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "title_zh": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "title_en": null,
-          "title_original": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31715",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T06:15:53.071965Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9916,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T06:15:53.071965Z",
-      "latest_at": "2026-10-19T06:15:53.071965Z",
-      "primary_item": {
-        "id": "1e846d913a1234d7ff02f360ccc7e86e590200e8",
-        "title": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-        "title_zh": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-        "title_en": null,
-        "title_original": "研究证实:AI生成内容与深度伪造技术可向人类植入虚假记忆",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31715",
+        "url": "https://www.aibase.com/news/31723",
         "source": "AIbase",
         "source_name": "AIbase"
       }
